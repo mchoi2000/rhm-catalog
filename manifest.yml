@@ -1,0 +1,5 @@
+---
+applications:
+  - name: rhm-products-dashboard
+    memory: 64M
+    buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git

@@ -1,0 +1,146 @@
+{
+  "editions": [
+    {
+      "_id": "60ba666260be23002afa901e",
+      "id": "rhmccp-9cf93470-b1e6-454a-bebd-3302208de924",
+      "type": "Purchase",
+      "productId": "57d43454c364f4df386a813532a00ab3",
+      "productName": "CockroachDB Operator",
+      "name": "CockroachDB Enterprise (Self-hosted)",
+      "description": "CockroachDB Enterprise adds features and capabilities to support global applications and critical workloads.",
+      "created": 1622828642192,
+      "updated": 1622828644659,
+      "version": 3.1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual", "Monthly"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D043SZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 150
+                },
+                {
+                  "currency": "CAD",
+                  "price": 195
+                }
+              ],
+              "id": "e71b225e-7fa6-4d5c-a623-5022e80e4f71"
+            }
+          ],
+          "id": "5f3415e437144a00155da38b",
+          "created": 1597248996049,
+          "updated": 1599230260365,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D043SZX",
+            "zuoraRatePlanChargeId": "2c92a01074a2c9720174b6ab8dcc2256",
+            "zuoraRatePlanId": "2c92a00d74a2d65c0174b6ab8b8915b3"
+          },
+          "name": "Virtual Proccesor Unit",
+          "uom": {
+            "identifier": "VirtualProcessorUnit",
+            "multiplier": 1,
+            "created": 1597266875712,
+            "updated": 1597266875712,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual processor unit",
+            "pluralName": "Virtual processor units",
+            "suffix": "per virtual processor unit",
+            "inputLabel": "Enter number of virtual processor units",
+            "summaryLabel": "Number of virtual processor units"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60be583b3764240013ada17f",
+      "id": "rhmccp-9af2b8d7-dd6f-4f01-80b7-e73f2a5d8b52",
+      "type": "FreeEdition",
+      "productId": "c4a833f11e311146a23c643651068b75",
+      "productName": "Kasten K10",
+      "name": "Kasten K10 (Free)",
+      "description": "The Kasten K10 Starter Edition is a fully-featured license for Kubernetes application backup and mobility. More details at: https://www.kasten.io/product/",
+      "category": "Product",
+      "created": 1623087163023,
+      "updated": 1623173875020,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1623087163024,
+          "id": "60be583b3764240013ada17e",
+          "vendorChargeId": "RHMFreemBq63Ltkmj1xUeN5aDQT2d",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1623087163024,
+          "name": "Free Edition",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Month",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    }
+  ],
+  "count": 402
+}

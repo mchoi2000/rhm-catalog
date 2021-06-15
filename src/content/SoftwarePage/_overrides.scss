@@ -1,0 +1,139 @@
+.landing-page__r2 .bx--tabs--scrollable {
+  transform: translateZ(0);
+  justify-content: flex-end;
+}
+
+.landing-page__r2 .bx--tab-content {
+  padding: 0;
+}
+
+.bx--breadcrumb .bx--link {
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.container {
+  margin: 40px auto;
+  overflow: hidden;
+  width: 80%;
+  text-align: center;
+}
+
+.row {
+  margin-bottom: 40px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.table-title {
+  font-size: 18px;
+  text-align: center;
+  font-family: arial, sans-serif;
+  padding-bottom: 5px;
+}
+
+.products {
+  font-size: 12px;
+  text-align: left;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  width: 100%;
+}
+
+.products td,
+.products th {
+  border: 1px solid #ddd;
+  padding: 6px;
+}
+
+.products tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.products tr:hover {
+  background-color: #ddd;
+}
+
+.products th {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  background-color: #e0e0e0;
+  color: #161616;
+}
+
+a {
+  text-decoration: none;
+  color: #1e88e5;
+}
+
+a:visited {
+  color: #1e88e5;
+}
+
+a:hover {
+  color: #3e517a;
+}
+
+.fontCenter {
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  padding: 10px;
+}
+
+.rhm-content-container {
+  margin: 40px 0px;
+}
+
+.rhm-commerce-charts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 60px 60px 20px 60px;
+}
+
+.rhm-commerce-chart {
+  margin: 0px 40px 20px 40px;
+}
+
+.rhm-single-chart {
+  padding: 40px 0px;
+  min-width: 400px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.rhm-table {
+  padding: 20px 0px 0px 0px;
+  margin: 0 auto;
+}

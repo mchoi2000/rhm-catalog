@@ -1,0 +1,1470 @@
+{
+  "data": {
+    "allProducts": {
+      "totalCount": 217,
+      "cursor": null,
+      "products": [
+        {
+          "id": "085264f95c976af549b9dfa446ae251f",
+          "publishedContent": {
+            "title": "NCUA Insured Credit Unions - 2017",
+            "formats": ["CSV"],
+            "topics": ["ECONOMICS", "HISTORICAL"],
+            "industries": ["FINANCIAL_SERVICES"],
+            "assetUpdatedInfo": {
+              "frequency": "HISTORICAL",
+              "source": {
+                "name": "HIFLD",
+                "url": "https://hifld-geoplatform.opendata.arcgis.com/datasets/ncua-insured-credit-unions"
+              }
+            }
+          },
+          "productPageName": ["ncua-insured-credit-unions-2017"],
+          "created": "2020-12-15T20:55:33.469Z",
+          "updated": "2020-12-23T20:40:34.796Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-9e8ab4bc-cddc-4546-9c42-2332333d9f4f",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "NCUA is the independent federal agency that charters and supervises federal credit unions."
+                    },
+                    {
+                      "value": "NCUA operates the National Credit Union Share Insurance Fund"
+                    },
+                    {
+                      "value": "NCUSIF insures the savings of 80 million account holders."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "a178848ef91bbdd802b9728c190d8f44",
+          "publishedContent": {
+            "title": "Food Recall Enforcement Reports",
+            "formats": ["CSV"],
+            "topics": ["EVENTS"],
+            "industries": ["AGRICULTURE", "PUBLIC_SAFETY"],
+            "assetUpdatedInfo": {
+              "frequency": "WEEKLY",
+              "source": {
+                "name": "FDA",
+                "url": "https://open.fda.gov/apis/food/enforcement/"
+              }
+            }
+          },
+          "productPageName": ["food-recall-enforcement-reports"],
+          "created": "2020-12-15T20:56:43.535Z",
+          "updated": "2021-03-03T14:54:29.697Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-dc42c006-142f-49cc-bf29-b1ff7d3ed088",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "openFDA food enforcement dataset returns data from the FDA Recall Enterprise System (RES)"
+                    },
+                    {
+                      "value": "Contains information on recall event information submitted to FDA. "
+                    },
+                    {
+                      "value": "This data covers publicly releasable records from 2004-present."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "f654804c423826dd1cff178ebace9cea",
+          "publishedContent": {
+            "title": "US Federal Reserve Systems",
+            "formats": ["CSV"],
+            "topics": ["ECONOMICS"],
+            "industries": ["FINANCIAL_SERVICES"],
+            "assetUpdatedInfo": {
+              "frequency": "ANNUALLY",
+              "source": {
+                "name": "HIFLD",
+                "url": "https://hifld-geoplatform.opendata.arcgis.com/datasets/us-federal-reserve-systems"
+              }
+            }
+          },
+          "productPageName": ["us-federal-reserve-systems"],
+          "created": "2020-12-15T20:57:26.241Z",
+          "updated": "2020-12-24T18:14:46.486Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-6566c89b-99cc-44f6-bcb8-c107e1fa6c1d",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Comprised of forty-five entities that are part of the United States Federal Reserve System"
+                    },
+                    {
+                      "value": "Contains all of the banks and branches as well as some check processing centers and offices."
+                    },
+                    {
+                      "value": "he Federal Reserve System is comprised of 12 Federal Reserve Banks and 25 Federal Reserve Branches."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "0cf3c266b6094c85544133322dda5682",
+          "publishedContent": {
+            "title": "COVID-19 Vaccine Distribution Allocations by Jurisdiction - Pfizer",
+            "formats": ["CSV"],
+            "topics": ["COVID19"],
+            "industries": ["HEALTHCARE"],
+            "assetUpdatedInfo": {
+              "frequency": "DAILY",
+              "source": {
+                "name": "CDC",
+                "url": "https://catalog.data.gov/dataset/covid-19-vaccine-initial-allocations-pfizer"
+              }
+            }
+          },
+          "productPageName": [
+            "covid-19-vaccine-distribution-allocations-by-jurisdiction-pfizer"
+          ],
+          "created": "2020-12-21T22:19:53.062Z",
+          "updated": "2020-12-24T18:03:57.374Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-32dc3565-3fe9-4df1-91ed-967beef59be6",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Allocation of doses made available for states and jurisdictions for Pfizer vaccine"
+                    },
+                    {
+                      "value": "Weekly allocations are provided to states on Tuesdays"
+                    },
+                    {
+                      "value": "Vaccinations began on December 14, 2020"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "05dd4314eeac25066d6dd222cc653305",
+          "publishedContent": {
+            "title": "COVID-19 Vaccine Distribution Allocations by Jurisdiction - Moderna",
+            "formats": ["CSV"],
+            "topics": ["COVID19"],
+            "industries": ["HEALTHCARE"],
+            "assetUpdatedInfo": {
+              "frequency": "DAILY",
+              "source": {
+                "name": "CDC",
+                "url": "https://catalog.data.gov/dataset/covid-19-vaccine-distribution-allocations-by-jurisdiction-moderna"
+              }
+            }
+          },
+          "productPageName": [
+            "covid-19-vaccine-distribution-allocations-by-jurisdiction-moderna"
+          ],
+          "created": "2020-12-21T22:20:53.324Z",
+          "updated": "2020-12-23T20:35:49.026Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-520ab934-a317-472a-8024-191efe76a09f",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Allocation of dose made available to states and jurisdictions for the Moderna vaccine"
+                    },
+                    {
+                      "value": "Weekly allocations are made available to states on Tuesdays"
+                    },
+                    {
+                      "value": "After dose are ordered by the state, they ship on the following Monday"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "29ca389b7e85dc34106eb78477e1164e",
+          "publishedContent": {
+            "title": "Provider Relief Fund COVID-19 High Impact Payments",
+            "formats": ["CSV"],
+            "topics": ["COVID19", "ECONOMICS"],
+            "industries": ["GOVERNMENT", "HEALTHCARE"],
+            "assetUpdatedInfo": {
+              "frequency": "HISTORICAL",
+              "source": {
+                "name": "HRSA",
+                "url": "https://catalog.data.gov/dataset/provider-relief-fund-covid-19-high-impact-payments"
+              }
+            }
+          },
+          "productPageName": [
+            "provider-relief-fund-covid-19-high-impact-payments"
+          ],
+          "created": "2020-12-21T22:21:29.756Z",
+          "updated": "2021-04-15T13:11:08.706Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-1d196153-8510-4378-99f1-6a71edaccfa2",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-657aaea4-9d93-41ca-8494-800ed243a1ad",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Relief funds provided to hospitals and healthcare providers on the front lines"
+                    },
+                    {
+                      "value": "Distributed by the Health Resources and Services Administration (HSRA)"
+                    },
+                    {
+                      "value": "High impact funding"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "708b3de36f9d2cf9bd9058d7d96a900b",
+          "publishedContent": {
+            "title": "US Railways",
+            "formats": ["SHP"],
+            "topics": ["CITY", "MOBILITY"],
+            "industries": [
+              "GOVERNMENT",
+              "TRANSPORTATION",
+              "TRAVEL_HOSPITALITY"
+            ],
+            "assetUpdatedInfo": {
+              "frequency": "ANNUALLY",
+              "source": {
+                "name": "United States Census Bureau",
+                "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+              }
+            }
+          },
+          "productPageName": ["us-railways"],
+          "created": "2020-12-31T22:24:04.326Z",
+          "updated": "2021-01-07T16:17:27.576Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-ff1405ba-560c-4abb-9a7b-e9e66cdd2be7",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Updated annually"
+                    },
+                    {
+                      "value": "All US Railways"
+                    },
+                    {
+                      "value": "Derived from the US Census Bureau core geographic products"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "f13fcb9de16f55f3053ff2e50657738d",
+          "publishedContent": {
+            "title": "Headspin Local",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["headspin-local"],
+          "created": "2021-01-19T14:18:35.579Z",
+          "updated": "2021-05-13T18:55:13.839Z",
+          "company": {
+            "name": "HeadSpin Inc"
+          },
+          "primaryCategory": {
+            "categoryPageName": "ai-machine-learning",
+            "content": {
+              "name": "AI/Machine Learning"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            },
+            {
+              "categoryPageName": "monitoring",
+              "content": {
+                "name": "Monitoring"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-56cf4204-f0e6-4185-a149-adfe8221f6bd",
+              "publishedEditionContent": {
+                "packageName": "SaaS-aPnJ7FRi2B5qw9Zc3ThJ7S-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "24/7 Access To Real Devices"
+                    },
+                    {
+                      "value": "Test your mobile experiences across the latest and most popular OS versions on iOS and Android"
+                    },
+                    {
+                      "value": "Manually test real user experiences on mobile across mobile web, apps, and games"
+                    },
+                    {
+                      "value": "Parallel Testing of your mobile experience on multiple devices simultaneously"
+                    },
+                    {
+                      "value": "Save screenshots and download logs of your test"
+                    },
+                    {
+                      "value": "Easily share issues and error messages with your team"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-e635986b-35ca-4fc3-9454-a12788965930",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-08ed7f56-51ec-4997-922d-cf23f460d780",
+              "publishedEditionContent": {
+                "packageName": "SaaS-7ecamgLHQnSWHWET5X5xLv-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "24/7 Access To Real Devices"
+                    },
+                    {
+                      "value": "Test your mobile experiences across the latest and most popular OS versions on iOS and Android"
+                    },
+                    {
+                      "value": "Manually test real user experiences on mobile across mobile web, apps, and games"
+                    },
+                    {
+                      "value": "Parallel Testing of your mobile experience on multiple devices simultaneously"
+                    },
+                    {
+                      "value": "Save screenshots and download logs of your test"
+                    },
+                    {
+                      "value": "Easily share issues and error messages with your team"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-aa0dcb30-7b75-47fe-88fb-9696af7d0ffa",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-d63ed222-88ba-4f76-92f6-1fee6dd63751",
+              "publishedEditionContent": {
+                "packageName": "SaaS-2qxj2KPD3xsypDfM31Ppgi-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "10 day free trial - 24/7 Access To Real Devices"
+                    },
+                    {
+                      "value": "Test your mobile experiences across the latest and most popular OS versions on iOS and Android"
+                    },
+                    {
+                      "value": "Manual and automated testing and performance monitoring on a range of real local devices globally"
+                    },
+                    {
+                      "value": "Parallel Testing of your mobile experience on multiple devices simultaneously"
+                    },
+                    {
+                      "value": "Save screenshots and download logs of your test"
+                    },
+                    {
+                      "value": "Easily share issues and error messages with your team"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "249d0f5a0ff047cb08a756dd098ecd81",
+          "publishedContent": {
+            "title": "Headspin Compass",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["headspin-compass"],
+          "created": "2021-01-21T22:10:49.924Z",
+          "updated": "2021-05-13T18:54:27.506Z",
+          "company": {
+            "name": "HeadSpin Inc"
+          },
+          "primaryCategory": {
+            "categoryPageName": "developer-tools",
+            "content": {
+              "name": "Developer Tools"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            },
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "monitoring",
+              "content": {
+                "name": "Monitoring"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-eee68d00-e613-4f20-9826-8994e86e99eb",
+              "publishedEditionContent": {
+                "packageName": "SaaS-qVmraaJp2QhisnyUPMBmQc-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Mobile app & mobile browser testing with manual remote control"
+                    },
+                    {
+                      "value": "Shared real iOS and Android devices"
+                    },
+                    {
+                      "value": "17 Worldwide locations"
+                    },
+                    {
+                      "value": "3000 Usage minutes – limit per license"
+                    },
+                    {
+                      "value": "Remote Control workbench for device access"
+                    },
+                    {
+                      "value": "Device logs and screenshots"
+                    },
+                    {
+                      "value": "Automation testing"
+                    },
+                    {
+                      "value": "In-depth data and insights for performance and user experience"
+                    },
+                    {
+                      "value": "Support for native Appium and Selenium"
+                    },
+                    {
+                      "value": "Video QoE"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-13f48f38-0fca-4225-b137-5171f38946a1",
+              "publishedEditionContent": {
+                "packageName": "SaaS-vvzEg37K6a9dFANhMNuXy7-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Mobile app & mobile browser testing with manual remote control"
+                    },
+                    {
+                      "value": "Shared real iOS and Android devices"
+                    },
+                    {
+                      "value": "17 Worldwide locations"
+                    },
+                    {
+                      "value": "3000 Usage minutes – limit per license"
+                    },
+                    {
+                      "value": "Remote Control workbench for device access"
+                    },
+                    {
+                      "value": "Device logs and screenshots"
+                    },
+                    {
+                      "value": "Automation testing"
+                    },
+                    {
+                      "value": "In-depth data and insights for performance and user experience"
+                    },
+                    {
+                      "value": "Support for native Appium and Selenium"
+                    },
+                    {
+                      "value": "Video QoE"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-a5e53216-1d68-46e9-818a-ed406922ed86",
+              "publishedEditionContent": {
+                "packageName": "SaaS-cEqBJzATEeffBjSrhER5fJ-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "In this version the user gets a 10 day free trial of the product."
+                    },
+                    {
+                      "value": "Mobile app & mobile browser testing with manual remote control"
+                    },
+                    {
+                      "value": "Shared real iOS and Android devices"
+                    },
+                    {
+                      "value": "17 Worldwide locations"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-f2ebc45f-e450-4414-bc8f-6f9aef499e9f",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-2c6484ff-e41a-4cf8-966e-4bfd2884fb68",
+              "publishedEditionContent": {
+                "packageName": "SaaS-4GUHrWk7R3kCpwT2cfr1w6-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "In this version the user gets a 1 month free trial of the product with no limit on data"
+                    },
+                    {
+                      "value": "Mobile app & mobile browser testing with manual remote control"
+                    },
+                    {
+                      "value": "Shared real iOS and Android devices"
+                    },
+                    {
+                      "value": "17 Worldwide locations"
+                    },
+                    {
+                      "value": "Remote Control workbench for device access"
+                    },
+                    {
+                      "value": "Device logs and screenshots"
+                    },
+                    {
+                      "value": "Automation testing"
+                    },
+                    {
+                      "value": "In-depth data insights for performance and user experience"
+                    },
+                    {
+                      "value": "Support for native Appium and Selenium"
+                    },
+                    {
+                      "value": "Video QoE"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "59ba9b88c1072d406bd25df073182695",
+          "publishedContent": {
+            "title": "KubePlus SaaS manager ",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["kubeplus"],
+          "created": "2021-01-25T21:17:07.992Z",
+          "updated": "2021-06-08T16:50:13.885Z",
+          "company": {
+            "name": "Devcentric Inc."
+          },
+          "primaryCategory": {
+            "categoryPageName": "platform",
+            "content": {
+              "name": "Platform"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "platform",
+              "content": {
+                "name": "Platform"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            },
+            {
+              "categoryPageName": "integration-and-delivery",
+              "content": {
+                "name": "Integration & Delivery"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-6a912921-3507-443c-91db-664ba405058c",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-56243221-4e89-4fa5-854f-725d028b3a84",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-6d238126-ecb1-4629-9f64-af1429c662cc",
+              "publishedEditionContent": {
+                "packageName": "kubeplus-rhmp",
+                "openShiftVersion": null,
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "30 day trial"
+                    },
+                    {
+                      "value": "Build an application service from any Helm chart"
+                    },
+                    {
+                      "value": "PoC consultancy package"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-d22d1c93-87d4-4a27-a4b0-b01f95e962bc",
+              "publishedEditionContent": {
+                "packageName": "kubeplus-rhmp",
+                "openShiftVersion": null,
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Solution engineering for building your service API using KubePlus"
+                    },
+                    {
+                      "value": "Ongoing support for KubePlus and Control Center for day2 operations"
+                    },
+                    {
+                      "value": "Pay monthly, license and support included"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "aa1a3fa8ada81b2ebc65eb59df1ffad7",
+          "publishedContent": {
+            "title": "IBM Watson Studio ",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["ibm-watson-studio"],
+          "created": "2021-02-11T16:09:58.718Z",
+          "updated": "2021-04-09T15:14:13.152Z",
+          "company": {
+            "name": "IBM"
+          },
+          "primaryCategory": {
+            "categoryPageName": "ai-machine-learning",
+            "content": {
+              "name": "AI/Machine Learning"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "big-data",
+              "content": {
+                "name": "Big Data"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-e475ed62-3401-49af-8aba-fe44fbb535e6",
+              "publishedEditionContent": {
+                "packageName": "ibm-cp-data-operator",
+                "openShiftVersion": "4.5",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 2
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "No cost for Cloud Pak usage for duration of free trial"
+                    },
+                    {
+                      "value": "Includes access to all Cloud Pak for Data component features"
+                    },
+                    {
+                      "value": "Can be used on any OpenShift cluster of your choice"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "2455c863f679ac4486c9c85bf3d12cdf",
+          "publishedContent": {
+            "title": "Red Hat OpenShift Dedicated",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["red-hat-openshift-dedicated"],
+          "created": "2021-02-16T19:49:10.204Z",
+          "updated": "2021-06-01T17:09:23.242Z",
+          "company": {
+            "name": "Red Hat OpenShift Dedicated"
+          },
+          "primaryCategory": {
+            "categoryPageName": "platform",
+            "content": {
+              "name": "Platform"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "platform",
+              "content": {
+                "name": "Platform"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-ab121da6-4904-482e-9df8-8a5e618ff871",
+              "publishedEditionContent": {
+                "packageName": "SaaS-j3WmF6fwkx3PA6NJiZywEF-rhmp",
+                "openShiftVersion": "4.5+",
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Usage"],
+                "repositoryUrl": null,
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Customer Cloud Subscription"
+                    },
+                    {
+                      "value": "99.95% uptime SLA"
+                    },
+                    {
+                      "value": "Premium support"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "1234c362825cdcc5cfe3ee5608739136",
+          "publishedContent": {
+            "title": "IBM Debater Mention Detection Benchmark",
+            "formats": ["ANN"],
+            "topics": ["ANALYTICS", "MACHINE_LEARNING", "RESEARCH"],
+            "industries": ["FINANCIAL_SERVICES", "GOVERNMENT", "RETAIL"],
+            "assetUpdatedInfo": {
+              "frequency": "HISTORICAL",
+              "source": {
+                "name": "IBM Data Asset eXchange",
+                "url": "https://developer.ibm.com/exchanges/data"
+              }
+            }
+          },
+          "productPageName": ["ibm-debater-mention-detection-benchmark"],
+          "created": "2021-02-17T17:36:37.592Z",
+          "updated": "2021-04-15T13:12:25.920Z",
+          "company": {
+            "name": "IBM Data Asset eXchange"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-a8d802b8-5925-4a1d-a667-e663d3eed6d5",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Vetted Data"
+                    },
+                    {
+                      "value": "Exclusive access to IBM Research datasets"
+                    },
+                    {
+                      "value": "Datasets with open data licenses for both business applications and advancing core science."
+                    },
+                    {
+                      "value": "Enablement materials tied to the dataset"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "0702ee0f60dfea433c99775066100227",
+          "publishedContent": {
+            "title": "Airline Reporting Carrier On-Time Performance Dataset",
+            "formats": ["CSV"],
+            "topics": ["ANALYTICS", "MACHINE_LEARNING", "RESEARCH"],
+            "industries": ["GOVERNMENT", "PUBLIC_ADMIN", "TRANSPORTATION"],
+            "assetUpdatedInfo": {
+              "frequency": "HISTORICAL",
+              "source": {
+                "name": "IBM Data Asset eXchange",
+                "url": "https://developer.ibm.com/exchanges/data"
+              }
+            }
+          },
+          "productPageName": [
+            "airline-reporting-carrier-on-time-performance-dataset"
+          ],
+          "created": "2021-02-24T14:31:34.984Z",
+          "updated": "2021-04-15T13:17:57.082Z",
+          "company": {
+            "name": "IBM Data Asset eXchange"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-49ff0d12-7720-49d5-9c5b-b9b23d11b7f0",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Vetted Data"
+                    },
+                    {
+                      "value": "Exclusive access to IBM Research datasets"
+                    },
+                    {
+                      "value": "Datasets with open data licenses for both business applications and advancing core science."
+                    },
+                    {
+                      "value": "Enablement materials tied to the dataset"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "b79c05046572fdda63b07614ad603630",
+          "publishedContent": {
+            "title": "IBM Debater Sentiment Composition Lexicons",
+            "formats": ["TXT", "XLS"],
+            "topics": ["ANALYTICS", "MACHINE_LEARNING", "RESEARCH"],
+            "industries": ["FINANCIAL_SERVICES", "INSURANCE", "RETAIL"],
+            "assetUpdatedInfo": {
+              "frequency": "HISTORICAL",
+              "source": {
+                "name": "IBM Data Asset eXchange",
+                "url": "https://developer.ibm.com/exchanges/data"
+              }
+            }
+          },
+          "productPageName": ["ibm-debater-sentiment-composition-lexicons"],
+          "created": "2021-02-24T14:42:26.343Z",
+          "updated": "2021-04-15T13:16:59.676Z",
+          "company": {
+            "name": "IBM Data Asset eXchange"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-4e7ceec1-7a48-492c-9639-7ffb2d4f6f6e",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Vetted Data"
+                    },
+                    {
+                      "value": "Exclusive access to IBM Research datasets"
+                    },
+                    {
+                      "value": "Datasets with open data licenses for both business applications and advancing core science."
+                    },
+                    {
+                      "value": "Enablement materials tied to the dataset"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "918e86970128099d8ae381e095421e7a",
+          "publishedContent": {
+            "title": "Node-RED Operator",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["node-red-operator"],
+          "created": "2021-03-03T21:14:21.493Z",
+          "updated": "2021-05-26T20:37:03.886Z",
+          "company": {
+            "name": "IBM"
+          },
+          "primaryCategory": {
+            "categoryPageName": "developer-tools",
+            "content": {
+              "name": "Developer Tools"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            },
+            {
+              "categoryPageName": "application-runtime",
+              "content": {
+                "name": "Application Runtime"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-b0a4dc50-01e3-4ca4-bf8f-a626f4ee0107",
+              "publishedEditionContent": {
+                "packageName": "node-red-operator-certified-rhmp",
+                "openShiftVersion": "4.4+",
+                "packageType": "OPERATOR",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "certification": {
+                  "operatorCapabilities": 3
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Free for duration of evaluation"
+                    },
+                    {
+                      "value": "Up to 256 MB memory"
+                    },
+                    {
+                      "value": "Up to 1 GB Storage"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "41b3a7bc16e48c8abb6fd5d96a3b58a1",
+          "publishedContent": {
+            "title": "Application Observability",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["sumo-logic-kubernetes-observability"],
+          "created": "2021-03-18T19:10:09.679Z",
+          "updated": "2021-05-26T17:56:42.623Z",
+          "company": {
+            "name": "Sumo Logic Inc"
+          },
+          "primaryCategory": {
+            "categoryPageName": "monitoring",
+            "content": {
+              "name": "Monitoring"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "monitoring",
+              "content": {
+                "name": "Monitoring"
+              }
+            },
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "logging-and-tracing",
+              "content": {
+                "name": "Logging & Tracing"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-5d03113a-a1ac-40a1-9b8d-bbe8b7fa9f51",
+              "publishedEditionContent": {
+                "packageName": "SaaS-5b26QpSccRagyHbE4dVu3a-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Full stack observability insights with integrated logs, metrics, & tracing"
+                    },
+                    {
+                      "value": "Advanced analytical features such as Root Cause Explorer, search API's, and distributed tracing"
+                    },
+                    {
+                      "value": "Sumo Credit licensing enabling unlimited real time configuration adjustments"
+                    },
+                    {
+                      "value": "5GB package can support up to 5GB of logs, 33,000 metric DPM, or 7.5 million trace spans per day"
+                    },
+                    {
+                      "value": "10GB package can support up to 10GB of logs, 67,000 metric DPM, or 15 million trace spans per day"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-1f97e75e-2217-4dfa-81c9-3d512c1e47c3",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-93c39e23-e1aa-48ed-b860-c63776be110d",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-e5e29410-1d47-4f61-8bf2-164d415d6e06",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-bb512409-a877-4596-a7ad-46d5d46c4023",
+              "publishedEditionContent": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
