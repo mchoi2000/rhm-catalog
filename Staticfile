@@ -1,1 +1,2 @@
 root: build
+force_https: true
