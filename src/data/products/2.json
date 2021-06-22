@@ -8,9 +8,18 @@
           "id": "e1dab7426c40b61dd0c53c35c272d381",
           "publishedContent": {
             "title": "USA Names",
-            "formats": ["TXT"],
-            "topics": ["BIG_DATA", "HISTORICAL", "POPULATION"],
-            "industries": ["HEALTHCARE", "PUBLIC_ADMIN"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "BIG_DATA",
+              "HISTORICAL",
+              "POPULATION"
+            ],
+            "industries": [
+              "HEALTHCARE",
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -19,7 +28,9 @@
               }
             }
           },
-          "productPageName": ["usa-names"],
+          "productPageName": [
+            "usa-names"
+          ],
           "created": "2020-12-15T16:35:45.480Z",
           "updated": "2021-01-08T14:15:27.035Z",
           "company": {
@@ -50,6 +61,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -74,9 +89,16 @@
           "id": "973bf109fbe2b848e87a5979a5eadb80",
           "publishedContent": {
             "title": "World Development Indicators WDI",
-            "formats": ["CSV"],
-            "topics": ["ECONOMICS"],
-            "industries": ["FINANCIAL_SERVICES", "HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "FINANCIAL_SERVICES",
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -85,7 +107,9 @@
               }
             }
           },
-          "productPageName": ["world-development-indicators-wdi"],
+          "productPageName": [
+            "world-development-indicators-wdi"
+          ],
           "created": "2020-12-15T16:37:06.134Z",
           "updated": "2021-01-05T00:21:58.698Z",
           "company": {
@@ -116,6 +140,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -140,9 +168,15 @@
           "id": "9bb25bea1a143facc53c1f780237aa21",
           "publishedContent": {
             "title": "U.S. Consumer Price Index",
-            "formats": ["TXT"],
-            "topics": ["ECONOMICS"],
-            "industries": ["AGRICULTURE"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "AGRICULTURE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -151,7 +185,9 @@
               }
             }
           },
-          "productPageName": ["us-consumer-price-index"],
+          "productPageName": [
+            "us-consumer-price-index"
+          ],
           "created": "2020-12-15T16:38:28.928Z",
           "updated": "2021-01-05T14:58:53.065Z",
           "company": {
@@ -182,6 +218,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -206,9 +246,16 @@
           "id": "23964194e98d2e0ca1d01d7e04a33fb2",
           "publishedContent": {
             "title": "NOAA Integrated Surface Data - ISD",
-            "formats": ["CSV"],
-            "topics": ["WEATHER"],
-            "industries": ["INSURANCE", "TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "WEATHER"
+            ],
+            "industries": [
+              "INSURANCE",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -217,7 +264,9 @@
               }
             }
           },
-          "productPageName": ["noaa-integrated-surface-data-isd"],
+          "productPageName": [
+            "noaa-integrated-surface-data-isd"
+          ],
           "created": "2020-12-15T16:39:39.091Z",
           "updated": "2021-01-07T16:22:07.041Z",
           "company": {
@@ -248,6 +297,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -272,9 +325,15 @@
           "id": "ff3aa125eba38d8be723c2b0c9fb7419",
           "publishedContent": {
             "title": "State and Metro Area Employment Hours and Earnings",
-            "formats": ["TXT"],
-            "topics": ["ECONOMICS"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -283,7 +342,9 @@
               }
             }
           },
-          "productPageName": ["state-and-metro-area-employment-hours-earnings"],
+          "productPageName": [
+            "state-and-metro-area-employment-hours-earnings"
+          ],
           "created": "2020-12-15T16:41:00.867Z",
           "updated": "2021-01-05T00:24:44.202Z",
           "company": {
@@ -314,6 +375,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -338,9 +403,16 @@
           "id": "23964194e98d2e0ca1d01d7e04a86bac",
           "publishedContent": {
             "title": "U.S. Producer Price Index - Industry",
-            "formats": ["TXT"],
-            "topics": ["ECONOMICS"],
-            "industries": ["MANUFACTURING", "RETAIL"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "MANUFACTURING",
+              "RETAIL"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -349,7 +421,9 @@
               }
             }
           },
-          "productPageName": ["us-producer-price-index-industry"],
+          "productPageName": [
+            "us-producer-price-index-industry"
+          ],
           "created": "2020-12-15T16:41:45.524Z",
           "updated": "2021-01-05T15:00:52.818Z",
           "company": {
@@ -380,6 +454,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -404,9 +482,17 @@
           "id": "23964194e98d2e0ca1d01d7e04aecbf2",
           "publishedContent": {
             "title": "NOAA Global Ensemble Forecast System Re-forecast",
-            "formats": ["GRIB2"],
-            "topics": ["HISTORICAL", "WEATHER"],
-            "industries": ["GOVERNMENT", "PUBLIC_SAFETY"],
+            "formats": [
+              "GRIB2"
+            ],
+            "topics": [
+              "HISTORICAL",
+              "WEATHER"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -448,6 +534,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -472,9 +562,15 @@
           "id": "e1dab7426c40b61dd0c53c35c28f9223",
           "publishedContent": {
             "title": "Health Nutrition and Population Statistics",
-            "formats": ["CSV"],
-            "topics": ["SCIENCE"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "SCIENCE"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -483,7 +579,9 @@
               }
             }
           },
-          "productPageName": ["health-nutrition-and-population-statitics"],
+          "productPageName": [
+            "health-nutrition-and-population-statitics"
+          ],
           "created": "2020-12-15T16:43:31.107Z",
           "updated": "2020-12-28T13:15:48.774Z",
           "company": {
@@ -514,6 +612,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -538,9 +640,15 @@
           "id": "4acfff0e5f2995d1b7b54b59a7082be7",
           "publishedContent": {
             "title": "The Immune Epitope Database - IEDB",
-            "formats": ["XML"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "XML"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -549,7 +657,9 @@
               }
             }
           },
-          "productPageName": ["the-immune-epitope-database-iedb"],
+          "productPageName": [
+            "the-immune-epitope-database-iedb"
+          ],
           "created": "2020-12-15T16:45:34.430Z",
           "updated": "2021-01-08T14:16:35.818Z",
           "company": {
@@ -580,6 +690,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -604,9 +718,19 @@
           "id": "d23342c7c575a7bca307e310d6051088",
           "publishedContent": {
             "title": "UK Met Office Global Weather Data for COVID-19 Analysis",
-            "formats": ["NC", "SHP", "TXT"],
-            "topics": ["CLIMATE", "COVID19", "WEATHER"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "NC",
+              "SHP",
+              "TXT"
+            ],
+            "topics": [
+              "CLIMATE",
+              "COVID19",
+              "WEATHER"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -648,6 +772,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -672,9 +800,16 @@
           "id": "e7e4ca3643b1d1b15e0245aec78c1580",
           "publishedContent": {
             "title": "NOAA National Digital Forecast Database ",
-            "formats": ["BIN"],
-            "topics": ["WEATHER"],
-            "industries": ["INSURANCE", "TRANSPORTATION"],
+            "formats": [
+              "BIN"
+            ],
+            "topics": [
+              "WEATHER"
+            ],
+            "industries": [
+              "INSURANCE",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -683,7 +818,9 @@
               }
             }
           },
-          "productPageName": ["noaa-national-digital-forecast-database-ndfd"],
+          "productPageName": [
+            "noaa-national-digital-forecast-database-ndfd"
+          ],
           "created": "2020-12-15T16:47:41.247Z",
           "updated": "2021-01-07T16:18:23.880Z",
           "company": {
@@ -714,6 +851,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -738,9 +879,17 @@
           "id": "9bb25bea1a143facc53c1f7802d3dabf",
           "publishedContent": {
             "title": "NOAA Operational Forecast System OFS",
-            "formats": ["GRIB2", "NC"],
-            "topics": ["CLIMATE", "WEATHER"],
-            "industries": ["OCEANOGRAPHY"],
+            "formats": [
+              "GRIB2",
+              "NC"
+            ],
+            "topics": [
+              "CLIMATE",
+              "WEATHER"
+            ],
+            "industries": [
+              "OCEANOGRAPHY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -749,7 +898,9 @@
               }
             }
           },
-          "productPageName": ["noaa-operational-forecast-system-ofs"],
+          "productPageName": [
+            "noaa-operational-forecast-system-ofs"
+          ],
           "created": "2020-12-15T16:48:32.015Z",
           "updated": "2021-03-03T14:30:16.749Z",
           "company": {
@@ -784,6 +935,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -808,9 +963,15 @@
           "id": "493984536b8bf358a9a08b75098a30d1",
           "publishedContent": {
             "title": "NOAA Emergency Response Imagery",
-            "formats": ["TIF"],
-            "topics": ["WEATHER"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "TIF"
+            ],
+            "topics": [
+              "WEATHER"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -819,7 +980,9 @@
               }
             }
           },
-          "productPageName": ["noaa-emergency-response-imagery"],
+          "productPageName": [
+            "noaa-emergency-response-imagery"
+          ],
           "created": "2020-12-15T16:49:29.531Z",
           "updated": "2021-04-23T00:56:18.705Z",
           "company": {
@@ -850,6 +1013,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -874,9 +1041,15 @@
           "id": "d23342c7c575a7bca307e310d61d4754",
           "publishedContent": {
             "title": "NOAA National Water Model",
-            "formats": ["NC"],
-            "topics": ["SCIENCE"],
-            "industries": ["AGRICULTURE"],
+            "formats": [
+              "NC"
+            ],
+            "topics": [
+              "SCIENCE"
+            ],
+            "industries": [
+              "AGRICULTURE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -885,7 +1058,9 @@
               }
             }
           },
-          "productPageName": ["noaa-national-water-model"],
+          "productPageName": [
+            "noaa-national-water-model"
+          ],
           "created": "2020-12-15T16:50:06.183Z",
           "updated": "2020-12-30T15:28:42.767Z",
           "company": {
@@ -916,6 +1091,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -940,9 +1119,16 @@
           "id": "4acfff0e5f2995d1b7b54b59a7187f87",
           "publishedContent": {
             "title": "NOAA Space Weather Forecast",
-            "formats": ["TXT"],
-            "topics": ["ASTRONOMY", "WEATHER"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "ASTRONOMY",
+              "WEATHER"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -951,7 +1137,9 @@
               }
             }
           },
-          "productPageName": ["noaa-space-weather-forecast"],
+          "productPageName": [
+            "noaa-space-weather-forecast"
+          ],
           "created": "2020-12-15T16:50:48.473Z",
           "updated": "2021-01-05T00:21:25.508Z",
           "company": {
@@ -982,6 +1170,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1006,9 +1198,17 @@
           "id": "62998d5844739cfc4e630d96169a5da3",
           "publishedContent": {
             "title": "International Comprehensive Ocean-Atmosphere Data Set",
-            "formats": ["NC4"],
-            "topics": ["CLIMATE", "RESEARCH", "SCIENCE"],
-            "industries": ["OCEANOGRAPHY"],
+            "formats": [
+              "NC4"
+            ],
+            "topics": [
+              "CLIMATE",
+              "RESEARCH",
+              "SCIENCE"
+            ],
+            "industries": [
+              "OCEANOGRAPHY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -1017,7 +1217,9 @@
               }
             }
           },
-          "productPageName": ["icoads"],
+          "productPageName": [
+            "icoads"
+          ],
           "created": "2020-12-15T16:51:56.972Z",
           "updated": "2021-01-04T23:45:48.933Z",
           "company": {
@@ -1048,6 +1250,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1072,9 +1278,17 @@
           "id": "4acfff0e5f2995d1b7b54b59a7246ea2",
           "publishedContent": {
             "title": "IRS 990",
-            "formats": ["XLS"],
-            "topics": ["ECONOMICS"],
-            "industries": ["FINANCIAL_SERVICES", "GOVERNMENT", "PUBLIC_ADMIN"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "FINANCIAL_SERVICES",
+              "GOVERNMENT",
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -1083,7 +1297,9 @@
               }
             }
           },
-          "productPageName": ["irs-990"],
+          "productPageName": [
+            "irs-990"
+          ],
           "created": "2020-12-15T16:52:52.249Z",
           "updated": "2021-01-08T14:12:27.589Z",
           "company": {
@@ -1114,6 +1330,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1138,9 +1358,16 @@
           "id": "faa0fd8185b2ce25fc11edc084c6c404",
           "publishedContent": {
             "title": "CMS Data Entrepreneurs Synthetic Public Use File - DESynPUF",
-            "formats": ["CSV"],
-            "topics": ["RESEARCH", "SCIENCE"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "RESEARCH",
+              "SCIENCE"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -1182,6 +1409,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1206,9 +1437,16 @@
           "id": "62998d5844739cfc4e630d9616a8a9f9",
           "publishedContent": {
             "title": "SNAP Enrollment - National and State",
-            "formats": ["XLS"],
-            "topics": ["ECONOMICS"],
-            "industries": ["GOVERNMENT", "PUBLIC_ADMIN"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -1217,7 +1455,9 @@
               }
             }
           },
-          "productPageName": ["snap-enrollment-national-and-state"],
+          "productPageName": [
+            "snap-enrollment-national-and-state"
+          ],
           "created": "2020-12-15T16:54:14.362Z",
           "updated": "2021-01-04T23:34:57.604Z",
           "company": {
@@ -1248,6 +1488,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1272,9 +1516,15 @@
           "id": "ae38aa9d49f61a7c94ace9c22f477c1f",
           "publishedContent": {
             "title": "Austin Crime Reports",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -1283,7 +1533,9 @@
               }
             }
           },
-          "productPageName": ["austin-crime-reports"],
+          "productPageName": [
+            "austin-crime-reports"
+          ],
           "created": "2020-12-15T16:55:36.855Z",
           "updated": "2021-01-08T14:11:29.685Z",
           "company": {
@@ -1314,6 +1566,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1338,9 +1594,15 @@
           "id": "9bb25bea1a143facc53c1f7802fc13ea",
           "publishedContent": {
             "title": "New York City 311 Service Requests",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -1349,7 +1611,9 @@
               }
             }
           },
-          "productPageName": ["new-york-city-311-service-requests"],
+          "productPageName": [
+            "new-york-city-311-service-requests"
+          ],
           "created": "2020-12-15T16:57:51.501Z",
           "updated": "2021-01-05T00:17:44.771Z",
           "company": {
@@ -1380,6 +1644,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1404,9 +1672,16 @@
           "id": "9bb25bea1a143facc53c1f7802fdca2f",
           "publishedContent": {
             "title": "NYPD Motor Vehicle Collisions",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY", "TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -1415,7 +1690,9 @@
               }
             }
           },
-          "productPageName": ["nypd-motor-vehicle-collisions"],
+          "productPageName": [
+            "nypd-motor-vehicle-collisions"
+          ],
           "created": "2020-12-15T16:58:34.356Z",
           "updated": "2021-01-07T16:20:36.197Z",
           "company": {
@@ -1446,6 +1723,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1470,9 +1751,17 @@
           "id": "3730cbe3ee1034519f53183ff1254d1b",
           "publishedContent": {
             "title": "US Census American Community Survey",
-            "formats": ["CSV", "TXT"],
-            "topics": ["POPULATION", "SOCIAL"],
-            "industries": ["PUBLIC_ADMIN"],
+            "formats": [
+              "CSV",
+              "TXT"
+            ],
+            "topics": [
+              "POPULATION",
+              "SOCIAL"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -1481,7 +1770,9 @@
               }
             }
           },
-          "productPageName": ["us-census-american-community-survey"],
+          "productPageName": [
+            "us-census-american-community-survey"
+          ],
           "created": "2020-12-15T17:15:14.876Z",
           "updated": "2021-03-03T14:38:21.204Z",
           "company": {
@@ -1512,6 +1803,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1536,9 +1831,15 @@
           "id": "bd96bec09a4cac7fd9247e239e30e5ca",
           "publishedContent": {
             "title": "European Centre for Disease Control COVID-19",
-            "formats": ["CSV"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -1547,7 +1848,9 @@
               }
             }
           },
-          "productPageName": ["european-centre-for-disease-control-covid-19"],
+          "productPageName": [
+            "european-centre-for-disease-control-covid-19"
+          ],
           "created": "2020-12-15T17:15:59.284Z",
           "updated": "2021-01-08T14:12:45.816Z",
           "company": {
@@ -1578,6 +1881,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1605,9 +1912,18 @@
           "id": "731e740ab3e3d198927efc89b082a864",
           "publishedContent": {
             "title": "GDP ",
-            "formats": ["CSV", "PDF", "XML", "XLS"],
-            "topics": ["ECONOMICS"],
-            "industries": ["FINANCIAL_SERVICES"],
+            "formats": [
+              "CSV",
+              "PDF",
+              "XML",
+              "XLS"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "FINANCIAL_SERVICES"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -1616,7 +1932,9 @@
               }
             }
           },
-          "productPageName": ["gdp"],
+          "productPageName": [
+            "gdp"
+          ],
           "created": "2020-12-15T17:16:40.694Z",
           "updated": "2021-03-03T14:29:24.636Z",
           "company": {
@@ -1647,6 +1965,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1671,9 +1993,17 @@
           "id": "de15b2d9fc4b467364d4a250ef27f18b",
           "publishedContent": {
             "title": "U.S. Government Census data - COVID19",
-            "formats": ["CSV", "XLS"],
-            "topics": ["COVID19", "POPULATION"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "CSV",
+              "XLS"
+            ],
+            "topics": [
+              "COVID19",
+              "POPULATION"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -1682,7 +2012,9 @@
               }
             }
           },
-          "productPageName": ["us-government-census-data-covid19"],
+          "productPageName": [
+            "us-government-census-data-covid19"
+          ],
           "created": "2020-12-15T17:17:39.509Z",
           "updated": "2021-03-03T14:28:49.111Z",
           "company": {
@@ -1713,6 +2045,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1737,9 +2073,16 @@
           "id": "af09e36d2636e574a89f1e0ecf0ebb1a",
           "publishedContent": {
             "title": "Quarterly Census of Employment and Wages",
-            "formats": ["XLS"],
-            "topics": ["COVID19", "ECONOMICS"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "COVID19",
+              "ECONOMICS"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "QUARTERLY",
               "source": {
@@ -1748,7 +2091,9 @@
               }
             }
           },
-          "productPageName": ["quarterly-census-of-employment-and-wages"],
+          "productPageName": [
+            "quarterly-census-of-employment-and-wages"
+          ],
           "created": "2020-12-15T17:20:13.232Z",
           "updated": "2021-03-03T14:27:40.369Z",
           "company": {
@@ -1779,6 +2124,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1803,9 +2152,16 @@
           "id": "f18a9507eb8e9b9d6b2ea2959001a8aa",
           "publishedContent": {
             "title": "Local Area Unemployment Statistics",
-            "formats": ["XLS"],
-            "topics": ["COVID19", "ECONOMICS"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "COVID19",
+              "ECONOMICS"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -1814,7 +2170,9 @@
               }
             }
           },
-          "productPageName": ["local-area-unemployment-statistics"],
+          "productPageName": [
+            "local-area-unemployment-statistics"
+          ],
           "created": "2020-12-15T17:21:16.243Z",
           "updated": "2021-01-05T00:23:58.661Z",
           "company": {
@@ -1845,6 +2203,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1869,9 +2231,16 @@
           "id": "731e740ab3e3d198927efc89b0a4553b",
           "publishedContent": {
             "title": "HUD USPS Zip Code Crosswalk",
-            "formats": ["XLS"],
-            "topics": ["CITY"],
-            "industries": ["GOVERNMENT", "PUBLIC_ADMIN"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "QUARTERLY",
               "source": {
@@ -1880,7 +2249,9 @@
               }
             }
           },
-          "productPageName": ["us-department-hud-zipcode-crosswalk"],
+          "productPageName": [
+            "us-department-hud-zipcode-crosswalk"
+          ],
           "created": "2020-12-15T17:22:41.896Z",
           "updated": "2021-01-05T00:01:00.205Z",
           "company": {
@@ -1911,6 +2282,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -1935,9 +2310,17 @@
           "id": "de15b2d9fc4b467364d4a250ef4a94ef",
           "publishedContent": {
             "title": "Bureau of Labor Statistics Current Population Survey",
-            "formats": ["CSV", "XLS"],
-            "topics": ["CITY", "POPULATION"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "CSV",
+              "XLS"
+            ],
+            "topics": [
+              "CITY",
+              "POPULATION"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -1979,6 +2362,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2003,9 +2390,18 @@
           "id": "35557e74ca554136f3e628dc375de1ea",
           "publishedContent": {
             "title": "CDC COVID-19 Forecasts",
-            "formats": ["CSV", "XLS"],
-            "topics": ["COVID19"],
-            "industries": ["GOVERNMENT", "HEALTHCARE", "PUBLIC_ADMIN"],
+            "formats": [
+              "CSV",
+              "XLS"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "HEALTHCARE",
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -2014,7 +2410,9 @@
               }
             }
           },
-          "productPageName": ["cdc-covid-19-forecasts"],
+          "productPageName": [
+            "cdc-covid-19-forecasts"
+          ],
           "created": "2020-12-15T17:28:05.960Z",
           "updated": "2021-03-03T14:29:06.981Z",
           "company": {
@@ -2045,6 +2443,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2069,9 +2471,16 @@
           "id": "af09e36d2636e574a89f1e0ecf43b9df",
           "publishedContent": {
             "title": "CDC ILI",
-            "formats": ["CSV", "XLS"],
-            "topics": ["SCIENCE"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV",
+              "XLS"
+            ],
+            "topics": [
+              "SCIENCE"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -2080,7 +2489,9 @@
               }
             }
           },
-          "productPageName": ["cdc-ili-influenza-liked-illness"],
+          "productPageName": [
+            "cdc-ili-influenza-liked-illness"
+          ],
           "created": "2020-12-15T17:30:47.035Z",
           "updated": "2021-01-05T00:25:14.043Z",
           "company": {
@@ -2111,6 +2522,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2135,9 +2550,16 @@
           "id": "af09e36d2636e574a89f1e0ecf4a1273",
           "publishedContent": {
             "title": "ClinicalTrials.gov Database",
-            "formats": ["CSV", "XML"],
-            "topics": ["SCIENCE"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV",
+              "XML"
+            ],
+            "topics": [
+              "SCIENCE"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -2146,7 +2568,9 @@
               }
             }
           },
-          "productPageName": ["clinicaltrialsgov-database"],
+          "productPageName": [
+            "clinicaltrialsgov-database"
+          ],
           "created": "2020-12-15T17:32:40.437Z",
           "updated": "2021-03-03T14:42:59.575Z",
           "company": {
@@ -2177,6 +2601,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2201,9 +2629,15 @@
           "id": "bd96bec09a4cac7fd9247e239e7f9069",
           "publishedContent": {
             "title": "FDA National Drug Code Directory",
-            "formats": ["XLS"],
-            "topics": ["SCIENCE"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "SCIENCE"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -2212,7 +2646,9 @@
               }
             }
           },
-          "productPageName": ["fda-national-drug-code-directory"],
+          "productPageName": [
+            "fda-national-drug-code-directory"
+          ],
           "created": "2020-12-15T17:33:22.881Z",
           "updated": "2021-03-03T14:30:41.563Z",
           "company": {
@@ -2243,6 +2679,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2267,9 +2707,17 @@
           "id": "555ba6e89f835290930073ceb084093c",
           "publishedContent": {
             "title": "Facebooks Movement Maps",
-            "formats": ["TXT"],
-            "topics": ["COVID19", "MOBILITY", "SOCIAL"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "COVID19",
+              "MOBILITY",
+              "SOCIAL"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -2278,7 +2726,9 @@
               }
             }
           },
-          "productPageName": ["facebooks-movement-maps"],
+          "productPageName": [
+            "facebooks-movement-maps"
+          ],
           "created": "2020-12-15T17:34:36.289Z",
           "updated": "2021-01-05T14:58:26.932Z",
           "company": {
@@ -2309,6 +2759,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2333,9 +2787,16 @@
           "id": "5371e5594ac3bfbbd6f5f08f1a105897",
           "publishedContent": {
             "title": "Global Health Security Index",
-            "formats": ["PDF", "XLS"],
-            "topics": ["SCIENCE"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "PDF",
+              "XLS"
+            ],
+            "topics": [
+              "SCIENCE"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -2344,7 +2805,9 @@
               }
             }
           },
-          "productPageName": ["global-health-security-index-ghs"],
+          "productPageName": [
+            "global-health-security-index-ghs"
+          ],
           "created": "2020-12-15T17:35:13.930Z",
           "updated": "2021-01-05T00:22:30.407Z",
           "company": {
@@ -2375,6 +2838,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2399,9 +2866,16 @@
           "id": "bd96bec09a4cac7fd9247e239e8771a3",
           "publishedContent": {
             "title": "Current UN World Population",
-            "formats": ["CSV", "XLS"],
-            "topics": ["POPULATION"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "CSV",
+              "XLS"
+            ],
+            "topics": [
+              "POPULATION"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -2410,7 +2884,9 @@
               }
             }
           },
-          "productPageName": ["global-population-data-provided-by-the-un"],
+          "productPageName": [
+            "global-population-data-provided-by-the-un"
+          ],
           "created": "2020-12-15T17:35:50.294Z",
           "updated": "2021-01-08T14:22:02.206Z",
           "company": {
@@ -2441,6 +2917,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2465,9 +2945,16 @@
           "id": "bd96bec09a4cac7fd9247e239e913b2b",
           "publishedContent": {
             "title": "International Classification of Diseases",
-            "formats": ["CSV"],
-            "topics": ["COVID19", "RESEARCH"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19",
+              "RESEARCH"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -2476,7 +2963,9 @@
               }
             }
           },
-          "productPageName": ["international-classification-of-diseases"],
+          "productPageName": [
+            "international-classification-of-diseases"
+          ],
           "created": "2020-12-15T17:37:27.623Z",
           "updated": "2021-03-03T14:59:23.283Z",
           "company": {
@@ -2507,6 +2996,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2531,9 +3024,18 @@
           "id": "3730cbe3ee1034519f53183ff18fc32b",
           "publishedContent": {
             "title": "NOAA U.S. Billion-dollar Weather and Climate Disasters",
-            "formats": ["CSV"],
-            "topics": ["CLIMATE", "WEATHER"],
-            "industries": ["AGRICULTURE", "GOVERNMENT", "PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CLIMATE",
+              "WEATHER"
+            ],
+            "industries": [
+              "AGRICULTURE",
+              "GOVERNMENT",
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -2575,6 +3077,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2599,9 +3105,18 @@
           "id": "f18a9507eb8e9b9d6b2ea2959060a92a",
           "publishedContent": {
             "title": "National Transit Database ",
-            "formats": ["XLS"],
-            "topics": ["CITY", "MOBILITY"],
-            "industries": ["GOVERNMENT", "PUBLIC_SAFETY", "TRANSPORTATION"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "CITY",
+              "MOBILITY"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "PUBLIC_SAFETY",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -2610,7 +3125,9 @@
               }
             }
           },
-          "productPageName": ["national-transportation-db"],
+          "productPageName": [
+            "national-transportation-db"
+          ],
           "created": "2020-12-15T17:38:50.686Z",
           "updated": "2021-01-07T16:18:09.664Z",
           "company": {
@@ -2645,6 +3162,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2669,9 +3190,19 @@
           "id": "b7a6fdc87a4f190e9d19f6fe551fb0a3",
           "publishedContent": {
             "title": "Personal Income by County Metro and Other Areas",
-            "formats": ["CSV", "PDF", "XML", "XLS"],
-            "topics": ["ECONOMICS"],
-            "industries": ["GOVERNMENT", "PUBLIC_ADMIN"],
+            "formats": [
+              "CSV",
+              "PDF",
+              "XML",
+              "XLS"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -2713,6 +3244,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2737,9 +3272,17 @@
           "id": "f18a9507eb8e9b9d6b2ea295909be07d",
           "publishedContent": {
             "title": "Social Vulnerability Index ",
-            "formats": ["CSV"],
-            "topics": ["CLIMATE", "ECONOMICS", "POPULATION"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CLIMATE",
+              "ECONOMICS",
+              "POPULATION"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -2748,7 +3291,9 @@
               }
             }
           },
-          "productPageName": ["social-vulnerability-index-svi"],
+          "productPageName": [
+            "social-vulnerability-index-svi"
+          ],
           "created": "2020-12-15T17:58:59.614Z",
           "updated": "2020-12-23T22:03:29.658Z",
           "company": {
@@ -2779,6 +3324,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2803,9 +3352,17 @@
           "id": "3730cbe3ee1034519f53183ff1ece225",
           "publishedContent": {
             "title": "US Census Business Formation Statistics",
-            "formats": ["CSV", "PDF", "XLS"],
-            "topics": ["ECONOMICS"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "CSV",
+              "PDF",
+              "XLS"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -2814,7 +3371,9 @@
               }
             }
           },
-          "productPageName": ["us-census-business-formation-statistics"],
+          "productPageName": [
+            "us-census-business-formation-statistics"
+          ],
           "created": "2020-12-15T17:59:31.877Z",
           "updated": "2020-12-23T22:05:31.847Z",
           "company": {
@@ -2845,6 +3404,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2869,9 +3432,16 @@
           "id": "3730cbe3ee1034519f53183ff1f0dc6b",
           "publishedContent": {
             "title": "U.S. Census Retail Trade Data",
-            "formats": ["PDF", "XLS"],
-            "topics": ["ECONOMICS"],
-            "industries": ["RETAIL"],
+            "formats": [
+              "PDF",
+              "XLS"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "RETAIL"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -2880,7 +3450,9 @@
               }
             }
           },
-          "productPageName": ["us-census-retail-trade-data"],
+          "productPageName": [
+            "us-census-retail-trade-data"
+          ],
           "created": "2020-12-15T18:00:06.270Z",
           "updated": "2021-01-05T15:02:37.577Z",
           "company": {
@@ -2911,6 +3483,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -2935,9 +3511,16 @@
           "id": "aee9e14951ae105c6f48d0eeedf3b9e6",
           "publishedContent": {
             "title": "U.S. Census Wholesale Trade Data",
-            "formats": ["PDF", "XLS"],
-            "topics": ["ENVIRONMENT"],
-            "industries": ["RETAIL"],
+            "formats": [
+              "PDF",
+              "XLS"
+            ],
+            "topics": [
+              "ENVIRONMENT"
+            ],
+            "industries": [
+              "RETAIL"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -2946,7 +3529,9 @@
               }
             }
           },
-          "productPageName": ["us-census-wholesale-trade-data"],
+          "productPageName": [
+            "us-census-wholesale-trade-data"
+          ],
           "created": "2020-12-15T18:02:52.585Z",
           "updated": "2021-01-05T15:01:58.689Z",
           "company": {
@@ -2977,6 +3562,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3001,9 +3590,15 @@
           "id": "f18a9507eb8e9b9d6b2ea29590b3de73",
           "publishedContent": {
             "title": "US Government Census 2018 - FIPS State County",
-            "formats": ["XLS"],
-            "topics": ["HISTORICAL"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "HISTORICAL"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -3012,7 +3607,9 @@
               }
             }
           },
-          "productPageName": ["us-government-census-2018-fips-state-county"],
+          "productPageName": [
+            "us-government-census-2018-fips-state-county"
+          ],
           "created": "2020-12-15T18:03:50.605Z",
           "updated": "2021-01-05T00:16:17.880Z",
           "company": {
@@ -3043,6 +3640,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3067,9 +3668,16 @@
           "id": "5dcf063465689a63d4811f47a280a6da",
           "publishedContent": {
             "title": "Wage Data by Area and Occupation",
-            "formats": ["CSV"],
-            "topics": ["COVID19", "ECONOMICS"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19",
+              "ECONOMICS"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -3078,7 +3686,9 @@
               }
             }
           },
-          "productPageName": ["wage-data-by-area-and-occupation"],
+          "productPageName": [
+            "wage-data-by-area-and-occupation"
+          ],
           "created": "2020-12-15T18:04:24.330Z",
           "updated": "2021-01-05T00:23:22.950Z",
           "company": {
@@ -3109,6 +3719,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3133,9 +3747,17 @@
           "id": "d84bbc3dab37092da00fc6e6347f1a94",
           "publishedContent": {
             "title": "COVID-19 - US Mobility",
-            "formats": ["CSV"],
-            "topics": ["COVID19", "MOBILITY"],
-            "industries": ["HEALTHCARE", "TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19",
+              "MOBILITY"
+            ],
+            "industries": [
+              "HEALTHCARE",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -3144,7 +3766,9 @@
               }
             }
           },
-          "productPageName": ["covid-19-us-mobility"],
+          "productPageName": [
+            "covid-19-us-mobility"
+          ],
           "created": "2020-12-15T18:06:54.986Z",
           "updated": "2021-01-07T16:19:34.465Z",
           "company": {
@@ -3175,6 +3799,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3199,9 +3827,15 @@
           "id": "20c1ab21c7fcefd2c1562798cc24336d",
           "publishedContent": {
             "title": "COVID-19 Tests - New York State",
-            "formats": ["CSV"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -3210,7 +3844,9 @@
               }
             }
           },
-          "productPageName": ["covid-19-tests-new-york-state"],
+          "productPageName": [
+            "covid-19-tests-new-york-state"
+          ],
           "created": "2020-12-15T18:08:26.261Z",
           "updated": "2020-12-23T22:31:52.707Z",
           "company": {
@@ -3241,6 +3877,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3265,9 +3905,19 @@
           "id": "5dcf063465689a63d4811f47a28e4bf3",
           "publishedContent": {
             "title": "U.S. Census Bureau-Population Estimates",
-            "formats": ["CSV", "PDF", "TXT", "XLS"],
-            "topics": ["POPULATION"],
-            "industries": ["GOVERNMENT", "PUBLIC_ADMIN"],
+            "formats": [
+              "CSV",
+              "PDF",
+              "TXT",
+              "XLS"
+            ],
+            "topics": [
+              "POPULATION"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -3276,7 +3926,9 @@
               }
             }
           },
-          "productPageName": ["us-census-bureau-population-estimates"],
+          "productPageName": [
+            "us-census-bureau-population-estimates"
+          ],
           "created": "2020-12-15T18:09:05.434Z",
           "updated": "2021-03-03T14:59:34.992Z",
           "company": {
@@ -3307,6 +3959,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3331,9 +3987,15 @@
           "id": "5dcf063465689a63d4811f47a2943aba",
           "publishedContent": {
             "title": "UN World Population Estimates",
-            "formats": ["XLS"],
-            "topics": ["POPULATION"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "POPULATION"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -3342,7 +4004,9 @@
               }
             }
           },
-          "productPageName": ["un-world-population"],
+          "productPageName": [
+            "un-world-population"
+          ],
           "created": "2020-12-15T18:09:46.482Z",
           "updated": "2020-12-28T13:15:20.795Z",
           "company": {
@@ -3373,6 +4037,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3397,9 +4065,17 @@
           "id": "428b0a03594f3c366dbfa1874e3f4aba",
           "publishedContent": {
             "title": "Government Response Stringency Index",
-            "formats": ["CSV", "PDF"],
-            "topics": ["COVID19"],
-            "industries": ["GOVERNMENT", "HEALTHCARE"],
+            "formats": [
+              "CSV",
+              "PDF"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -3408,7 +4084,9 @@
               }
             }
           },
-          "productPageName": ["government-response-stringency-index"],
+          "productPageName": [
+            "government-response-stringency-index"
+          ],
           "created": "2020-12-15T18:10:20.226Z",
           "updated": "2021-01-04T21:29:51.835Z",
           "company": {
@@ -3439,6 +4117,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3463,9 +4145,17 @@
           "id": "83cfb0c6ec57224d70e5f3e7651cce98",
           "publishedContent": {
             "title": "Oxford COVID-19 Response Tracker-Historical country-level intervention",
-            "formats": ["CSV", "XLS"],
-            "topics": ["COVID19", "HISTORICAL"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "CSV",
+              "XLS"
+            ],
+            "topics": [
+              "COVID19",
+              "HISTORICAL"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -3507,6 +4197,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3531,9 +4225,16 @@
           "id": "5dcf063465689a63d4811f47a2a73421",
           "publishedContent": {
             "title": "Births Data Summary",
-            "formats": ["TXT"],
-            "topics": ["COVID19", "HISTORICAL"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "COVID19",
+              "HISTORICAL"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -3542,7 +4243,9 @@
               }
             }
           },
-          "productPageName": ["births-data-summary"],
+          "productPageName": [
+            "births-data-summary"
+          ],
           "created": "2020-12-15T18:13:09.326Z",
           "updated": "2020-12-23T19:18:22.508Z",
           "company": {
@@ -3573,6 +4276,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3597,9 +4304,15 @@
           "id": "1724d5a2cdc8b49de5e5583d1d0cc1f7",
           "publishedContent": {
             "title": "Center for Medicare and Medicaid Services - Dual Enrollment",
-            "formats": ["XLS"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "QUARTERLY",
               "source": {
@@ -3641,6 +4354,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3668,9 +4385,15 @@
           "id": "419bdb12909ea472660f55c6cc17d34d",
           "publishedContent": {
             "title": "COVID-19 Data Repository by CSSE at JHU",
-            "formats": ["CSV"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -3679,7 +4402,9 @@
               }
             }
           },
-          "productPageName": ["covid-19-data-repository-by-csse-at-jhu"],
+          "productPageName": [
+            "covid-19-data-repository-by-csse-at-jhu"
+          ],
           "created": "2020-12-15T18:14:24.959Z",
           "updated": "2021-01-08T14:16:23.339Z",
           "company": {
@@ -3710,6 +4435,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3734,9 +4463,15 @@
           "id": "419bdb12909ea472660f55c6cc1bbc54",
           "publishedContent": {
             "title": "Health Professional Shortage Areas",
-            "formats": ["CSV"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -3745,7 +4480,9 @@
               }
             }
           },
-          "productPageName": ["health-professional-shortage-areas"],
+          "productPageName": [
+            "health-professional-shortage-areas"
+          ],
           "created": "2020-12-15T18:15:04.480Z",
           "updated": "2021-03-03T14:27:59.500Z",
           "company": {
@@ -3776,6 +4513,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3800,9 +4541,16 @@
           "id": "1724d5a2cdc8b49de5e5583d1d161a28",
           "publishedContent": {
             "title": "Hospital General Information",
-            "formats": ["CSV", "TXT"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV",
+              "TXT"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "QUARTERLY",
               "source": {
@@ -3811,7 +4559,9 @@
               }
             }
           },
-          "productPageName": ["hospital-general-information"],
+          "productPageName": [
+            "hospital-general-information"
+          ],
           "created": "2020-12-15T18:15:41.385Z",
           "updated": "2021-01-08T14:13:27.537Z",
           "company": {
@@ -3842,6 +4592,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3866,9 +4620,19 @@
           "id": "d84bbc3dab37092da00fc6e634c5f919",
           "publishedContent": {
             "title": "Low Income Housing Tax Credit Program",
-            "formats": ["CSV"],
-            "topics": ["COVID19", "ECONOMICS", "HISTORICAL"],
-            "industries": ["HEALTHCARE", "PUBLIC_ADMIN", "REAL_ESTATE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19",
+              "ECONOMICS",
+              "HISTORICAL"
+            ],
+            "industries": [
+              "HEALTHCARE",
+              "PUBLIC_ADMIN",
+              "REAL_ESTATE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -3877,7 +4641,9 @@
               }
             }
           },
-          "productPageName": ["low-income-housing-tax-credit-program"],
+          "productPageName": [
+            "low-income-housing-tax-credit-program"
+          ],
           "created": "2020-12-15T18:16:18.217Z",
           "updated": "2021-01-04T23:45:24.175Z",
           "company": {
@@ -3908,6 +4674,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -3932,9 +4702,17 @@
           "id": "d84bbc3dab37092da00fc6e634c85d42",
           "publishedContent": {
             "title": "Point-in-Time Homelessness Count",
-            "formats": ["XLS"],
-            "topics": ["CITY", "COVID19", "HISTORICAL"],
-            "industries": ["PUBLIC_ADMIN"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "CITY",
+              "COVID19",
+              "HISTORICAL"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -3943,7 +4721,9 @@
               }
             }
           },
-          "productPageName": ["point-in-time-homelessness-count"],
+          "productPageName": [
+            "point-in-time-homelessness-count"
+          ],
           "created": "2020-12-15T18:16:55.301Z",
           "updated": "2021-01-04T23:41:41.260Z",
           "company": {
@@ -3978,6 +4758,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4002,9 +4786,15 @@
           "id": "f18a9507eb8e9b9d6b2ea29590ef8b01",
           "publishedContent": {
             "title": "CFPB Consumer Complaint Database",
-            "formats": ["CSV"],
-            "topics": ["ECONOMICS"],
-            "industries": ["RETAIL"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "RETAIL"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -4013,7 +4803,9 @@
               }
             }
           },
-          "productPageName": ["cfpb-consumer-complaint-database"],
+          "productPageName": [
+            "cfpb-consumer-complaint-database"
+          ],
           "created": "2020-12-15T18:17:35.681Z",
           "updated": "2021-03-03T14:38:49.836Z",
           "company": {
@@ -4044,6 +4836,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4068,9 +4864,15 @@
           "id": "9b9ca1f5f1cbef641586bd31bc8d2e5b",
           "publishedContent": {
             "title": "San Fransisco Fire Department Calls for Service",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_ADMIN"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -4112,6 +4914,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4136,9 +4942,16 @@
           "id": "b6aaae9506640720f9535c7c1bea693f",
           "publishedContent": {
             "title": "Historical San Francisco Police Department Incident Reports",
-            "formats": ["CSV"],
-            "topics": ["CITY", "HISTORICAL"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY",
+              "HISTORICAL"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -4180,6 +4993,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4204,9 +5021,15 @@
           "id": "22283b1c3ad3f217d8d10f72d2a76384",
           "publishedContent": {
             "title": "SF 311",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -4215,7 +5038,9 @@
               }
             }
           },
-          "productPageName": ["sf-311"],
+          "productPageName": [
+            "sf-311"
+          ],
           "created": "2020-12-15T20:22:20.828Z",
           "updated": "2021-01-08T14:16:05.989Z",
           "company": {
@@ -4250,6 +5075,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4274,9 +5103,15 @@
           "id": "2ff7df3980120a0c8366509f162f48e6",
           "publishedContent": {
             "title": "Seattle Fire 911 Calls",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -4285,7 +5120,9 @@
               }
             }
           },
-          "productPageName": ["seattle-fire-911-calls"],
+          "productPageName": [
+            "seattle-fire-911-calls"
+          ],
           "created": "2020-12-15T20:24:06.379Z",
           "updated": "2020-12-23T20:42:18.963Z",
           "company": {
@@ -4316,6 +5153,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4340,9 +5181,15 @@
           "id": "22283b1c3ad3f217d8d10f72d2ac131c",
           "publishedContent": {
             "title": "Boston Public Safety - 311 Service Requests",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -4351,7 +5198,9 @@
               }
             }
           },
-          "productPageName": ["boston-public-safety-311-service-requests"],
+          "productPageName": [
+            "boston-public-safety-311-service-requests"
+          ],
           "created": "2020-12-15T20:25:02.641Z",
           "updated": "2021-01-05T14:55:46.115Z",
           "company": {
@@ -4382,6 +5231,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4406,9 +5259,16 @@
           "id": "f654804c423826dd1cff178eba76d7f1",
           "publishedContent": {
             "title": "New York City Green and Yellow Taxi Trip Record Data",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["TRANSPORTATION", "TRAVEL_HOSPITALITY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "TRANSPORTATION",
+              "TRAVEL_HOSPITALITY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -4450,6 +5310,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4474,9 +5338,16 @@
           "id": "e10c707f96ff537eac54f12541ce8d19",
           "publishedContent": {
             "title": "New York City For-Hire Vehicle Trip Record Data",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["TRANSPORTATION", "TRAVEL_HOSPITALITY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "TRANSPORTATION",
+              "TRAVEL_HOSPITALITY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -4518,6 +5389,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4542,9 +5417,15 @@
           "id": "f654804c423826dd1cff178eba7bea04",
           "publishedContent": {
             "title": "Space Weather Alerts - Watches - Warnings",
-            "formats": ["JSON"],
-            "topics": ["WEATHER"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "JSON"
+            ],
+            "topics": [
+              "WEATHER"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -4553,7 +5434,9 @@
               }
             }
           },
-          "productPageName": ["space-weather-alerts-watches-and-warnings"],
+          "productPageName": [
+            "space-weather-alerts-watches-and-warnings"
+          ],
           "created": "2020-12-15T20:27:14.547Z",
           "updated": "2020-12-23T20:43:37.169Z",
           "company": {
@@ -4584,6 +5467,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4608,9 +5495,15 @@
           "id": "e10c707f96ff537eac54f12541d095e6",
           "publishedContent": {
             "title": "SNAP Participation and Issuance Data by State Project Area and County Level",
-            "formats": ["XLS"],
-            "topics": ["ECONOMICS"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "BIANNUALLY",
               "source": {
@@ -4652,6 +5545,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4676,9 +5573,15 @@
           "id": "0f7a252604f05043bc2059fe71d4c822",
           "publishedContent": {
             "title": "San Francisco Police Department Incident Reports",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -4720,6 +5623,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4747,9 +5654,15 @@
           "id": "e10c707f96ff537eac54f12541d8ff71",
           "publishedContent": {
             "title": "Seattle Police Department SPD Crime Data",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -4758,7 +5671,9 @@
               }
             }
           },
-          "productPageName": ["seattle-police-department-spd-crime-data"],
+          "productPageName": [
+            "seattle-police-department-spd-crime-data"
+          ],
           "created": "2020-12-15T20:30:33.385Z",
           "updated": "2021-01-04T23:53:35.980Z",
           "company": {
@@ -4789,6 +5704,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4813,9 +5732,15 @@
           "id": "7acb5c989cde9955b428d6bea043791d",
           "publishedContent": {
             "title": "Medicare Provider Utilization and Payment Data Outpatient Charge",
-            "formats": ["XLS"],
-            "topics": ["HISTORICAL"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "HISTORICAL"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -4857,6 +5782,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4881,9 +5810,15 @@
           "id": "085264f95c976af549b9dfa4465c869d",
           "publishedContent": {
             "title": "Medicare Provider Utilization and Payment Data Part D Prescriber",
-            "formats": ["TXT"],
-            "topics": ["HISTORICAL"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "HISTORICAL"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -4925,6 +5860,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -4949,9 +5888,15 @@
           "id": "cc1c56bd7eb5ae7b45700689ed389e8a",
           "publishedContent": {
             "title": "Medicare Provider Utilization and Payment Data - Physician and Other",
-            "formats": ["TXT"],
-            "topics": ["HISTORICAL"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "TXT"
+            ],
+            "topics": [
+              "HISTORICAL"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -4993,6 +5938,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5017,9 +5966,16 @@
           "id": "d353c0cca7decd5bf84ab88de7503911",
           "publishedContent": {
             "title": "Global Historical Yield of Major Crops",
-            "formats": ["NC4"],
-            "topics": ["HISTORICAL", "SCIENCE"],
-            "industries": ["AGRICULTURE"],
+            "formats": [
+              "NC4"
+            ],
+            "topics": [
+              "HISTORICAL",
+              "SCIENCE"
+            ],
+            "industries": [
+              "AGRICULTURE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -5028,7 +5984,9 @@
               }
             }
           },
-          "productPageName": ["global-historical-yield-of-major-crops"],
+          "productPageName": [
+            "global-historical-yield-of-major-crops"
+          ],
           "created": "2020-12-15T20:34:24.452Z",
           "updated": "2021-01-05T00:13:29.899Z",
           "company": {
@@ -5059,6 +6017,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5083,9 +6045,15 @@
           "id": "f654804c423826dd1cff178eba8d4181",
           "publishedContent": {
             "title": "Dallas Police Incidents",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -5094,7 +6062,9 @@
               }
             }
           },
-          "productPageName": ["dallas-police-incidents"],
+          "productPageName": [
+            "dallas-police-incidents"
+          ],
           "created": "2020-12-15T20:35:10.113Z",
           "updated": "2021-01-05T00:17:24.901Z",
           "company": {
@@ -5125,6 +6095,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5149,9 +6123,17 @@
           "id": "e10c707f96ff537eac54f12541ea068d",
           "publishedContent": {
             "title": "Trips by Distance",
-            "formats": ["CSV"],
-            "topics": ["BIG_DATA", "COVID19"],
-            "industries": ["TRANSPORTATION", "TRAVEL_HOSPITALITY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "BIG_DATA",
+              "COVID19"
+            ],
+            "industries": [
+              "TRANSPORTATION",
+              "TRAVEL_HOSPITALITY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -5160,7 +6142,9 @@
               }
             }
           },
-          "productPageName": ["trips-by-distance"],
+          "productPageName": [
+            "trips-by-distance"
+          ],
           "created": "2020-12-15T20:35:46.189Z",
           "updated": "2021-01-07T16:18:59.707Z",
           "company": {
@@ -5191,6 +6175,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5215,9 +6203,17 @@
           "id": "f654804c423826dd1cff178eba934c43",
           "publishedContent": {
             "title": "San Francisco COVID-19 Testing Sites",
-            "formats": ["CSV"],
-            "topics": ["CITY", "COVID19"],
-            "industries": ["HEALTHCARE", "PUBLIC_SAFETY"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY",
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE",
+              "PUBLIC_SAFETY"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -5226,7 +6222,9 @@
               }
             }
           },
-          "productPageName": ["san-francisco-covid-19-testing-sites"],
+          "productPageName": [
+            "san-francisco-covid-19-testing-sites"
+          ],
           "created": "2020-12-15T20:37:30.729Z",
           "updated": "2021-01-04T23:47:13.273Z",
           "company": {
@@ -5257,6 +6255,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5281,9 +6283,15 @@
           "id": "cc1c56bd7eb5ae7b45700689ed487a1d",
           "publishedContent": {
             "title": "Prisoners in 2019",
-            "formats": ["CSV"],
-            "topics": ["HISTORICAL"],
-            "industries": ["PUBLIC_ADMIN"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "HISTORICAL"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -5292,7 +6300,9 @@
               }
             }
           },
-          "productPageName": ["prisoners-in-2019"],
+          "productPageName": [
+            "prisoners-in-2019"
+          ],
           "created": "2020-12-15T20:39:00.085Z",
           "updated": "2020-12-24T18:09:55.798Z",
           "company": {
@@ -5323,6 +6333,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5347,9 +6361,15 @@
           "id": "cc1c56bd7eb5ae7b45700689ed4c8443",
           "publishedContent": {
             "title": "Correctional Populations In The United States 2017 and 2018",
-            "formats": ["CSV"],
-            "topics": ["HISTORICAL"],
-            "industries": ["PUBLIC_ADMIN"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "HISTORICAL"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -5391,6 +6411,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5415,9 +6439,16 @@
           "id": "e15d880da0fd399f491e2d69a99094a2",
           "publishedContent": {
             "title": "Debt to the Penny",
-            "formats": ["CSV"],
-            "topics": ["ECONOMICS"],
-            "industries": ["FINANCIAL_SERVICES", "GOVERNMENT"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "FINANCIAL_SERVICES",
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -5426,7 +6457,9 @@
               }
             }
           },
-          "productPageName": ["debt-to-the-penny"],
+          "productPageName": [
+            "debt-to-the-penny"
+          ],
           "created": "2020-12-15T20:40:18.042Z",
           "updated": "2021-03-03T14:26:37.773Z",
           "company": {
@@ -5461,6 +6494,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5485,9 +6522,15 @@
           "id": "7acb5c989cde9955b428d6bea05bd083",
           "publishedContent": {
             "title": "Denver Crime Data",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_ADMIN"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -5496,7 +6539,9 @@
               }
             }
           },
-          "productPageName": ["denver-crime-data"],
+          "productPageName": [
+            "denver-crime-data"
+          ],
           "created": "2020-12-15T20:41:00.719Z",
           "updated": "2020-12-24T18:06:34.224Z",
           "company": {
@@ -5527,6 +6572,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5551,9 +6600,15 @@
           "id": "2ff7df3980120a0c8366509f166510f6",
           "publishedContent": {
             "title": "Global Economic Monitor",
-            "formats": ["XLS"],
-            "topics": ["ECONOMICS"],
-            "industries": ["FINANCIAL_SERVICES"],
+            "formats": [
+              "XLS"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "FINANCIAL_SERVICES"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -5562,7 +6617,9 @@
               }
             }
           },
-          "productPageName": ["global-economic-monitor"],
+          "productPageName": [
+            "global-economic-monitor"
+          ],
           "created": "2020-12-15T20:41:57.051Z",
           "updated": "2020-12-30T13:13:06.453Z",
           "company": {
@@ -5597,6 +6654,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5621,9 +6682,16 @@
           "id": "cc1c56bd7eb5ae7b45700689ed521247",
           "publishedContent": {
             "title": "Global Population Estimates and Projections",
-            "formats": ["CSV"],
-            "topics": ["COVID19", "POPULATION"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19",
+              "POPULATION"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "BIANNUALLY",
               "source": {
@@ -5632,7 +6700,9 @@
               }
             }
           },
-          "productPageName": ["global-population-estimates-and-projections"],
+          "productPageName": [
+            "global-population-estimates-and-projections"
+          ],
           "created": "2020-12-15T20:42:29.854Z",
           "updated": "2020-12-29T15:06:28.887Z",
           "company": {
@@ -5667,6 +6737,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5691,9 +6765,15 @@
           "id": "085264f95c976af549b9dfa446860541",
           "publishedContent": {
             "title": "NASA Facilities",
-            "formats": ["CSV"],
-            "topics": ["ASTRONOMY"],
-            "industries": ["GOVERNMENT"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "ASTRONOMY"
+            ],
+            "industries": [
+              "GOVERNMENT"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -5702,7 +6782,9 @@
               }
             }
           },
-          "productPageName": ["nasa-facilities"],
+          "productPageName": [
+            "nasa-facilities"
+          ],
           "created": "2020-12-15T20:43:11.001Z",
           "updated": "2020-12-24T18:08:47.828Z",
           "company": {
@@ -5733,6 +6815,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5757,9 +6843,15 @@
           "id": "f654804c423826dd1cff178ebaa39e6d",
           "publishedContent": {
             "title": "Savings Bond Redemption Tables",
-            "formats": ["CSV"],
-            "topics": ["ECONOMICS"],
-            "industries": ["FINANCIAL_SERVICES"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "ECONOMICS"
+            ],
+            "industries": [
+              "FINANCIAL_SERVICES"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -5768,7 +6860,9 @@
               }
             }
           },
-          "productPageName": ["savings-bond-redemption-tables"],
+          "productPageName": [
+            "savings-bond-redemption-tables"
+          ],
           "created": "2020-12-15T20:43:53.523Z",
           "updated": "2021-01-05T14:23:25.917Z",
           "company": {
@@ -5803,6 +6897,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5827,9 +6925,18 @@
           "id": "cc1c56bd7eb5ae7b45700689ed552576",
           "publishedContent": {
             "title": "Commodity Flow Survey - 2017",
-            "formats": ["CSV"],
-            "topics": ["ECONOMICS", "HISTORICAL"],
-            "industries": ["MANUFACTURING", "RETAIL", "TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "ECONOMICS",
+              "HISTORICAL"
+            ],
+            "industries": [
+              "MANUFACTURING",
+              "RETAIL",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -5838,7 +6945,9 @@
               }
             }
           },
-          "productPageName": ["commodity-flow-survey-2017"],
+          "productPageName": [
+            "commodity-flow-survey-2017"
+          ],
           "created": "2020-12-15T20:44:37.210Z",
           "updated": "2021-01-07T16:19:55.632Z",
           "company": {
@@ -5869,6 +6978,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5893,9 +7006,16 @@
           "id": "085264f95c976af549b9dfa446949591",
           "publishedContent": {
             "title": "U.S. Chronic Disease Indicators CDI",
-            "formats": ["CSV"],
-            "topics": ["RESEARCH", "SCIENCE"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "RESEARCH",
+              "SCIENCE"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -5904,7 +7024,9 @@
               }
             }
           },
-          "productPageName": ["us-chronic-disease-indicators-cdi"],
+          "productPageName": [
+            "us-chronic-disease-indicators-cdi"
+          ],
           "created": "2020-12-15T20:45:57.859Z",
           "updated": "2020-12-24T18:15:01.121Z",
           "company": {
@@ -5935,6 +7057,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -5959,9 +7085,15 @@
           "id": "767de274088995c4cb4d8104700f91e5",
           "publishedContent": {
             "title": "COVID-19 Estimated Patient Impact and Hospital Capacity by State",
-            "formats": ["CSV"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -6003,6 +7135,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6027,9 +7163,16 @@
           "id": "2ff7df3980120a0c8366509f16766d3c",
           "publishedContent": {
             "title": "Border Crossing Entry Data",
-            "formats": ["CSV"],
-            "topics": ["MOBILITY"],
-            "industries": ["PUBLIC_ADMIN", "TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "MOBILITY"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -6038,7 +7181,9 @@
               }
             }
           },
-          "productPageName": ["border-crossing-entry-data"],
+          "productPageName": [
+            "border-crossing-entry-data"
+          ],
           "created": "2020-12-15T20:47:51.722Z",
           "updated": "2021-01-07T16:21:49.401Z",
           "company": {
@@ -6069,6 +7214,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6093,9 +7242,15 @@
           "id": "642fc1e8da34c82de8860f4c9d3a780f",
           "publishedContent": {
             "title": "Monthly Transportation Statistics",
-            "formats": ["CSV"],
-            "topics": ["MOBILITY"],
-            "industries": ["TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "MOBILITY"
+            ],
+            "industries": [
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -6104,7 +7259,9 @@
               }
             }
           },
-          "productPageName": ["monthly-transportation-statistics"],
+          "productPageName": [
+            "monthly-transportation-statistics"
+          ],
           "created": "2020-12-15T20:48:33.849Z",
           "updated": "2021-01-07T16:21:32.116Z",
           "company": {
@@ -6135,6 +7292,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6159,9 +7320,16 @@
           "id": "7acb5c989cde9955b428d6bea06e095e",
           "publishedContent": {
             "title": "County Transportation Profiles",
-            "formats": ["CSV"],
-            "topics": ["MOBILITY"],
-            "industries": ["PUBLIC_ADMIN", "TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "MOBILITY"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -6170,7 +7338,9 @@
               }
             }
           },
-          "productPageName": ["county-transportation-profiles"],
+          "productPageName": [
+            "county-transportation-profiles"
+          ],
           "created": "2020-12-15T20:49:22.429Z",
           "updated": "2021-01-07T16:21:12.783Z",
           "company": {
@@ -6201,6 +7371,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6225,9 +7399,17 @@
           "id": "060aa07cc0e4848ce5d1d73f5d1680a4",
           "publishedContent": {
             "title": "Daily Transit Ridership",
-            "formats": ["CSV"],
-            "topics": ["CITY", "MOBILITY"],
-            "industries": ["PUBLIC_ADMIN", "TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY",
+              "MOBILITY"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN",
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -6236,7 +7418,9 @@
               }
             }
           },
-          "productPageName": ["daily-transit-ridership"],
+          "productPageName": [
+            "daily-transit-ridership"
+          ],
           "created": "2020-12-15T20:50:03.216Z",
           "updated": "2021-01-07T16:22:19.967Z",
           "company": {
@@ -6267,6 +7451,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6291,9 +7479,15 @@
           "id": "9b9ca1f5f1cbef641586bd31bcead44d",
           "publishedContent": {
             "title": "Commercial Aviation Departures",
-            "formats": ["CSV"],
-            "topics": ["MOBILITY"],
-            "industries": ["TRANSPORTATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "MOBILITY"
+            ],
+            "industries": [
+              "TRANSPORTATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -6302,7 +7496,9 @@
               }
             }
           },
-          "productPageName": ["commercial-aviation-departures"],
+          "productPageName": [
+            "commercial-aviation-departures"
+          ],
           "created": "2020-12-15T20:51:07.148Z",
           "updated": "2021-01-07T16:20:58.582Z",
           "company": {
@@ -6333,6 +7529,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6357,9 +7557,15 @@
           "id": "7acb5c989cde9955b428d6bea07348a9",
           "publishedContent": {
             "title": "Solid Waste Landfill Facilities",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["PUBLIC_ADMIN"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "PUBLIC_ADMIN"
+            ],
             "assetUpdatedInfo": {
               "frequency": "BIANNUALLY",
               "source": {
@@ -6368,7 +7574,9 @@
               }
             }
           },
-          "productPageName": ["solid-waste-landfill-facilities"],
+          "productPageName": [
+            "solid-waste-landfill-facilities"
+          ],
           "created": "2020-12-15T20:51:38.598Z",
           "updated": "2020-12-23T20:51:40.922Z",
           "company": {
@@ -6399,6 +7607,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6423,9 +7635,15 @@
           "id": "7acb5c989cde9955b428d6bea078a623",
           "publishedContent": {
             "title": "Hospitals",
-            "formats": ["KML"],
-            "topics": ["COVID19"],
-            "industries": ["HEALTHCARE"],
+            "formats": [
+              "KML"
+            ],
+            "topics": [
+              "COVID19"
+            ],
+            "industries": [
+              "HEALTHCARE"
+            ],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -6434,7 +7652,9 @@
               }
             }
           },
-          "productPageName": ["hospitals"],
+          "productPageName": [
+            "hospitals"
+          ],
           "created": "2020-12-15T20:52:35.983Z",
           "updated": "2021-01-04T21:11:24.539Z",
           "company": {
@@ -6465,6 +7685,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6489,9 +7713,16 @@
           "id": "7acb5c989cde9955b428d6bea07a0326",
           "publishedContent": {
             "title": "Fortune 500 Corporate Headquarters",
-            "formats": ["CSV"],
-            "topics": ["ECONOMICS", "HISTORICAL"],
-            "industries": ["FINANCIAL_SERVICES"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "ECONOMICS",
+              "HISTORICAL"
+            ],
+            "industries": [
+              "FINANCIAL_SERVICES"
+            ],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -6500,7 +7731,9 @@
               }
             }
           },
-          "productPageName": ["fortune-500-corporate-headquarters"],
+          "productPageName": [
+            "fortune-500-corporate-headquarters"
+          ],
           "created": "2020-12-15T20:53:12.564Z",
           "updated": "2021-01-04T19:59:25.189Z",
           "company": {
@@ -6531,6 +7764,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6555,9 +7792,16 @@
           "id": "2ff7df3980120a0c8366509f16900df8",
           "publishedContent": {
             "title": "US Public Schools",
-            "formats": ["CSV"],
-            "topics": ["CITY", "HISTORICAL"],
-            "industries": ["EDUCATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY",
+              "HISTORICAL"
+            ],
+            "industries": [
+              "EDUCATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -6566,7 +7810,9 @@
               }
             }
           },
-          "productPageName": ["us-public-schools"],
+          "productPageName": [
+            "us-public-schools"
+          ],
           "created": "2020-12-15T20:53:48.301Z",
           "updated": "2020-12-23T20:41:32.496Z",
           "company": {
@@ -6597,6 +7843,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -6621,9 +7871,15 @@
           "id": "642fc1e8da34c82de8860f4c9d535d34",
           "publishedContent": {
             "title": "US College And Universities",
-            "formats": ["CSV"],
-            "topics": ["CITY"],
-            "industries": ["EDUCATION"],
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "EDUCATION"
+            ],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -6632,7 +7888,9 @@
               }
             }
           },
-          "productPageName": ["us-college-and-universities"],
+          "productPageName": [
+            "us-college-and-universities"
+          ],
           "created": "2020-12-15T20:54:35.701Z",
           "updated": "2021-03-03T14:28:14.153Z",
           "company": {
@@ -6663,6 +7921,10 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
                 "certification": {
                   "operatorCapabilities": 0
                 },

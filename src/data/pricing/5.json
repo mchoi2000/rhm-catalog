@@ -1,146 +1,510 @@
 {
   "editions": [
-    {
-      "_id": "60ba666260be23002afa901e",
-      "id": "rhmccp-9cf93470-b1e6-454a-bebd-3302208de924",
-      "type": "Purchase",
-      "productId": "57d43454c364f4df386a813532a00ab3",
-      "productName": "CockroachDB Operator",
-      "name": "CockroachDB Enterprise (Self-hosted)",
-      "description": "CockroachDB Enterprise adds features and capabilities to support global applications and critical workloads.",
-      "created": 1622828642192,
-      "updated": 1622828644659,
-      "version": 3.1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual", "Monthly"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D043SZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 150
-                },
-                {
-                  "currency": "CAD",
-                  "price": 195
-                }
-              ],
-              "id": "e71b225e-7fa6-4d5c-a623-5022e80e4f71"
-            }
+      {
+          "_id": "60be583b3764240013ada17f",
+          "id": "rhmccp-9af2b8d7-dd6f-4f01-80b7-e73f2a5d8b52",
+          "type": "FreeEdition",
+          "productId": "c4a833f11e311146a23c643651068b75",
+          "productName": "Kasten K10",
+          "name": "Kasten K10 (Free)",
+          "description": "The Kasten K10 Starter Edition is a fully-featured license for Kubernetes application backup and mobility. More details at: https://www.kasten.io/product/",
+          "category": "Product",
+          "created": 1623087163023,
+          "updated": 1623173875020,
+          "version": 1,
+          "editionCharges": [
+              {
+                  "created": 1623087163024,
+                  "id": "60be583b3764240013ada17e",
+                  "vendorChargeId": "RHMFreemBq63Ltkmj1xUeN5aDQT2d",
+                  "defaultQuantity": 1,
+                  "maximumQuantity": 1,
+                  "minimumQuantity": 1,
+                  "priceModel": "Standard",
+                  "type": "Recurring",
+                  "sequence": 1,
+                  "required": true,
+                  "useInStartingPriceCalculation": true,
+                  "tiers": [
+                      {
+                          "startingUnit": 1,
+                          "pricing": [
+                              {
+                                  "currency": "USD",
+                                  "price": 0
+                              }
+                          ]
+                      }
+                  ],
+                  "metadata": {
+                      "chargeSyncRequired": true
+                  },
+                  "updated": 1623087163024,
+                  "name": "Free Edition",
+                  "description": "",
+                  "uom": {
+                      "identifier": "Each",
+                      "multiplier": 1,
+                      "created": 1586264548996,
+                      "updated": 1586264548996,
+                      "supportUsageChargeType": false,
+                      "singularName": "Each",
+                      "pluralName": "Each",
+                      "suffix": "",
+                      "inputLabel": "",
+                      "summaryLabel": ""
+                  }
+              }
           ],
-          "id": "5f3415e437144a00155da38b",
-          "created": 1597248996049,
-          "updated": 1599230260365,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D043SZX",
-            "zuoraRatePlanChargeId": "2c92a01074a2c9720174b6ab8dcc2256",
-            "zuoraRatePlanId": "2c92a00d74a2d65c0174b6ab8b8915b3"
-          },
-          "name": "Virtual Proccesor Unit",
-          "uom": {
-            "identifier": "VirtualProcessorUnit",
-            "multiplier": 1,
-            "created": 1597266875712,
-            "updated": 1597266875712,
-            "supportUsageChargeType": false,
-            "singularName": "Virtual processor unit",
-            "pluralName": "Virtual processor units",
-            "suffix": "per virtual processor unit",
-            "inputLabel": "Enter number of virtual processor units",
-            "summaryLabel": "Number of virtual processor units"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60be583b3764240013ada17f",
-      "id": "rhmccp-9af2b8d7-dd6f-4f01-80b7-e73f2a5d8b52",
-      "type": "FreeEdition",
-      "productId": "c4a833f11e311146a23c643651068b75",
-      "productName": "Kasten K10",
-      "name": "Kasten K10 (Free)",
-      "description": "The Kasten K10 Starter Edition is a fully-featured license for Kubernetes application backup and mobility. More details at: https://www.kasten.io/product/",
-      "category": "Product",
-      "created": 1623087163023,
-      "updated": 1623173875020,
-      "version": 1,
-      "editionCharges": [
-        {
-          "created": 1623087163024,
-          "id": "60be583b3764240013ada17e",
-          "vendorChargeId": "RHMFreemBq63Ltkmj1xUeN5aDQT2d",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ]
-            }
+          "termUnit": "Month",
+          "allowedBillingFrequencies": null,
+          "allowedSubscriptionTerms": null,
+          "cooldownPeriod": null,
+          "group": null,
+          "trialGracePeriod": null,
+          "trialTerm": null,
+          "status": "Published",
+          "drafts": [],
+          "revisions": []
+      },
+      {
+          "_id": "60c2054d3764240013ada183",
+          "id": "rhmccp-462185ef-0377-4345-bb12-3e12481d91d2",
+          "type": "Purchase",
+          "productId": "31bc4f5a5ec687ff965fbbcf178e1835",
+          "productName": "Dynatrace",
+          "name": "Full Stack Monitoring Quick Start",
+          "description": "Your lead consultant begins by assessing your current monitoring needs & analyzing your current monitoring use case. Utilize both training & deployment features",
+          "created": 1623328077178,
+          "updated": 1623354633055,
+          "version": 6,
+          "termUnit": "Month",
+          "allowedBillingFrequencies": [
+              "Annual"
           ],
-          "metadata": {
-            "chargeSyncRequired": true
-          },
-          "updated": 1623087163024,
-          "name": "Free Edition",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Month",
-      "allowedBillingFrequencies": null,
-      "allowedSubscriptionTerms": null,
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    }
+          "allowedSubscriptionTerms": [
+              12
+          ],
+          "trialTerm": null,
+          "editionCharges": [
+              {
+                  "sequence": 1,
+                  "type": "Recurring",
+                  "priceModel": "Standard",
+                  "priceFrequency": "Annual",
+                  "required": true,
+                  "minimumQuantity": 1,
+                  "maximumQuantity": 0,
+                  "defaultQuantity": 1,
+                  "useInStartingPriceCalculation": true,
+                  "vendorChargeId": "D034PZX",
+                  "tiers": [
+                      {
+                          "startingUnit": 1,
+                          "pricing": [
+                              {
+                                  "currency": "USD",
+                                  "price": 13625
+                              },
+                              {
+                                  "currency": "CAD",
+                                  "price": 17712.5
+                              }
+                          ],
+                          "id": "b415347b-1396-4ffc-90a3-5372cdf35c5c"
+                      }
+                  ],
+                  "id": "5eeb75a8f86df80013620d93",
+                  "created": 1592489384572,
+                  "updated": 1622657407813,
+                  "usageReportingType": "Cumulative",
+                  "metadata": {
+                      "chargeSyncRequired": false,
+                      "ibmPartNumber": "D034PZX",
+                      "zuoraRatePlanChargeId": "2c92a0087453311401745a26d0854480",
+                      "zuoraRatePlanId": "2c92a00774531e9701745a26cdd012ef"
+                  },
+                  "name": "Full Stack Monitoring Quick Start",
+                  "uom": {
+                      "identifier": "Item",
+                      "multiplier": 1,
+                      "created": 1586264541395,
+                      "updated": 1586264541395,
+                      "supportUsageChargeType": false,
+                      "singularName": "Item",
+                      "pluralName": "Items",
+                      "suffix": "per item",
+                      "inputLabel": "Enter number of items",
+                      "summaryLabel": "Number of items"
+                  }
+              }
+          ],
+          "cooldownPeriod": null,
+          "group": null,
+          "trialGracePeriod": null,
+          "status": "Published",
+          "drafts": [],
+          "revisions": []
+      },
+      {
+          "_id": "60c3ed32a92dca0013cee8a5",
+          "id": "rhmccp-79458f9d-0b9d-4cd1-8de1-edab0a7c9c49",
+          "type": "FreeTrial",
+          "productId": "1f61eaa98bd10fee8bab486cc75a7ff1",
+          "productName": "Redis Labs Enterprise",
+          "name": "Redis Enterprise,  Trial Edition",
+          "description": "Download Redis Enterprise Software 6.0.20, the most secure Redis experience. This edition will give you the full functionality of Redis Enterprise for 30 days.",
+          "trialTerm": 30,
+          "trialGracePeriod": 10,
+          "category": "Product",
+          "created": 1623452978786,
+          "updated": 1623790174785,
+          "version": 1,
+          "editionCharges": [
+              {
+                  "created": 1623452978787,
+                  "id": "60c3ed32a92dca0013cee8a4",
+                  "vendorChargeId": "RHMTrialt8dsNEFmvM7zmJCghrUZys",
+                  "defaultQuantity": 1,
+                  "maximumQuantity": 1,
+                  "minimumQuantity": 1,
+                  "priceModel": "Standard",
+                  "type": "Recurring",
+                  "sequence": 1,
+                  "required": true,
+                  "useInStartingPriceCalculation": true,
+                  "tiers": [
+                      {
+                          "startingUnit": 1,
+                          "pricing": [
+                              {
+                                  "currency": "USD",
+                                  "price": 0
+                              }
+                          ]
+                      }
+                  ],
+                  "metadata": {
+                      "chargeSyncRequired": true
+                  },
+                  "updated": 1623452978787,
+                  "name": "Free Trial",
+                  "description": "",
+                  "uom": {
+                      "identifier": "Each",
+                      "multiplier": 1,
+                      "created": 1586264548996,
+                      "updated": 1586264548996,
+                      "supportUsageChargeType": false,
+                      "singularName": "Each",
+                      "pluralName": "Each",
+                      "suffix": "",
+                      "inputLabel": "",
+                      "summaryLabel": ""
+                  }
+              }
+          ],
+          "termUnit": "Day",
+          "allowedBillingFrequencies": null,
+          "allowedSubscriptionTerms": null,
+          "cooldownPeriod": null,
+          "group": null,
+          "status": "Published",
+          "drafts": [],
+          "revisions": []
+      },
+      {
+          "_id": "60c79b09bbba0a00147693c9",
+          "id": "rhmccp-346e6f33-84a6-4738-aac8-2d33e4e30938",
+          "type": "FreeTrial",
+          "productId": "df9d590d17f70ec486b8b72ce69434c4",
+          "productName": "IBM Cloud Pak for Business Automation",
+          "name": "Free Trial",
+          "description": "Free trial for Cloud Pak for Business Automation. Designed for exploring the full capabilities of the platform prior to purchase.",
+          "trialTerm": 90,
+          "trialGracePeriod": 15,
+          "category": "Product",
+          "created": 1623694089751,
+          "updated": 1623870882863,
+          "version": 1,
+          "editionCharges": [
+              {
+                  "created": 1623694089751,
+                  "id": "60c79b09bbba0a00147693c8",
+                  "vendorChargeId": "RHMTrial3Ha4nMS28oig1kBcXfEmaf",
+                  "defaultQuantity": 1,
+                  "maximumQuantity": 1,
+                  "minimumQuantity": 1,
+                  "priceModel": "Standard",
+                  "type": "Recurring",
+                  "sequence": 1,
+                  "required": true,
+                  "useInStartingPriceCalculation": true,
+                  "tiers": [
+                      {
+                          "startingUnit": 1,
+                          "pricing": [
+                              {
+                                  "currency": "USD",
+                                  "price": 0
+                              }
+                          ]
+                      }
+                  ],
+                  "metadata": {
+                      "chargeSyncRequired": true
+                  },
+                  "updated": 1623694089751,
+                  "name": "Free Trial",
+                  "description": "",
+                  "uom": {
+                      "identifier": "Each",
+                      "multiplier": 1,
+                      "created": 1586264548996,
+                      "updated": 1586264548996,
+                      "supportUsageChargeType": false,
+                      "singularName": "Each",
+                      "pluralName": "Each",
+                      "suffix": "",
+                      "inputLabel": "",
+                      "summaryLabel": ""
+                  }
+              }
+          ],
+          "termUnit": "Day",
+          "allowedBillingFrequencies": null,
+          "allowedSubscriptionTerms": null,
+          "cooldownPeriod": null,
+          "group": null,
+          "status": "Published",
+          "drafts": [],
+          "revisions": []
+      },
+      {
+          "_id": "60c7e24cfbfc5a0013bba05f",
+          "id": "rhmccp-d014f8ac-5dff-42d7-95ca-e1ec19f91933",
+          "type": "Purchase",
+          "productId": "1f61eaa98bd10fee8bab486cc75a7ff1",
+          "productName": "Redis Labs Enterprise",
+          "name": "Redis Enterprise Software",
+          "description": "Redis Enterprise Software Ultimate Shard, Production Environment, 1-Year Subscription",
+          "category": "Product",
+          "created": 1623712332461,
+          "updated": 1623776617706,
+          "version": 2,
+          "termUnit": "Month",
+          "allowedBillingFrequencies": [
+              "Annual"
+          ],
+          "allowedSubscriptionTerms": [
+              12
+          ],
+          "cooldownPeriod": null,
+          "group": null,
+          "trialGracePeriod": null,
+          "trialTerm": null,
+          "editionCharges": [
+              {
+                  "sequence": 0,
+                  "type": "Recurring",
+                  "priceModel": "Standard",
+                  "priceFrequency": "Annual",
+                  "required": true,
+                  "minimumQuantity": 1,
+                  "maximumQuantity": 0,
+                  "defaultQuantity": 1,
+                  "useInStartingPriceCalculation": false,
+                  "vendorChargeId": "D05UFZX",
+                  "tiers": [
+                      {
+                          "startingUnit": 1,
+                          "pricing": [
+                              {
+                                  "currency": "USD",
+                                  "price": 10000
+                              }
+                          ],
+                          "id": "8e30ed0a-f0c0-461a-b30e-31bf4f356082"
+                      }
+                  ],
+                  "chargeDescription": "",
+                  "id": "609d91467cc485001388a189",
+                  "created": 1620939078722,
+                  "updated": 1623702836764,
+                  "usageReportingType": "Cumulative",
+                  "metadata": {
+                      "chargeSyncRequired": false,
+                      "ibmPartNumber": "D05UFZX",
+                      "zuoraRatePlanChargeId": "2c92a01179faffe2017a0ca8907d2554",
+                      "zuoraRatePlanId": "2c92a0fe79faf377017a0ca88db74ae2"
+                  },
+                  "name": "Redis Enterprise Software, Production Environment",
+                  "uom": {
+                      "identifier": "Shard_sub",
+                      "supportUsageChargeType": false,
+                      "multiplier": 1,
+                      "created": 1620850435359,
+                      "updated": 1620850435359,
+                      "singularName": "Shard",
+                      "pluralName": "Shards",
+                      "suffix": "per shard",
+                      "inputLabel": "Enter the number shards",
+                      "summaryLabel": "Number of shards"
+                  }
+              }
+          ],
+          "status": "Published",
+          "drafts": [],
+          "revisions": []
+      },
+      {
+          "_id": "60ca20cd744002001396e08f",
+          "id": "rhmccp-f5f978ad-5a64-4fc7-8bde-bd26eacadcc0",
+          "type": "Purchase",
+          "productId": "df9d590d17f70ec486b8b72ce69434c4",
+          "productName": "IBM Cloud Pak for Business Automation",
+          "name": "Monthly Subscription",
+          "description": "Flexible, comprehensive platform which specializes in business automation capabilities. ",
+          "category": "Product",
+          "created": 1623859405267,
+          "updated": 1623867613980,
+          "version": 2,
+          "termUnit": "Month",
+          "allowedBillingFrequencies": [
+              "Monthly"
+          ],
+          "allowedSubscriptionTerms": [
+              1
+          ],
+          "cooldownPeriod": null,
+          "group": null,
+          "trialGracePeriod": null,
+          "trialTerm": null,
+          "editionCharges": [
+              {
+                  "sequence": 1,
+                  "type": "Recurring",
+                  "priceModel": "Standard",
+                  "priceFrequency": "Monthly",
+                  "required": true,
+                  "minimumQuantity": 1,
+                  "maximumQuantity": 0,
+                  "defaultQuantity": 1,
+                  "useInStartingPriceCalculation": true,
+                  "vendorChargeId": "D20RNLL",
+                  "tiers": [
+                      {
+                          "startingUnit": 1,
+                          "pricing": [
+                              {
+                                  "currency": "USD",
+                                  "price": 902
+                              },
+                              {
+                                  "currency": "CAD",
+                                  "price": 1172.6
+                              }
+                          ],
+                          "id": "5f547ea5-528c-4bf9-bfc7-8198af4bb091"
+                      }
+                  ],
+                  "chargeDescription": "",
+                  "id": "60b7c3c1758b470013a51363",
+                  "created": 1622655937478,
+                  "updated": 1622737642517,
+                  "usageReportingType": "Cumulative",
+                  "metadata": {
+                      "chargeSyncRequired": false,
+                      "ibmPartNumber": "D20RNLL",
+                      "zuoraRatePlanChargeId": "2c92a00f7a1306f2017a158eed272cb0",
+                      "zuoraRatePlanId": "2c92a0087a1306c9017a158eea226e6e"
+                  },
+                  "name": "Virtual; Processor Core",
+                  "uom": {
+                      "identifier": "VirtualProcessorCore",
+                      "multiplier": 1,
+                      "created": 1586264545764,
+                      "updated": 1586264545764,
+                      "supportUsageChargeType": false,
+                      "singularName": "Virtual Processor Core",
+                      "pluralName": "Virtual Processor Cores",
+                      "suffix": "per virtual processor core",
+                      "inputLabel": "Enter number of virtual processor cores",
+                      "summaryLabel": "Number of virtual processor cores"
+                  }
+              }
+          ],
+          "status": "Published",
+          "drafts": [],
+          "revisions": []
+      },
+      {
+          "_id": "60d0ca5210f805001350ccf2",
+          "id": "rhmccp-23ccfc00-0677-4b6d-8e71-5cfa1b37e052",
+          "type": "FreeTrial",
+          "productId": "d70cb8a483554049b636c6be8490c3f8",
+          "productName": "Operator Service for Jenkins",
+          "name": "Trial",
+          "description": "This is a trial edition of Operator Service for Jenkins including all paid features.",
+          "trialTerm": 14,
+          "trialGracePeriod": 10,
+          "category": "Product",
+          "created": 1624296018470,
+          "updated": 1624297926828,
+          "version": 1,
+          "editionCharges": [
+              {
+                  "created": 1624296018470,
+                  "id": "60d0ca5210f805001350ccf1",
+                  "vendorChargeId": "rhm-trial",
+                  "defaultQuantity": 1,
+                  "maximumQuantity": 1,
+                  "minimumQuantity": 1,
+                  "priceModel": "Standard",
+                  "type": "Recurring",
+                  "sequence": 1,
+                  "required": true,
+                  "useInStartingPriceCalculation": true,
+                  "tiers": [
+                      {
+                          "startingUnit": 1,
+                          "pricing": [
+                              {
+                                  "currency": "USD",
+                                  "price": 0
+                              }
+                          ]
+                      }
+                  ],
+                  "metadata": {
+                      "chargeSyncRequired": true
+                  },
+                  "updated": 1624296018470,
+                  "name": "Free Trial",
+                  "description": "",
+                  "uom": {
+                      "identifier": "Each",
+                      "multiplier": 1,
+                      "created": 1586264548996,
+                      "updated": 1586264548996,
+                      "supportUsageChargeType": false,
+                      "singularName": "Each",
+                      "pluralName": "Each",
+                      "suffix": "",
+                      "inputLabel": "",
+                      "summaryLabel": ""
+                  }
+              }
+          ],
+          "termUnit": "Day",
+          "allowedBillingFrequencies": null,
+          "allowedSubscriptionTerms": null,
+          "cooldownPeriod": null,
+          "group": null,
+          "status": "Published",
+          "drafts": [],
+          "revisions": []
+      }
   ],
-  "count": 402
+  "count": 407
 }
