@@ -52,6 +52,7 @@ class ProductList extends React.Component {
       let paygoPrice = null;
       let chargeUnit = '';
       let priceFrequency = ''; // annual, monthly
+      let supportedCountries = []; // US, CA
 
       // editions per product
       if (editions) {
@@ -59,6 +60,9 @@ class ProductList extends React.Component {
           const editionId = edi.id;
           const type = edi.publishedEditionContent.planType;
           const chargeTypes = edi.publishedEditionContent.chargeTypes;
+          const countries = edi.publishedEditionContent.supportedCountries;
+          if (countries.length > supportedCountries.length)
+            supportedCountries = countries;
 
           if (type === 'SELF_SERVICE' || type === 'PURCHASE') {
             if (
@@ -147,6 +151,10 @@ class ProductList extends React.Component {
       }
 
       let edition = editionType.sort().join(', ');
+      let countries = supportedCountries
+        .sort()
+        .reverse()
+        .join(';, ');
 
       let packType =
         editions[0].publishedEditionContent.packageType === 'OPERATOR'
@@ -187,6 +195,7 @@ class ProductList extends React.Component {
         company: comp,
         category1,
         category2,
+        countries,
         edition,
         starting,
         startingAtPrice,
@@ -208,10 +217,11 @@ class ProductList extends React.Component {
         'product',
         'company',
         'category',
+        'countries',
         // 'secondary category',
         'edition',
-        'price (USD)',
-        'unit',
+        'starting at (USD)',
+        'pricing unit',
         'term',
         'type',
         'capabilities',
@@ -226,9 +236,10 @@ class ProductList extends React.Component {
         if (key === '') sort = 'product';
         else if (key === 'capabilities') sort = '-level';
         else if (key === 'category') sort = 'category1';
+        else if (key === 'countries') sort = '-countries';
         // else if (key == 'secondary category') sort = '-category2';
-        else if (key === 'price (USD)') sort = 'startingAtPrice';
-        else if (key === 'unit') sort = '-chargeUnit';
+        else if (key === 'starting at (USD)') sort = 'startingAtPrice';
+        else if (key === 'pricing unit') sort = '-chargeUnit';
         else if (key === 'term') sort = '-priceFrequency';
         else if (key === 'operator') sort = '-operator';
         else if (key === 'type') sort = '-packType';
@@ -253,6 +264,7 @@ class ProductList extends React.Component {
           page,
           company,
           category1,
+          countries,
           // category2,
           edition,
           starting,
@@ -276,6 +288,18 @@ class ProductList extends React.Component {
             </td>
             <td>{company}</td>
             <td>{category1}</td>
+            <td>
+              {countries.split(';').map(country => {
+                let cc = country[0] === ',' ? country.substr(2) : country;
+                cc = cc.trim().toLowerCase();
+                const url = `https://marketplace.redhat.com/en-${cc}/products/${page}/pricing`;
+                return (
+                  <a href={url} rel="noreferrer" target="_blank">
+                    {country}
+                  </a>
+                );
+              })}
+            </td>
             {/* <td>{category2}</td> */}
             <td>{edition}</td>
             <td>{starting}</td>
