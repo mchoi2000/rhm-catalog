@@ -17,7 +17,6 @@ class DatasetList extends React.Component {
 
   render() {
     const updated = this.props.updated;
-    console.log(updated);
     const datasets = GetDatasets()[0];
     const datalist = datasets.map(prod => {
       let category1 = prod.primaryCategory

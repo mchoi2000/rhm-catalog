@@ -1,4 +1,5 @@
 const prices = {
+  'Adaptive Integration Fabric': 2000,
   'Akka Platform Operator': 250,
   'Anaconda Team Edition': 12500,
   'Anchore Enterprise': 37080,
@@ -22,6 +23,7 @@ const prices = {
   'E.D.D.I': 1645,
   'Federator.ai': 40,
   'Findability Platform Predict Plus': 14400,
+  'FUJITSU Enterprise Postgres for Kubernetes': 1300,
   'GigaSpaces InsightEdge': 216000,
   'Hazelcast IMDG': 1500000,
   'Hazelcast Jet': 1500000,
@@ -40,6 +42,7 @@ const prices = {
   KubeMQ: 5000,
   'KubePlus SaaS manager': 500,
   'LINBIT SDS': 9999,
+  'MinIO Hybrid Cloud Object Storage': 10,
   'MongoDB Enterprise Advanced from IBM': 7716,
   'Nastel Navigator': 520,
   'Nastel XRay': 100,

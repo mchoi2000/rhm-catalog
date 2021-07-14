@@ -1,9 +1,88 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 217,
-      "cursor": "5fd9228b1e80250013ddd5f8",
+      "totalCount": 219,
+      "cursor": "5fd9225c1e80250013ddd5f6",
       "products": [
+        {
+          "id": "e1dab7426c40b61dd0c53c35c26b2a85",
+          "publishedContent": {
+            "title": "US Roads",
+            "formats": [
+              "SHP"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "GOVERNMENT",
+              "TRANSPORTATION"
+            ],
+            "assetUpdatedInfo": {
+              "frequency": "ANNUALLY",
+              "source": {
+                "name": "United States Census Bureau",
+                "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+              }
+            }
+          },
+          "productPageName": [
+            "us-roads"
+          ],
+          "created": "2020-12-15T16:34:06.206Z",
+          "updated": "2021-01-07T16:18:42.599Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-f7ae3d6d-97bb-4286-b0a4-5b5cce68d08f",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": " All roads including primary, secondary, local neighborhood"
+                    },
+                    {
+                      "value": "Rural and roads as well as city streets, vehicular trails (4WD), ralleys, and private roads"
+                    },
+                    {
+                      "value": "Geographic definition of all US roads"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
         {
           "id": "e1dab7426c40b61dd0c53c35c272d381",
           "publishedContent": {
@@ -111,7 +190,7 @@
             "world-development-indicators-wdi"
           ],
           "created": "2020-12-15T16:37:06.134Z",
-          "updated": "2021-01-05T00:21:58.698Z",
+          "updated": "2021-06-30T12:39:16.662Z",
           "company": {
             "name": "Public Datasets"
           },
@@ -140,8 +219,9 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": [
+                  "CA",
                   "US"
                 ],
                 "certification": {
@@ -583,7 +663,7 @@
             "health-nutrition-and-population-statitics"
           ],
           "created": "2020-12-15T16:43:31.107Z",
-          "updated": "2020-12-28T13:15:48.774Z",
+          "updated": "2021-06-30T12:36:30.893Z",
           "company": {
             "name": "Public Datasets"
           },
@@ -612,8 +692,9 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": [
+                  "CA",
                   "US"
                 ],
                 "certification": {
@@ -2809,7 +2890,7 @@
             "global-health-security-index-ghs"
           ],
           "created": "2020-12-15T17:35:13.930Z",
-          "updated": "2021-01-05T00:22:30.407Z",
+          "updated": "2021-06-24T14:36:27.533Z",
           "company": {
             "name": "Public Datasets"
           },
@@ -2838,8 +2919,9 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": [
+                  "CA",
                   "US"
                 ],
                 "certification": {
@@ -4406,7 +4488,7 @@
             "covid-19-data-repository-by-csse-at-jhu"
           ],
           "created": "2020-12-15T18:14:24.959Z",
-          "updated": "2021-01-08T14:16:23.339Z",
+          "updated": "2021-06-30T12:41:16.704Z",
           "company": {
             "name": "Public Datasets"
           },
@@ -4435,8 +4517,9 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": [
+                  "CA",
                   "US"
                 ],
                 "certification": {
@@ -5988,7 +6071,7 @@
             "global-historical-yield-of-major-crops"
           ],
           "created": "2020-12-15T20:34:24.452Z",
-          "updated": "2021-01-05T00:13:29.899Z",
+          "updated": "2021-06-25T11:18:25.390Z",
           "company": {
             "name": "Public Datasets"
           },
@@ -6017,8 +6100,9 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": [
+                  "CA",
                   "US"
                 ],
                 "certification": {
@@ -6621,7 +6705,7 @@
             "global-economic-monitor"
           ],
           "created": "2020-12-15T20:41:57.051Z",
-          "updated": "2020-12-30T13:13:06.453Z",
+          "updated": "2021-06-30T12:32:43.896Z",
           "company": {
             "name": "Public Datasets"
           },
@@ -6654,8 +6738,9 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": [
+                  "CA",
                   "US"
                 ],
                 "certification": {
@@ -6704,7 +6789,7 @@
             "global-population-estimates-and-projections"
           ],
           "created": "2020-12-15T20:42:29.854Z",
-          "updated": "2020-12-29T15:06:28.887Z",
+          "updated": "2021-06-30T12:31:50.255Z",
           "company": {
             "name": "Public Datasets"
           },
@@ -6737,8 +6822,9 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": [
+                  "CA",
                   "US"
                 ],
                 "certification": {
@@ -7185,7 +7271,7 @@
             "border-crossing-entry-data"
           ],
           "created": "2020-12-15T20:47:51.722Z",
-          "updated": "2021-01-07T16:21:49.401Z",
+          "updated": "2021-06-30T12:54:21.129Z",
           "company": {
             "name": "Public Datasets"
           },
@@ -7214,8 +7300,9 @@
                 "partNumbers": null,
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": [
+                  "CA",
                   "US"
                 ],
                 "certification": {
@@ -7860,84 +7947,6 @@
                     },
                     {
                       "value": "For the 2017-2018 school year."
-                    }
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "id": "642fc1e8da34c82de8860f4c9d535d34",
-          "publishedContent": {
-            "title": "US College And Universities",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "CITY"
-            ],
-            "industries": [
-              "EDUCATION"
-            ],
-            "assetUpdatedInfo": {
-              "frequency": "MONTHLY",
-              "source": {
-                "name": "HIFLD",
-                "url": "https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities"
-              }
-            }
-          },
-          "productPageName": [
-            "us-college-and-universities"
-          ],
-          "created": "2020-12-15T20:54:35.701Z",
-          "updated": "2021-03-03T14:28:14.153Z",
-          "company": {
-            "name": "Public Datasets"
-          },
-          "primaryCategory": {
-            "categoryPageName": "datasets",
-            "content": {
-              "name": "datasets"
-            }
-          },
-          "categories": [
-            {
-              "categoryPageName": "datasets",
-              "content": {
-                "name": "datasets"
-              }
-            }
-          ],
-          "editions": [
-            {
-              "id": "rhmccp-23a2a3ee-e0f6-4430-a75d-76fbf57feb62",
-              "publishedEditionContent": {
-                "packageName": "",
-                "openShiftVersion": null,
-                "packageType": "DOWNLOAD",
-                "planType": "FREE",
-                "partNumbers": null,
-                "chargeTypes": null,
-                "repositoryUrl": null,
-                "audience": null,
-                "supportedCountries": [
-                  "US"
-                ],
-                "certification": {
-                  "operatorCapabilities": 0
-                },
-                "localizedContent": {
-                  "planDetails": [
-                    {
-                      "value": "Composed of all Post Secondary Education facilities."
-                    },
-                    {
-                      "value": "Assortment of school are included."
-                    },
-                    {
-                      "value": "The 2018-2019 school year."
                     }
                   ]
                 }

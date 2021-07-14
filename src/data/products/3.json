@@ -1,9 +1,87 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 217,
+      "totalCount": 219,
       "cursor": null,
       "products": [
+        {
+          "id": "642fc1e8da34c82de8860f4c9d535d34",
+          "publishedContent": {
+            "title": "US College And Universities",
+            "formats": [
+              "CSV"
+            ],
+            "topics": [
+              "CITY"
+            ],
+            "industries": [
+              "EDUCATION"
+            ],
+            "assetUpdatedInfo": {
+              "frequency": "MONTHLY",
+              "source": {
+                "name": "HIFLD",
+                "url": "https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities"
+              }
+            }
+          },
+          "productPageName": [
+            "us-college-and-universities"
+          ],
+          "created": "2020-12-15T20:54:35.701Z",
+          "updated": "2021-03-03T14:28:14.153Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-23a2a3ee-e0f6-4430-a75d-76fbf57feb62",
+              "publishedEditionContent": {
+                "packageName": "",
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": [
+                  "US"
+                ],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Composed of all Post Secondary Education facilities."
+                    },
+                    {
+                      "value": "Assortment of school are included."
+                    },
+                    {
+                      "value": "The 2018-2019 school year."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
         {
           "id": "085264f95c976af549b9dfa446ae251f",
           "publishedContent": {
@@ -1205,7 +1283,7 @@
             "red-hat-openshift-dedicated"
           ],
           "created": "2021-02-16T19:49:10.204Z",
-          "updated": "2021-06-01T17:09:23.242Z",
+          "updated": "2021-07-01T18:03:40.998Z",
           "company": {
             "name": "Red Hat OpenShift Dedicated"
           },
@@ -1678,6 +1756,153 @@
             },
             {
               "id": "rhmccp-bb512409-a877-4596-a7ad-46d5d46c4023",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-0bbd2bc7-37d6-4853-8f84-9631682480e2",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-791caf78-17ed-49f8-9058-7db01bb8a2ae",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-39bc8a30-7f17-4eff-bd97-c5b424265782",
+              "publishedEditionContent": null
+            }
+          ]
+        },
+        {
+          "id": "0fcac3e12ebd82e550bb1a8fdb534689",
+          "publishedContent": {
+            "title": "MinIO Hybrid Cloud Object Storage",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": [
+            "minio-hybrid-cloud-object-storage"
+          ],
+          "created": "2021-06-08T20:47:22.843Z",
+          "updated": "2021-07-12T21:44:21.523Z",
+          "company": {
+            "name": "MinIO Inc"
+          },
+          "primaryCategory": {
+            "categoryPageName": "storage",
+            "content": {
+              "name": "Storage"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "storage",
+              "content": {
+                "name": "Storage"
+              }
+            },
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "big-data",
+              "content": {
+                "name": "Big Data"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-6560f6ea-902a-4ed3-a8c9-5efb2bfa541e",
+              "publishedEditionContent": {
+                "packageName": "minio-operator-rhmp",
+                "openShiftVersion": "4.7+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": [
+                  "Recurring"
+                ],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": [
+                  "CA",
+                  "US"
+                ],
+                "certification": {
+                  "operatorCapabilities": 3
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "24/7/365 direct to engineer, level 4 support. No escalations required. "
+                    },
+                    {
+                      "value": "Less than or equal to 48 hours SLA"
+                    },
+                    {
+                      "value": "1 year long term support of older versions of software"
+                    },
+                    {
+                      "value": "1 Panic Button Per Year"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-d3211707-be25-455e-b207-e510b5ac85b5",
+              "publishedEditionContent": {
+                "packageName": "minio-operator-rhmp",
+                "openShiftVersion": "4.7+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": [
+                  "Recurring"
+                ],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": [
+                  "CA",
+                  "US"
+                ],
+                "certification": {
+                  "operatorCapabilities": 3
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "24/7/365 direct to engineer, level 4 support. No escalations required. "
+                    },
+                    {
+                      "value": "Less than or equal to 1 hour SLA"
+                    },
+                    {
+                      "value": "5 year long term support of older versions of software"
+                    },
+                    {
+                      "value": "Unlimited Panic Buttons Per Year"
+                    },
+                    {
+                      "value": "Annual Architecture Review"
+                    },
+                    {
+                      "value": "Annual Performance Review"
+                    },
+                    {
+                      "value": "Annual Security and Policy Review"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-2c2bae27-0bd0-4f9b-a480-d41655508a22",
               "publishedEditionContent": null
             }
           ]
