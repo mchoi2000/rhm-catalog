@@ -1,22 +1,16 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 219,
+      "totalCount": 220,
       "cursor": null,
       "products": [
         {
           "id": "642fc1e8da34c82de8860f4c9d535d34",
           "publishedContent": {
             "title": "US College And Universities",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "CITY"
-            ],
-            "industries": [
-              "EDUCATION"
-            ],
+            "formats": ["CSV"],
+            "topics": ["CITY"],
+            "industries": ["EDUCATION"],
             "assetUpdatedInfo": {
               "frequency": "MONTHLY",
               "source": {
@@ -25,9 +19,7 @@
               }
             }
           },
-          "productPageName": [
-            "us-college-and-universities"
-          ],
+          "productPageName": ["us-college-and-universities"],
           "created": "2020-12-15T20:54:35.701Z",
           "updated": "2021-03-03T14:28:14.153Z",
           "company": {
@@ -59,9 +51,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": null,
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -86,16 +76,9 @@
           "id": "085264f95c976af549b9dfa446ae251f",
           "publishedContent": {
             "title": "NCUA Insured Credit Unions - 2017",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "ECONOMICS",
-              "HISTORICAL"
-            ],
-            "industries": [
-              "FINANCIAL_SERVICES"
-            ],
+            "formats": ["CSV"],
+            "topics": ["ECONOMICS", "HISTORICAL"],
+            "industries": ["FINANCIAL_SERVICES"],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -104,9 +87,7 @@
               }
             }
           },
-          "productPageName": [
-            "ncua-insured-credit-unions-2017"
-          ],
+          "productPageName": ["ncua-insured-credit-unions-2017"],
           "created": "2020-12-15T20:55:33.469Z",
           "updated": "2020-12-23T20:40:34.796Z",
           "company": {
@@ -138,9 +119,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": null,
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -165,16 +144,9 @@
           "id": "a178848ef91bbdd802b9728c190d8f44",
           "publishedContent": {
             "title": "Food Recall Enforcement Reports",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "EVENTS"
-            ],
-            "industries": [
-              "AGRICULTURE",
-              "PUBLIC_SAFETY"
-            ],
+            "formats": ["CSV"],
+            "topics": ["EVENTS"],
+            "industries": ["AGRICULTURE", "PUBLIC_SAFETY"],
             "assetUpdatedInfo": {
               "frequency": "WEEKLY",
               "source": {
@@ -183,9 +155,7 @@
               }
             }
           },
-          "productPageName": [
-            "food-recall-enforcement-reports"
-          ],
+          "productPageName": ["food-recall-enforcement-reports"],
           "created": "2020-12-15T20:56:43.535Z",
           "updated": "2021-03-03T14:54:29.697Z",
           "company": {
@@ -217,9 +187,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": null,
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -244,15 +212,9 @@
           "id": "f654804c423826dd1cff178ebace9cea",
           "publishedContent": {
             "title": "US Federal Reserve Systems",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "ECONOMICS"
-            ],
-            "industries": [
-              "FINANCIAL_SERVICES"
-            ],
+            "formats": ["CSV"],
+            "topics": ["ECONOMICS"],
+            "industries": ["FINANCIAL_SERVICES"],
             "assetUpdatedInfo": {
               "frequency": "ANNUALLY",
               "source": {
@@ -261,9 +223,7 @@
               }
             }
           },
-          "productPageName": [
-            "us-federal-reserve-systems"
-          ],
+          "productPageName": ["us-federal-reserve-systems"],
           "created": "2020-12-15T20:57:26.241Z",
           "updated": "2020-12-24T18:14:46.486Z",
           "company": {
@@ -295,9 +255,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": null,
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -322,15 +280,9 @@
           "id": "0cf3c266b6094c85544133322dda5682",
           "publishedContent": {
             "title": "COVID-19 Vaccine Distribution Allocations by Jurisdiction - Pfizer",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "COVID19"
-            ],
-            "industries": [
-              "HEALTHCARE"
-            ],
+            "formats": ["CSV"],
+            "topics": ["COVID19"],
+            "industries": ["HEALTHCARE"],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -373,9 +325,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": null,
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -400,15 +350,9 @@
           "id": "05dd4314eeac25066d6dd222cc653305",
           "publishedContent": {
             "title": "COVID-19 Vaccine Distribution Allocations by Jurisdiction - Moderna",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "COVID19"
-            ],
-            "industries": [
-              "HEALTHCARE"
-            ],
+            "formats": ["CSV"],
+            "topics": ["COVID19"],
+            "industries": ["HEALTHCARE"],
             "assetUpdatedInfo": {
               "frequency": "DAILY",
               "source": {
@@ -451,9 +395,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": null,
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -478,17 +420,9 @@
           "id": "29ca389b7e85dc34106eb78477e1164e",
           "publishedContent": {
             "title": "Provider Relief Fund COVID-19 High Impact Payments",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "COVID19",
-              "ECONOMICS"
-            ],
-            "industries": [
-              "GOVERNMENT",
-              "HEALTHCARE"
-            ],
+            "formats": ["CSV"],
+            "topics": ["COVID19", "ECONOMICS"],
+            "industries": ["GOVERNMENT", "HEALTHCARE"],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -535,9 +469,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -562,13 +494,8 @@
           "id": "708b3de36f9d2cf9bd9058d7d96a900b",
           "publishedContent": {
             "title": "US Railways",
-            "formats": [
-              "SHP"
-            ],
-            "topics": [
-              "CITY",
-              "MOBILITY"
-            ],
+            "formats": ["SHP"],
+            "topics": ["CITY", "MOBILITY"],
             "industries": [
               "GOVERNMENT",
               "TRANSPORTATION",
@@ -582,9 +509,7 @@
               }
             }
           },
-          "productPageName": [
-            "us-railways"
-          ],
+          "productPageName": ["us-railways"],
           "created": "2020-12-31T22:24:04.326Z",
           "updated": "2021-01-07T16:17:27.576Z",
           "company": {
@@ -616,9 +541,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": null,
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -648,9 +571,7 @@
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": [
-            "headspin-local"
-          ],
+          "productPageName": ["headspin-local"],
           "created": "2021-01-19T14:18:35.579Z",
           "updated": "2021-06-09T17:08:50.928Z",
           "company": {
@@ -691,15 +612,10 @@
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Recurring"
-                ],
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -739,15 +655,10 @@
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Recurring"
-                ],
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -790,10 +701,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -832,9 +740,7 @@
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": [
-            "headspin-compass"
-          ],
+          "productPageName": ["headspin-compass"],
           "created": "2021-01-21T22:10:49.924Z",
           "updated": "2021-06-09T17:03:49.810Z",
           "company": {
@@ -875,15 +781,10 @@
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Recurring"
-                ],
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -931,15 +832,10 @@
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Recurring"
-                ],
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 0
                 },
@@ -990,10 +886,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": null,
                 "localizedContent": {
                   "planDetails": [
@@ -1028,10 +921,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": null,
                 "localizedContent": {
                   "planDetails": [
@@ -1080,9 +970,7 @@
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": [
-            "kubeplus"
-          ],
+          "productPageName": ["kubeplus"],
           "created": "2021-01-25T21:17:07.992Z",
           "updated": "2021-06-08T16:50:13.885Z",
           "company": {
@@ -1134,9 +1022,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 1
                 },
@@ -1163,14 +1049,10 @@
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Recurring"
-                ],
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 1
                 },
@@ -1200,9 +1082,7 @@
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": [
-            "ibm-watson-studio"
-          ],
+          "productPageName": ["ibm-watson-studio"],
           "created": "2021-02-11T16:09:58.718Z",
           "updated": "2021-04-09T15:14:13.152Z",
           "company": {
@@ -1246,10 +1126,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 2
                 },
@@ -1279,11 +1156,9 @@
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": [
-            "red-hat-openshift-dedicated"
-          ],
+          "productPageName": ["red-hat-openshift-dedicated"],
           "created": "2021-02-16T19:49:10.204Z",
-          "updated": "2021-07-01T18:03:40.998Z",
+          "updated": "2021-07-22T14:51:33.515Z",
           "company": {
             "name": "Red Hat OpenShift Dedicated"
           },
@@ -1305,20 +1180,15 @@
             {
               "id": "rhmccp-ab121da6-4904-482e-9df8-8a5e618ff871",
               "publishedEditionContent": {
-                "packageName": "SaaS-j3WmF6fwkx3PA6NJiZywEF-rhmp",
+                "packageName": "SaaS-cJmwAgcVvd76bUSq8cuBvT-rhmp",
                 "openShiftVersion": "4.5+",
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Usage"
-                ],
+                "chargeTypes": ["Usage"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": null,
                 "localizedContent": {
                   "planDetails": [
@@ -1341,19 +1211,9 @@
           "id": "1234c362825cdcc5cfe3ee5608739136",
           "publishedContent": {
             "title": "IBM Debater Mention Detection Benchmark",
-            "formats": [
-              "ANN"
-            ],
-            "topics": [
-              "ANALYTICS",
-              "MACHINE_LEARNING",
-              "RESEARCH"
-            ],
-            "industries": [
-              "FINANCIAL_SERVICES",
-              "GOVERNMENT",
-              "RETAIL"
-            ],
+            "formats": ["ANN"],
+            "topics": ["ANALYTICS", "MACHINE_LEARNING", "RESEARCH"],
+            "industries": ["FINANCIAL_SERVICES", "GOVERNMENT", "RETAIL"],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -1362,9 +1222,7 @@
               }
             }
           },
-          "productPageName": [
-            "ibm-debater-mention-detection-benchmark"
-          ],
+          "productPageName": ["ibm-debater-mention-detection-benchmark"],
           "created": "2021-02-17T17:36:37.592Z",
           "updated": "2021-04-15T13:12:25.920Z",
           "company": {
@@ -1396,9 +1254,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": null,
                 "localizedContent": {
                   "planDetails": [
@@ -1424,19 +1280,9 @@
           "id": "0702ee0f60dfea433c99775066100227",
           "publishedContent": {
             "title": "Airline Reporting Carrier On-Time Performance Dataset",
-            "formats": [
-              "CSV"
-            ],
-            "topics": [
-              "ANALYTICS",
-              "MACHINE_LEARNING",
-              "RESEARCH"
-            ],
-            "industries": [
-              "GOVERNMENT",
-              "PUBLIC_ADMIN",
-              "TRANSPORTATION"
-            ],
+            "formats": ["CSV"],
+            "topics": ["ANALYTICS", "MACHINE_LEARNING", "RESEARCH"],
+            "industries": ["GOVERNMENT", "PUBLIC_ADMIN", "TRANSPORTATION"],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -1479,9 +1325,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": null,
                 "localizedContent": {
                   "planDetails": [
@@ -1507,20 +1351,9 @@
           "id": "b79c05046572fdda63b07614ad603630",
           "publishedContent": {
             "title": "IBM Debater Sentiment Composition Lexicons",
-            "formats": [
-              "TXT",
-              "XLS"
-            ],
-            "topics": [
-              "ANALYTICS",
-              "MACHINE_LEARNING",
-              "RESEARCH"
-            ],
-            "industries": [
-              "FINANCIAL_SERVICES",
-              "INSURANCE",
-              "RETAIL"
-            ],
+            "formats": ["TXT", "XLS"],
+            "topics": ["ANALYTICS", "MACHINE_LEARNING", "RESEARCH"],
+            "industries": ["FINANCIAL_SERVICES", "INSURANCE", "RETAIL"],
             "assetUpdatedInfo": {
               "frequency": "HISTORICAL",
               "source": {
@@ -1529,9 +1362,7 @@
               }
             }
           },
-          "productPageName": [
-            "ibm-debater-sentiment-composition-lexicons"
-          ],
+          "productPageName": ["ibm-debater-sentiment-composition-lexicons"],
           "created": "2021-02-24T14:42:26.343Z",
           "updated": "2021-04-15T13:16:59.676Z",
           "company": {
@@ -1563,9 +1394,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": null,
                 "localizedContent": {
                   "planDetails": [
@@ -1596,11 +1425,9 @@
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": [
-            "node-red-operator"
-          ],
+          "productPageName": ["node-red-operator"],
           "created": "2021-03-03T21:14:21.493Z",
-          "updated": "2021-05-26T20:37:03.886Z",
+          "updated": "2021-07-14T19:37:00.682Z",
           "company": {
             "name": "IBM"
           },
@@ -1636,9 +1463,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "US"
-                ],
+                "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 3
                 },
@@ -1668,9 +1493,7 @@
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": [
-            "sumo-logic-kubernetes-observability"
-          ],
+          "productPageName": ["sumo-logic-kubernetes-observability"],
           "created": "2021-03-18T19:10:09.679Z",
           "updated": "2021-06-17T19:34:38.082Z",
           "company": {
@@ -1711,15 +1534,10 @@
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Recurring"
-                ],
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": null,
                 "localizedContent": {
                   "planDetails": [
@@ -1773,6 +1591,108 @@
           ]
         },
         {
+          "id": "01079925b41556f29374a230f88625c1",
+          "publishedContent": {
+            "title": "OpenVINO Pro for Enterprise ",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["openvino"],
+          "created": "2021-06-04T17:14:07.681Z",
+          "updated": "2021-07-20T16:30:52.976Z",
+          "company": {
+            "name": "Intel Corporation"
+          },
+          "primaryCategory": {
+            "categoryPageName": "ai-machine-learning",
+            "content": {
+              "name": "AI/Machine Learning"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-6edb55d6-9a97-4c58-998e-b838cc292907",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-058cb482-76da-401d-968e-f574e57c80a8",
+              "publishedEditionContent": {
+                "packageName": "ovms-operator-rhmp",
+                "openShiftVersion": "4.2+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Software lifecycle support for up to 3 years"
+                    },
+                    {
+                      "value": "No lock-in period - monthly subscriptions"
+                    },
+                    {
+                      "value": "Proactive Life Cycle Services from Intel and 24x7 Enterprise Technical Services"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-a0979d17-1009-4a8a-8140-83f6d704fe0a",
+              "publishedEditionContent": {
+                "packageName": "ovms-operator-rhmp",
+                "openShiftVersion": "4.2+",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Access to all product features and functionalities"
+                    },
+                    {
+                      "value": "Access to Intel’s direct enterprise services during the free trial"
+                    },
+                    {
+                      "value": "Free trial for up to 90 days with no lock-in or commitment"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "0fcac3e12ebd82e550bb1a8fdb534689",
           "publishedContent": {
             "title": "MinIO Hybrid Cloud Object Storage",
@@ -1781,11 +1701,9 @@
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": [
-            "minio-hybrid-cloud-object-storage"
-          ],
+          "productPageName": ["minio-hybrid-cloud-object-storage"],
           "created": "2021-06-08T20:47:22.843Z",
-          "updated": "2021-07-12T21:44:21.523Z",
+          "updated": "2021-07-30T14:51:37.277Z",
           "company": {
             "name": "MinIO Inc"
           },
@@ -1824,15 +1742,10 @@
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Recurring"
-                ],
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 3
                 },
@@ -1862,15 +1775,10 @@
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": [
-                  "Recurring"
-                ],
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": [
-                  "CA",
-                  "US"
-                ],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 3
                 },
