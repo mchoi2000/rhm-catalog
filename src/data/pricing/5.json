@@ -1,6 +1,225 @@
 {
   "editions": [
     {
+      "_id": "60d2507b4ba21600134a99f1",
+      "id": "rhmccp-058cb482-76da-401d-968e-f574e57c80a8",
+      "type": "Purchase",
+      "productId": "01079925b41556f29374a230f88625c1",
+      "productName": "OpenVino",
+      "name": "OpenVINO Pro for Enterprise",
+      "description": "",
+      "category": "Product",
+      "created": 1624395899916,
+      "updated": 1626307154554,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 177
+                }
+              ],
+              "id": "15973f94-c2c2-4344-8e6c-018adc4c983b"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60d254d14ba21600134a99f2",
+          "created": 1624397009317,
+          "updated": 1626307142430,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D076EZX",
+            "zuoraRatePlanChargeId": "2c92a0107aa2d409017aa775d1f8436e",
+            "zuoraRatePlanId": "2c92a0117aa2e0a1017aa775ce0d6d5a"
+          },
+          "vendorChargeId": "D076EZX",
+          "name": "OpenVino Pro for Enterprise",
+          "uom": {
+            "identifier": "Node",
+            "multiplier": 1,
+            "created": 1590600597374,
+            "updated": 1590600597374,
+            "supportUsageChargeType": false,
+            "singularName": "Node",
+            "pluralName": "Nodes",
+            "suffix": "per node",
+            "inputLabel": "Enter number of nodes",
+            "summaryLabel": "Number of nodes"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60d3710e10f805001350ccf9",
+      "id": "rhmccp-cd03fdae-39fb-4167-88fb-e564606f602c",
+      "type": "Purchase",
+      "productId": "9ad46745f3d49d9754defdf20e931e20",
+      "productName": "Fujitsu Enterprise Postgres",
+      "name": "Operator/License Bundle for amd64",
+      "description": "",
+      "category": "Product",
+      "created": 1624469774552,
+      "updated": 1625844666783,
+      "version": 3,
+      "termUnit": "Month",
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 2900
+                }
+              ],
+              "id": "553819e6-2c9f-4fe4-b1a8-9324d00ba620"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "606f8596249e560013d613de",
+          "created": 1617921430886,
+          "updated": 1624460050416,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D06RSZX",
+            "zuoraRatePlanChargeId": "2c92a00d7a37875a017a395d85412e8a",
+            "zuoraRatePlanId": "2c92a0077a377aa1017a395d816a6471"
+          },
+          "vendorChargeId": "D06RSZX",
+          "name": "FUJITSU Enterprise Postgres Operator/License Bundle amd64",
+          "uom": {
+            "identifier": "Core",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1607619029376,
+            "updated": 1607619029376,
+            "singularName": "Core",
+            "pluralName": "Cores",
+            "suffix": "per core",
+            "inputLabel": "Enter number of cores",
+            "summaryLabel": "Number of cores"
+          }
+        }
+      ],
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60d3710e4b5aad0013653d06",
+      "id": "rhmccp-ff204772-0dd6-4174-9c64-14964a914d8b",
+      "type": "Purchase",
+      "productId": "9ad46745f3d49d9754defdf20e931e20",
+      "productName": "Fujitsu Enterprise Postgres",
+      "name": "FUJITSU Enterprise Postgres Operator",
+      "description": "Enterprise platform for provisioning and managing your Fujitsu Enterprise Postgres database on OpenShift Container Platform",
+      "category": "Product",
+      "created": 1624469774648,
+      "updated": 1625844639481,
+      "version": 3,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D06RRZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1300
+                }
+              ],
+              "id": "b5e1f57a-602c-4910-929c-64d1b48d9f82"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60d3544010f805001350ccf8",
+          "created": 1624462400514,
+          "updated": 1624462400514,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D06RRZX",
+            "zuoraRatePlanChargeId": "2c92a0ff7a37877c017a39ac4ab14fcf",
+            "zuoraRatePlanId": "2c92a0107a377abf017a39ac46f539a4"
+          },
+          "name": "FUJITSU Enterprise Postgres Operator",
+          "uom": {
+            "identifier": "Core",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1607619029376,
+            "updated": 1607619029376,
+            "singularName": "Core",
+            "pluralName": "Cores",
+            "suffix": "per core",
+            "inputLabel": "Enter number of cores",
+            "summaryLabel": "Number of cores"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "60d3710f4b5aad0013653d07",
       "id": "rhmccp-9858d9c4-3564-4f71-a0ff-053f1039d17a",
       "type": "Purchase",
@@ -69,160 +288,6 @@
           }
         }
       ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60d642f6090c6b00139d75b2",
-      "id": "rhmccp-6a3cfe48-3b09-4343-9a62-0b45782a94b8",
-      "type": "Purchase",
-      "productId": "d6b08ed0753acda1b467ad32115d4895",
-      "productName": "Couchbase  Server",
-      "name": "Couchbase Enterprise Server, CS Gold",
-      "description": "The Couchbase Autonomous Operator makes the easiest-to-manage data platform even easier by providing native OpenShift integration with Couchbase.",
-      "created": 1624654582309,
-      "updated": 1626289683085,
-      "version": 7,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D02SJZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 4800
-                },
-                {
-                  "currency": "CAD",
-                  "price": 6240
-                }
-              ],
-              "id": "730c0a81-3cc8-4e9d-97df-25c88069e8c3"
-            }
-          ],
-          "usageReportingId": "couchbase.com:CouchbaseCluster:couchbase_cluster_count",
-          "chargeDescription": "",
-          "id": "60887419280ce100131d6fdb",
-          "created": 1619555353724,
-          "updated": 1622041446465,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02SJZX",
-            "zuoraRatePlanChargeId": "2c92a00e791221b501791523e80e1638",
-            "zuoraRatePlanId": "2c92a00d7912308801791523e5622e03"
-          },
-          "name": "Instance",
-          "uom": {
-            "identifier": "Instance",
-            "multiplier": 1,
-            "created": 1586264541070,
-            "updated": 1586264541070,
-            "supportUsageChargeType": false,
-            "singularName": "Instance",
-            "pluralName": "Instances",
-            "suffix": "per instance",
-            "inputLabel": "Enter number of instances",
-            "summaryLabel": "Number of instances"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "group": "couchbase.com",
-      "trialGracePeriod": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60d642f68bf1ea001368ed44",
-      "id": "rhmccp-90df200e-4142-47b0-bdce-57c0b4f82bda",
-      "type": "Purchase",
-      "productId": "d6b08ed0753acda1b467ad32115d4895",
-      "productName": "Couchbase  Server",
-      "name": "Couchbase Enterprise Server, CM Gold",
-      "description": "The Couchbase Autonomous Operator makes the easiest-to-manage data platform even easier by providing native OpenShift integration with Couchbase.",
-      "created": 1624654582563,
-      "updated": 1626289724064,
-      "version": 7,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D02SIZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 7600
-                },
-                {
-                  "currency": "CAD",
-                  "price": 9880
-                }
-              ],
-              "id": "31e222e4-b1ae-4457-8daf-6d6c529aefd2"
-            }
-          ],
-          "usageReportingId": "couchbase.com:CouchbaseCluster:couchbase_cluster_count",
-          "chargeDescription": "",
-          "id": "6088754b3fc21d00147a3c08",
-          "created": 1619555659428,
-          "updated": 1619557212630,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02SIZX",
-            "zuoraRatePlanChargeId": "2c92a008791230840179152472552fb1",
-            "zuoraRatePlanId": "2c92a0fc791221b3017915246f6d75f7"
-          },
-          "name": "Instance",
-          "uom": {
-            "identifier": "Instance",
-            "multiplier": 1,
-            "created": 1586264541070,
-            "updated": 1586264541070,
-            "supportUsageChargeType": false,
-            "singularName": "Instance",
-            "pluralName": "Instances",
-            "suffix": "per instance",
-            "inputLabel": "Enter number of instances",
-            "summaryLabel": "Number of instances"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "group": "couchbase.com",
-      "trialGracePeriod": null,
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -965,19 +1030,240 @@
       "revisions": []
     },
     {
-      "_id": "610181496c9cac00289a651f",
-      "id": "rhmccp-deb82430-b9a6-4214-b625-3f33a07ae6ac",
+      "_id": "60ef46db3edf0a00138489d5",
+      "id": "rhmccp-6a3cfe48-3b09-4343-9a62-0b45782a94b8",
       "type": "Purchase",
-      "productId": "8914b361a7ce0eac7be2708d0fa49891",
-      "productName": "Datadog",
-      "name": "Datadog Pro",
-      "description": "Centralize your monitoring of systems, services, and serverless functions. \n\nCannot be combined with Datadog Enterprise.",
-      "created": 1627488585786,
-      "updated": 1627489842693,
-      "version": 1.1,
+      "productId": "d6b08ed0753acda1b467ad32115d4895",
+      "productName": "Couchbase  Server",
+      "name": "Couchbase Enterprise Server, CS Gold",
+      "description": "The Couchbase Autonomous Operator makes the easiest-to-manage data platform even easier by providing native OpenShift integration with Couchbase.",
+      "created": 1626293979898,
+      "updated": 1629991141235,
+      "version": 8,
       "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D02SJZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 4800
+                },
+                {
+                  "currency": "CAD",
+                  "price": 5943.12
+                }
+              ],
+              "id": "730c0a81-3cc8-4e9d-97df-25c88069e8c3"
+            }
+          ],
+          "usageReportingId": "couchbase.com:CouchbaseCluster:couchbase_cluster_count",
+          "chargeDescription": "",
+          "id": "60887419280ce100131d6fdb",
+          "created": 1619555353724,
+          "updated": 1622041446465,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02SJZX",
+            "zuoraRatePlanChargeId": "2c92a00e791221b501791523e80e1638",
+            "zuoraRatePlanId": "2c92a00d7912308801791523e5622e03"
+          },
+          "name": "Instance",
+          "uom": {
+            "identifier": "Instance",
+            "multiplier": 1,
+            "created": 1586264541070,
+            "updated": 1586264541070,
+            "supportUsageChargeType": false,
+            "singularName": "Instance",
+            "pluralName": "Instances",
+            "suffix": "per instance",
+            "inputLabel": "Enter number of instances",
+            "summaryLabel": "Number of instances"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "group": "couchbase.com",
+      "trialGracePeriod": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60ef46dc217d020013c49cc3",
+      "id": "rhmccp-90df200e-4142-47b0-bdce-57c0b4f82bda",
+      "type": "Purchase",
+      "productId": "d6b08ed0753acda1b467ad32115d4895",
+      "productName": "Couchbase  Server",
+      "name": "Couchbase Enterprise Server, CM Gold",
+      "description": "The Couchbase Autonomous Operator makes the easiest-to-manage data platform even easier by providing native OpenShift integration with Couchbase.",
+      "created": 1626293980566,
+      "updated": 1629991196755,
+      "version": 8,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D02SIZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 7600
+                },
+                {
+                  "currency": "CAD",
+                  "price": 9409.94
+                }
+              ],
+              "id": "31e222e4-b1ae-4457-8daf-6d6c529aefd2"
+            }
+          ],
+          "usageReportingId": "couchbase.com:CouchbaseCluster:couchbase_cluster_count",
+          "chargeDescription": "",
+          "id": "6088754b3fc21d00147a3c08",
+          "created": 1619555659428,
+          "updated": 1619557212630,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02SIZX",
+            "zuoraRatePlanChargeId": "2c92a008791230840179152472552fb1",
+            "zuoraRatePlanId": "2c92a0fc791221b3017915246f6d75f7"
+          },
+          "name": "Instance",
+          "uom": {
+            "identifier": "Instance",
+            "multiplier": 1,
+            "created": 1586264541070,
+            "updated": 1586264541070,
+            "supportUsageChargeType": false,
+            "singularName": "Instance",
+            "pluralName": "Instances",
+            "suffix": "per instance",
+            "inputLabel": "Enter number of instances",
+            "summaryLabel": "Number of instances"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "group": "couchbase.com",
+      "trialGracePeriod": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "610da87be5f10e0013ad72e7",
+      "id": "rhmccp-dd348f59-601d-4905-9c6c-ceaf2e07080f",
+      "type": "FreeTrial",
+      "productId": "cb5c0dbbb62d42aa7ed2a17f04fa685d",
+      "productName": "Nethopper Multi-Cloud Application SaaS",
+      "name": "Free Tier",
+      "description": "Great for those just getting started or with one application, a few clouds, and a few objects (like deployments and services).",
+      "trialTerm": 90,
+      "trialGracePeriod": 30,
+      "category": "Product",
+      "created": 1628285051134,
+      "updated": 1628285051134,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1628285051134,
+          "id": "610da87be5f10e0013ad72e6",
+          "vendorChargeId": "RHMTrial2qPKjtmw2AdgU2EkWpxFmu",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1628285051135,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "61158644638ebf0013fa2362",
+      "id": "rhmccp-4f502433-a923-4cea-9213-2731689e9a69",
+      "type": "Purchase",
+      "productId": "ce8c9ea86ddeba490cf8dac3b757af97",
+      "productName": "Tackle Cloud Marketplace Platform",
+      "name": "Enterprise",
+      "description": "Includes everything from the Scale Edition, plus Multi-Marketplace.",
+      "category": "Product",
+      "created": 1628800580694,
+      "updated": 1628802039855,
+      "version": 5,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12, 24, 36],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
       "trialTerm": null,
       "editionCharges": [
         {
@@ -989,151 +1275,43 @@
           "minimumQuantity": 1,
           "maximumQuantity": 0,
           "defaultQuantity": 1,
-          "increment": 1,
           "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D0439ZX",
           "tiers": [
             {
               "startingUnit": 1,
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 18
-                },
-                {
-                  "currency": "CAD",
-                  "price": 22.32
+                  "price": 17499.58
                 }
               ],
-              "id": "1a7895d2-2dc9-4d7e-a1b2-b35aee38b491"
+              "id": "43985633-bd13-4645-a382-e19210f635e3"
             }
           ],
-          "id": "5f2b14259f98f60013de0268",
-          "created": 1596658725446,
-          "updated": 1598975159161,
+          "chargeDescription": "",
+          "id": "60f9f4eb0786e800138d8ff6",
+          "created": 1626993899461,
+          "updated": 1628782674604,
           "usageReportingType": "Cumulative",
           "metadata": {
             "chargeSyncRequired": false,
-            "ibmPartNumber": "D0439ZX",
-            "zuoraRatePlanChargeId": "2c92a00874357c0701744a6db6c12550",
-            "zuoraRatePlanId": "2c92a0fd74357c5101744a6db2d13795"
+            "ibmPartNumber": "D07Z6ZX",
+            "zuoraRatePlanChargeId": "2c92a0087b2f9f4a017b31ce59f92b62",
+            "zuoraRatePlanId": "2c92a00d7b2f9f14017b31ce565b087a"
           },
-          "name": "Infrastructure Hosts",
+          "vendorChargeId": "D07Z6ZX",
+          "name": "Enterprise",
           "uom": {
-            "identifier": "Host",
+            "identifier": "Each",
             "multiplier": 1,
-            "created": 1597065172198,
-            "updated": 1597065172198,
+            "created": 1586264548996,
+            "updated": 1586264548996,
             "supportUsageChargeType": false,
-            "singularName": "Host",
-            "pluralName": "Hosts",
-            "suffix": "per host",
-            "inputLabel": "Enter number of hosts",
-            "summaryLabel": "Number of hosts"
-          }
-        },
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": false,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "increment": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D0436ZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 36
-                },
-                {
-                  "currency": "CAD",
-                  "price": 44.64
-                }
-              ],
-              "id": "1785b158-4bcd-485d-b4f3-16f12727a47e"
-            }
-          ],
-          "id": "5f2b206237144a00155da369",
-          "created": 1596661858176,
-          "updated": 1598899419863,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D0436ZX",
-            "zuoraRatePlanChargeId": "2c92a00d74357c1401744a6dbb9320d7",
-            "zuoraRatePlanId": "2c92a0fe74356bf001744a6db8a671f4"
-          },
-          "name": "APM Hosts - Monitor, troubleshoot, and optimize end-to-end application performance",
-          "uom": {
-            "identifier": "Host",
-            "multiplier": 1,
-            "created": 1597065172198,
-            "updated": 1597065172198,
-            "supportUsageChargeType": false,
-            "singularName": "Host",
-            "pluralName": "Hosts",
-            "suffix": "per host",
-            "inputLabel": "Enter number of hosts",
-            "summaryLabel": "Number of hosts"
-          }
-        },
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": false,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "increment": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D0438ZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 2.04
-                },
-                {
-                  "currency": "CAD",
-                  "price": 2.53
-                }
-              ],
-              "id": "0ab281f6-cec6-45a7-9f64-60efa05f6ed2"
-            }
-          ],
-          "id": "5f2b215e37144a00155da36a",
-          "created": 1596662110286,
-          "updated": 1598899440937,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D0438ZX",
-            "zuoraRatePlanChargeId": "2c92a0fe74356bf001744a6dc0407280",
-            "zuoraRatePlanId": "2c92a01074356b7d01744a6dbd787598"
-          },
-          "name": "Indexed Logs - Analyze and explore log data in context  (15-day retention) ",
-          "uom": {
-            "identifier": "MillionLogEvents",
-            "multiplier": 1,
-            "created": 1597067063862,
-            "updated": 1597067063862,
-            "supportUsageChargeType": false,
-            "singularName": "Million log events",
-            "pluralName": "Million log events",
-            "suffix": "per million log events",
-            "inputLabel": "Enter number of million log events",
-            "summaryLabel": "Number of million log events"
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
           }
         }
       ],
@@ -1142,19 +1320,729 @@
       "revisions": []
     },
     {
-      "_id": "6101814b6c9cac00289a6520",
-      "id": "rhmccp-356ed07b-d03f-4830-8055-b4e0e6b98135",
+      "_id": "611588cdb3af080013588dde",
+      "id": "rhmccp-9a27e0ab-e619-4503-9314-ac8aba0d8c89",
       "type": "Purchase",
-      "productId": "8914b361a7ce0eac7be2708d0fa49891",
-      "productName": "Datadog",
-      "name": "Datadog Enterprise",
-      "description": "Advanced features and admin controls. Includes machine learning–based alerts, live processes, premium support.\n\nCannot be combined with Datadog Pro.",
-      "created": 1627488587128,
-      "updated": 1627489849669,
+      "productId": "ce8c9ea86ddeba490cf8dac3b757af97",
+      "productName": "Tackle Cloud Marketplace Platform",
+      "name": "Scale",
+      "description": "Includes everything from the Extend Edition, plus Marketplace Insights, Slack Connector, and Multi-Listing.",
+      "category": "Product",
+      "created": 1628801229462,
+      "updated": 1628801988760,
+      "version": 5,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12, 24, 36],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 10082.91666
+                }
+              ],
+              "id": "d5d4ee46-9387-473b-afba-e973b527451b"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60f9f450b2cc6300136dd4e3",
+          "created": 1626993744738,
+          "updated": 1628627947425,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D07Z7ZX",
+            "zuoraRatePlanChargeId": "2c92a0fc7b2f8e52017b31cdcca27ccd",
+            "zuoraRatePlanId": "2c92a0087b2f9f46017b31cdc9207272"
+          },
+          "vendorChargeId": "D07Z7ZX",
+          "name": "Scale",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        },
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": false,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 2079.58
+                }
+              ],
+              "id": "e454f94b-ffe6-4197-ba33-47f09e43919a"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60fef4c7217d020013c49cce",
+          "created": 1627321543828,
+          "updated": 1628612419762,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D07Z5ZX",
+            "zuoraRatePlanChargeId": "2c92a00c7b2f8ea1017b31cdd1c2297f",
+            "zuoraRatePlanId": "2c92a0fe7b2f8e8f017b31cdceb23f70"
+          },
+          "vendorChargeId": "D07Z5ZX",
+          "name": "Additional MP",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "611eade6287171001392f993",
+      "id": "rhmccp-06edb05f-31e7-4cea-ae8a-ed88e21d4c6c",
+      "type": "Purchase",
+      "productId": "ae003f1bb9b3bdc7cfffff875caa95e3",
+      "productName": "Sumo Logic",
+      "name": "Sumo Logic Private Offer Options",
+      "description": "Please select from the options below for private offers",
+      "category": "Product",
+      "created": 1629400550294,
+      "updated": 1630084164379,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D05UBZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0
+                }
+              ],
+              "id": "6a164118-dcd3-489d-8827-aee7f5c4b939"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60eda67e217d020013c49cbf",
+          "created": 1626187390559,
+          "updated": 1630005001641,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D05UBZX",
+            "zuoraRatePlanChargeId": "2c92a0087b3e31c0017b5e932e3b52a6",
+            "zuoraRatePlanId": "2c92a0087b3e31ac017b5e932aaa4000"
+          },
+          "name": "Enterprise Suite",
+          "uom": {
+            "identifier": "Transaction_month",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
+          }
+        },
+        {
+          "sequence": 2,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D05U9ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0
+                }
+              ],
+              "id": "4c530339-2edf-4eb3-9fd1-6fb0353dbbe0"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60eda783b2cc6300136dd4d7",
+          "created": 1626187651627,
+          "updated": 1630004631026,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D05U9ZX",
+            "zuoraRatePlanChargeId": "2c92a0077b3e21fb017b5e9333bb7b48",
+            "zuoraRatePlanId": "2c92a0ff7b3e31d3017b5e933069622a"
+          },
+          "name": "Enterprise Operations",
+          "uom": {
+            "identifier": "Transaction_month",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
+          }
+        },
+        {
+          "sequence": 3,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D05UAZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0
+                }
+              ],
+              "id": "9da04f15-343b-45f4-bd3f-c7cff3f86036"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60eda819217d020013c49cc0",
+          "created": 1626187801683,
+          "updated": 1630004894893,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D05UAZX",
+            "zuoraRatePlanChargeId": "2c92a00d7b3e31ac017b5e9338992e3a",
+            "zuoraRatePlanId": "2c92a00e7b3e21bd017b5e9335aa15a2"
+          },
+          "name": "Enterprise Security",
+          "uom": {
+            "identifier": "Transaction_month",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
+          }
+        },
+        {
+          "sequence": 4,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D05UCZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0
+                }
+              ],
+              "id": "16ef334a-ba5d-43ff-9f9a-d2ea13094273"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60eda89e3edf0a00138489d4",
+          "created": 1626187934814,
+          "updated": 1630005214252,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D05UCZX",
+            "zuoraRatePlanChargeId": "2c92a0107b3e2205017b5e933e776729",
+            "zuoraRatePlanId": "2c92a00f7b3e31d0017b5e933ae05159"
+          },
+          "name": "Essentials",
+          "uom": {
+            "identifier": "Transaction_month",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
+          }
+        },
+        {
+          "sequence": 5,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": false,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0
+                }
+              ],
+              "id": "42985589-6dca-4f10-ac21-eb285a1a9e26"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60eda925b2cc6300136dd4d8",
+          "created": 1626188069109,
+          "updated": 1630005365420,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D07N4ZX",
+            "zuoraRatePlanChargeId": "2c92a0fe7b3e21d5017b5e9343156437",
+            "zuoraRatePlanId": "2c92a0ff7b3e31e1017b5e933fe21a13"
+          },
+          "vendorChargeId": "D07N4ZX",
+          "name": "Cloud Flex Enterprise",
+          "uom": {
+            "identifier": "Transaction_month",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
+          }
+        },
+        {
+          "sequence": 6,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": false,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0
+                }
+              ],
+              "id": "8cf7150b-6a70-4879-9d88-e8d4eb2ce39b"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60eda95a217d020013c49cc1",
+          "created": 1626188122300,
+          "updated": 1630005441674,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D07N5ZX",
+            "zuoraRatePlanChargeId": "2c92a0087b3e31c0017b5e9346c05404",
+            "zuoraRatePlanId": "2c92a00f7b3e31d0017b5e93446c53ec"
+          },
+          "vendorChargeId": "D07N5ZX",
+          "name": "Cloud Flex Professional",
+          "uom": {
+            "identifier": "Transaction_month",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
+          }
+        },
+        {
+          "sequence": 7,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D079YZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0
+                }
+              ],
+              "id": "0435c97c-5a46-4f7d-8dc0-7a64375cad1e"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60eda9b0a7ab7b0014aa2786",
+          "created": 1626188208044,
+          "updated": 1630005760304,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D079YZX",
+            "zuoraRatePlanChargeId": "2c92a0ff7b3e31d3017b5e934a6b627a",
+            "zuoraRatePlanId": "2c92a00d7b3e31ad017b5e93482f1510"
+          },
+          "name": "Sumo Cloud SOAR",
+          "uom": {
+            "identifier": "Transaction_month",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
+          }
+        },
+        {
+          "sequence": 8,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D07C5ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0
+                }
+              ],
+              "id": "abd222a8-57ad-4647-889d-44657dd1ca13"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60eda9fca7ab7b0014aa2787",
+          "created": 1626188284140,
+          "updated": 1630006003910,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D07C5ZX",
+            "zuoraRatePlanChargeId": "2c92a0fe7b3e21d5017b5e934e106461",
+            "zuoraRatePlanId": "2c92a00e7b3e21bd017b5e934bdd1612"
+          },
+          "name": "Sensu",
+          "uom": {
+            "identifier": "Transaction_month",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "611ff029287171001392f995",
+      "id": "rhmccp-496ed6ec-0052-4a35-9f69-8952e9d64df2",
+      "type": "FreeTrial",
+      "productId": "64fba2daf3aa2129d02e8ff477c4d90f",
+      "productName": "AI Analytics Toolkit",
+      "name": "Free Trial - Intel oneAPI AI Analytics Toolkit",
+      "description": "A 90-day free trial of the fully serviced version of the AI Analytics Toolkit",
+      "trialTerm": 90,
+      "trialGracePeriod": 10,
+      "category": "Product",
+      "created": 1629483049446,
+      "updated": 1630691491341,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1629483049447,
+          "id": "611ff029287171001392f994",
+          "vendorChargeId": "RHMTrial5ZxRzBRJD5tutgqMzJkBQb",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1629483049447,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "6120132a731f9f002b5675d1",
+      "id": "rhmccp-d014f8ac-5dff-42d7-95ca-e1ec19f91933",
+      "type": "Purchase",
+      "productId": "1f61eaa98bd10fee8bab486cc75a7ff1",
+      "productName": "Redis Labs Enterprise",
+      "name": "Redis Enterprise Software",
+      "description": "Redis Enterprise Software Ultimate Shard, Production Environment, 1-Year Subscription",
+      "category": "Product",
+      "created": 1629492010309,
+      "updated": 1629492012661,
+      "version": 2.1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D05UFZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 10000
+                },
+                {
+                  "currency": "CAD",
+                  "price": 12381.5
+                }
+              ],
+              "id": "8e30ed0a-f0c0-461a-b30e-31bf4f356082"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "609d91467cc485001388a189",
+          "created": 1620939078722,
+          "updated": 1623702836764,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D05UFZX",
+            "zuoraRatePlanChargeId": "2c92a01179faffe2017a0ca8907d2554",
+            "zuoraRatePlanId": "2c92a0fe79faf377017a0ca88db74ae2"
+          },
+          "name": "Redis Enterprise Software, Production Environment",
+          "uom": {
+            "identifier": "Shard_sub",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1620850435359,
+            "updated": 1620850435359,
+            "singularName": "Shard",
+            "pluralName": "Shards",
+            "suffix": "per shard",
+            "inputLabel": "Enter the number shards",
+            "summaryLabel": "Number of shards"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "6127b1a8dadc00002947ccc5",
+      "id": "rhmccp-11f5f243-b9a4-4d8f-a037-3e9cdf67602a",
+      "type": "Purchase",
+      "productId": "d6b08ed0753acda1b467ad32115d4895",
+      "productName": "Couchbase  Server",
+      "name": "Couchbase Enterprise Private Offer",
+      "description": "Configuration for private offers",
+      "category": "Product",
+      "created": 1629991336154,
+      "updated": 1629991341031,
       "version": 1.1,
       "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
+      "allowedBillingFrequencies": ["Monthly", "Annual"],
+      "allowedSubscriptionTerms": [1, 12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
       "trialTerm": null,
       "editionCharges": [
         {
@@ -1168,150 +2056,845 @@
           "defaultQuantity": 1,
           "increment": 1,
           "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D0437ZX",
           "tiers": [
             {
               "startingUnit": 1,
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 27
+                  "price": 11900
                 },
                 {
                   "currency": "CAD",
-                  "price": 33.48
+                  "price": 14733.99
                 }
               ],
-              "id": "b9a3952d-4332-45ab-b36f-2ea287e72f5f"
+              "id": "a360ee8c-dd4b-469b-9154-25cb265987db"
             }
           ],
-          "id": "5f2b1ded37144a00155da368",
-          "created": 1596661229619,
-          "updated": 1598899321722,
+          "chargeDescription": "",
+          "id": "60feb376b3af080013588db5",
+          "created": 1627304822022,
+          "updated": 1629991259899,
           "usageReportingType": "Cumulative",
           "metadata": {
             "chargeSyncRequired": false,
-            "ibmPartNumber": "D0437ZX",
-            "ibmOveragePartNumber": "D0437ZX",
-            "zuoraRatePlanChargeId": "2c92a0ff74357c6c01744a6ee5bd11ed",
-            "zuoraRatePlanId": "2c92a01074356b7601744a6ee332151f"
+            "ibmPartNumber": "D07YZZX",
+            "zuoraRatePlanChargeId": "2c92a0ff7b82820a017b830d3c2502d0",
+            "zuoraRatePlanId": "2c92a0107b827574017b830d3793783d"
           },
-          "name": "Infrastructure Hosts",
+          "vendorChargeId": "D07YZZX",
+          "name": "Couchbase Enterprise S Edition",
           "uom": {
-            "identifier": "Host",
+            "identifier": "Node",
             "multiplier": 1,
-            "created": 1597065172198,
-            "updated": 1597065172198,
+            "created": 1590600597374,
+            "updated": 1590600597374,
             "supportUsageChargeType": false,
-            "singularName": "Host",
-            "pluralName": "Hosts",
-            "suffix": "per host",
-            "inputLabel": "Enter number of hosts",
-            "summaryLabel": "Number of hosts"
+            "singularName": "Node",
+            "pluralName": "Nodes",
+            "suffix": "per node",
+            "inputLabel": "Enter number of nodes",
+            "summaryLabel": "Number of nodes"
           }
-        },
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "61280a415ee94f00134beb8c",
+      "id": "rhmccp-19fb35c1-4db9-4ae3-96fc-8d97992205b5",
+      "type": "FreeTrial",
+      "productId": "bd81edaece0c7daf835069f35fb1700a",
+      "productName": "IBM Services Software Model Builder RHM",
+      "name": "Free Trial",
+      "description": "Free trial for IBM Service Software Model Builder. Designed for Subject Matter Experts to test AI model building with IBM Service Software Inspection Workbench.",
+      "trialTerm": 30,
+      "trialGracePeriod": 10,
+      "category": "Product",
+      "created": 1630014017300,
+      "updated": 1631106151895,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1630014017300,
+          "id": "61280a415ee94f00134beb8b",
+          "vendorChargeId": "RHMTrialsqrgWC4g2AEmfFhSBdg41r",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1630014017300,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "6129031ee634ee00134ea4c6",
+      "id": "rhmccp-07771268-d155-40fa-894c-0f7bde4e8753",
+      "type": "Purchase",
+      "productId": "ae003f1bb9b3bdc7cfffff875caa95e3",
+      "productName": "Sumo Logic",
+      "name": "Sumo Logic Private Offer Epic Games",
+      "description": "Private offer for Epic Games",
+      "category": "Product",
+      "created": 1630077726865,
+      "updated": 1630084194470,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Quarterly"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
         {
           "sequence": 1,
           "type": "Recurring",
           "priceModel": "Standard",
           "priceFrequency": "Monthly",
-          "required": false,
+          "required": true,
           "minimumQuantity": 1,
-          "maximumQuantity": 0,
+          "maximumQuantity": 1,
           "defaultQuantity": 1,
-          "increment": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D0436ZX",
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D05UBZX",
           "tiers": [
             {
               "startingUnit": 1,
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 36
+                  "price": 1321067.45
                 },
                 {
                   "currency": "CAD",
-                  "price": 44.64
+                  "price": 1635679.66322
                 }
               ],
-              "id": "ed25b39b-026c-4af5-8789-c6ffaecb57ab"
+              "id": "bde8703b-f9dc-4c27-8b69-ce63f7e0bead"
             }
           ],
-          "id": "5f2b22829f98f60013de0269",
-          "created": 1596662402817,
-          "updated": 1598899310587,
+          "chargeDescription": "",
+          "id": "6129048a91b837001335362c",
+          "created": 1630078090425,
+          "updated": 1630083917102,
           "usageReportingType": "Cumulative",
           "metadata": {
             "chargeSyncRequired": false,
-            "ibmPartNumber": "D0436ZX",
-            "zuoraRatePlanChargeId": "2c92a00e74356b4601744a6ee9e335a6",
-            "zuoraRatePlanId": "2c92a01174357c0701744a6ee756056b"
+            "ibmPartNumber": "D05UBZX",
+            "zuoraRatePlanChargeId": "2c92a0107b82756e017b8896e03522f6",
+            "zuoraRatePlanId": "2c92a0087b8281e7017b8896dd0d48ee"
           },
-          "name": "APM Hosts - Monitor, troubleshoot, and optimize end-to-end application performance",
+          "name": "Enterprise Suite",
           "uom": {
-            "identifier": "Host",
-            "multiplier": 1,
-            "created": 1597065172198,
-            "updated": 1597065172198,
+            "identifier": "Transaction_month",
             "supportUsageChargeType": false,
-            "singularName": "Host",
-            "pluralName": "Hosts",
-            "suffix": "per host",
-            "inputLabel": "Enter number of hosts",
-            "summaryLabel": "Number of hosts"
+            "multiplier": 1,
+            "created": 1617116620079,
+            "updated": 1617116620079,
+            "singularName": "Transaction",
+            "pluralName": "Transactions",
+            "suffix": "per transaction",
+            "inputLabel": "Enter number of transactions",
+            "summaryLabel": "Number of transactions"
           }
-        },
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "61292d24e634ee00134ea4c8",
+      "id": "rhmccp-2d7b32c7-606d-4df1-8c1d-8a56f295d160",
+      "type": "FreeEdition",
+      "productId": "559a3077781537688392aa19138c2cdd",
+      "productName": "manageUrl testing",
+      "name": "Free Test",
+      "description": "manageUrl",
+      "category": "Product",
+      "created": 1630088484643,
+      "updated": 1630088484643,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1630088484644,
+          "id": "61292d24e634ee00134ea4c7",
+          "vendorChargeId": "61292d24e634ee00134ea4c7",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1630088484644,
+          "name": "Free Edition",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Month",
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "612951b175fab000149f3ea1",
+      "id": "rhmccp-aa6033ae-2114-4431-9c49-c3369ca84005",
+      "type": "FreeTrial",
+      "productId": "ec56ddfa25b4d62ba01a03fe9cedabd6",
+      "productName": "WebSphere Liberty (RHM Demo)",
+      "name": "Trial",
+      "description": "Try WebSphere Application Server Liberty server free for 30 days",
+      "trialTerm": 30,
+      "trialGracePeriod": 10,
+      "category": "Product",
+      "created": 1630097841180,
+      "updated": 1630097841180,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1630097841181,
+          "id": "612951b175fab000149f3ea0",
+          "vendorChargeId": "612951b175fab000149f3ea0",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1630097841181,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "612d416575fab000149f3ea6",
+      "id": "rhmccp-d40fdbf5-142d-474b-b467-98e6d5fdba76",
+      "type": "Purchase",
+      "productId": "41b3a7bc16e48c8abb6fd5d96a3b58a1",
+      "productName": "Sumo Logic Kubernetes Observability",
+      "name": "Enterprise Operations - Operator",
+      "description": "Enterprise Operations provides advanced operational insights.  Monitor, detect, and troubleshoot with integrated views on a single platform.",
+      "category": "Product",
+      "created": 1630355813733,
+      "updated": 1630356495478,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [24],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
         {
           "sequence": 1,
           "type": "Recurring",
           "priceModel": "Standard",
           "priceFrequency": "Monthly",
-          "required": false,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "increment": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D0438ZX",
+          "required": true,
+          "minimumQuantity": 5,
+          "maximumQuantity": 10,
+          "defaultQuantity": 5,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D05VPZX",
           "tiers": [
             {
               "startingUnit": 1,
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 2.04
+                  "price": 122.8
                 },
                 {
                   "currency": "CAD",
-                  "price": 2.53
+                  "price": 152.04
                 }
               ],
-              "id": "b3ed8051-7576-4cc5-b729-bf5073ea20a4"
+              "id": "deca8d97-41b9-47e1-a212-059f097958d5"
             }
           ],
-          "id": "5f2b23169f98f60013de026a",
-          "created": 1596662550164,
-          "updated": 1598899339707,
+          "chargeDescription": "",
+          "id": "61281881171b6f0013c680e1",
+          "created": 1630017665565,
+          "updated": 1630356272402,
           "usageReportingType": "Cumulative",
           "metadata": {
             "chargeSyncRequired": false,
-            "ibmPartNumber": "D0438ZX",
-            "zuoraRatePlanChargeId": "2c92a00c74356b8001744a6eee6e317f",
-            "zuoraRatePlanId": "2c92a00774356b7801744a6eebf001f3"
+            "ibmPartNumber": "D05VPZX",
+            "zuoraRatePlanChargeId": "2c92a00c7b95bbbb017b986375f83d3b",
+            "zuoraRatePlanId": "2c92a00c7b95bbb1017b9863710406a8"
           },
-          "name": "Indexed Logs - Analyze and explore log data in context  (15-day retention)",
+          "increment": 5,
+          "name": "Enterprise Operations - Openshift Operator",
           "uom": {
-            "identifier": "MillionLogEvents",
+            "identifier": "Gigabyte",
             "multiplier": 1,
-            "created": 1597067063862,
-            "updated": 1597067063862,
+            "created": 1586264547659,
+            "updated": 1586264547659,
             "supportUsageChargeType": false,
-            "singularName": "Million log events",
-            "pluralName": "Million log events",
-            "suffix": "per million log events",
-            "inputLabel": "Enter number of million log events",
-            "summaryLabel": "Number of million log events"
+            "singularName": "Gigabyte",
+            "pluralName": "Gigabytes",
+            "suffix": "per GB",
+            "inputLabel": "Enter number of gigabytes",
+            "summaryLabel": "Number of gigabytes"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "612d444de634ee00134ea4cd",
+      "id": "rhmccp-5d03113a-a1ac-40a1-9b8d-bbe8b7fa9f51",
+      "type": "Purchase",
+      "productId": "41b3a7bc16e48c8abb6fd5d96a3b58a1",
+      "productName": "Sumo Logic Kubernetes Observability",
+      "name": "Enterprise Operations",
+      "description": "Enterprise Operations provides advanced operational insights.  Monitor, detect, and troubleshoot with integrated views on a single platform.",
+      "category": "Product",
+      "created": 1630356557295,
+      "updated": 1630448886025,
+      "version": 9,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [24],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 5,
+          "maximumQuantity": 10,
+          "defaultQuantity": 5,
+          "increment": 5,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 122.8
+                },
+                {
+                  "currency": "CAD",
+                  "price": 152.04
+                }
+              ],
+              "id": "00d7731b-3e5c-4729-8d45-8d7844275a1e"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "607083def6a72700145e2af5",
+          "created": 1617986526745,
+          "updated": 1630446972042,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D05VPZX",
+            "zuoraRatePlanChargeId": "2c92a0087917827f017918bd8b3d476e",
+            "zuoraRatePlanId": "2c92a00c7917766d017918bd87480e3a"
+          },
+          "vendorChargeId": "D05VPZX",
+          "name": "Enterprise Operations",
+          "uom": {
+            "identifier": "Gigabyte",
+            "multiplier": 1,
+            "created": 1586264547659,
+            "updated": 1586264547659,
+            "supportUsageChargeType": false,
+            "singularName": "Gigabyte",
+            "pluralName": "Gigabytes",
+            "suffix": "per GB",
+            "inputLabel": "Enter number of gigabytes",
+            "summaryLabel": "Number of gigabytes"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "612d444ded6b6f00137f517e",
+      "id": "rhmccp-66e1571d-24b8-4094-89bd-b2a16b11046b",
+      "type": "Purchase",
+      "productId": "41b3a7bc16e48c8abb6fd5d96a3b58a1",
+      "productName": "Sumo Logic Kubernetes Observability",
+      "name": "Enterprise Suite",
+      "description": "Sumo Logic Enterprise Suite Private Offer",
+      "category": "Product",
+      "created": 1630356557442,
+      "updated": 1630448946764,
+      "version": 4,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D05UBZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 200000
+                },
+                {
+                  "currency": "CAD",
+                  "price": 247630
+                }
+              ],
+              "id": "aa17a1d3-2148-41bd-b0f7-6fd4c7879055"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "6126d3a4166f8a0013b377b0",
+          "created": 1629934500539,
+          "updated": 1629934591130,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D05UBZX",
+            "zuoraRatePlanChargeId": "2c92a00e7b7cfe08017b7faf2b8a24d7",
+            "zuoraRatePlanId": "2c92a0107b7cfe43017b7faf27fc5bd7"
+          },
+          "name": "Enterprise Suite",
+          "uom": {
+            "identifier": "Instance",
+            "multiplier": 1,
+            "created": 1586264541070,
+            "updated": 1586264541070,
+            "supportUsageChargeType": false,
+            "singularName": "Instance",
+            "pluralName": "Instances",
+            "suffix": "per instance",
+            "inputLabel": "Enter number of instances",
+            "summaryLabel": "Number of instances"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "612d9192ed6b6f00137f517f",
+      "id": "rhmccp-bdb49bdb-fc56-4539-a35e-c3a50198fcf4",
+      "type": "Purchase",
+      "productId": "bd81edaece0c7daf835069f35fb1700a",
+      "productName": "IBM Services Software Model Builder",
+      "name": "Monthly Subscription",
+      "description": "Flexible,  AI platform for small to medium workloads that helps build computer vision models for your inspections. ",
+      "category": "Product",
+      "created": 1630376338816,
+      "updated": 1631106146557,
+      "version": 3,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1, 3, 6, 12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D080SZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1875
+                },
+                {
+                  "currency": "CAD",
+                  "price": 2321.53
+                }
+              ],
+              "id": "52722b6b-51d8-4de5-a7ec-9d0eff734435"
+            }
+          ],
+          "chargeDescription": "AI training platform",
+          "id": "611d4529e5f10e0013ad72f9",
+          "created": 1629308201755,
+          "updated": 1630012733491,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D080SZX",
+            "zuoraRatePlanChargeId": "2c92a0087b8281e7017b8909d0b17230",
+            "zuoraRatePlanId": "2c92a00d7b8281e4017b8909cdb20559"
+          },
+          "name": "Instance",
+          "uom": {
+            "identifier": "Instance",
+            "multiplier": 1,
+            "created": 1586264541070,
+            "updated": 1586264541070,
+            "supportUsageChargeType": false,
+            "singularName": "Instance",
+            "pluralName": "Instances",
+            "suffix": "per instance",
+            "inputLabel": "Enter number of instances",
+            "summaryLabel": "Number of instances"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "61327ec075fab000149f3eb6",
+      "id": "rhmccp-e489a5f0-3268-47b3-8ee8-9aa917759cc2",
+      "type": "FreeTrial",
+      "productId": "d906ecd50665d394aff34fb3b943c95d",
+      "productName": "IBM Observability by Instana",
+      "name": "Instana APM Trial",
+      "description": "Try Instana APM free for 30 days. Automatically monitor your microservice application within 30 minutes. The Trial is SaaS hosted;  install the Agent and go!",
+      "trialTerm": 30,
+      "trialGracePeriod": 10,
+      "category": "Product",
+      "created": 1630699200262,
+      "updated": 1631039190847,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1630699200263,
+          "id": "61327ec075fab000149f3eb5",
+          "vendorChargeId": "RHMTrialjTH5L9UrgHAseqykdj9HxB",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1630699200263,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "6137a1735263d50014208511",
+      "id": "rhmccp-d81d955f-4da6-4a88-b6e4-c7eccb0e3aea",
+      "type": "Purchase",
+      "productId": "d906ecd50665d394aff34fb3b943c95d",
+      "productName": "IBM Observability by Instana",
+      "name": "APM Annual",
+      "description": "Instana delivers all the value and all the power at a fraction of the cost. 250+ Technologies Supported. No plug-ins. No restarts\n",
+      "category": "Product",
+      "created": 1631035763271,
+      "updated": 1631036271381,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D29RTLL",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1125.6
+                },
+                {
+                  "currency": "CAD",
+                  "price": 1393.66
+                }
+              ],
+              "id": "35c0d255-19d9-47b9-8bcd-ef2c99786453"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "61119783217d020013c49cdb",
+          "created": 1628542851917,
+          "updated": 1628542851917,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D29RTLL",
+            "zuoraRatePlanChargeId": "2c92a0fe7bba9b84017bc14d56695bbc",
+            "zuoraRatePlanId": "2c92a0fc7bba9b6e017bc14d53b43214"
+          },
+          "name": "Managed virtual server",
+          "uom": {
+            "identifier": "ManagedVirtualServer",
+            "multiplier": 1,
+            "created": 1593700502620,
+            "updated": 1593700502620,
+            "supportUsageChargeType": false,
+            "singularName": "Managed Virtual Server",
+            "pluralName": "Managed Virtual Servers",
+            "suffix": "per managed virtual server",
+            "inputLabel": "Enter number of managed virtual servers",
+            "summaryLabel": "Number of managed virtual servers"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "6137a17375fab000149f3eb9",
+      "id": "rhmccp-e7062d38-893c-49a2-bb9b-01b60fd9148c",
+      "type": "Purchase",
+      "productId": "d906ecd50665d394aff34fb3b943c95d",
+      "productName": "IBM Observability by Instana",
+      "name": "APM Monthly",
+      "description": "Instana delivers all the value and all the power at a fraction of the cost. 250+ Technologies Supported. No plug-ins. No restarts\n",
+      "category": "Product",
+      "created": 1631035763653,
+      "updated": 1631036227068,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D29RPLL",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 117
+                },
+                {
+                  "currency": "CAD",
+                  "price": 144.86
+                }
+              ],
+              "id": "def21294-ac11-4ef2-a1d2-fd564e2799d4"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "6111959db3af080013588dd6",
+          "created": 1628542365712,
+          "updated": 1628542365712,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D29RPLL",
+            "zuoraRatePlanChargeId": "2c92a00c7bba9b92017bc14cd53b68b5",
+            "zuoraRatePlanId": "2c92a0ff7bbaa83e017bc14cd2602aa3"
+          },
+          "name": "Managed virtual server",
+          "uom": {
+            "identifier": "ManagedVirtualServer",
+            "multiplier": 1,
+            "created": 1593700502620,
+            "updated": 1593700502620,
+            "supportUsageChargeType": false,
+            "singularName": "Managed Virtual Server",
+            "pluralName": "Managed Virtual Servers",
+            "suffix": "per managed virtual server",
+            "inputLabel": "Enter number of managed virtual servers",
+            "summaryLabel": "Number of managed virtual servers"
           }
         }
       ],
@@ -1320,5 +2903,5 @@
       "revisions": []
     }
   ],
-  "count": 415
+  "count": 434
 }

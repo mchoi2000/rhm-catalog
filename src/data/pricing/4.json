@@ -1,6 +1,216 @@
 {
   "editions": [
     {
+      "_id": "6022d1d8f1ef5300155ccf27",
+      "id": "committed-spend-1M",
+      "type": "Purchase",
+      "productId": "committed-spend",
+      "productName": "Committed Spend",
+      "name": "Committed Spend $1,000,000 USD",
+      "description": "Committed spend $1,000,000 USD.",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "category": "Platform",
+      "created": 1612894680091,
+      "updated": 1612894771188,
+      "version": 2,
+      "editionCharges": [
+        {
+          "created": 1612894377609,
+          "id": "6022d0a9f1ef5300155ccf25",
+          "vendorChargeId": "6022d0a9f1ef5300155ccf25",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ],
+              "id": "94c5d851-1cc9-478c-8253-b3c229ef685e"
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D0445ZX",
+            "zuoraRatePlanChargeId": "2c92c0f877866b4d01778805174a6e20",
+            "zuoraRatePlanId": "2c92c0f877866b5801778805145645bc"
+          },
+          "updated": 1612894741267,
+          "name": "Committed Spend Agreement",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Month",
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "602abebeb4788d0013b4e40d",
+      "id": "rhmccp-6d238126-ecb1-4629-9f64-af1429c662cc",
+      "type": "FreeTrial",
+      "productId": "59ba9b88c1072d406bd25df073182695",
+      "productName": "KubePlus",
+      "name": "Free",
+      "description": "Free trial for KubePlus SaaS multi-tenancy manager. Great for Enterprises PoC or functional evaluation. ",
+      "trialTerm": 30,
+      "trialGracePeriod": 30,
+      "category": "Product",
+      "created": 1613414078522,
+      "updated": 1622736184130,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1613414078523,
+          "id": "602abebeb4788d0013b4e40c",
+          "vendorChargeId": "RHMTrialc9heyjBcWsWLWEL7ey8avc",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1613414078523,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "602be95547d0de0013debac9",
+      "id": "rhmccp-0b6065dc-01d5-4457-9938-aa568682f4f5",
+      "type": "Purchase",
+      "productId": "9a107f289a17dcd0dcbd861614ed59bc",
+      "productName": "Snyk Container RHM",
+      "name": "Snyk Pro Edition",
+      "description": "For medium to enterprise size organizations. Sold in increments of 50 contributing developer licenses.",
+      "created": 1613490517933,
+      "updated": 1615486474904,
+      "version": 3,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly", "Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 50,
+          "maximumQuantity": 0,
+          "defaultQuantity": 50,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 39.98
+                }
+              ],
+              "id": "e9e1e2b3-2847-434f-ae77-b23a2db47a17"
+            }
+          ],
+          "id": "5f6366b7c71a520013581893",
+          "created": 1600349879028,
+          "updated": 1613488274405,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D049SZX",
+            "zuoraRatePlanChargeId": "2c92a0fe77992b8b0177ab73e0e30ddf",
+            "zuoraRatePlanId": "2c92a0ff779933100177ab73de5c41aa"
+          },
+          "increment": 50,
+          "vendorChargeId": "D049SZX",
+          "name": "Developers",
+          "uom": {
+            "identifier": "Developer",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1601316699152,
+            "updated": 1601316699152,
+            "singularName": "Developer",
+            "pluralName": "Developers",
+            "suffix": "per developer",
+            "inputLabel": "Enter number of developers",
+            "summaryLabel": "Developers"
+          }
+        }
+      ],
+      "trialGracePeriod": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "602bf8fdd1bd660013780078",
       "id": "rhmccp-d63ed222-88ba-4f76-92f6-1fee6dd63751",
       "type": "FreeTrial",
@@ -1154,6 +1364,83 @@
       "revisions": []
     },
     {
+      "_id": "605bc02e70242e00130f4ffe",
+      "id": "rhmccp-9d2b1229-803e-49a0-a902-a219d9c5d467",
+      "type": "Purchase",
+      "productId": "94dbbd740bd14f3e92b2f669544717f5",
+      "productName": "Spectrum Protect Plus",
+      "name": "Monthly License",
+      "description": "Gain the flexibility of a monthly license for IBM Spectrum Protect Plus’ backup and recovery for VMs, databases and SaaS applications like Microsoft Office 365.",
+      "category": "Product",
+      "created": 1616625710169,
+      "updated": 1631048112529,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1, 3, 6, 12, 24, 36, 48, 60],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 12,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D1X29LL",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 60
+                },
+                {
+                  "currency": "CAD",
+                  "price": 74.289
+                }
+              ],
+              "id": "21dc9b66-d7ec-4889-94d9-ea792d6f1123"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "610b05d3217d020013c49cd3",
+          "created": 1628112339873,
+          "updated": 1629406930903,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D1X29LL",
+            "zuoraRatePlanChargeId": "2c92a0fd7bbaa819017bc20b19277477",
+            "zuoraRatePlanId": "2c92a0117bbaa830017bc20b162a6d21"
+          },
+          "name": "Terabyte",
+          "uom": {
+            "identifier": "Terabyte",
+            "multiplier": 1,
+            "created": 1586264544930,
+            "updated": 1586264544930,
+            "supportUsageChargeType": false,
+            "singularName": "Terabyte",
+            "pluralName": "Terabytes",
+            "suffix": "per TB",
+            "inputLabel": "Enter number of terabytes",
+            "summaryLabel": "Number of terabytes"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "606339df70242e00130f5009",
       "id": "rhmccp-2411cf19-8790-4402-ac9d-2f1b9eefead5",
       "type": "FreeTrial",
@@ -1793,162 +2080,6 @@
       "cooldownPeriod": null,
       "trialGracePeriod": null,
       "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "6070f4ef25a84a001564fdc5",
-      "id": "rhmccp-97d038b0-e6b8-4e0c-8841-857b5ca1348c",
-      "type": "Purchase",
-      "productId": "bc90db4823a27ef2606cf74931da8d9d",
-      "productName": "IBM Cloud Pak for Data",
-      "name": "Standard Edition",
-      "description": "Flexible, fully-integrated data and AI platform for small to medium workloads that helps modernize the way you collect, organize and analyze data to infuse AI.",
-      "category": "Product",
-      "created": 1618015471286,
-      "updated": 1619557533374,
-      "version": 7,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 0,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 64,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D1ZXKLL",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 350
-                },
-                {
-                  "currency": "CAD",
-                  "price": 455
-                }
-              ],
-              "id": "042c8013-ee26-4b3e-b4e9-13a5981989a6"
-            }
-          ],
-          "usageReportingId": "eb9998dcc5d24e3eb5b6fb488f750fe2.licensing.ibm.com:IBMLicensing:VIRTUAL_PROCESSOR_CORE",
-          "chargeDescription": "",
-          "id": "60887976192a4a00137b2f28",
-          "created": 1619556726884,
-          "updated": 1619556726884,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D1ZXKLL",
-            "zuoraRatePlanChargeId": "2c92a00e791221ac01791526c58b6c81",
-            "zuoraRatePlanId": "2c92a007791221ce01791526c29f1f69"
-          },
-          "name": "Virtual Processor Core",
-          "uom": {
-            "identifier": "VirtualProcessorCore",
-            "multiplier": 1,
-            "created": 1586264545764,
-            "updated": 1586264545764,
-            "supportUsageChargeType": false,
-            "singularName": "Virtual Processor Core",
-            "pluralName": "Virtual Processor Cores",
-            "suffix": "per virtual processor core",
-            "inputLabel": "Enter number of virtual processor cores",
-            "summaryLabel": "Number of virtual processor cores"
-          }
-        }
-      ],
-      "group": "eb9998dcc5d24e3eb5b6fb488f750fe2.licensing.ibm.com:IBMLicensing",
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "6070f4ef25a84a001564fdc6",
-      "id": "rhmccp-9f85feca-6dcf-4df9-9838-0c07104fe350",
-      "type": "Purchase",
-      "productId": "bc90db4823a27ef2606cf74931da8d9d",
-      "productName": "IBM Cloud Pak for Data",
-      "name": "Enterprise Edition",
-      "description": "Flexible, fully-integrated data and AI platform that helps modernize the way you collect, organize and analyze data to infuse AI. ",
-      "category": "Product",
-      "created": 1618015471340,
-      "updated": 1619557569303,
-      "version": 7,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D1YH5LL",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 699
-                },
-                {
-                  "currency": "CAD",
-                  "price": 908.7
-                }
-              ],
-              "id": "6c12ac1f-8a99-42cc-8152-69426c47080d"
-            }
-          ],
-          "usageReportingId": "eb9998dcc5d24e3eb5b6fb488f750fe2.licensing.ibm.com:IBMLicensing:VIRTUAL_PROCESSOR_CORE",
-          "chargeDescription": "",
-          "id": "60887aa8280ce100131d6fdd",
-          "created": 1619557032924,
-          "updated": 1619557032924,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D1YH5LL",
-            "zuoraRatePlanChargeId": "2c92a00c791221d901791527513838b7",
-            "zuoraRatePlanId": "2c92a007791221cb017915274dd1392b"
-          },
-          "name": "Virtual Processor Core",
-          "uom": {
-            "identifier": "VirtualProcessorCore",
-            "multiplier": 1,
-            "created": 1586264545764,
-            "updated": 1586264545764,
-            "supportUsageChargeType": false,
-            "singularName": "Virtual Processor Core",
-            "pluralName": "Virtual Processor Cores",
-            "suffix": "per virtual processor core",
-            "inputLabel": "Enter number of virtual processor cores",
-            "summaryLabel": "Number of virtual processor cores"
-          }
-        }
-      ],
-      "group": "eb9998dcc5d24e3eb5b6fb488f750fe2.licensing.ibm.com:IBMLicensing",
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -3208,6 +3339,162 @@
       "cooldownPeriod": null,
       "trialGracePeriod": null,
       "group": "robinclusters.robin.io",
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60887d27280ce100131d6fdf",
+      "id": "rhmccp-9f85feca-6dcf-4df9-9838-0c07104fe350",
+      "type": "Purchase",
+      "productId": "bc90db4823a27ef2606cf74931da8d9d",
+      "productName": "IBM Cloud Pak for Data",
+      "name": "Enterprise Edition",
+      "description": "Flexible, fully-integrated data and AI platform that helps modernize the way you collect, organize and analyze data to infuse AI. ",
+      "category": "Product",
+      "created": 1619557671006,
+      "updated": 1630513511737,
+      "version": 8,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D1YH5LL",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 699
+                },
+                {
+                  "currency": "CAD",
+                  "price": 865.47
+                }
+              ],
+              "id": "c511c9df-413e-4054-9cf5-671100ad9172"
+            }
+          ],
+          "usageReportingId": "eb9998dcc5d24e3eb5b6fb488f750fe2.licensing.ibm.com:IBMLicensing:VIRTUAL_PROCESSOR_CORE",
+          "chargeDescription": "",
+          "id": "60887aa8280ce100131d6fdd",
+          "created": 1619557032924,
+          "updated": 1630357128624,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D1YH5LL",
+            "zuoraRatePlanChargeId": "2c92a00c791221d901791527513838b7",
+            "zuoraRatePlanId": "2c92a007791221cb017915274dd1392b"
+          },
+          "name": "Virtual Processor Core",
+          "uom": {
+            "identifier": "VirtualProcessorCore",
+            "multiplier": 1,
+            "created": 1586264545764,
+            "updated": 1586264545764,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual Processor Core",
+            "pluralName": "Virtual Processor Cores",
+            "suffix": "per virtual processor core",
+            "inputLabel": "Enter number of virtual processor cores",
+            "summaryLabel": "Number of virtual processor cores"
+          }
+        }
+      ],
+      "group": "eb9998dcc5d24e3eb5b6fb488f750fe2.licensing.ibm.com:IBMLicensing",
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60887d27280ce100131d6fe0",
+      "id": "rhmccp-97d038b0-e6b8-4e0c-8841-857b5ca1348c",
+      "type": "Purchase",
+      "productId": "bc90db4823a27ef2606cf74931da8d9d",
+      "productName": "IBM Cloud Pak for Data",
+      "name": "Standard Edition",
+      "description": "Flexible, fully-integrated data and AI platform for small to medium workloads that helps modernize the way you collect, organize and analyze data to infuse AI.",
+      "category": "Product",
+      "created": 1619557671077,
+      "updated": 1630513462298,
+      "version": 8,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 64,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D1ZXKLL",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 350
+                },
+                {
+                  "currency": "CAD",
+                  "price": 433.35
+                }
+              ],
+              "id": "042c8013-ee26-4b3e-b4e9-13a5981989a6"
+            }
+          ],
+          "usageReportingId": "eb9998dcc5d24e3eb5b6fb488f750fe2.licensing.ibm.com:IBMLicensing:VIRTUAL_PROCESSOR_CORE",
+          "chargeDescription": "",
+          "id": "60887976192a4a00137b2f28",
+          "created": 1619556726884,
+          "updated": 1619556726884,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D1ZXKLL",
+            "zuoraRatePlanChargeId": "2c92a00e791221ac01791526c58b6c81",
+            "zuoraRatePlanId": "2c92a007791221ce01791526c29f1f69"
+          },
+          "name": "Virtual Processor Core",
+          "uom": {
+            "identifier": "VirtualProcessorCore",
+            "multiplier": 1,
+            "created": 1586264545764,
+            "updated": 1586264545764,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual Processor Core",
+            "pluralName": "Virtual Processor Cores",
+            "suffix": "per virtual processor core",
+            "inputLabel": "Enter number of virtual processor cores",
+            "summaryLabel": "Number of virtual processor cores"
+          }
+        }
+      ],
+      "group": "eb9998dcc5d24e3eb5b6fb488f750fe2.licensing.ibm.com:IBMLicensing",
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -4859,16 +5146,89 @@
       "revisions": []
     },
     {
-      "_id": "60ae701e5285410013c26de9",
+      "_id": "60adf9182c9f9500139fba90",
+      "id": "rhmccp-2dadac19-61d2-4229-b8bc-8e55c11387fa",
+      "type": "Purchase",
+      "productId": "d70cb8a483554049b636c6be8490c3f8",
+      "productName": "Operator Service for Jenkins",
+      "name": "Standard",
+      "description": "Standard edition of Operator Service for Jenkins® with lifecycle management, full GitOps configuration, out-of-the-box security hardening.",
+      "category": "Product",
+      "created": 1622014232327,
+      "updated": 1628777469335,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [3, 6, 12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 1,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "rhm-standard",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1000
+                }
+              ],
+              "id": "7c470d78-2af1-4479-a53d-cac5f6ba8173"
+            }
+          ],
+          "chargeDescription": "Starting at $1,000.00 per instance per month with enterprise support.",
+          "id": "60adfe3becb6e500138677ed",
+          "created": 1622015547598,
+          "updated": 1628777450845,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D070JZX",
+            "zuoraRatePlanChargeId": "2c92a00f7b351a94017b3ab3d50851b1",
+            "zuoraRatePlanId": "2c92a00f7b351a94017b3ab3d1405171"
+          },
+          "name": "Operator Service for Jenkins - Standard",
+          "uom": {
+            "identifier": "Instance",
+            "multiplier": 1,
+            "created": 1586264541070,
+            "updated": 1586264541070,
+            "supportUsageChargeType": false,
+            "singularName": "Instance",
+            "pluralName": "Instances",
+            "suffix": "per instance",
+            "inputLabel": "Enter number of instances",
+            "summaryLabel": "Number of instances"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60ae784d085c020013a64068",
       "id": "rhmccp-bfe148af-923d-4c0a-8e86-cfcc9ebde036",
       "type": "Purchase",
       "productId": "dd54a6952442c07b99be60361d856389",
       "productName": "Site Reliability Automation",
       "name": "Container Application Resilience",
       "description": "This is a container application backup and DR offering, for enterprise OpenShift clusters. A kubernetes PoD is considered an Instance.",
-      "created": 1622044702114,
-      "updated": 1622046749741,
-      "version": 3,
+      "created": 1622046797515,
+      "updated": 1630424429998,
+      "version": 4,
       "termUnit": "Month",
       "allowedBillingFrequencies": ["Monthly"],
       "allowedSubscriptionTerms": [1],
@@ -4895,7 +5255,7 @@
                 },
                 {
                   "currency": "CAD",
-                  "price": 32.5
+                  "price": 30.95
                 }
               ],
               "id": "9488bf67-af6c-4146-ac50-6430369ef86a"
@@ -4929,84 +5289,6 @@
       "cooldownPeriod": null,
       "group": null,
       "trialGracePeriod": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60ae8bd52162380014d43263",
-      "id": "rhmccp-5d03113a-a1ac-40a1-9b8d-bbe8b7fa9f51",
-      "type": "Purchase",
-      "productId": "41b3a7bc16e48c8abb6fd5d96a3b58a1",
-      "productName": "Sumo Logic Kubernetes Observability",
-      "name": "Enterprise Operations",
-      "description": "Enterprise Operations provides advanced operational insights.  Monitor, detect, and troubleshoot with integrated views on a single platform.",
-      "category": "Product",
-      "created": 1622051797611,
-      "updated": 1623958384330,
-      "version": 5,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [24],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 0,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 5,
-          "maximumQuantity": 10,
-          "defaultQuantity": 5,
-          "increment": 5,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 122.8
-                },
-                {
-                  "currency": "CAD",
-                  "price": 159.64
-                }
-              ],
-              "id": "340352dd-3010-44a3-925f-2c322a20738f"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "607083def6a72700145e2af5",
-          "created": 1617986526745,
-          "updated": 1621008895171,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D05U9ZX",
-            "zuoraRatePlanChargeId": "2c92a0087917827f017918bd8b3d476e",
-            "zuoraRatePlanId": "2c92a00c7917766d017918bd87480e3a"
-          },
-          "vendorChargeId": "D05U9ZX",
-          "name": "Enterprise Operations",
-          "uom": {
-            "identifier": "Gigabyte",
-            "multiplier": 1,
-            "created": 1586264547659,
-            "updated": 1586264547659,
-            "supportUsageChargeType": false,
-            "singularName": "Gigabyte",
-            "pluralName": "Gigabytes",
-            "suffix": "per GB",
-            "inputLabel": "Enter number of gigabytes",
-            "summaryLabel": "Number of gigabytes"
-          }
-        }
-      ],
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -7414,7 +7696,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1623452978786,
-      "updated": 1623790174785,
+      "updated": 1629145568256,
       "version": 1,
       "editionCharges": [
         {
@@ -7537,79 +7819,6 @@
       "revisions": []
     },
     {
-      "_id": "60c7e24cfbfc5a0013bba05f",
-      "id": "rhmccp-d014f8ac-5dff-42d7-95ca-e1ec19f91933",
-      "type": "Purchase",
-      "productId": "1f61eaa98bd10fee8bab486cc75a7ff1",
-      "productName": "Redis Labs Enterprise",
-      "name": "Redis Enterprise Software",
-      "description": "Redis Enterprise Software Ultimate Shard, Production Environment, 1-Year Subscription",
-      "category": "Product",
-      "created": 1623712332461,
-      "updated": 1623776617706,
-      "version": 2,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 0,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D05UFZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 10000
-                }
-              ],
-              "id": "8e30ed0a-f0c0-461a-b30e-31bf4f356082"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "609d91467cc485001388a189",
-          "created": 1620939078722,
-          "updated": 1623702836764,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D05UFZX",
-            "zuoraRatePlanChargeId": "2c92a01179faffe2017a0ca8907d2554",
-            "zuoraRatePlanId": "2c92a0fe79faf377017a0ca88db74ae2"
-          },
-          "name": "Redis Enterprise Software, Production Environment",
-          "uom": {
-            "identifier": "Shard_sub",
-            "supportUsageChargeType": false,
-            "multiplier": 1,
-            "created": 1620850435359,
-            "updated": 1620850435359,
-            "singularName": "Shard",
-            "pluralName": "Shards",
-            "suffix": "per shard",
-            "inputLabel": "Enter the number shards",
-            "summaryLabel": "Number of shards"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "60ca20cd744002001396e08f",
       "id": "rhmccp-f5f978ad-5a64-4fc7-8bde-bd26eacadcc0",
       "type": "Purchase",
@@ -7698,7 +7907,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1624296018470,
-      "updated": 1624297926828,
+      "updated": 1628777480724,
       "version": 1,
       "editionCharges": [
         {
@@ -7752,226 +7961,7 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
-    },
-    {
-      "_id": "60d2507b4ba21600134a99f1",
-      "id": "rhmccp-058cb482-76da-401d-968e-f574e57c80a8",
-      "type": "Purchase",
-      "productId": "01079925b41556f29374a230f88625c1",
-      "productName": "OpenVino",
-      "name": "OpenVINO Pro for Enterprise",
-      "description": "",
-      "category": "Product",
-      "created": 1624395899916,
-      "updated": 1626307154554,
-      "version": 1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 177
-                }
-              ],
-              "id": "15973f94-c2c2-4344-8e6c-018adc4c983b"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60d254d14ba21600134a99f2",
-          "created": 1624397009317,
-          "updated": 1626307142430,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D076EZX",
-            "zuoraRatePlanChargeId": "2c92a0107aa2d409017aa775d1f8436e",
-            "zuoraRatePlanId": "2c92a0117aa2e0a1017aa775ce0d6d5a"
-          },
-          "vendorChargeId": "D076EZX",
-          "name": "OpenVino Pro for Enterprise",
-          "uom": {
-            "identifier": "Node",
-            "multiplier": 1,
-            "created": 1590600597374,
-            "updated": 1590600597374,
-            "supportUsageChargeType": false,
-            "singularName": "Node",
-            "pluralName": "Nodes",
-            "suffix": "per node",
-            "inputLabel": "Enter number of nodes",
-            "summaryLabel": "Number of nodes"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60d3710e10f805001350ccf9",
-      "id": "rhmccp-cd03fdae-39fb-4167-88fb-e564606f602c",
-      "type": "Purchase",
-      "productId": "9ad46745f3d49d9754defdf20e931e20",
-      "productName": "Fujitsu Enterprise Postgres",
-      "name": "Operator/License Bundle for amd64",
-      "description": "",
-      "category": "Product",
-      "created": 1624469774552,
-      "updated": 1625844666783,
-      "version": 3,
-      "termUnit": "Month",
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 2900
-                }
-              ],
-              "id": "553819e6-2c9f-4fe4-b1a8-9324d00ba620"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "606f8596249e560013d613de",
-          "created": 1617921430886,
-          "updated": 1624460050416,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D06RSZX",
-            "zuoraRatePlanChargeId": "2c92a00d7a37875a017a395d85412e8a",
-            "zuoraRatePlanId": "2c92a0077a377aa1017a395d816a6471"
-          },
-          "vendorChargeId": "D06RSZX",
-          "name": "FUJITSU Enterprise Postgres Operator/License Bundle amd64",
-          "uom": {
-            "identifier": "Core",
-            "supportUsageChargeType": false,
-            "multiplier": 1,
-            "created": 1607619029376,
-            "updated": 1607619029376,
-            "singularName": "Core",
-            "pluralName": "Cores",
-            "suffix": "per core",
-            "inputLabel": "Enter number of cores",
-            "summaryLabel": "Number of cores"
-          }
-        }
-      ],
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60d3710e4b5aad0013653d06",
-      "id": "rhmccp-ff204772-0dd6-4174-9c64-14964a914d8b",
-      "type": "Purchase",
-      "productId": "9ad46745f3d49d9754defdf20e931e20",
-      "productName": "Fujitsu Enterprise Postgres",
-      "name": "FUJITSU Enterprise Postgres Operator",
-      "description": "Enterprise platform for provisioning and managing your Fujitsu Enterprise Postgres database on OpenShift Container Platform",
-      "category": "Product",
-      "created": 1624469774648,
-      "updated": 1625844639481,
-      "version": 3,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 0,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D06RRZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 1300
-                }
-              ],
-              "id": "b5e1f57a-602c-4910-929c-64d1b48d9f82"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60d3544010f805001350ccf8",
-          "created": 1624462400514,
-          "updated": 1624462400514,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D06RRZX",
-            "zuoraRatePlanChargeId": "2c92a0ff7a37877c017a39ac4ab14fcf",
-            "zuoraRatePlanId": "2c92a0107a377abf017a39ac46f539a4"
-          },
-          "name": "FUJITSU Enterprise Postgres Operator",
-          "uom": {
-            "identifier": "Core",
-            "supportUsageChargeType": false,
-            "multiplier": 1,
-            "created": 1607619029376,
-            "updated": 1607619029376,
-            "singularName": "Core",
-            "pluralName": "Cores",
-            "suffix": "per core",
-            "inputLabel": "Enter number of cores",
-            "summaryLabel": "Number of cores"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
     }
   ],
-  "count": 415
+  "count": 434
 }

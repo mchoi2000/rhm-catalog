@@ -1,7 +1,7 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 220,
+      "totalCount": 224,
       "cursor": "5fd8e53325f01800132ebd9c",
       "products": [
         {
@@ -703,84 +703,6 @@
           ]
         },
         {
-          "id": "d6b08ed0753acda1b467ad32115cc9fc",
-          "publishedContent": {
-            "title": "Instana Application Performance Monitoring",
-            "formats": null,
-            "topics": null,
-            "industries": null,
-            "assetUpdatedInfo": null
-          },
-          "productPageName": ["instana-application-performance-monitoring-apm"],
-          "created": "2020-01-28T13:59:01.674Z",
-          "updated": "2021-03-16T15:17:40.929Z",
-          "company": {
-            "name": "Instana, Inc"
-          },
-          "primaryCategory": {
-            "categoryPageName": "monitoring",
-            "content": {
-              "name": "Monitoring"
-            }
-          },
-          "categories": [
-            {
-              "categoryPageName": "monitoring",
-              "content": {
-                "name": "Monitoring"
-              }
-            },
-            {
-              "categoryPageName": "integration-and-delivery",
-              "content": {
-                "name": "Integration & Delivery"
-              }
-            },
-            {
-              "categoryPageName": "logging-and-tracing",
-              "content": {
-                "name": "Logging & Tracing"
-              }
-            }
-          ],
-          "editions": [
-            {
-              "id": "rhmccp-93c156bc-c7a7-4b5c-9547-270024cb67e3",
-              "publishedEditionContent": {
-                "packageName": "instana-agent-rhmp",
-                "openShiftVersion": null,
-                "packageType": "OPERATOR",
-                "planType": "TRIAL",
-                "partNumbers": ["OM_IAPM_5F6TZqnMb223w1A9YcdVuW"],
-                "chargeTypes": null,
-                "repositoryUrl": "https://registry.connect.redhat.com",
-                "audience": null,
-                "supportedCountries": ["US"],
-                "certification": {
-                  "operatorCapabilities": 1
-                },
-                "localizedContent": {
-                  "planDetails": [
-                    {
-                      "value": "The Instana Trial includes all features of Instana APM."
-                    },
-                    {
-                      "value": "Monitor the performance and quality of your services; installation takes 5 minutes."
-                    },
-                    {
-                      "value": "Deliver immediate, exact understanding of service performance to your DevOps organization."
-                    }
-                  ]
-                }
-              }
-            },
-            {
-              "id": "rhmccp-dc6ed277-1fc9-4a97-933d-4188adf27c3d",
-              "publishedEditionContent": null
-            }
-          ]
-        },
-        {
           "id": "8c81f6a6f0a79b8ef03ca40cf019bd08",
           "publishedContent": {
             "title": "Starburst Enterprise",
@@ -794,7 +716,7 @@
             "starburst-presto-enterprise"
           ],
           "created": "2020-01-28T15:53:37.423Z",
-          "updated": "2021-07-26T18:46:37.110Z",
+          "updated": "2021-09-13T14:08:53.504Z",
           "company": {
             "name": "Starburst Data, Inc"
           },
@@ -1056,7 +978,7 @@
           },
           "productPageName": ["ibm-cloud-pak-for-data"],
           "created": "2020-01-29T00:25:37.452Z",
-          "updated": "2021-06-11T13:36:24.624Z",
+          "updated": "2021-09-09T18:01:05.278Z",
           "company": {
             "name": "IBM"
           },
@@ -1090,8 +1012,8 @@
             {
               "id": "rhmccp-9f85feca-6dcf-4df9-9838-0c07104fe350",
               "publishedEditionContent": {
-                "packageName": "ibm-cp-data-operator",
-                "openShiftVersion": "4.5",
+                "packageName": "cpd-platform-operator",
+                "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": ["placeholder"],
@@ -1123,8 +1045,8 @@
             {
               "id": "rhmccp-97d038b0-e6b8-4e0c-8841-857b5ca1348c",
               "publishedEditionContent": {
-                "packageName": "ibm-cp-data-operator",
-                "openShiftVersion": "4.5",
+                "packageName": "cpd-platform-operator",
+                "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": ["placeholder"],
@@ -1156,8 +1078,8 @@
             {
               "id": "rhmccp-a790651c-dc52-4937-a764-2eabe4ae7f5a",
               "publishedEditionContent": {
-                "packageName": "ibm-cp-data-operator",
-                "openShiftVersion": "4.5",
+                "packageName": "cpd-platform-operator",
+                "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
                 "partNumbers": null,
@@ -1196,7 +1118,7 @@
           },
           "productPageName": ["seldon-deploy"],
           "created": "2020-02-05T21:19:20.944Z",
-          "updated": "2021-06-22T14:35:30.549Z",
+          "updated": "2021-08-06T17:14:30.311Z",
           "company": {
             "name": "Seldon Technologies Ltd"
           },
@@ -1372,7 +1294,7 @@
           },
           "productPageName": ["hazelcast-in-memory-computing-platform"],
           "created": "2020-02-06T19:41:49.684Z",
-          "updated": "2021-07-13T18:45:37.601Z",
+          "updated": "2021-08-11T12:36:01.070Z",
           "company": {
             "name": "Hazelcast, Inc."
           },
@@ -1608,7 +1530,7 @@
         {
           "id": "4b000607693191eef7961f468b42b781",
           "publishedContent": {
-            "title": "Aqua Cloud Native Security Platform",
+            "title": "Aqua Cloud Native Application Protection Platform",
             "formats": null,
             "topics": null,
             "industries": null,
@@ -1616,7 +1538,7 @@
           },
           "productPageName": ["aqua-security"],
           "created": "2020-02-12T13:34:41.614Z",
-          "updated": "2021-03-16T15:13:17.359Z",
+          "updated": "2021-09-02T20:44:38.520Z",
           "company": {
             "name": "Aqua Security Software Ltd"
           },
@@ -1651,7 +1573,7 @@
                 "partNumbers": ["OM_AS_btYXQi46Fv37Vz8gsSnmw7"],
                 "chargeTypes": null,
                 "repositoryUrl": "https://github.com/aquasecurity/aqua-operator",
-                "audience": null,
+                "audience": [],
                 "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 1
@@ -1690,7 +1612,7 @@
                 "partNumbers": ["placeholder"],
                 "chargeTypes": ["Recurring"],
                 "repositoryUrl": "placeholder",
-                "audience": null,
+                "audience": [],
                 "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 1
@@ -2342,7 +2264,7 @@
           },
           "productPageName": ["red-hat-container-storage"],
           "created": "2020-02-21T13:46:16.571Z",
-          "updated": "2021-08-05T14:24:26.361Z",
+          "updated": "2021-08-12T13:55:03.927Z",
           "company": {
             "name": "Red Hat, Inc (Container Storage)"
           },
@@ -2661,7 +2583,7 @@
           },
           "productPageName": ["dynatrace"],
           "created": "2020-03-04T12:15:30.835Z",
-          "updated": "2021-06-22T13:51:19.204Z",
+          "updated": "2021-08-31T17:46:37.233Z",
           "company": {
             "name": "Dynatrace, Inc"
           },
@@ -2873,7 +2795,7 @@
           },
           "productPageName": ["ibm-cloudpak-for-automation"],
           "created": "2020-03-05T22:24:15.183Z",
-          "updated": "2021-06-30T15:56:37.805Z",
+          "updated": "2021-09-13T16:11:14.152Z",
           "company": {
             "name": "IBM"
           },
@@ -2969,6 +2891,10 @@
             },
             {
               "id": "rhmccp-2608d52c-6e15-49bd-9300-5b63d4af8d44",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-00081fcf-a8c7-44b6-8894-171538008a57",
               "publishedEditionContent": null
             }
           ]
@@ -3112,7 +3038,7 @@
           },
           "productPageName": ["appranix"],
           "created": "2020-03-09T12:23:50.957Z",
-          "updated": "2021-05-26T16:33:25.634Z",
+          "updated": "2021-09-10T19:10:51.845Z",
           "company": {
             "name": "Appranix, Inc"
           },
@@ -3150,7 +3076,7 @@
                 "audience": [],
                 "supportedCountries": ["CA", "US"],
                 "certification": {
-                  "operatorCapabilities": 2
+                  "operatorCapabilities": 1
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -4850,7 +4776,7 @@
           },
           "productPageName": ["red-hat-integration"],
           "created": "2020-03-20T00:10:37.033Z",
-          "updated": "2021-06-02T15:52:24.799Z",
+          "updated": "2021-08-31T13:59:33.240Z",
           "company": {
             "name": "Red Hat, Inc (Integration)"
           },
@@ -5026,7 +4952,7 @@
           },
           "productPageName": ["redis-labs-enterprise"],
           "created": "2020-03-20T00:25:37.921Z",
-          "updated": "2021-06-15T20:50:15.744Z",
+          "updated": "2021-08-20T20:37:35.129Z",
           "company": {
             "name": "Redis Lab, Inc"
           },
@@ -5705,7 +5631,7 @@
           },
           "productPageName": ["time-machine"],
           "created": "2020-03-30T12:05:58.255Z",
-          "updated": "2021-07-23T16:52:16.466Z",
+          "updated": "2021-08-09T15:02:20.861Z",
           "company": {
             "name": "SolutionSoft Systems Inc. "
           },
@@ -6432,7 +6358,7 @@
           },
           "productPageName": ["couchbase-server"],
           "created": "2020-04-03T12:32:16.016Z",
-          "updated": "2021-07-14T20:19:48.395Z",
+          "updated": "2021-09-13T16:04:01.230Z",
           "company": {
             "name": "Couchbase Inc"
           },
@@ -6559,6 +6485,36 @@
             },
             {
               "id": "rhmccp-11f5f243-b9a4-4d8f-a037-3e9cdf67602a",
+              "publishedEditionContent": {
+                "packageName": "couchbase-enterprise-certified-rhmp",
+                "openShiftVersion": null,
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 5
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Entrprise operator choices"
+                    },
+                    {
+                      "value": "Enterprise SaaS choices"
+                    },
+                    {
+                      "value": "Hidden configuration"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-83ce9950-35c4-465f-be09-90af4d328296",
               "publishedEditionContent": null
             }
           ]
@@ -6977,7 +6933,7 @@
           },
           "productPageName": ["yugabytedb"],
           "created": "2020-04-24T17:08:32.305Z",
-          "updated": "2021-05-10T17:58:11.526Z",
+          "updated": "2021-08-12T20:57:29.353Z",
           "company": {
             "name": "Yugabyte, Inc."
           },
@@ -7970,7 +7926,7 @@
             "operatr-for-apache-kafka"
           ],
           "created": "2020-07-13T14:31:12.848Z",
-          "updated": "2021-07-27T13:30:46.421Z",
+          "updated": "2021-09-13T12:54:27.447Z",
           "company": {
             "name": "Operatr IO, Inc."
           },
@@ -8244,7 +8200,7 @@
           },
           "productPageName": ["mongodb-enterprise-advanced-from-ibm"],
           "created": "2020-07-20T16:03:15.747Z",
-          "updated": "2021-05-19T17:59:32.933Z",
+          "updated": "2021-08-23T16:52:25.312Z",
           "company": {
             "name": "IBM"
           },
@@ -8660,6 +8616,110 @@
           ]
         },
         {
+          "id": "26ec7065964b222fba3c81d2bec95464",
+          "publishedContent": {
+            "title": "Hybrid File Transfer using Kubernetes",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["universal-automation-center"],
+          "created": "2020-08-17T20:32:12.396Z",
+          "updated": "2021-09-01T13:23:15.436Z",
+          "company": {
+            "name": "Stonebranch Inc"
+          },
+          "primaryCategory": {
+            "categoryPageName": "integration-and-delivery",
+            "content": {
+              "name": "Integration & Delivery"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "integration-and-delivery",
+              "content": {
+                "name": "Integration & Delivery"
+              }
+            },
+            {
+              "categoryPageName": "application-runtime",
+              "content": {
+                "name": "Application Runtime"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-c5ba004b-acbb-4796-b07d-abf8a53b6e0b",
+              "publishedEditionContent": {
+                "packageName": "stonebranch-universalagent-operator-certified-rhmp",
+                "openShiftVersion": "4.4+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": ["placeholder"],
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Unlimited file transfers between on-premise and cloud applications and platforms"
+                    },
+                    {
+                      "value": "Pre-configure unlimited Stonebranch Universal Agents to work with Openshift"
+                    },
+                    {
+                      "value": "Highly secure managed file transfer for internal or 3rd party applications and platforms"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-2b5f2a31-2318-4850-811d-8ac77cd3ec98",
+              "publishedEditionContent": {
+                "packageName": "stonebranch-universalagent-operator-certified-rhmp",
+                "openShiftVersion": "4.4+",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": ["placeholder"],
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Unlimited file transfers between on-premise and cloud applications and platforms"
+                    },
+                    {
+                      "value": "Pre-configure unlimited Stonebranch Universal Agents to work with Openshift"
+                    },
+                    {
+                      "value": "Highly secure managed file transfer for internal or 3rd party applications and platforms"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "f698056643634c2f0ae113bc292bf68f",
           "publishedContent": {
             "title": "Red Hat Advanced Cluster Management for Kubernetes",
@@ -8730,6 +8790,10 @@
                   ]
                 }
               }
+            },
+            {
+              "id": "rhmccp-36fbb9d2-8b44-4bbc-a4aa-cf3a9339778e",
+              "publishedEditionContent": null
             }
           ]
         },
@@ -9814,7 +9878,7 @@
           },
           "productPageName": ["fujitsu-enterprise-postgres"],
           "created": "2020-10-13T14:03:20.022Z",
-          "updated": "2021-07-20T04:11:34.299Z",
+          "updated": "2021-09-13T16:04:31.363Z",
           "company": {
             "name": "Fujitsu Limited"
           },
@@ -9982,7 +10046,7 @@
           },
           "productPageName": ["ibm-db2-on-cloud-pak-for-data"],
           "created": "2020-10-22T15:19:39.093Z",
-          "updated": "2021-04-09T15:09:46.342Z",
+          "updated": "2021-09-01T18:24:18.734Z",
           "company": {
             "name": "IBM"
           },

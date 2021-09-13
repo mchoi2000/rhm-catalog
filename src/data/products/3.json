@@ -1,7 +1,7 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 220,
+      "totalCount": 224,
       "cursor": null,
       "products": [
         {
@@ -1417,6 +1417,80 @@
           ]
         },
         {
+          "id": "94dbbd740bd14f3e92b2f669544717f5",
+          "publishedContent": {
+            "title": "IBM Spectrum Protect Plus",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["spectrum-protect-plus"],
+          "created": "2021-02-24T17:54:36.277Z",
+          "updated": "2021-09-07T21:53:53.801Z",
+          "company": {
+            "name": "IBM - Spectrum Protect"
+          },
+          "primaryCategory": {
+            "categoryPageName": "storage",
+            "content": {
+              "name": "Storage"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "storage",
+              "content": {
+                "name": "Storage"
+              }
+            },
+            {
+              "categoryPageName": "big-data",
+              "content": {
+                "name": "Big Data"
+              }
+            },
+            {
+              "categoryPageName": "monitoring",
+              "content": {
+                "name": "Monitoring"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-9d2b1229-803e-49a0-a902-a219d9c5d467",
+              "publishedEditionContent": {
+                "packageName": "spp-operator",
+                "openShiftVersion": "4.6",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 2
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Up to 12 TB, pay monthly, license and support included."
+                    },
+                    {
+                      "value": "IBM calculates a terabyte (TB) as 2 to the 40th power bytes, also known as a Tebibyte (TiB)."
+                    },
+                    {
+                      "value": "Additional storage available  by calling IBM Sales at 1-877-426-4262. Priority code: Systems"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "918e86970128099d8ae381e095421e7a",
           "publishedContent": {
             "title": "Node-RED Operator",
@@ -1495,7 +1569,7 @@
           },
           "productPageName": ["sumo-logic-kubernetes-observability"],
           "created": "2021-03-18T19:10:09.679Z",
-          "updated": "2021-06-17T19:34:38.082Z",
+          "updated": "2021-09-01T00:06:06.515Z",
           "company": {
             "name": "Sumo Logic Inc"
           },
@@ -1529,16 +1603,18 @@
             {
               "id": "rhmccp-5d03113a-a1ac-40a1-9b8d-bbe8b7fa9f51",
               "publishedEditionContent": {
-                "packageName": "SaaS-uqLWfduz4tAjKRCLwwumsk-rhmp",
+                "packageName": "sumologic-kubernetes-collection-helm-operator-rhmp",
                 "openShiftVersion": null,
-                "packageType": "SAAS",
+                "packageType": "SAAS_WITH_OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": null,
                 "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
                 "supportedCountries": ["CA", "US"],
-                "certification": null,
+                "certification": {
+                  "operatorCapabilities": 1
+                },
                 "localizedContent": {
                   "planDetails": [
                     {
@@ -1555,6 +1631,9 @@
                     },
                     {
                       "value": "10GB package can support up to 10GB of logs, 67,000 metric DPM, or 15 million trace spans per day"
+                    },
+                    {
+                      "value": "Also grants access to Openshift Operator"
                     }
                   ]
                 }
@@ -1577,16 +1656,146 @@
               "publishedEditionContent": null
             },
             {
-              "id": "rhmccp-0bbd2bc7-37d6-4853-8f84-9631682480e2",
-              "publishedEditionContent": null
+              "id": "rhmccp-66e1571d-24b8-4094-89bd-b2a16b11046b",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["CA", "US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Enterprise Suite"
+                    },
+                    {
+                      "value": "Premium support"
+                    },
+                    {
+                      "value": "Promotional credites"
+                    }
+                  ]
+                }
+              }
             },
             {
-              "id": "rhmccp-791caf78-17ed-49f8-9058-7db01bb8a2ae",
+              "id": "rhmccp-d40fdbf5-142d-474b-b467-98e6d5fdba76",
               "publishedEditionContent": null
+            }
+          ]
+        },
+        {
+          "id": "d70cb8a483554049b636c6be8490c3f8",
+          "publishedContent": {
+            "title": "Operator Service for Jenkins",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["operator-service-for-jenkins"],
+          "created": "2021-03-24T18:02:05.794Z",
+          "updated": "2021-08-12T14:35:50.168Z",
+          "company": {
+            "name": "VIRTUS LAB SP z o o"
+          },
+          "primaryCategory": {
+            "categoryPageName": "developer-tools",
+            "content": {
+              "name": "Developer Tools"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
             },
             {
-              "id": "rhmccp-39bc8a30-7f17-4eff-bd97-c5b424265782",
-              "publishedEditionContent": null
+              "categoryPageName": "integration-and-delivery",
+              "content": {
+                "name": "Integration & Delivery"
+              }
+            },
+            {
+              "categoryPageName": "platform",
+              "content": {
+                "name": "Platform"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-23ccfc00-0677-4b6d-8e71-5cfa1b37e052",
+              "publishedEditionContent": {
+                "packageName": "op-svc-jenkins-rhmp",
+                "openShiftVersion": "4.6+",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Jenkins® lifecycle management"
+                    },
+                    {
+                      "value": "Full GitOps configuration"
+                    },
+                    {
+                      "value": "OpenShift integration (OAuth and more)"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-2dadac19-61d2-4229-b8bc-8e55c11387fa",
+              "publishedEditionContent": {
+                "packageName": "op-svc-jenkins-rhmp",
+                "openShiftVersion": "4.6+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Jenkins® lifecycle management"
+                    },
+                    {
+                      "value": "Full GitOps configuration"
+                    },
+                    {
+                      "value": "OpenShift integration (OAuth and more)"
+                    },
+                    {
+                      "value": "Backups (local - PVC, soon remote)"
+                    },
+                    {
+                      "value": "Support"
+                    }
+                  ]
+                }
+              }
             }
           ]
         },
@@ -1601,7 +1810,7 @@
           },
           "productPageName": ["openvino"],
           "created": "2021-06-04T17:14:07.681Z",
-          "updated": "2021-07-20T16:30:52.976Z",
+          "updated": "2021-08-24T21:06:09.740Z",
           "company": {
             "name": "Intel Corporation"
           },
@@ -1812,6 +2021,280 @@
             {
               "id": "rhmccp-2c2bae27-0bd0-4f9b-a480-d41655508a22",
               "publishedEditionContent": null
+            }
+          ]
+        },
+        {
+          "id": "bd81edaece0c7daf835069f35fb1700a",
+          "publishedContent": {
+            "title": "IBM Model Builder for Vision",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["ibm-services-software-model-builder"],
+          "created": "2021-07-20T14:08:08.139Z",
+          "updated": "2021-09-08T13:03:06.527Z",
+          "company": {
+            "name": "IBM"
+          },
+          "primaryCategory": {
+            "categoryPageName": "ai-machine-learning",
+            "content": {
+              "name": "AI/Machine Learning"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "big-data",
+              "content": {
+                "name": "Big Data"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-bdb49bdb-fc56-4539-a35e-c3a50198fcf4",
+              "publishedEditionContent": {
+                "packageName": "model-builder-for-vision-certified-rhmp",
+                "openShiftVersion": "4.6+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 2
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Pay monthly, license and support included"
+                    },
+                    {
+                      "value": "Unlimited model creations"
+                    },
+                    {
+                      "value": "Can be used on IBM Cloud OpenShift cluster with GPUs"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-19fb35c1-4db9-4ae3-96fc-8d97992205b5",
+              "publishedEditionContent": {
+                "packageName": "model-builder-for-vision-certified-rhmp",
+                "openShiftVersion": "4.6+",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 2
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "No cost for IBM Model Builder usage for duration of free trial"
+                    },
+                    {
+                      "value": "Good for technology validation"
+                    },
+                    {
+                      "value": "Can be used on IBM Cloud OpenShift cluster with GPUs"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "d906ecd50665d394aff34fb3b943c95d",
+          "publishedContent": {
+            "title": "IBM Observability by Instana APM",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["ibm-observability-by-instana"],
+          "created": "2021-08-04T13:59:18.367Z",
+          "updated": "2021-09-07T18:27:13.981Z",
+          "company": {
+            "name": "IBM Observability by Instana"
+          },
+          "primaryCategory": {
+            "categoryPageName": "monitoring",
+            "content": {
+              "name": "Monitoring"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "monitoring",
+              "content": {
+                "name": "Monitoring"
+              }
+            },
+            {
+              "categoryPageName": "integration-and-delivery",
+              "content": {
+                "name": "Integration & Delivery"
+              }
+            },
+            {
+              "categoryPageName": "logging-and-tracing",
+              "content": {
+                "name": "Logging & Tracing"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-e489a5f0-3268-47b3-8ee8-9aa917759cc2",
+              "publishedEditionContent": {
+                "packageName": "instana-agent-rhmp",
+                "openShiftVersion": "4.3+",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "The Instana Trial includes all features of Instana APM."
+                    },
+                    {
+                      "value": "Monitor the performance and quality of your services; installation takes 5 minutes."
+                    },
+                    {
+                      "value": "Deliver immediate, exact understanding of service performance to your DevOps organization."
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-e7062d38-893c-49a2-bb9b-01b60fd9148c",
+              "publishedEditionContent": {
+                "packageName": "instana-agent-rhmp",
+                "openShiftVersion": "4.3+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Instana Agent - Single Agent per Host"
+                    },
+                    {
+                      "value": "Application Performance Monitoring (APM)"
+                    },
+                    {
+                      "value": "Kubernetes Monitoring"
+                    },
+                    {
+                      "value": "End-User Monitoring"
+                    },
+                    {
+                      "value": "Serverless Monitoring"
+                    },
+                    {
+                      "value": "Cloud & Infrastructure Monitoring"
+                    },
+                    {
+                      "value": "AIOps"
+                    },
+                    {
+                      "value": "Alerting"
+                    },
+                    {
+                      "value": "Dashboarding"
+                    },
+                    {
+                      "value": "Analytics, Custom Metrics, Log Monitoring Support, Synthetic Support, Enterprise Security"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-d81d955f-4da6-4a88-b6e4-c7eccb0e3aea",
+              "publishedEditionContent": {
+                "packageName": "instana-agent-rhmp",
+                "openShiftVersion": "4.3+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Instana Agent - Single Agent per Host"
+                    },
+                    {
+                      "value": "Application Performance Monitoring (APM)"
+                    },
+                    {
+                      "value": "Kubernetes Monitoring"
+                    },
+                    {
+                      "value": "End-User Monitoring"
+                    },
+                    {
+                      "value": "Serverless Monitoring"
+                    },
+                    {
+                      "value": "Cloud & Infrastructure Monitoring"
+                    },
+                    {
+                      "value": "AIOps"
+                    },
+                    {
+                      "value": "Alerting"
+                    },
+                    {
+                      "value": "Dashboarding"
+                    },
+                    {
+                      "value": "Analytics, Custom Metrics, Log Monitoring Support, Synthetic Support, Enterprise Security"
+                    }
+                  ]
+                }
+              }
             }
           ]
         }

@@ -68,6 +68,78 @@
       "revisions": []
     },
     {
+      "_id": "5f4539a1dccf870014ec9e43",
+      "id": "rhmccp-c5ba004b-acbb-4796-b07d-abf8a53b6e0b",
+      "type": "Purchase",
+      "productId": "26ec7065964b222fba3c81d2bec95464",
+      "productName": "Universal Automation Center",
+      "name": "Universal Agent - Premium",
+      "description": "Pre-configure any Stonebranch Universal Agent to work with Openshift.  For existing users of Stonebranch Universal Automation Center or Universal Agents.  ",
+      "category": "Product",
+      "created": 1598372257067,
+      "updated": 1629297098045,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 1,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "UniversalAgent-Operator-v1-PD",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 2000
+                }
+              ],
+              "id": "abc1c64f-51ac-4f7e-bfbd-00dfce7cf4f4"
+            }
+          ],
+          "id": "5f453a4e52333300130c0900",
+          "created": 1598372430654,
+          "updated": 1629297084301,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D04CIZX",
+            "zuoraRatePlanChargeId": "2c92a00f7b3e31d0017b59acbcdf5b18",
+            "zuoraRatePlanId": "2c92a0087b3e31ac017b59acba814fc4"
+          },
+          "name": "12 Month Annual Subscription",
+          "uom": {
+            "identifier": "Image",
+            "multiplier": 1,
+            "created": 1595963695320,
+            "updated": 1595963695320,
+            "supportUsageChargeType": false,
+            "singularName": "Image",
+            "pluralName": "Images",
+            "suffix": "per image",
+            "inputLabel": "Enter number of images",
+            "summaryLabel": "Number of images"
+          }
+        }
+      ],
+      "trialTerm": null,
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "5f454d0052333300130c0903",
       "id": "rhmccp-f07a8eff-f233-429b-be72-124f5d3cbfc4",
       "type": "Purchase",
@@ -214,7 +286,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1598469627808,
-      "updated": 1628172886253,
+      "updated": 1630419040338,
       "version": 1,
       "editionCharges": [
         {
@@ -465,6 +537,343 @@
       "allowedBillingFrequencies": null,
       "allowedSubscriptionTerms": null,
       "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "5f4e7291cf891000144cace6",
+      "id": "rhmccp-deb82430-b9a6-4214-b625-3f33a07ae6ac",
+      "type": "Purchase",
+      "productId": "8914b361a7ce0eac7be2708d0fa49891",
+      "productName": "Datadog",
+      "name": "Datadog Pro",
+      "description": "Centralize your monitoring of systems, services, and serverless functions. \n\nCannot be combined with Datadog Enterprise.",
+      "created": 1598976657981,
+      "updated": 1628774648287,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "increment": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D0439ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 18
+                }
+              ],
+              "id": "1a7895d2-2dc9-4d7e-a1b2-b35aee38b491"
+            }
+          ],
+          "id": "5f2b14259f98f60013de0268",
+          "created": 1596658725446,
+          "updated": 1598975159161,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D0439ZX",
+            "zuoraRatePlanChargeId": "2c92a00874357c0701744a6db6c12550",
+            "zuoraRatePlanId": "2c92a0fd74357c5101744a6db2d13795"
+          },
+          "name": "Infrastructure Hosts",
+          "uom": {
+            "identifier": "Host",
+            "multiplier": 1,
+            "created": 1597065172198,
+            "updated": 1597065172198,
+            "supportUsageChargeType": false,
+            "singularName": "Host",
+            "pluralName": "Hosts",
+            "suffix": "per host",
+            "inputLabel": "Enter number of hosts",
+            "summaryLabel": "Number of hosts"
+          }
+        },
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": false,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "increment": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D0436ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 36
+                }
+              ],
+              "id": "1785b158-4bcd-485d-b4f3-16f12727a47e"
+            }
+          ],
+          "id": "5f2b206237144a00155da369",
+          "created": 1596661858176,
+          "updated": 1598899419863,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D0436ZX",
+            "zuoraRatePlanChargeId": "2c92a00d74357c1401744a6dbb9320d7",
+            "zuoraRatePlanId": "2c92a0fe74356bf001744a6db8a671f4"
+          },
+          "name": "APM Hosts - Monitor, troubleshoot, and optimize end-to-end application performance",
+          "uom": {
+            "identifier": "Host",
+            "multiplier": 1,
+            "created": 1597065172198,
+            "updated": 1597065172198,
+            "supportUsageChargeType": false,
+            "singularName": "Host",
+            "pluralName": "Hosts",
+            "suffix": "per host",
+            "inputLabel": "Enter number of hosts",
+            "summaryLabel": "Number of hosts"
+          }
+        },
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": false,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "increment": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D0438ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 2.04
+                }
+              ],
+              "id": "0ab281f6-cec6-45a7-9f64-60efa05f6ed2"
+            }
+          ],
+          "id": "5f2b215e37144a00155da36a",
+          "created": 1596662110286,
+          "updated": 1598899440937,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D0438ZX",
+            "zuoraRatePlanChargeId": "2c92a0fe74356bf001744a6dc0407280",
+            "zuoraRatePlanId": "2c92a01074356b7d01744a6dbd787598"
+          },
+          "name": "Indexed Logs - Analyze and explore log data in context  (15-day retention) ",
+          "uom": {
+            "identifier": "MillionLogEvents",
+            "multiplier": 1,
+            "created": 1597067063862,
+            "updated": 1597067063862,
+            "supportUsageChargeType": false,
+            "singularName": "Million log events",
+            "pluralName": "Million log events",
+            "suffix": "per million log events",
+            "inputLabel": "Enter number of million log events",
+            "summaryLabel": "Number of million log events"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "5f4e7292cf891000144cace7",
+      "id": "rhmccp-356ed07b-d03f-4830-8055-b4e0e6b98135",
+      "type": "Purchase",
+      "productId": "8914b361a7ce0eac7be2708d0fa49891",
+      "productName": "Datadog",
+      "name": "Datadog Enterprise",
+      "description": "Advanced features and admin controls. Includes machine learning–based alerts, live processes, premium support.\n\nCannot be combined with Datadog Pro.",
+      "created": 1598976658057,
+      "updated": 1628774696900,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "increment": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D0437ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 27
+                }
+              ],
+              "id": "b9a3952d-4332-45ab-b36f-2ea287e72f5f"
+            }
+          ],
+          "id": "5f2b1ded37144a00155da368",
+          "created": 1596661229619,
+          "updated": 1598899321722,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D0437ZX",
+            "ibmOveragePartNumber": "D0437ZX",
+            "zuoraRatePlanChargeId": "2c92a0ff74357c6c01744a6ee5bd11ed",
+            "zuoraRatePlanId": "2c92a01074356b7601744a6ee332151f"
+          },
+          "name": "Infrastructure Hosts",
+          "uom": {
+            "identifier": "Host",
+            "multiplier": 1,
+            "created": 1597065172198,
+            "updated": 1597065172198,
+            "supportUsageChargeType": false,
+            "singularName": "Host",
+            "pluralName": "Hosts",
+            "suffix": "per host",
+            "inputLabel": "Enter number of hosts",
+            "summaryLabel": "Number of hosts"
+          }
+        },
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": false,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "increment": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D0436ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 36
+                }
+              ],
+              "id": "ed25b39b-026c-4af5-8789-c6ffaecb57ab"
+            }
+          ],
+          "id": "5f2b22829f98f60013de0269",
+          "created": 1596662402817,
+          "updated": 1598899310587,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D0436ZX",
+            "zuoraRatePlanChargeId": "2c92a00e74356b4601744a6ee9e335a6",
+            "zuoraRatePlanId": "2c92a01174357c0701744a6ee756056b"
+          },
+          "name": "APM Hosts - Monitor, troubleshoot, and optimize end-to-end application performance",
+          "uom": {
+            "identifier": "Host",
+            "multiplier": 1,
+            "created": 1597065172198,
+            "updated": 1597065172198,
+            "supportUsageChargeType": false,
+            "singularName": "Host",
+            "pluralName": "Hosts",
+            "suffix": "per host",
+            "inputLabel": "Enter number of hosts",
+            "summaryLabel": "Number of hosts"
+          }
+        },
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": false,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "increment": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D0438ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 2.04
+                }
+              ],
+              "id": "b3ed8051-7576-4cc5-b729-bf5073ea20a4"
+            }
+          ],
+          "id": "5f2b23169f98f60013de026a",
+          "created": 1596662550164,
+          "updated": 1598899339707,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D0438ZX",
+            "zuoraRatePlanChargeId": "2c92a00c74356b8001744a6eee6e317f",
+            "zuoraRatePlanId": "2c92a00774356b7801744a6eebf001f3"
+          },
+          "name": "Indexed Logs - Analyze and explore log data in context  (15-day retention)",
+          "uom": {
+            "identifier": "MillionLogEvents",
+            "multiplier": 1,
+            "created": 1597067063862,
+            "updated": 1597067063862,
+            "supportUsageChargeType": false,
+            "singularName": "Million log events",
+            "pluralName": "Million log events",
+            "suffix": "per million log events",
+            "inputLabel": "Enter number of million log events",
+            "summaryLabel": "Number of million log events"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
       "group": null,
       "status": "Published",
       "drafts": [],
@@ -1015,7 +1424,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1599568799783,
-      "updated": 1624552229685,
+      "updated": 1628774383306,
       "version": 1,
       "editionCharges": [
         {
@@ -2061,16 +2470,16 @@
       "revisions": []
     },
     {
-      "_id": "5f60dc96c71a520013581891",
+      "_id": "5f6d17fa74bd440013da18a4",
       "id": "rhmccp-e6c7d91a-519c-4473-b26c-04505b568f75",
       "type": "Purchase",
       "productId": "4b000607693191eef7961f468b42b781",
       "productName": "Aqua Security",
       "name": "Aqua CSP Enterprise",
       "description": "Continuous monitoring, comprehensive scans and app runtime protection for cloud-native workloads. Easily mitigate zero day attacks and auditing compliance.",
-      "created": 1600183446386,
-      "updated": 1600985065626,
-      "version": 3,
+      "created": 1600985082012,
+      "updated": 1630340077055,
+      "version": 4,
       "termUnit": "Month",
       "allowedBillingFrequencies": ["Annual"],
       "allowedSubscriptionTerms": [12, 36],
@@ -2127,6 +2536,7 @@
       ],
       "trialGracePeriod": null,
       "cooldownPeriod": null,
+      "group": null,
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -2207,7 +2617,7 @@
       "description": "Free for life edition of Robin Cloud Native Storage. ",
       "category": "Product",
       "created": 1602073710612,
-      "updated": 1626732066163,
+      "updated": 1628629282080,
       "version": 1,
       "editionCharges": [
         {
@@ -3923,7 +4333,7 @@
       "description": "Db2 Community Edition  is a free entry-level edition that provides all the core capabilities of Db2 at no charge. ",
       "category": "Product",
       "created": 1607108405686,
-      "updated": 1617980965730,
+      "updated": 1630520632024,
       "version": 1,
       "editionCharges": [
         {
@@ -4059,7 +4469,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1607624043653,
-      "updated": 1619557576551,
+      "updated": 1630595361059,
       "version": 1,
       "editionCharges": [
         {
@@ -5128,7 +5538,7 @@
       "description": "COVID-19 data for researchers to explore relationships between COVID-19 and environmental factors.",
       "category": "Product",
       "created": 1608227159625,
-      "updated": 1626702503907,
+      "updated": 1628779810181,
       "version": 1,
       "editionCharges": [
         {
@@ -6651,196 +7061,7 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
-    },
-    {
-      "_id": "5fdd201409db360013f7b198",
-      "id": "rhmccp-700aff44-85de-429f-9188-ce1f5ce5c73b",
-      "type": "FreeEdition",
-      "productId": "f654804c423826dd1cff178ebaa39e6d",
-      "productName": "Savings Bond Redemption Tables",
-      "name": " Savings Bond Redemption Tables",
-      "description": "Redemption values and interest earned for Series EE, E, and I savings bonds, and Savings Notes issued from 1941 to present.",
-      "category": "Product",
-      "created": 1608327188705,
-      "updated": 1608327188705,
-      "version": 1,
-      "editionCharges": [
-        {
-          "created": 1608327188706,
-          "id": "5fdd201409db360013f7b197",
-          "vendorChargeId": "RHMFreei8kJdoFk6zmCHm5robb1hW",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ]
-            }
-          ],
-          "metadata": {
-            "chargeSyncRequired": true
-          },
-          "updated": 1608327188706,
-          "name": "Free Edition",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Month",
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "5fdd25b0e8785c00147b6ff7",
-      "id": "rhmccp-343e17f4-b96e-47fc-8f72-0f1e5eea6853",
-      "type": "FreeEdition",
-      "productId": "e15d880da0fd399f491e2d69a99094a2",
-      "productName": "Debt to the Penny",
-      "name": "Debt to the Penny",
-      "description": "Total debt of the U.S. government reported daily, April 1993 to present",
-      "category": "Product",
-      "created": 1608328624491,
-      "updated": 1608328624491,
-      "version": 1,
-      "editionCharges": [
-        {
-          "created": 1608328624492,
-          "id": "5fdd25b0e8785c00147b6ff6",
-          "vendorChargeId": "RHMFree1gD46eRpXBZGDDZF4TUoni",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ]
-            }
-          ],
-          "metadata": {
-            "chargeSyncRequired": true
-          },
-          "updated": 1608328624492,
-          "name": "Free Edition",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Month",
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "5fde1d68e8785c00147b6ff9",
-      "id": "rhmccp-4cb10a72-40ed-47d3-80bf-f42cc4047b29",
-      "type": "FreeEdition",
-      "productId": "f654804c423826dd1cff178ebaa39e6d",
-      "productName": "Savings Bond Redemption Tables",
-      "name": "Savings Bond Redemption Tables",
-      "description": "Redemption values and interest earned for Series EE, E, and I savings bonds, and Savings Notes issued from 1941 to present.",
-      "category": "Product",
-      "created": 1608392040641,
-      "updated": 1608758263283,
-      "version": 1,
-      "editionCharges": [
-        {
-          "created": 1608392040641,
-          "id": "5fde1d68e8785c00147b6ff8",
-          "vendorChargeId": "RHMFreei8kJdoFk6zmCHm5robb1hW",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ]
-            }
-          ],
-          "metadata": {
-            "chargeSyncRequired": true
-          },
-          "updated": 1608392040641,
-          "name": "Free Edition",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Month",
-      "allowedBillingFrequencies": null,
-      "allowedSubscriptionTerms": null,
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
     }
   ],
-  "count": 415
+  "count": 434
 }
