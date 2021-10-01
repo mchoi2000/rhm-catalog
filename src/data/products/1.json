@@ -1,7 +1,7 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 224,
+      "totalCount": 227,
       "cursor": "5fd8e53325f01800132ebd9c",
       "products": [
         {
@@ -44,6 +44,8 @@
               "id": "rhmccp-670dfc7a-7d6c-4503-9813-1e945d1ac6bb",
               "publishedEditionContent": {
                 "packageName": "ivory-server-app-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -74,6 +76,8 @@
               "id": "rhmccp-cbc07a31-ab49-428e-b45d-ee17ca83de77",
               "publishedEditionContent": {
                 "packageName": "ivory-server-app-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -104,6 +108,8 @@
               "id": "rhmccp-20f2031e-e38f-40d5-afd7-bcd4efc6f506",
               "publishedEditionContent": {
                 "packageName": "ivory-server-app-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -134,6 +140,8 @@
               "id": "rhmccp-054158d5-d903-425c-a11e-5857febaac44",
               "publishedEditionContent": {
                 "packageName": "ivory-server-app-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -164,6 +172,8 @@
               "id": "rhmccp-b8472c28-a80f-44e3-94a5-195a55b16c22",
               "publishedEditionContent": {
                 "packageName": "ivory-server-app-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -226,6 +236,8 @@
               "id": "rhmccp-c801875f-bf00-402e-a4eb-8ac1768d7e4a",
               "publishedEditionContent": {
                 "packageName": "crunchy-postgres-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -259,6 +271,8 @@
               "id": "rhmccp-de774fc5-ea9d-4822-abd5-7acc02ec8329",
               "publishedEditionContent": {
                 "packageName": "crunchy-postgres-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -292,6 +306,8 @@
               "id": "rhmccp-eb509138-75ed-46b6-9a3f-e61fb838a017",
               "publishedEditionContent": {
                 "packageName": "crunchy-postgres-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -363,6 +379,8 @@
               "id": "rhmccp-1dadfbd8-3650-4f6f-a7c6-f263e8868851",
               "publishedEditionContent": {
                 "packageName": "sysdig-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -396,6 +414,8 @@
               "id": "rhmccp-78c50c66-6357-4f14-8c99-9e033f4a0418",
               "publishedEditionContent": {
                 "packageName": "sysdig-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -474,6 +494,8 @@
               "id": "rhmccp-3e40139f-dd96-4a3b-a3df-635ce6251498",
               "publishedEditionContent": {
                 "packageName": "storageos2-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -504,6 +526,8 @@
               "id": "rhmccp-105138c7-e6df-4c9a-90a4-f43c805e33f4",
               "publishedEditionContent": {
                 "packageName": "storageos2-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "FREE",
@@ -572,6 +596,8 @@
               "id": "rhmccp-7610d862-7520-4b75-91b3-505a17887948",
               "publishedEditionContent": {
                 "packageName": "cortex-certifai-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -605,6 +631,8 @@
               "id": "rhmccp-7a583b67-c5a4-44ef-90f3-a2d9f69fcbf2",
               "publishedEditionContent": {
                 "packageName": "cortex-certifai-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -638,6 +666,8 @@
               "id": "rhmccp-1cac5b5c-ad54-41b7-97cc-16a218186999",
               "publishedEditionContent": {
                 "packageName": "cortex-certifai-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -671,6 +701,8 @@
               "id": "rhmccp-6e608d1a-ba78-429f-a4cf-7811ddcc20db",
               "publishedEditionContent": {
                 "packageName": "cortex-certifai-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -745,6 +777,8 @@
               "id": "rhmccp-a683113f-d87a-4665-9e71-e5d98796c136",
               "publishedEditionContent": {
                 "packageName": "starburst-enterprise-helm-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -775,6 +809,8 @@
               "id": "rhmccp-cf8b18fe-f33e-4bc4-9101-25e04671e285",
               "publishedEditionContent": {
                 "packageName": "starburst-enterprise-helm-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -843,6 +879,8 @@
               "id": "rhmccp-8e959e70-8597-4117-ac97-2a9fa9413b49",
               "publishedEditionContent": {
                 "packageName": "kubeturbo-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -891,6 +929,8 @@
               "id": "rhmccp-d8dbd637-3518-4d85-925c-89fb75044739",
               "publishedEditionContent": {
                 "packageName": "kubeturbo-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -939,6 +979,8 @@
               "id": "rhmccp-4282ec88-9c4b-4b01-af23-d22d0a4b564b",
               "publishedEditionContent": {
                 "packageName": "kubeturbo-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.5",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1013,6 +1055,8 @@
               "id": "rhmccp-9f85feca-6dcf-4df9-9838-0c07104fe350",
               "publishedEditionContent": {
                 "packageName": "cpd-platform-operator",
+                "operatorList": [],
+                "cases": ["ibm-cp-datacore"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1046,6 +1090,8 @@
               "id": "rhmccp-97d038b0-e6b8-4e0c-8841-857b5ca1348c",
               "publishedEditionContent": {
                 "packageName": "cpd-platform-operator",
+                "operatorList": [],
+                "cases": ["ibm-cp-datacore"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1079,6 +1125,8 @@
               "id": "rhmccp-a790651c-dc52-4937-a764-2eabe4ae7f5a",
               "publishedEditionContent": {
                 "packageName": "cpd-platform-operator",
+                "operatorList": [],
+                "cases": ["ibm-cp-datacore"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1153,6 +1201,8 @@
               "id": "rhmccp-fa3a8b17-0a0b-433a-bce1-b8ba167b2385",
               "publishedEditionContent": {
                 "packageName": "seldon-deploy-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1186,6 +1236,8 @@
               "id": "rhmccp-50ce102c-b9f1-4b30-94b9-8a8cf262a069",
               "publishedEditionContent": {
                 "packageName": "seldon-deploy-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1219,6 +1271,8 @@
               "id": "rhmccp-832d87f6-12a5-4ac0-bc20-3423315c0e03",
               "publishedEditionContent": {
                 "packageName": "seldon-deploy-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1252,6 +1306,8 @@
               "id": "rhmccp-230cc232-151d-4e82-b6b1-f82f5f91bd7f",
               "publishedEditionContent": {
                 "packageName": "seldon-deploy-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1329,6 +1385,8 @@
               "id": "rhmccp-5ec09915-586f-492e-9377-8407382eeca8",
               "publishedEditionContent": {
                 "packageName": "hazelcast-enterprise-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.5+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1362,6 +1420,8 @@
               "id": "rhmccp-8882052c-86e6-477d-a2ce-d61fdd6c7333",
               "publishedEditionContent": {
                 "packageName": "hazelcast-enterprise-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.5+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1392,6 +1452,8 @@
               "id": "rhmccp-aaa75dda-e42b-46f6-80e3-ad7366703705",
               "publishedEditionContent": {
                 "packageName": "hazelcast-enterprise-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.5+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1469,6 +1531,8 @@
               "id": "rhmccp-76ed3c84-f1d3-420b-9e96-554ba0e3e6c1",
               "publishedEditionContent": {
                 "packageName": "hazelcast-jet-enterprise-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1499,6 +1563,8 @@
               "id": "rhmccp-7886a875-e285-465d-898d-fb24c1e3d786",
               "publishedEditionContent": {
                 "packageName": "hazelcast-jet-enterprise-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1538,7 +1604,7 @@
           },
           "productPageName": ["aqua-security"],
           "created": "2020-02-12T13:34:41.614Z",
-          "updated": "2021-09-02T20:44:38.520Z",
+          "updated": "2021-09-30T17:31:35.276Z",
           "company": {
             "name": "Aqua Security Software Ltd"
           },
@@ -1567,6 +1633,8 @@
               "id": "rhmccp-17ff9e93-ebb1-4306-b7d5-1b5d88a6e9a0",
               "publishedEditionContent": {
                 "packageName": "aqua-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1606,6 +1674,8 @@
               "id": "rhmccp-e6c7d91a-519c-4473-b26c-04505b568f75",
               "publishedEditionContent": {
                 "packageName": "aqua-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1701,6 +1771,8 @@
               "id": "rhmccp-d3716549-567f-4b45-8c63-9a05bc5870a9",
               "publishedEditionContent": {
                 "packageName": "insightedge-enterprise-operator2-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1737,6 +1809,8 @@
               "id": "rhmccp-3c90adbd-c3e6-460b-8b7f-2be38938fcea",
               "publishedEditionContent": {
                 "packageName": "insightedge-enterprise-operator2-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1805,6 +1879,8 @@
               "id": "rhmccp-2aa33f6e-8d7d-4769-aa63-09fe15e73a93",
               "publishedEditionContent": {
                 "packageName": "enterprise-operator-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "FREE_TRIAL",
@@ -1838,6 +1914,8 @@
               "id": "rhmccp-24e8aca2-0ab9-49ed-8ed8-0d4ea8a1b99d",
               "publishedEditionContent": {
                 "packageName": "enterprise-operator-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "SELF_SERVICE",
@@ -1915,6 +1993,8 @@
               "id": "rhmccp-22a50952-118a-4bf4-b335-3fb3cb2b0d62",
               "publishedEditionContent": {
                 "packageName": "robin-storage-trial-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1945,6 +2025,8 @@
               "id": "rhmccp-6eb566db-dad3-4c31-ad8e-8abe9a3c705a",
               "publishedEditionContent": {
                 "packageName": "robin-storage-trial-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1978,6 +2060,8 @@
               "id": "rhmccp-ddceb4ba-03d5-4772-9d26-8bfa7071c51a",
               "publishedEditionContent": {
                 "packageName": "robin-storage-express-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "FREE",
@@ -2014,6 +2098,8 @@
               "id": "rhmccp-fc3ec082-3f21-4ad0-889f-6cff5d21ef61",
               "publishedEditionContent": {
                 "packageName": "robin-storage-enterprise-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2091,6 +2177,8 @@
               "id": "rhmccp-abbc3cd6-d482-4be8-8f7d-20e649f1b131",
               "publishedEditionContent": {
                 "packageName": "federatorai-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2121,6 +2209,8 @@
               "id": "rhmccp-bbccc2d1-29d7-4698-87ab-9b2a2b4fc934",
               "publishedEditionContent": {
                 "packageName": "federatorai-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2195,6 +2285,8 @@
               "id": "rhmccp-6ecb4ab1-0e0c-4fae-9012-f2232700a2ab",
               "publishedEditionContent": {
                 "packageName": "memql-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.2",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2225,6 +2317,8 @@
               "id": "rhmccp-2913e834-9da7-4602-8ee6-00e72cb7b1fc",
               "publishedEditionContent": {
                 "packageName": "memql-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.2",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2293,6 +2387,8 @@
               "id": "rhmccp-6d7f0c2b-c762-4b6d-befb-b657da4ee2d5",
               "publishedEditionContent": {
                 "packageName": "ocs-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2323,6 +2419,8 @@
               "id": "rhmccp-87682c77-0c6c-419d-a0e2-9e5fb7832891",
               "publishedEditionContent": {
                 "packageName": "ocs-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2353,6 +2451,8 @@
               "id": "rhmccp-26406789-e79b-4403-accd-6fa849c5d9fc",
               "publishedEditionContent": {
                 "packageName": "ocs-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2383,6 +2483,8 @@
               "id": "rhmccp-177d6309-c458-4c82-aa33-bf15f74edd7a",
               "publishedEditionContent": {
                 "packageName": "ocs-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2413,6 +2515,8 @@
               "id": "rhmccp-70f7e3a2-f6d3-41cb-a813-a5536db3e848",
               "publishedEditionContent": {
                 "packageName": "ocs-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2481,6 +2585,8 @@
               "id": "rhmccp-00b9e876-39d5-4e29-88a1-1e6aec40e1a7",
               "publishedEditionContent": {
                 "packageName": "open-enterprise-spinnaker-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2514,6 +2620,8 @@
               "id": "rhmccp-4c25e3dc-d20d-4409-921e-2f3f011ca0c8",
               "publishedEditionContent": {
                 "packageName": "open-enterprise-spinnaker-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2544,6 +2652,8 @@
               "id": "rhmccp-bbb4c104-8ffe-40eb-8116-8629a402a1a6",
               "publishedEditionContent": {
                 "packageName": "open-enterprise-spinnaker-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2612,6 +2722,8 @@
               "id": "rhmccp-e960088a-8803-4a3a-bce6-552863514f8c",
               "publishedEditionContent": {
                 "packageName": "oneagent-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "SAAS_WITH_OPERATOR",
                 "planType": "TRIAL",
@@ -2642,6 +2754,8 @@
               "id": "rhmccp-462185ef-0377-4345-bb12-3e12481d91d2",
               "publishedEditionContent": {
                 "packageName": "oneagent-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "SAAS_WITH_OPERATOR",
                 "planType": "PURCHASE",
@@ -2723,6 +2837,8 @@
               "id": "rhmccp-f4cbe0b1-123e-4554-a943-aef843696165",
               "publishedEditionContent": {
                 "packageName": "openunison-ocp-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2756,6 +2872,8 @@
               "id": "rhmccp-063ec2cd-680e-4559-b910-eab62c5c3513",
               "publishedEditionContent": {
                 "packageName": "openunison-ocp-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2795,7 +2913,7 @@
           },
           "productPageName": ["ibm-cloudpak-for-automation"],
           "created": "2020-03-05T22:24:15.183Z",
-          "updated": "2021-09-13T16:11:14.152Z",
+          "updated": "2021-09-24T17:32:53.676Z",
           "company": {
             "name": "IBM"
           },
@@ -2830,6 +2948,8 @@
               "id": "rhmccp-346e6f33-84a6-4738-aac8-2d33e4e30938",
               "publishedEditionContent": {
                 "packageName": "ibm-cp4a-operator",
+                "operatorList": [],
+                "cases": ["ibm-cp-automation"],
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2844,13 +2964,13 @@
                 "localizedContent": {
                   "planDetails": [
                     {
-                      "value": "No cost for Cloud Pak usage for duration of free trial"
+                      "value": "No cost for IBM Cloud Pak usage for duration of free trial"
                     },
                     {
-                      "value": "Includes access to all Cloud Pak for Business Automation component features"
+                      "value": "Includes access to all IBM Cloud Pak for Business Automation component features"
                     },
                     {
-                      "value": "Operations Dashboard free to use subject to usage restrictions"
+                      "value": "Requires an existing Openshift cluster and experience with Openshift Command Line Interface"
                     }
                   ]
                 }
@@ -2860,6 +2980,8 @@
               "id": "rhmccp-f5f978ad-5a64-4fc7-8bde-bd26eacadcc0",
               "publishedEditionContent": {
                 "packageName": "ibm-cp4a-operator",
+                "operatorList": [],
+                "cases": ["ibm-cp-automation"],
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2877,10 +2999,7 @@
                       "value": "Pay monthly, license and support included"
                     },
                     {
-                      "value": "Includes access to all Cloud Pak for Business Automation component features"
-                    },
-                    {
-                      "value": "Operations Dashboard free to use subject to usage restrictions"
+                      "value": "Includes access to all IBM Cloud Pak for Business Automation component features"
                     },
                     {
                       "value": "Limited, restricted license of Red Hat OpenShift Container Platform included"
@@ -2891,10 +3010,6 @@
             },
             {
               "id": "rhmccp-2608d52c-6e15-49bd-9300-5b63d4af8d44",
-              "publishedEditionContent": null
-            },
-            {
-              "id": "rhmccp-00081fcf-a8c7-44b6-8894-171538008a57",
               "publishedEditionContent": null
             }
           ]
@@ -2939,6 +3054,8 @@
               "id": "rhmccp-08595fb2-a4f9-44a9-bf28-9b60a18de227",
               "publishedEditionContent": {
                 "packageName": "k8s-triliovault-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2984,6 +3101,8 @@
               "id": "rhmccp-05e9e82e-b9f3-41b6-a4bb-829aa90c86b1",
               "publishedEditionContent": {
                 "packageName": "k8s-triliovault-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3038,7 +3157,7 @@
           },
           "productPageName": ["appranix"],
           "created": "2020-03-09T12:23:50.957Z",
-          "updated": "2021-09-10T19:10:51.845Z",
+          "updated": "2021-09-14T03:39:41.152Z",
           "company": {
             "name": "Appranix, Inc"
           },
@@ -3067,6 +3186,8 @@
               "id": "rhmccp-bfe148af-923d-4c0a-8e86-cfcc9ebde036",
               "publishedEditionContent": {
                 "packageName": "appranix-cps-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3135,6 +3256,8 @@
               "id": "rhmccp-84b46b03-83b1-4f7e-8809-d6686d73cd08",
               "publishedEditionContent": {
                 "packageName": "rapidbiz-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -3171,6 +3294,8 @@
               "id": "rhmccp-32b60bd3-09b2-4108-ae4f-0d743f083012",
               "publishedEditionContent": {
                 "packageName": "rapidbiz-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3204,6 +3329,8 @@
               "id": "rhmccp-d3e95dee-6b77-4ece-b0b3-aa7ab9e6bd22",
               "publishedEditionContent": {
                 "packageName": "rapidbiz-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3237,6 +3364,8 @@
               "id": "rhmccp-5fd6f685-6ada-4d75-aee2-83f4304291f4",
               "publishedEditionContent": {
                 "packageName": "rapidbiz-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3270,6 +3399,8 @@
               "id": "rhmccp-06b02594-1e73-43a3-b3dc-207c75011e6e",
               "publishedEditionContent": {
                 "packageName": "rapidbiz-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3309,7 +3440,7 @@
           },
           "productPageName": ["kubemq"],
           "created": "2020-03-11T11:35:51.569Z",
-          "updated": "2021-03-16T15:13:42.833Z",
+          "updated": "2021-09-14T07:34:48.831Z",
           "company": {
             "name": "KubeMQ LTD"
           },
@@ -3338,6 +3469,8 @@
               "id": "rhmccp-686e5170-4e0b-4c40-9c60-f78acf9a620f",
               "publishedEditionContent": {
                 "packageName": "kubemq-operator-marketplace-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -3371,6 +3504,8 @@
               "id": "rhmccp-506dfba1-5b74-4c80-ac48-4a7947d4d285",
               "publishedEditionContent": {
                 "packageName": "kubemq-operator-marketplace-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3466,6 +3601,8 @@
               "id": "rhmccp-7d897a3e-bd30-4047-a7b4-e3ead25d2b79",
               "publishedEditionContent": {
                 "packageName": "joget-dx-operator-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "SELF_SERVICE",
@@ -3514,6 +3651,8 @@
               "id": "rhmccp-86134153-09e2-43af-9987-151237fc7d6f",
               "publishedEditionContent": {
                 "packageName": "joget-dx-operator-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "FREE_TRIAL",
@@ -3594,6 +3733,8 @@
               "id": "rhmccp-7cb0615e-6167-4fe5-b7c9-0722a3be6be2",
               "publishedEditionContent": {
                 "packageName": "ibm-cp-integration",
+                "operatorList": [],
+                "cases": ["ibm-cp-integration"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -3624,6 +3765,8 @@
               "id": "rhmccp-980c5e82-69f6-4a63-a24a-1a810a535c5a",
               "publishedEditionContent": {
                 "packageName": "ibm-cp-integration",
+                "operatorList": [],
+                "cases": ["ibm-cp-integration"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3689,6 +3832,8 @@
               "id": "rhmccp-ec7f6304-909b-4d3b-bc2f-0f55d3020b6d",
               "publishedEditionContent": {
                 "packageName": "cockroachdb-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -3719,6 +3864,8 @@
               "id": "rhmccp-9cf93470-b1e6-454a-bebd-3302208de924",
               "publishedEditionContent": {
                 "packageName": "cockroachdb-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3787,6 +3934,8 @@
               "id": "rhmccp-4622d216-6581-4d1c-9d2b-1a3061e366dc",
               "publishedEditionContent": {
                 "packageName": "eddi-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3820,6 +3969,8 @@
               "id": "rhmccp-9857d781-9ef4-4e19-9561-96b3e612337c",
               "publishedEditionContent": {
                 "packageName": "eddi-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3850,6 +4001,8 @@
               "id": "rhmccp-1e07f7dc-c504-49bc-a1bf-da9bfbdb4276",
               "publishedEditionContent": {
                 "packageName": "eddi-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -3924,6 +4077,8 @@
               "id": "rhmccp-6d8b4980-7057-47ee-ae7c-32db8d7890e4",
               "publishedEditionContent": {
                 "packageName": "orca-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -3954,6 +4109,8 @@
               "id": "rhmccp-4af1f842-4965-4f1a-b16f-7616a898c653",
               "publishedEditionContent": {
                 "packageName": "orca-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -3987,6 +4144,8 @@
               "id": "rhmccp-dc0eb190-41ce-48be-9d19-7e422e7c8182",
               "publishedEditionContent": {
                 "packageName": "orca-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4058,6 +4217,18 @@
               "id": "rhmccp-bdfbf01d-01ec-4644-b0c8-21d7914cc51b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "ucds-operator"
+                  },
+                  {
+                    "packageName": "ucda-operator"
+                  },
+                  {
+                    "packageName": "ucdr-operator"
+                  }
+                ],
+                "cases": ["ibm-ucd-prod", "ibm-ucda-case", "ibm-ucdr-case"],
                 "openShiftVersion": "4.5+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -4088,6 +4259,18 @@
               "id": "rhmccp-b7276906-9fc5-46e0-89d5-7ca5a3fe1ddf",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "ucds-operator"
+                  },
+                  {
+                    "packageName": "ucda-operator"
+                  },
+                  {
+                    "packageName": "ucdr-operator"
+                  }
+                ],
+                "cases": ["ibm-ucd-prod", "ibm-ucda-case", "ibm-ucdr-case"],
                 "openShiftVersion": "4.5+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4150,6 +4333,8 @@
               "id": "rhmccp-e141f5e5-f5e6-4e22-aca1-3674d21780bb",
               "publishedEditionContent": {
                 "packageName": "traefikee-redhat-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -4180,6 +4365,8 @@
               "id": "rhmccp-1f2063b4-2ee8-4071-901f-99c853c08ae2",
               "publishedEditionContent": {
                 "packageName": "traefikee-redhat-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4257,6 +4444,8 @@
               "id": "rhmccp-03d186ee-721f-4fd1-803c-48e6fd3e90b4",
               "publishedEditionContent": {
                 "packageName": "atomicorp-helm-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6.16",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -4287,6 +4476,8 @@
               "id": "rhmccp-f4c30baa-772e-4c8f-b1ee-1ecaf04b112d",
               "publishedEditionContent": {
                 "packageName": "atomicorp-helm-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6.16",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4361,6 +4552,8 @@
               "id": "rhmccp-e8d3ef9f-14d3-421f-b178-923873ebab05",
               "publishedEditionContent": {
                 "packageName": "akka-cluster-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -4391,6 +4584,8 @@
               "id": "rhmccp-1f4ba148-c6b6-4d80-8c56-672a4a384bc4",
               "publishedEditionContent": {
                 "packageName": "akka-cluster-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4424,6 +4619,8 @@
               "id": "rhmccp-99cb2c89-0e1a-4396-a3e6-1d991a994726",
               "publishedEditionContent": {
                 "packageName": "akka-cluster-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4515,6 +4712,8 @@
               "id": "rhmccp-54829a57-7c4f-4767-908c-c87eb08bd5fc",
               "publishedEditionContent": {
                 "packageName": "nastel-navigator-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4552,6 +4751,8 @@
               "id": "rhmccp-caca7cc4-ca3f-4be1-9f3f-f133e4be80e2",
               "publishedEditionContent": {
                 "packageName": "nastel-navigator-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -4588,6 +4789,8 @@
               "id": "rhmccp-636b0822-7687-497f-9cf5-03f0f693b38e",
               "publishedEditionContent": {
                 "packageName": "nastel-navigator-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4665,6 +4868,8 @@
               "id": "rhmccp-306549bf-3d2a-4003-bb9f-1b7b2f51082d",
               "publishedEditionContent": {
                 "packageName": "nastel-xray-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4698,6 +4903,8 @@
               "id": "rhmccp-081bdbd3-1237-4694-802e-b57c1aa44bd4",
               "publishedEditionContent": {
                 "packageName": "nastel-xray-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4731,6 +4938,8 @@
               "id": "rhmccp-06171543-8b1e-471e-9175-af7c8f708c71",
               "publishedEditionContent": {
                 "packageName": "nastel-xray-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -4776,7 +4985,7 @@
           },
           "productPageName": ["red-hat-integration"],
           "created": "2020-03-20T00:10:37.033Z",
-          "updated": "2021-08-31T13:59:33.240Z",
+          "updated": "2021-09-14T22:04:46.788Z",
           "company": {
             "name": "Red Hat, Inc (Integration)"
           },
@@ -4823,7 +5032,25 @@
               "id": "rhmccp-bfed37ec-d313-414e-b038-45ac03c8abe5",
               "publishedEditionContent": {
                 "packageName": "",
-                "openShiftVersion": "4.6.1.x+",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
+                "openShiftVersion": "4.8.1.x+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
                 "partNumbers": ["OM_RHI_pqkZ7YDo8wn4cuHyZweQs9"],
@@ -4853,6 +5080,24 @@
               "id": "rhmccp-3209cfcb-751a-413a-9a47-94c63153af61",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": "4.5.1.x+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4883,6 +5128,24 @@
               "id": "rhmccp-7441e34d-7b62-4a02-ae18-ab9eae8753f0",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": "4.6.1.x+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4913,6 +5176,24 @@
               "id": "rhmccp-09bde0a4-fd8e-4324-9322-a8c33d6a81ea",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": "4.6.1.x+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -4952,7 +5233,7 @@
           },
           "productPageName": ["redis-labs-enterprise"],
           "created": "2020-03-20T00:25:37.921Z",
-          "updated": "2021-08-20T20:37:35.129Z",
+          "updated": "2021-09-27T13:58:14.324Z",
           "company": {
             "name": "Redis Lab, Inc"
           },
@@ -4987,6 +5268,8 @@
               "id": "rhmccp-79458f9d-0b9d-4cd1-8de1-edab0a7c9c49",
               "publishedEditionContent": {
                 "packageName": "redis-enterprise-operator-cert-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -5017,6 +5300,8 @@
               "id": "rhmccp-d014f8ac-5dff-42d7-95ca-e1ec19f91933",
               "publishedEditionContent": {
                 "packageName": "redis-enterprise-operator-cert-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5089,6 +5374,8 @@
               "id": "rhmccp-91abef96-dfcc-46e8-9329-82080e46355e",
               "publishedEditionContent": {
                 "packageName": "snyk-operator-marketplace-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "SAAS_WITH_OPERATOR",
                 "planType": "PURCHASE",
@@ -5133,6 +5420,8 @@
               "id": "rhmccp-52f2a062-299e-4484-94d5-0fb77febf4a2",
               "publishedEditionContent": {
                 "packageName": "snyk-operator-marketplace-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "SAAS_WITH_OPERATOR",
                 "planType": "PURCHASE",
@@ -5207,6 +5496,8 @@
               "id": "rhmccp-d1e706ab-b799-4605-a42e-60a686518c13",
               "publishedEditionContent": {
                 "packageName": "businessautomation-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -5237,6 +5528,8 @@
               "id": "rhmccp-2e88150e-38bb-42f6-971e-a76ea122644a",
               "publishedEditionContent": {
                 "packageName": "businessautomation-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5267,6 +5560,8 @@
               "id": "rhmccp-2769cebd-ef81-40ac-82b4-1e486749452d",
               "publishedEditionContent": {
                 "packageName": "businessautomation-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5297,6 +5592,8 @@
               "id": "rhmccp-423c9ca9-cd6d-4dbe-8504-b50cb1aa1fee",
               "publishedEditionContent": {
                 "packageName": "businessautomation-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5371,6 +5668,8 @@
               "id": "rhmccp-e890d017-844f-4785-a126-5d52a0e5c51b",
               "publishedEditionContent": {
                 "packageName": "kong-offline-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -5410,6 +5709,8 @@
               "id": "rhmccp-0c7eb3ef-cf4d-4d9d-bf28-404b8a241fef",
               "publishedEditionContent": {
                 "packageName": "kong-offline-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5499,6 +5800,8 @@
               "id": "rhmccp-da1ed580-e40f-4bb6-85a8-d2269ea4e1bc",
               "publishedEditionContent": {
                 "packageName": "datagrid",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "FREE_TRIAL",
@@ -5532,6 +5835,21 @@
               "id": "rhmccp-7063a431-d667-4843-8796-e4ba660fa644",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5562,6 +5880,21 @@
               "id": "rhmccp-5ad27c12-8a19-4630-b703-4112a3396eb1",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5592,6 +5925,21 @@
               "id": "rhmccp-68468734-e6ae-4835-8e44-2f196974b91c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5666,6 +6014,8 @@
               "id": "rhmccp-69cac864-1c16-4a3f-8a54-5ae2e4d7ec22",
               "publishedEditionContent": {
                 "packageName": "timemachine-operator-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "FREE_TRIAL",
@@ -5696,6 +6046,8 @@
               "id": "rhmccp-dab50b8e-5625-4828-9faa-9976cd3447f7",
               "publishedEditionContent": {
                 "packageName": "timemachine-operator-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "SELF_SERVICE",
@@ -5770,6 +6122,8 @@
               "id": "rhmccp-a56758d5-d088-4b77-8925-b6d1024d4ce1",
               "publishedEditionContent": {
                 "packageName": "zabbix-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -5800,6 +6154,8 @@
               "id": "rhmccp-7572e6c9-6b96-4e53-acad-4bbf224d3a1d",
               "publishedEditionContent": {
                 "packageName": "zabbix-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5833,6 +6189,8 @@
               "id": "rhmccp-ef957332-e352-4a13-ac85-46268688bf00",
               "publishedEditionContent": {
                 "packageName": "zabbix-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5866,6 +6224,8 @@
               "id": "rhmccp-1176b1e6-3a3a-4587-a432-2c30c2fb5f45",
               "publishedEditionContent": {
                 "packageName": "zabbix-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -5943,6 +6303,8 @@
               "id": "rhmccp-d0934cd3-6293-41eb-ac58-5794a2221f68",
               "publishedEditionContent": {
                 "packageName": "neuvector-certified-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -5973,6 +6335,8 @@
               "id": "rhmccp-06e018bd-ac0b-49bd-9d43-33630588b3e3",
               "publishedEditionContent": {
                 "packageName": "neuvector-certified-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6035,6 +6399,8 @@
               "id": "rhmccp-56b3d9ec-f38f-44d4-b807-a8f57a3c871a",
               "publishedEditionContent": {
                 "packageName": "vprotect-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -6077,6 +6443,8 @@
               "id": "rhmccp-5b27edd8-006a-4e72-9e47-3ac12e028585",
               "publishedEditionContent": {
                 "packageName": "vprotect-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6145,6 +6513,8 @@
               "id": "rhmccp-00d3036a-2286-4441-9a0f-c42ea1a4d5e3",
               "publishedEditionContent": {
                 "packageName": "linstor-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -6188,6 +6558,8 @@
               "id": "rhmccp-8f352edf-7276-456b-aad6-7b3d1c1002b0",
               "publishedEditionContent": {
                 "packageName": "linstor-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6271,6 +6643,8 @@
               "id": "rhmccp-62f5a0ee-3bd2-4456-96d0-91c491266a8a",
               "publishedEditionContent": {
                 "packageName": "cnvrg-operator-marketplace-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -6310,6 +6684,8 @@
               "id": "rhmccp-cfaee72b-b9b0-448e-a133-3a772d1d8ff7",
               "publishedEditionContent": {
                 "packageName": "cnvrg-operator-marketplace-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6358,7 +6734,7 @@
           },
           "productPageName": ["couchbase-server"],
           "created": "2020-04-03T12:32:16.016Z",
-          "updated": "2021-09-13T16:04:01.230Z",
+          "updated": "2021-09-29T16:02:09.365Z",
           "company": {
             "name": "Couchbase Inc"
           },
@@ -6393,7 +6769,9 @@
               "id": "rhmccp-5d0f411f-ea39-4986-9082-435684353d13",
               "publishedEditionContent": {
                 "packageName": "couchbase-enterprise-certified-rhmp",
-                "openShiftVersion": "4.7.OpenShift 4.3, 4.4, 4.5, 4.6, 4.7+",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.8. OpenShift 4.5, 4.6, 4.7, 4.8+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
                 "partNumbers": ["OM_CS_8z5RwQ9ETXX4pK9FUxg8s"],
@@ -6423,6 +6801,8 @@
               "id": "rhmccp-90df200e-4142-47b0-bdce-57c0b4f82bda",
               "publishedEditionContent": {
                 "packageName": "couchbase-enterprise-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3. Certified on 4.4, 4.5, 4.6+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6453,6 +6833,8 @@
               "id": "rhmccp-6a3cfe48-3b09-4343-9a62-0b45782a94b8",
               "publishedEditionContent": {
                 "packageName": "couchbase-enterprise-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.7.OpenShift 4.3, 4.4, 4.5, 4.6, 4.7+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6487,6 +6869,8 @@
               "id": "rhmccp-11f5f243-b9a4-4d8f-a037-3e9cdf67602a",
               "publishedEditionContent": {
                 "packageName": "couchbase-enterprise-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6515,7 +6899,33 @@
             },
             {
               "id": "rhmccp-83ce9950-35c4-465f-be09-90af4d328296",
-              "publishedEditionContent": null
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["CA", "US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Credit Renewal"
+                    },
+                    {
+                      "value": "Contains paygo line items"
+                    },
+                    {
+                      "value": "Auto-renew"
+                    }
+                  ]
+                }
+              }
             }
           ]
         },
@@ -6567,6 +6977,8 @@
               "id": "rhmccp-7503f058-8508-4b68-8848-298951c237c0",
               "publishedEditionContent": {
                 "packageName": "xcrypt-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -6597,6 +7009,8 @@
               "id": "rhmccp-1e2d38a3-e020-4877-847b-054bc4d26719",
               "publishedEditionContent": {
                 "packageName": "xcrypt-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6667,6 +7081,8 @@
               "id": "rhmccp-16dcfb84-7510-4b24-a26a-fc20c1a6dffd",
               "publishedEditionContent": {
                 "packageName": "fp-predict-plus-operator-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -6697,6 +7113,8 @@
               "id": "rhmccp-5a755966-6338-4972-a432-69022480d0ea",
               "publishedEditionContent": {
                 "packageName": "fp-predict-plus-operator-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6727,6 +7145,8 @@
               "id": "rhmccp-891ae01e-b11f-4558-a545-a9815cd90989",
               "publishedEditionContent": {
                 "packageName": "fp-predict-plus-operator-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -6801,6 +7221,8 @@
               "id": "rhmccp-8c418c5d-6c37-4347-ab4f-21e0eb760d7e",
               "publishedEditionContent": {
                 "packageName": "anaconda-team-edition-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "FREE_TRIAL",
@@ -6834,6 +7256,8 @@
               "id": "rhmccp-f8e420f2-9b2d-48c8-a0be-7e5a896ddd29",
               "publishedEditionContent": {
                 "packageName": "anaconda-team-edition-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "SELF_SERVICE",
@@ -6864,6 +7288,8 @@
               "id": "rhmccp-206ef88d-c151-4b28-bb3f-b80590727f82",
               "publishedEditionContent": {
                 "packageName": "anaconda-team-edition-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "SELF_SERVICE",
@@ -6894,6 +7320,8 @@
               "id": "rhmccp-c1189481-8d7d-4350-ac3e-008e8f6fff01",
               "publishedEditionContent": {
                 "packageName": "anaconda-team-edition-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "SELF_SERVICE",
@@ -6962,6 +7390,8 @@
               "id": "rhmccp-07ba7e81-809b-4b53-bd1c-a234db0c73b7",
               "publishedEditionContent": {
                 "packageName": "yugabyte-platform-operator-bundle-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -6998,6 +7428,8 @@
               "id": "rhmccp-41724b65-e0d8-4523-a0b8-266e6867dec0",
               "publishedEditionContent": {
                 "packageName": "yugabyte-platform-operator-bundle-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7078,6 +7510,8 @@
               "id": "rhmccp-deb82430-b9a6-4214-b625-3f33a07ae6ac",
               "publishedEditionContent": {
                 "packageName": "datadog-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7117,6 +7551,8 @@
               "id": "rhmccp-356ed07b-d03f-4830-8055-b4e0e6b98135",
               "publishedEditionContent": {
                 "packageName": "datadog-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7203,6 +7639,8 @@
               "id": "rhmccp-70d3393d-17d1-4441-b3d2-be7560e30217",
               "publishedEditionContent": {
                 "packageName": "ibm-blockchain",
+                "operatorList": [],
+                "cases": ["ibm-blockchain"],
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -7239,6 +7677,8 @@
               "id": "rhmccp-3c61dd86-00d9-438a-b458-264a7f5bd5ba",
               "publishedEditionContent": {
                 "packageName": "ibm-blockchain",
+                "operatorList": [],
+                "cases": ["ibm-blockchain"],
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7284,7 +7724,7 @@
           },
           "productPageName": ["percona-server-for-mongodb"],
           "created": "2020-07-03T18:27:38.225Z",
-          "updated": "2021-06-23T14:19:45.070Z",
+          "updated": "2021-09-24T19:35:40.700Z",
           "company": {
             "name": "Percona LLC"
           },
@@ -7313,6 +7753,8 @@
               "id": "rhmccp-c12aee71-1f79-48f3-b8e9-b917b83f4f73",
               "publishedEditionContent": {
                 "packageName": "percona-server-mongodb-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -7405,6 +7847,8 @@
               "id": "rhmccp-93bb6666-3123-4134-9a1c-41aed81cd072",
               "publishedEditionContent": {
                 "packageName": "cloudhedge-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7447,6 +7891,8 @@
               "id": "rhmccp-4842bd2a-b2fd-4251-b17f-4510fbe16fc6",
               "publishedEditionContent": {
                 "packageName": "cloudhedge-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7483,6 +7929,8 @@
               "id": "rhmccp-3872edf1-e22e-4687-b321-c21b3ca3ee77",
               "publishedEditionContent": {
                 "packageName": "cloudhedge-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7513,6 +7961,8 @@
               "id": "rhmccp-5471579e-9bdc-40c1-8875-25ec67a5e2df",
               "publishedEditionContent": {
                 "packageName": "cloudhedge-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7543,6 +7993,8 @@
               "id": "rhmccp-814450f8-756f-4f44-91fa-00bab688afe3",
               "publishedEditionContent": {
                 "packageName": "cloudhedge-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -7624,6 +8076,8 @@
               "id": "rhmccp-0cdad1d0-6b8a-41b4-83c9-6b2d02ea927e",
               "publishedEditionContent": {
                 "packageName": "densify-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -7657,6 +8111,8 @@
               "id": "rhmccp-3d4705c6-8907-4d8a-9e7c-fd8780c0d913",
               "publishedEditionContent": {
                 "packageName": "densify-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7738,6 +8194,8 @@
               "id": "rhmccp-84c857e3-b629-4b11-a85a-ab59024bc7ef",
               "publishedEditionContent": {
                 "packageName": "vfunction-server-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -7815,6 +8273,8 @@
               "id": "rhmccp-1bd16895-2ad0-4f04-9623-c9339746b78d",
               "publishedEditionContent": {
                 "packageName": "armo-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -7848,6 +8308,8 @@
               "id": "rhmccp-adde7d9d-45a4-4a28-bb48-839982e91789",
               "publishedEditionContent": {
                 "packageName": "armo-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7881,6 +8343,8 @@
               "id": "rhmccp-7bcdf5f6-3ac1-4e1d-96ec-907540589217",
               "publishedEditionContent": {
                 "packageName": "armo-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7926,7 +8390,7 @@
             "operatr-for-apache-kafka"
           ],
           "created": "2020-07-13T14:31:12.848Z",
-          "updated": "2021-09-13T12:54:27.447Z",
+          "updated": "2021-09-15T16:03:31.823Z",
           "company": {
             "name": "Operatr IO, Inc."
           },
@@ -7961,6 +8425,8 @@
               "id": "rhmccp-67e8a7d6-bf70-4c94-8979-e15ffa04be84",
               "publishedEditionContent": {
                 "packageName": "kpow-io-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -7994,6 +8460,8 @@
               "id": "rhmccp-31a2c59f-2777-4b4c-baf7-34c3d48deb6c",
               "publishedEditionContent": {
                 "packageName": "kpow-io-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -8024,6 +8492,8 @@
               "id": "rhmccp-96b3ad67-aa7c-4fb9-8a4f-798e8586d572",
               "publishedEditionContent": {
                 "packageName": "kpow-io-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8101,6 +8571,8 @@
               "id": "rhmccp-4a4cee4b-7360-4d0b-bd96-2fb3356efa45",
               "publishedEditionContent": {
                 "packageName": "cass-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8131,6 +8603,8 @@
               "id": "rhmccp-36e5cf9d-ca3c-4a18-8176-566c758f77ad",
               "publishedEditionContent": {
                 "packageName": "cass-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8161,6 +8635,8 @@
               "id": "rhmccp-2411cf19-8790-4402-ac9d-2f1b9eefead5",
               "publishedEditionContent": {
                 "packageName": "cass-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -8223,6 +8699,8 @@
               "id": "rhmccp-7a7109dc-f702-465f-a846-f25df613a6a0",
               "publishedEditionContent": {
                 "packageName": "mongodb-enterprise-advanced-ibm-rhmp",
+                "operatorList": [],
+                "cases": [""],
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8256,6 +8734,8 @@
               "id": "rhmccp-427b41b4-6fcc-4fa9-a65e-ded56511dc93",
               "publishedEditionContent": {
                 "packageName": "mongodb-enterprise-advanced-ibm-rhmp",
+                "operatorList": [],
+                "cases": [""],
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8289,6 +8769,8 @@
               "id": "rhmccp-4adbb5b2-3ff6-4933-8d03-f368c0a52f2d",
               "publishedEditionContent": {
                 "packageName": "mongodb-enterprise-advanced-ibm-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -8369,6 +8851,8 @@
               "id": "rhmccp-e1e2dc34-3e92-4dc5-ab1c-05600f0bae19",
               "publishedEditionContent": {
                 "packageName": "anzograph-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "FREE",
@@ -8439,6 +8923,8 @@
               "id": "rhmccp-dd3fac92-bc87-47f4-8424-f1be2a51f235",
               "publishedEditionContent": {
                 "packageName": "percona-xtradb-cluster-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.3",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -8519,6 +9005,8 @@
               "id": "rhmccp-9af2b8d7-dd6f-4f01-80b7-e73f2a5d8b52",
               "publishedEditionContent": {
                 "packageName": "k10-kasten-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "FREE",
@@ -8587,6 +9075,8 @@
               "id": "rhmccp-00f91c49-9803-438b-a65a-a69ad88c0761",
               "publishedEditionContent": {
                 "packageName": "nxrm-operator-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.2",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8661,6 +9151,8 @@
               "id": "rhmccp-c5ba004b-acbb-4796-b07d-abf8a53b6e0b",
               "publishedEditionContent": {
                 "packageName": "stonebranch-universalagent-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8691,6 +9183,8 @@
               "id": "rhmccp-2b5f2a31-2318-4850-811d-8ac77cd3ec98",
               "publishedEditionContent": {
                 "packageName": "stonebranch-universalagent-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -8765,6 +9259,8 @@
               "id": "rhmccp-2fb808b6-3378-48ce-b5cb-9008a45422a5",
               "publishedEditionContent": {
                 "packageName": "advanced-cluster-management",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -8843,6 +9339,12 @@
               "id": "rhmccp-c4dfb72c-8446-404f-a5ca-f75850ecbd07",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "fuse-online"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -8873,6 +9375,24 @@
               "id": "rhmccp-cac3c10e-e586-41b8-baf4-18b7bf7ba042",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8903,6 +9423,24 @@
               "id": "rhmccp-58a3d78d-f4e0-4074-b1f6-b6c99e88c009",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8933,6 +9471,24 @@
               "id": "rhmccp-067cb9dd-6361-43b4-9693-b5ae76f9c233",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -8972,7 +9528,7 @@
           },
           "productPageName": ["red-hat-amq"],
           "created": "2020-08-19T16:42:18.986Z",
-          "updated": "2021-06-02T15:25:37.305Z",
+          "updated": "2021-09-15T20:51:47.971Z",
           "company": {
             "name": "Red Hat, Inc (Integration)"
           },
@@ -9007,6 +9563,12 @@
               "id": "rhmccp-ddc68ce0-2d3d-4f4d-b56f-1b0e06862691",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "amq-streams"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": "",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -9037,6 +9599,24 @@
               "id": "rhmccp-5e020bb6-65a9-4a1b-860b-79ecf6ed0023",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9067,6 +9647,24 @@
               "id": "rhmccp-e4d59a4a-50eb-4ee9-ae5a-11856fc7ef97",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9097,6 +9695,24 @@
               "id": "rhmccp-a0b2f44f-3730-4f09-86d3-9a98d9a9c81b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9171,6 +9787,12 @@
               "id": "rhmccp-72185d8f-17b3-4da3-943a-a69c1569370c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "3scale-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -9201,6 +9823,24 @@
               "id": "rhmccp-11f15e12-0ca7-4e78-a605-524f58877347",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9231,6 +9871,24 @@
               "id": "rhmccp-28e74bbf-b1e4-4ffb-8898-3187bcb3fd3c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9261,6 +9919,24 @@
               "id": "rhmccp-5aa672ee-232e-427a-858d-9a0c1057e6e2",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "integration-operator"
+                  },
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9335,6 +10011,8 @@
               "id": "rhmccp-963b327d-b256-4c18-9c50-2d2bfb54c1f2",
               "publishedEditionContent": {
                 "packageName": "ibm-itx-rs-operator",
+                "operatorList": [],
+                "cases": ["ibm-itx-rs"],
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9365,6 +10043,8 @@
               "id": "rhmccp-8deddff1-6ccc-4fa7-aff7-1a5043a0dbd0",
               "publishedEditionContent": {
                 "packageName": "ibm-itx-rs-operator",
+                "operatorList": [],
+                "cases": ["ibm-itx-rs"],
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9395,6 +10075,8 @@
               "id": "rhmccp-dcbafce6-8c52-481a-b676-f46a285c2836",
               "publishedEditionContent": {
                 "packageName": "ibm-itx-rs-operator",
+                "operatorList": [],
+                "cases": ["ibm-its-rs"],
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9425,6 +10107,8 @@
               "id": "rhmccp-8e20a74f-69c1-40bc-88be-531ec4740702",
               "publishedEditionContent": {
                 "packageName": "ibm-itx-rs-operator",
+                "operatorList": [],
+                "cases": ["ibm-itx-rs"],
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9464,7 +10148,7 @@
           },
           "productPageName": ["red-hat-jboss-enterprise-application-platform"],
           "created": "2020-08-31T16:57:09.863Z",
-          "updated": "2021-06-02T12:27:50.767Z",
+          "updated": "2021-09-15T15:48:35.769Z",
           "company": {
             "name": "Red Hat, Inc (Integration)"
           },
@@ -9493,6 +10177,12 @@
               "id": "rhmccp-143d0b17-d901-4c4f-b036-c7d3b1e0fe77",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": "4.5+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -9523,6 +10213,21 @@
               "id": "rhmccp-b66ee27d-e0b1-4a58-ba7d-4276da1984f0",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9553,6 +10258,21 @@
               "id": "rhmccp-12371e55-d3c9-40f2-a8a6-77eab699bd33",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9583,6 +10303,21 @@
               "id": "rhmccp-42cfb8aa-e73c-4a4e-b9f4-a933965aac9d",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9651,6 +10386,12 @@
               "id": "rhmccp-9126940f-a77e-4ede-8d57-4302769a9b9b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "rhsso-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": "4.5+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -9681,6 +10422,21 @@
               "id": "rhmccp-5e353201-9650-4ec7-aaf9-814d5564eca9",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9711,6 +10467,21 @@
               "id": "rhmccp-659ff1dd-4061-4b11-b85c-31e1fd45a7ca",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9741,6 +10512,21 @@
               "id": "rhmccp-cf6868ba-45d7-411b-a234-15207d58612c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [
+                  {
+                    "packageName": "eap"
+                  },
+                  {
+                    "packageName": "datagrid"
+                  },
+                  {
+                    "packageName": "rhsso-operator"
+                  },
+                  {
+                    "packageName": "jws-operator"
+                  }
+                ],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9809,6 +10595,8 @@
               "id": "rhmccp-66aca39c-1bd3-40b1-bf13-fd05b71eccf4",
               "publishedEditionContent": {
                 "packageName": "aws-event-sources-operator-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": "4.4",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -9839,6 +10627,8 @@
               "id": "rhmccp-abc194e7-5b8f-4df6-9bb2-d8a5ba44ea1f",
               "publishedEditionContent": {
                 "packageName": "aws-event-sources-operator-certified-rhmp",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9878,7 +10668,7 @@
           },
           "productPageName": ["fujitsu-enterprise-postgres"],
           "created": "2020-10-13T14:03:20.022Z",
-          "updated": "2021-09-13T16:04:31.363Z",
+          "updated": "2021-09-24T21:58:33.246Z",
           "company": {
             "name": "Fujitsu Limited"
           },
@@ -9917,6 +10707,8 @@
               "id": "rhmccp-cd03fdae-39fb-4167-88fb-e564606f602c",
               "publishedEditionContent": {
                 "packageName": "fep-ansible-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9947,6 +10739,8 @@
               "id": "rhmccp-ff204772-0dd6-4174-9c64-14964a914d8b",
               "publishedEditionContent": {
                 "packageName": "fep-ansible-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -9977,6 +10771,8 @@
               "id": "rhmccp-9858d9c4-3564-4f71-a0ff-053f1039d17a",
               "publishedEditionContent": {
                 "packageName": "fep-ansible-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -10007,6 +10803,8 @@
               "id": "rhmccp-aec9d555-1235-4877-a54c-54c035a180fd",
               "publishedEditionContent": {
                 "packageName": "fep-ansible-operator",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -10032,6 +10830,10 @@
                   ]
                 }
               }
+            },
+            {
+              "id": "rhmccp-e94fc9a2-6f2f-4ab9-ae92-ddcbadee262f",
+              "publishedEditionContent": null
             }
           ]
         },
@@ -10075,6 +10877,8 @@
               "id": "rhmccp-e37643d6-4acf-49f5-845f-7a1a77618acc",
               "publishedEditionContent": {
                 "packageName": "db2u-operator",
+                "operatorList": [],
+                "cases": ["ibm-db2uoperator", "ibm-db2oltp"],
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "FREE",
@@ -10149,6 +10953,8 @@
               "id": "rhmccp-67eec316-cc49-4681-bbfe-51ad4615bff6",
               "publishedEditionContent": {
                 "packageName": "ibm-cp-integration",
+                "operatorList": [],
+                "cases": ["ibm-cp-integration"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -10211,6 +11017,8 @@
               "id": "rhmccp-4c85dc3b-e9a3-47c1-9543-8c646e570cc4",
               "publishedEditionContent": {
                 "packageName": "ibm-cp-integration",
+                "operatorList": [],
+                "cases": ["ibm-cp-integration"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -10279,6 +11087,13 @@
               "id": "rhmccp-3dc70bcc-5fd9-41f5-a287-1b5c39820a0c",
               "publishedEditionContent": {
                 "packageName": "ibm-cp-integration",
+                "operatorList": [],
+                "cases": [
+                  "ibm-mqadvanced-server-integration-prod",
+                  "ibm-mq",
+                  "ibm-mqadvanced-server-dev",
+                  "ibm-mqadvanced-server-prod"
+                ],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -10341,6 +11156,8 @@
               "id": "rhmccp-b3127947-5807-42dc-b9de-012739d95ade",
               "publishedEditionContent": {
                 "packageName": "ibm-cp-integration",
+                "operatorList": [],
+                "cases": ["ibm-cp-integration"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -10409,6 +11226,8 @@
               "id": "rhmccp-f91e9eac-57b6-4904-9eb8-cc41ff47cbf5",
               "publishedEditionContent": {
                 "packageName": "ibm-cp-integration",
+                "operatorList": [],
+                "cases": ["ibm-cp-integration"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -10483,6 +11302,8 @@
               "id": "rhmccp-62f24436-3868-4f0a-926f-2bf1e4fb4356",
               "publishedEditionContent": {
                 "packageName": "can-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.5.7+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -10513,6 +11334,8 @@
               "id": "rhmccp-7f06b719-9d5c-4955-86f5-6a2ec871f51d",
               "publishedEditionContent": {
                 "packageName": "can-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.5.7+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -10581,6 +11404,8 @@
               "id": "rhmccp-66f556d2-9f28-4b69-9702-3924da73c12e",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -10653,6 +11478,8 @@
               "id": "rhmccp-2c2de6ba-a828-43e8-bc59-b74d9c544618",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -10721,6 +11548,8 @@
               "id": "rhmccp-bc9e04c5-ebb5-4c2f-9ff7-33c33f92423b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -10789,6 +11618,8 @@
               "id": "rhmccp-17c95ca4-ceaa-43c4-b350-38a64ffdf08e",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -10857,6 +11688,8 @@
               "id": "rhmccp-c63ded2f-ac11-495e-ad1f-6eceb241c642",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -10927,6 +11760,8 @@
               "id": "rhmccp-cc045368-fbc0-444a-9e7d-067f5cf20b2e",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -10995,6 +11830,8 @@
               "id": "rhmccp-e6a132e1-025c-4aa3-a804-c9565c19c97f",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -11066,6 +11903,8 @@
               "id": "rhmccp-5abcaf66-a2f4-4cdf-88e9-b2a9d0d41fa9",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -11138,6 +11977,8 @@
               "id": "rhmccp-f7e91b0c-261f-40d3-8d52-8f8654bb254d",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -11206,6 +12047,8 @@
               "id": "rhmccp-5cca628f-990d-4596-b90d-01cb54380798",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -11276,6 +12119,8 @@
               "id": "rhmccp-2f1cb8d0-442b-478f-8847-3d82f9f8144c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -11344,6 +12189,8 @@
               "id": "rhmccp-2b79d1eb-265a-411b-8f26-dd77c55f0bfc",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -11412,6 +12259,8 @@
               "id": "rhmccp-a9be3f71-a448-415d-b412-cc6b61ee5477",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -11480,6 +12329,8 @@
               "id": "rhmccp-5896f93d-acf5-4f89-aab2-37c909d55e81",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -11550,6 +12401,8 @@
               "id": "rhmccp-e1595e6d-bf9c-4d03-ae10-a96c30976734",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",

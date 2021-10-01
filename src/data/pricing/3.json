@@ -1,67 +1,6 @@
 {
   "editions": [
     {
-      "_id": "5fdd201409db360013f7b198",
-      "id": "rhmccp-700aff44-85de-429f-9188-ce1f5ce5c73b",
-      "type": "FreeEdition",
-      "productId": "f654804c423826dd1cff178ebaa39e6d",
-      "productName": "Savings Bond Redemption Tables",
-      "name": " Savings Bond Redemption Tables",
-      "description": "Redemption values and interest earned for Series EE, E, and I savings bonds, and Savings Notes issued from 1941 to present.",
-      "category": "Product",
-      "created": 1608327188705,
-      "updated": 1608327188705,
-      "version": 1,
-      "editionCharges": [
-        {
-          "created": 1608327188706,
-          "id": "5fdd201409db360013f7b197",
-          "vendorChargeId": "RHMFreei8kJdoFk6zmCHm5robb1hW",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ]
-            }
-          ],
-          "metadata": {
-            "chargeSyncRequired": true
-          },
-          "updated": 1608327188706,
-          "name": "Free Edition",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Month",
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "5fdd25b0e8785c00147b6ff7",
       "id": "rhmccp-343e17f4-b96e-47fc-8f72-0f1e5eea6853",
       "type": "FreeEdition",
@@ -6508,7 +6447,78 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
+    },
+    {
+      "_id": "6022d1d8f1ef5300155ccf27",
+      "id": "committed-spend-1M",
+      "type": "Purchase",
+      "productId": "committed-spend",
+      "productName": "Committed Spend",
+      "name": "Committed Spend $1,000,000 USD",
+      "description": "Committed spend $1,000,000 USD.",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "category": "Platform",
+      "created": 1612894680091,
+      "updated": 1612894771188,
+      "version": 2,
+      "editionCharges": [
+        {
+          "created": 1612894377609,
+          "id": "6022d0a9f1ef5300155ccf25",
+          "vendorChargeId": "6022d0a9f1ef5300155ccf25",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ],
+              "id": "94c5d851-1cc9-478c-8253-b3c229ef685e"
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D0445ZX",
+            "zuoraRatePlanChargeId": "2c92c0f877866b4d01778805174a6e20",
+            "zuoraRatePlanId": "2c92c0f877866b5801778805145645bc"
+          },
+          "updated": 1612894741267,
+          "name": "Committed Spend Agreement",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Month",
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
     }
   ],
-  "count": 434
+  "count": 449
 }

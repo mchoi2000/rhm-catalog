@@ -1,7 +1,7 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 224,
+      "totalCount": 227,
       "cursor": null,
       "products": [
         {
@@ -44,6 +44,8 @@
               "id": "rhmccp-23a2a3ee-e0f6-4430-a75d-76fbf57feb62",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -112,6 +114,8 @@
               "id": "rhmccp-9e8ab4bc-cddc-4546-9c42-2332333d9f4f",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -180,6 +184,8 @@
               "id": "rhmccp-dc42c006-142f-49cc-bf29-b1ff7d3ed088",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -248,6 +254,8 @@
               "id": "rhmccp-6566c89b-99cc-44f6-bcb8-c107e1fa6c1d",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -318,6 +326,8 @@
               "id": "rhmccp-32dc3565-3fe9-4df1-91ed-967beef59be6",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -388,6 +398,8 @@
               "id": "rhmccp-520ab934-a317-472a-8024-191efe76a09f",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -462,6 +474,8 @@
               "id": "rhmccp-657aaea4-9d93-41ca-8494-800ed243a1ad",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -534,6 +548,8 @@
               "id": "rhmccp-ff1405ba-560c-4abb-9a7b-e9e66cdd2be7",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -608,6 +624,8 @@
               "id": "rhmccp-56cf4204-f0e6-4185-a149-adfe8221f6bd",
               "publishedEditionContent": {
                 "packageName": "SaaS-aPnJ7FRi2B5qw9Zc3ThJ7S-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
@@ -651,6 +669,8 @@
               "id": "rhmccp-08ed7f56-51ec-4997-922d-cf23f460d780",
               "publishedEditionContent": {
                 "packageName": "SaaS-7ecamgLHQnSWHWET5X5xLv-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
@@ -694,6 +714,8 @@
               "id": "rhmccp-d63ed222-88ba-4f76-92f6-1fee6dd63751",
               "publishedEditionContent": {
                 "packageName": "SaaS-2qxj2KPD3xsypDfM31Ppgi-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS",
                 "planType": "TRIAL",
@@ -777,6 +799,8 @@
               "id": "rhmccp-eee68d00-e613-4f20-9826-8994e86e99eb",
               "publishedEditionContent": {
                 "packageName": "SaaS-qVmraaJp2QhisnyUPMBmQc-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
@@ -828,6 +852,8 @@
               "id": "rhmccp-13f48f38-0fca-4225-b137-5171f38946a1",
               "publishedEditionContent": {
                 "packageName": "SaaS-vvzEg37K6a9dFANhMNuXy7-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
@@ -879,6 +905,8 @@
               "id": "rhmccp-a5e53216-1d68-46e9-818a-ed406922ed86",
               "publishedEditionContent": {
                 "packageName": "SaaS-cEqBJzATEeffBjSrhER5fJ-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS",
                 "planType": "TRIAL",
@@ -914,6 +942,8 @@
               "id": "rhmccp-2c6484ff-e41a-4cf8-966e-4bfd2884fb68",
               "publishedEditionContent": {
                 "packageName": "SaaS-4GUHrWk7R3kCpwT2cfr1w6-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS",
                 "planType": "TRIAL",
@@ -972,7 +1002,7 @@
           },
           "productPageName": ["kubeplus"],
           "created": "2021-01-25T21:17:07.992Z",
-          "updated": "2021-06-08T16:50:13.885Z",
+          "updated": "2021-09-27T17:41:12.385Z",
           "company": {
             "name": "Devcentric Inc."
           },
@@ -1015,6 +1045,8 @@
               "id": "rhmccp-6d238126-ecb1-4629-9f64-af1429c662cc",
               "publishedEditionContent": {
                 "packageName": "kubeplus-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1045,6 +1077,8 @@
               "id": "rhmccp-d22d1c93-87d4-4a27-a4b0-b01f95e962bc",
               "publishedEditionContent": {
                 "packageName": "kubeplus-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1119,6 +1153,8 @@
               "id": "rhmccp-e475ed62-3401-49af-8aba-fe44fbb535e6",
               "publishedEditionContent": {
                 "packageName": "ibm-cp-data-operator",
+                "operatorList": [],
+                "cases": ["ibm-cp-datacore"],
                 "openShiftVersion": "4.5",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1181,6 +1217,8 @@
               "id": "rhmccp-ab121da6-4904-482e-9df8-8a5e618ff871",
               "publishedEditionContent": {
                 "packageName": "SaaS-cJmwAgcVvd76bUSq8cuBvT-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.5+",
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
@@ -1247,6 +1285,8 @@
               "id": "rhmccp-a8d802b8-5925-4a1d-a667-e663d3eed6d5",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1318,6 +1358,8 @@
               "id": "rhmccp-49ff0d12-7720-49d5-9c5b-b9b23d11b7f0",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1387,6 +1429,8 @@
               "id": "rhmccp-4e7ceec1-7a48-492c-9639-7ffb2d4f6f6e",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1427,7 +1471,7 @@
           },
           "productPageName": ["spectrum-protect-plus"],
           "created": "2021-02-24T17:54:36.277Z",
-          "updated": "2021-09-07T21:53:53.801Z",
+          "updated": "2021-09-16T21:59:37.776Z",
           "company": {
             "name": "IBM - Spectrum Protect"
           },
@@ -1462,6 +1506,8 @@
               "id": "rhmccp-9d2b1229-803e-49a0-a902-a219d9c5d467",
               "publishedEditionContent": {
                 "packageName": "spp-operator",
+                "operatorList": [],
+                "cases": ["ibm-spp-server", "ibm-spectrum-protect-plus"],
                 "openShiftVersion": "4.6",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1530,6 +1576,8 @@
               "id": "rhmccp-b0a4dc50-01e3-4ca4-bf8f-a626f4ee0107",
               "publishedEditionContent": {
                 "packageName": "node-red-operator-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.4+",
                 "packageType": "OPERATOR",
                 "planType": "FREE",
@@ -1569,7 +1617,7 @@
           },
           "productPageName": ["sumo-logic-kubernetes-observability"],
           "created": "2021-03-18T19:10:09.679Z",
-          "updated": "2021-09-01T00:06:06.515Z",
+          "updated": "2021-09-13T18:56:54.006Z",
           "company": {
             "name": "Sumo Logic Inc"
           },
@@ -1604,6 +1652,8 @@
               "id": "rhmccp-5d03113a-a1ac-40a1-9b8d-bbe8b7fa9f51",
               "publishedEditionContent": {
                 "packageName": "sumologic-kubernetes-collection-helm-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS_WITH_OPERATOR",
                 "planType": "PURCHASE",
@@ -1659,6 +1709,8 @@
               "id": "rhmccp-66e1571d-24b8-4094-89bd-b2a16b11046b",
               "publishedEditionContent": {
                 "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
@@ -1700,7 +1752,7 @@
           },
           "productPageName": ["operator-service-for-jenkins"],
           "created": "2021-03-24T18:02:05.794Z",
-          "updated": "2021-08-12T14:35:50.168Z",
+          "updated": "2021-09-17T13:58:37.812Z",
           "company": {
             "name": "VIRTUS LAB SP z o o"
           },
@@ -1735,6 +1787,8 @@
               "id": "rhmccp-23ccfc00-0677-4b6d-8e71-5cfa1b37e052",
               "publishedEditionContent": {
                 "packageName": "op-svc-jenkins-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1765,6 +1819,8 @@
               "id": "rhmccp-2dadac19-61d2-4229-b8bc-8e55c11387fa",
               "publishedEditionContent": {
                 "packageName": "op-svc-jenkins-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1843,6 +1899,8 @@
               "id": "rhmccp-058cb482-76da-401d-968e-f574e57c80a8",
               "publishedEditionContent": {
                 "packageName": "ovms-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1873,6 +1931,8 @@
               "id": "rhmccp-a0979d17-1009-4a8a-8140-83f6d704fe0a",
               "publishedEditionContent": {
                 "packageName": "ovms-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.2+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -1947,6 +2007,8 @@
               "id": "rhmccp-6560f6ea-902a-4ed3-a8c9-5efb2bfa541e",
               "publishedEditionContent": {
                 "packageName": "minio-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.7+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -1980,6 +2042,8 @@
               "id": "rhmccp-d3211707-be25-455e-b207-e510b5ac85b5",
               "publishedEditionContent": {
                 "packageName": "minio-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.7+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2064,6 +2128,8 @@
               "id": "rhmccp-bdb49bdb-fc56-4539-a35e-c3a50198fcf4",
               "publishedEditionContent": {
                 "packageName": "model-builder-for-vision-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2094,6 +2160,8 @@
               "id": "rhmccp-19fb35c1-4db9-4ae3-96fc-8d97992205b5",
               "publishedEditionContent": {
                 "packageName": "model-builder-for-vision-certified-rhmp",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2123,6 +2191,88 @@
           ]
         },
         {
+          "id": "8bc560ff638ea1fb092a4e09b654747c",
+          "publishedContent": {
+            "title": "IBM Support for Hyperledger Fabric",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["ibm-support-for-hyperledger-fabric"],
+          "created": "2021-08-03T19:07:30.084Z",
+          "updated": "2021-09-30T14:48:43.452Z",
+          "company": {
+            "name": "IBM Support for Hyperledger Fabric"
+          },
+          "primaryCategory": {
+            "categoryPageName": "database",
+            "content": {
+              "name": "Database"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "database",
+              "content": {
+                "name": "Database"
+              }
+            },
+            {
+              "categoryPageName": "networking",
+              "content": {
+                "name": "Networking"
+              }
+            },
+            {
+              "categoryPageName": "platform",
+              "content": {
+                "name": "Platform"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-13b359e6-a79a-4bea-b8f7-41ca83fbe674",
+              "publishedEditionContent": {
+                "packageName": "ibm-hlfsupport",
+                "operatorList": [],
+                "cases": ["stable/ibm-hlfsupport-bundle"],
+                "openShiftVersion": "4.6+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 2
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "        Kubernetes Operator (to deploy and configure the Fabric Operations Console)       "
+                    },
+                    {
+                      "value": "  Certified Image of Fabric Operations Console (open-source from Hyperledger Labs). "
+                    },
+                    {
+                      "value": " IBM certified images of Hyperledger Fabric -security scanned daily for known  vulnerabilities. \t "
+                    },
+                    {
+                      "value": "The provided Kubernetes operator and easy to use blockchain network operating tools .  "
+                    },
+                    {
+                      "value": "Help the users avoid numerous deployment and operations problems and  used to deploy and operate."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "d906ecd50665d394aff34fb3b943c95d",
           "publishedContent": {
             "title": "IBM Observability by Instana APM",
@@ -2133,7 +2283,7 @@
           },
           "productPageName": ["ibm-observability-by-instana"],
           "created": "2021-08-04T13:59:18.367Z",
-          "updated": "2021-09-07T18:27:13.981Z",
+          "updated": "2021-09-29T15:28:56.583Z",
           "company": {
             "name": "IBM Observability by Instana"
           },
@@ -2168,6 +2318,8 @@
               "id": "rhmccp-e489a5f0-3268-47b3-8ee8-9aa917759cc2",
               "publishedEditionContent": {
                 "packageName": "instana-agent-rhmp",
+                "operatorList": [],
+                "cases": ["norm to get exception from steve r"],
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
@@ -2198,6 +2350,8 @@
               "id": "rhmccp-e7062d38-893c-49a2-bb9b-01b60fd9148c",
               "publishedEditionContent": {
                 "packageName": "instana-agent-rhmp",
+                "operatorList": [],
+                "cases": ["get exception"],
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2249,6 +2403,8 @@
               "id": "rhmccp-d81d955f-4da6-4a88-b6e4-c7eccb0e3aea",
               "publishedEditionContent": {
                 "packageName": "instana-agent-rhmp",
+                "operatorList": [],
+                "cases": [""],
                 "openShiftVersion": "4.3+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
@@ -2291,6 +2447,154 @@
                     },
                     {
                       "value": "Analytics, Custom Metrics, Log Monitoring Support, Synthetic Support, Enterprise Security"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "775a98cba4dc1a996c34e5e05b127cb5",
+          "publishedContent": {
+            "title": "Orson - Test Data Orchestrator",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["orson-test-data-orchestrator-tdo"],
+          "created": "2021-08-31T13:37:47.687Z",
+          "updated": "2021-09-27T15:27:08.757Z",
+          "company": {
+            "name": "Left Shift IT Ltd."
+          },
+          "primaryCategory": {
+            "categoryPageName": "integration-and-delivery",
+            "content": {
+              "name": "Integration & Delivery"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "integration-and-delivery",
+              "content": {
+                "name": "Integration & Delivery"
+              }
+            },
+            {
+              "categoryPageName": "database",
+              "content": {
+                "name": "Database"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-6a24fa2d-5ede-450f-bb0b-a763393805a3",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Deploys on cloud "
+                    },
+                    {
+                      "value": "Deploys on kubernetes cluster"
+                    },
+                    {
+                      "value": "Deploys on standard linux and windows images"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "1523cdf2e4658e803e7973eff8953357",
+          "publishedContent": {
+            "title": "IBM Open Labs  Education",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["ibm-cloud-for-education"],
+          "created": "2021-09-08T18:07:03.990Z",
+          "updated": "2021-09-28T17:33:01.364Z",
+          "company": {
+            "name": "IBM"
+          },
+          "primaryCategory": {
+            "categoryPageName": "developer-tools",
+            "content": {
+              "name": "Developer Tools"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            },
+            {
+              "categoryPageName": "application-runtime",
+              "content": {
+                "name": "Application Runtime"
+              }
+            },
+            {
+              "categoryPageName": "platform",
+              "content": {
+                "name": "Platform"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-c31578b7-5014-400b-8628-831f4c393e63",
+              "publishedEditionContent": {
+                "packageName": "placeholder",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Credits are exclusively for virtual courses"
+                    },
+                    {
+                      "value": "Choose from multiple instructional labs"
+                    },
+                    {
+                      "value": "Self-paced"
                     }
                   ]
                 }

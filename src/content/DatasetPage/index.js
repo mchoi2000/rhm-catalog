@@ -14,12 +14,8 @@ const DatasetPage = ({ updated }) => {
               <a href="https://marketplace.redhat.com">Red Hat Marketplace</a>
             </BreadcrumbItem>
           </Breadcrumb>
-          <h1 className="landing-page__heading">
-            {GetProducts()[2] - GetProducts()[1]} Dataset Products
-          </h1>
+          <h1 className="landing-page__heading">Datasets</h1>
           <ul className="summary">
-            <li>Software: {GetProducts()[1]}</li>
-            <li>Total products: {total()}</li>
             <li>Last updated: {updated}</li>
           </ul>
         </div>

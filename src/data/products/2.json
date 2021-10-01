@@ -1,7 +1,7 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 224,
+      "totalCount": 227,
       "cursor": "5fd9225c1e80250013ddd5f6",
       "products": [
         {
@@ -44,6 +44,8 @@
               "id": "rhmccp-f7ae3d6d-97bb-4286-b0a4-5b5cce68d08f",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -112,6 +114,8 @@
               "id": "rhmccp-4a172108-7f71-4438-8278-6e56a2adcd6d",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -180,6 +184,8 @@
               "id": "rhmccp-6523a98b-608a-4b78-9bc5-842081489ca2",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -248,6 +254,8 @@
               "id": "rhmccp-6ff4ceb7-7502-4ba0-930b-a356c375798c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -316,6 +324,8 @@
               "id": "rhmccp-c5e37db7-ac31-4345-82c3-09d579497466",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -384,6 +394,8 @@
               "id": "rhmccp-52a70c14-d802-443a-88e5-0965455c89f9",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -452,6 +464,8 @@
               "id": "rhmccp-734de997-5bfa-48d0-8761-1e747c82f019",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -522,6 +536,8 @@
               "id": "rhmccp-af5118a2-3fd4-418f-bf5c-9cd58fbf1f74",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -590,6 +606,8 @@
               "id": "rhmccp-5fed6f5d-4433-4be9-b2d4-7c85e17ff180",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -658,6 +676,8 @@
               "id": "rhmccp-ef88e350-b810-4795-b07d-869be201385a",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -728,6 +748,8 @@
               "id": "rhmccp-59d31ad9-fa59-4744-a2ba-e7e22eeb98e7",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -796,6 +818,8 @@
               "id": "rhmccp-4e43029b-e676-4ef4-bc6e-93d2c4fff233",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -868,6 +892,8 @@
               "id": "rhmccp-5cb16ba1-9a94-4d97-8394-3ebbc45f1770",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -936,6 +962,8 @@
               "id": "rhmccp-02c847ca-8176-488b-8351-2b916b4ef21e",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1004,6 +1032,8 @@
               "id": "rhmccp-7308028e-b458-4b1b-9cc4-21f08fa40780",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1072,6 +1102,8 @@
               "id": "rhmccp-9e144515-7094-40f2-9bb1-fef67df77286",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1140,6 +1172,8 @@
               "id": "rhmccp-0c65ffa9-3757-4eab-ad53-8341bd8d7930",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1208,6 +1242,8 @@
               "id": "rhmccp-89dffe63-1a85-4553-ae38-b1d421da60cb",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1278,6 +1314,8 @@
               "id": "rhmccp-c163b902-4504-4f21-b4c2-feeaee8854d1",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1346,6 +1384,8 @@
               "id": "rhmccp-e56e995d-0744-4079-965a-8ccc2d62827b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1414,6 +1454,8 @@
               "id": "rhmccp-0839bd86-e6a3-4e77-a1fa-8038af383144",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1482,6 +1524,8 @@
               "id": "rhmccp-fb6e883e-5d12-4f61-863c-35a486f930ab",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1550,6 +1594,8 @@
               "id": "rhmccp-1524a954-64d7-433d-92a5-922605857baa",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1618,6 +1664,8 @@
               "id": "rhmccp-75162d00-190b-42d3-80ed-ad20c8a5d575",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1686,6 +1734,8 @@
               "id": "rhmccp-f7ba346c-07c5-41ed-8c97-5e6da68e4996",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1757,6 +1807,8 @@
               "id": "rhmccp-1e642abc-3e5c-43cd-ad94-54d8f2cf56ce",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1825,6 +1877,8 @@
               "id": "rhmccp-a9124106-185e-4e43-8b2f-337efcb69322",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1893,6 +1947,8 @@
               "id": "rhmccp-6b67bf79-b97f-460d-9580-d736668044db",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -1961,6 +2017,8 @@
               "id": "rhmccp-881fce56-9949-4022-ba24-32c9f4e40e15",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2029,6 +2087,8 @@
               "id": "rhmccp-bc95af74-59ab-4450-8f15-86037933a230",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2099,6 +2159,8 @@
               "id": "rhmccp-ae4ac7b9-38e6-4c5f-8e5b-566b7cfed37d",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2167,6 +2229,8 @@
               "id": "rhmccp-13106efe-185d-4fc8-81cd-56e6e5b073d5",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2235,6 +2299,8 @@
               "id": "rhmccp-ef35637b-007e-4c71-8383-22a7409b3438",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2303,6 +2369,8 @@
               "id": "rhmccp-f1e08365-bfc8-45e3-82ec-b27fbc6d84f7",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2371,6 +2439,8 @@
               "id": "rhmccp-97df2902-e8ba-4aba-8626-2b23e7570307",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2439,6 +2509,8 @@
               "id": "rhmccp-61d7705a-8603-4543-bda7-8bbc9f9418ac",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2507,6 +2579,8 @@
               "id": "rhmccp-da57019e-b673-4d9f-b3e3-295b0aab6578",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2575,6 +2649,8 @@
               "id": "rhmccp-527919a5-9607-4b8e-b9c6-c2edd8976de6",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2643,6 +2719,8 @@
               "id": "rhmccp-01ecfcd2-9fe9-4ffe-9e33-f855a533bd49",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2713,6 +2791,8 @@
               "id": "rhmccp-4ce44010-7f3d-4b38-984c-8cfadb0a4f11",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2785,6 +2865,8 @@
               "id": "rhmccp-95483582-6b0c-452f-a262-bdd6a5a78f70",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2855,6 +2937,8 @@
               "id": "rhmccp-8fc9fa9b-34c0-4f12-a60f-77939ba6a03a",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2923,6 +3007,8 @@
               "id": "rhmccp-007b3a0a-b012-4da8-8544-1c56307f1a98",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -2991,6 +3077,8 @@
               "id": "rhmccp-9d7fb73d-df2e-437e-99e9-55282e63e8ae",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3059,6 +3147,8 @@
               "id": "rhmccp-3cc87b94-2cf5-4425-88a2-44eb4dce6a7b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3127,6 +3217,8 @@
               "id": "rhmccp-6403ab21-0da8-48bd-be1c-e42e68a2c595",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3195,6 +3287,8 @@
               "id": "rhmccp-3f3c734d-9f8a-44ba-b9b1-80021c8d716f",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3263,6 +3357,8 @@
               "id": "rhmccp-b55f7a10-c193-4adb-96de-6fd6dd156fd3",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3331,6 +3427,8 @@
               "id": "rhmccp-d7d1b318-4ee4-4d0a-80e5-22b7f1be717b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3399,6 +3497,8 @@
               "id": "rhmccp-4d1b1236-c65c-42e4-af23-6cc69cc5ac9a",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3467,6 +3567,8 @@
               "id": "rhmccp-aa8cef93-2198-4ad5-90f8-ed62c8685486",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3535,6 +3637,8 @@
               "id": "rhmccp-bf8e28e2-caa5-4606-b009-528df8b9b61b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3603,6 +3707,8 @@
               "id": "rhmccp-6980a278-294c-46c4-ad68-be764656cb5c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3673,6 +3779,8 @@
               "id": "rhmccp-598a9efd-138e-44ff-acfb-b5ebb3f61434",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3741,6 +3849,8 @@
               "id": "rhmccp-3ad734f9-6277-40e3-92d4-7219a52d9020",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3811,6 +3921,8 @@
               "id": "rhmccp-1d0c7341-adaa-4340-80ab-6dd8fe089725",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3882,6 +3994,8 @@
               "id": "rhmccp-39a71bd3-aaf0-4309-ab08-946ab36bbdbb",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -3950,6 +4064,8 @@
               "id": "rhmccp-4eff9481-2a13-49c4-bd9e-0a07ed665a00",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4018,6 +4134,8 @@
               "id": "rhmccp-6cb51794-6f8d-4180-9ecb-50db30946964",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4086,6 +4204,8 @@
               "id": "rhmccp-2760a30c-e693-4651-900c-6df249ad32e6",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4158,6 +4278,8 @@
               "id": "rhmccp-9e81d973-a179-4434-a261-fc74ffc48f70",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4226,6 +4348,8 @@
               "id": "rhmccp-14c131a7-c4f0-4ede-a711-ff761622c385",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4296,6 +4420,8 @@
               "id": "rhmccp-36412bd0-b0a0-44cc-bd5d-acb195d14d61",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4366,6 +4492,8 @@
               "id": "rhmccp-b319a6ff-6753-4187-a6d6-bf3c6a6660e8",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4438,6 +4566,8 @@
               "id": "rhmccp-4da2e686-25df-467d-afb6-210a86cb3bc0",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4506,6 +4636,8 @@
               "id": "rhmccp-02dbb580-7c66-485c-addf-05045931cc4b",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4574,6 +4706,8 @@
               "id": "rhmccp-e7f086cf-ccee-4383-ae97-e5895b6b7d60",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4644,6 +4778,8 @@
               "id": "rhmccp-8230d4a8-e38a-48e0-8cab-fbd6c578e405",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4714,6 +4850,8 @@
               "id": "rhmccp-00f4c58a-a91c-41a1-9a07-56b526428a1d",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4782,6 +4920,8 @@
               "id": "rhmccp-60af935b-fb25-4254-90ef-6075c8ea6ce5",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4852,6 +4992,8 @@
               "id": "rhmccp-999885a0-9085-4ac0-854f-ad39cce7cacc",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4922,6 +5064,8 @@
               "id": "rhmccp-f84c4075-7a53-493c-bfef-145207e0b2a5",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -4993,6 +5137,8 @@
               "id": "rhmccp-014d6770-3d22-42bd-a69e-7a31dac8857c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5063,6 +5209,8 @@
               "id": "rhmccp-dd623fbb-46ca-4629-b2f6-3f653b17304c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5133,6 +5281,8 @@
               "id": "rhmccp-224479d2-fe36-428b-804d-e6b5ce72e44c",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5203,6 +5353,8 @@
               "id": "rhmccp-2066b439-fc9d-4dcb-adc1-a5607b1f52f9",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5271,6 +5423,8 @@
               "id": "rhmccp-21f6b28f-c289-45a7-b396-d3a0e247a261",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5339,6 +5493,8 @@
               "id": "rhmccp-61a4b307-ffbf-4550-86fa-e2ef4b19e573",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5407,6 +5563,8 @@
               "id": "rhmccp-9cb3531a-cefc-46fc-8a19-69805612a0fe",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5475,6 +5633,8 @@
               "id": "rhmccp-b9ac5ea0-d2f5-495b-969d-94359d842480",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5543,6 +5703,8 @@
               "id": "rhmccp-fa3d27e5-2510-4087-a370-abb1f14ba5d7",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5613,6 +5775,8 @@
               "id": "rhmccp-fc6f0573-2493-41d0-907c-b1c37bd1aeff",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5685,6 +5849,8 @@
               "id": "rhmccp-7920ce90-dd22-4420-95b0-fd9d003a189a",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5753,6 +5919,8 @@
               "id": "rhmccp-58fd2ac9-7363-44f2-be57-0f9aaa7ac737",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5825,6 +5993,8 @@
               "id": "rhmccp-5cf188cf-24f7-486c-a723-f91d73cc1459",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5897,6 +6067,8 @@
               "id": "rhmccp-1eb8b49f-293b-4c38-a912-b4d5835f3232",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -5965,6 +6137,8 @@
               "id": "rhmccp-54a5b2d0-205a-4e22-9870-1710607207c7",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6037,6 +6211,8 @@
               "id": "rhmccp-4cb10a72-40ed-47d3-80bf-f42cc4047b29",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6105,6 +6281,8 @@
               "id": "rhmccp-4dc5a181-586c-4718-a4b4-cb609df56840",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6173,6 +6351,8 @@
               "id": "rhmccp-87c05bcc-d730-4018-acfa-fb452a09f11f",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6243,6 +6423,8 @@
               "id": "rhmccp-583535b3-498a-41b5-ba72-15650650f5c3",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6311,6 +6493,8 @@
               "id": "rhmccp-fc84f481-1e43-4c5e-8d0a-6378ffad4fbb",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6379,6 +6563,8 @@
               "id": "rhmccp-42f4071f-c5c5-4457-bac7-a64190fd2903",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6447,6 +6633,8 @@
               "id": "rhmccp-8a90e841-c5c5-48ec-8532-a0bc36639050",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6515,6 +6703,8 @@
               "id": "rhmccp-4f6d5987-427d-4dd2-b695-b40d4e161efb",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6583,6 +6773,8 @@
               "id": "rhmccp-77a82d75-cd42-4f93-b4a6-42d23ffbf16a",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": [],
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6651,6 +6843,8 @@
               "id": "rhmccp-1a77ca0e-17a4-4f50-8100-08bc85e4f4e6",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6719,6 +6913,8 @@
               "id": "rhmccp-e986b8e6-24b8-45a9-9d05-86c690d978b2",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6787,6 +6983,8 @@
               "id": "rhmccp-36eee7f7-21df-4748-b68e-ac0a55a1f887",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",
@@ -6855,6 +7053,8 @@
               "id": "rhmccp-1fb42ffb-fdeb-4cc7-912d-8a0941e91f2a",
               "publishedEditionContent": {
                 "packageName": "",
+                "operatorList": null,
+                "cases": null,
                 "openShiftVersion": null,
                 "packageType": "DOWNLOAD",
                 "planType": "FREE",

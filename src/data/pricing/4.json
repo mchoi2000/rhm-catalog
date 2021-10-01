@@ -1,77 +1,6 @@
 {
   "editions": [
     {
-      "_id": "6022d1d8f1ef5300155ccf27",
-      "id": "committed-spend-1M",
-      "type": "Purchase",
-      "productId": "committed-spend",
-      "productName": "Committed Spend",
-      "name": "Committed Spend $1,000,000 USD",
-      "description": "Committed spend $1,000,000 USD.",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "category": "Platform",
-      "created": 1612894680091,
-      "updated": 1612894771188,
-      "version": 2,
-      "editionCharges": [
-        {
-          "created": 1612894377609,
-          "id": "6022d0a9f1ef5300155ccf25",
-          "vendorChargeId": "6022d0a9f1ef5300155ccf25",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ],
-              "id": "94c5d851-1cc9-478c-8253-b3c229ef685e"
-            }
-          ],
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D0445ZX",
-            "zuoraRatePlanChargeId": "2c92c0f877866b4d01778805174a6e20",
-            "zuoraRatePlanId": "2c92c0f877866b5801778805145645bc"
-          },
-          "updated": 1612894741267,
-          "name": "Committed Spend Agreement",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Month",
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "602abebeb4788d0013b4e40d",
       "id": "rhmccp-6d238126-ecb1-4629-9f64-af1429c662cc",
       "type": "FreeTrial",
@@ -83,7 +12,7 @@
       "trialGracePeriod": 30,
       "category": "Product",
       "created": 1613414078522,
-      "updated": 1622736184130,
+      "updated": 1632850477854,
       "version": 1,
       "editionCharges": [
         {
@@ -429,7 +358,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1614011460566,
-      "updated": 1624602278327,
+      "updated": 1631898185132,
       "version": 1,
       "editionCharges": [
         {
@@ -1452,7 +1381,7 @@
       "trialGracePeriod": 15,
       "category": "Product",
       "created": 1617115615226,
-      "updated": 1617119135806,
+      "updated": 1631713139837,
       "version": 1,
       "editionCharges": [
         {
@@ -1502,306 +1431,6 @@
       "allowedBillingFrequencies": null,
       "allowedSubscriptionTerms": null,
       "cooldownPeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60645fa864970d0013e37061",
-      "id": "rhmccp-67e8a7d6-bf70-4c94-8979-e15ffa04be84",
-      "type": "Purchase",
-      "productId": "5289e94712da9ed171e232d6b1e5d061",
-      "productName": "Operatr for Apache Kafka",
-      "name": "kPow Monthly ",
-      "description": "kPow Monthly: Purchase an annual license for kPow, paid in monthly installments. Includes all features, enterprise integrations, support, and unlimited users.",
-      "created": 1617190824007,
-      "updated": 1622727009174,
-      "version": 2,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "VolumePricing",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D042EZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 90
-                },
-                {
-                  "currency": "CAD",
-                  "price": 117
-                }
-              ],
-              "id": "5b0a0fc4-a13e-413a-bc41-60263ef84a62",
-              "endingUnit": 5
-            },
-            {
-              "id": "4c471c88-ea55-476f-9cd4-eebd867f4d8e",
-              "startingUnit": 6,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 85
-                },
-                {
-                  "currency": "CAD",
-                  "price": 110.5
-                }
-              ],
-              "endingUnit": 11
-            },
-            {
-              "id": "4480662f-7fe2-4ba6-be84-938e1160720c",
-              "startingUnit": 12,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 80
-                },
-                {
-                  "currency": "CAD",
-                  "price": 104
-                }
-              ],
-              "endingUnit": 23
-            },
-            {
-              "id": "84b626e0-a57a-4416-a7eb-67aff18cf1dd",
-              "startingUnit": 24,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 75
-                },
-                {
-                  "currency": "CAD",
-                  "price": 97.5
-                }
-              ],
-              "endingUnit": 47
-            },
-            {
-              "id": "d99d6db6-fcc0-4a30-a521-3e3806192dcf",
-              "startingUnit": 48,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 72.5
-                },
-                {
-                  "currency": "CAD",
-                  "price": 94.25
-                }
-              ],
-              "endingUnit": 95
-            },
-            {
-              "id": "146ab712-8765-4844-9ced-9b3c6b4f7b3a",
-              "startingUnit": 96,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 70
-                },
-                {
-                  "currency": "CAD",
-                  "price": 91
-                }
-              ]
-            }
-          ],
-          "id": "5f226e37355ebf0014a0ed35",
-          "created": 1596091959852,
-          "updated": 1622712641378,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D042EZX",
-            "zuoraRatePlanChargeId": "2c92a00e78728df50178881371e1086e",
-            "zuoraRatePlanId": "2c92a01178729a85017888136e7a7e27"
-          },
-          "name": "kPow Monthly",
-          "uom": {
-            "identifier": "Cluster",
-            "multiplier": 1,
-            "created": 1590610778092,
-            "updated": 1590610778092,
-            "supportUsageChargeType": false,
-            "singularName": "Cluster",
-            "pluralName": "Clusters",
-            "suffix": "per cluster",
-            "inputLabel": "Enter number of clusters",
-            "summaryLabel": "Number of clusters"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60645fa8d40e4f00140aedeb",
-      "id": "rhmccp-96b3ad67-aa7c-4fb9-8a4f-798e8586d572",
-      "type": "Purchase",
-      "productId": "5289e94712da9ed171e232d6b1e5d061",
-      "productName": "Operatr for Apache Kafka",
-      "name": "kPow Annual ",
-      "description": "kPow Annual:  Purchase an annual license for kPow, paid in one installment. Includes all features, enterprise integrations, support, and unlimited users.\n",
-      "created": 1617190824203,
-      "updated": 1622727050078,
-      "version": 2,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "VolumePricing",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D042DZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 960
-                },
-                {
-                  "currency": "CAD",
-                  "price": 1248
-                }
-              ],
-              "id": "56649a4f-79a1-4199-8c33-cb068ea07915",
-              "endingUnit": 5
-            },
-            {
-              "id": "4e386684-075c-4ea0-be4e-4e1e2de7bf32",
-              "startingUnit": 6,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 900
-                },
-                {
-                  "currency": "CAD",
-                  "price": 1170
-                }
-              ],
-              "endingUnit": 11
-            },
-            {
-              "id": "2d089c68-882d-4b90-8e64-9d2e7b3ed20b",
-              "startingUnit": 12,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 840
-                },
-                {
-                  "currency": "CAD",
-                  "price": 1092
-                }
-              ],
-              "endingUnit": 23
-            },
-            {
-              "id": "63711e6d-3550-41b5-a928-130e101198ea",
-              "startingUnit": 24,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 780
-                },
-                {
-                  "currency": "CAD",
-                  "price": 1014
-                }
-              ],
-              "endingUnit": 47
-            },
-            {
-              "id": "fc7013f8-10f2-4a69-ab2b-5889b41a75cd",
-              "startingUnit": 48,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 750
-                },
-                {
-                  "currency": "CAD",
-                  "price": 975
-                }
-              ],
-              "endingUnit": 95
-            },
-            {
-              "id": "40365ab8-38f9-4632-b8fc-2a4db963844a",
-              "startingUnit": 96,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 720
-                },
-                {
-                  "currency": "CAD",
-                  "price": 936
-                }
-              ]
-            }
-          ],
-          "id": "5f227377355ebf0014a0ed36",
-          "created": 1596093303639,
-          "updated": 1622712765359,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D042DZX",
-            "zuoraRatePlanChargeId": "2c92a00878729a7d0178881478c06289",
-            "zuoraRatePlanId": "2c92a01078728e230178881474fb54e0"
-          },
-          "name": "kPow Annual",
-          "uom": {
-            "identifier": "Cluster",
-            "multiplier": 1,
-            "created": 1590610778092,
-            "updated": 1590610778092,
-            "supportUsageChargeType": false,
-            "singularName": "Cluster",
-            "pluralName": "Clusters",
-            "suffix": "per cluster",
-            "inputLabel": "Enter number of clusters",
-            "summaryLabel": "Number of clusters"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
       "group": null,
       "status": "Published",
       "drafts": [],
@@ -2131,6 +1760,7 @@
           "created": 1589997708850,
           "updated": 1595961674623,
           "usageReportingType": "Cumulative",
+          "usageReportingId": "crunchydata.com:Pgcluster:VirtualProcessorCore",
           "metadata": {
             "chargeSyncRequired": false,
             "ibmPartNumber": "D029DZX",
@@ -2203,6 +1833,7 @@
           "created": 1592496400816,
           "updated": 1595961566234,
           "usageReportingType": "Cumulative",
+          "usageReportingId": "crunchydata.com:Pgcluster:Cluster",
           "metadata": {
             "chargeSyncRequired": false,
             "ibmPartNumber": "D034NZX",
@@ -6009,237 +5640,6 @@
       "revisions": []
     },
     {
-      "_id": "60b69d6d758b470013a5134e",
-      "id": "rhmccp-b66ee27d-e0b1-4a58-ba7d-4276da1984f0",
-      "type": "Purchase",
-      "productId": "19152d8bc5bf72c62bc3f2b3853eab7c",
-      "productName": "Red Hat JBoss Enterprise Application Platform",
-      "name": "Red Hat Runtimes Essentials",
-      "description": "Red Hat JBoss Enterprise Application Platform  is part of the suite of products found in Red Hat Runtimes Essentials.",
-      "category": "Product",
-      "created": 1622580589659,
-      "updated": 1622636695639,
-      "version": 1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MW00277",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 1650
-                },
-                {
-                  "currency": "CAD",
-                  "price": 2145
-                }
-              ],
-              "id": "5514a385-85d4-4094-8ef3-63ac3ade26b9"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60b6a1a7758b470013a51350",
-          "created": 1622581671334,
-          "updated": 1622581671334,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02RFZX",
-            "zuoraRatePlanChargeId": "2c92a00779b19c770179ccaf0fc22ea6",
-            "zuoraRatePlanId": "2c92a0fc79b19c410179ccaf0c3a3bf0"
-          },
-          "name": "SKU",
-          "uom": {
-            "identifier": "SKU",
-            "multiplier": 1,
-            "created": 1586264544132,
-            "updated": 1586264544132,
-            "supportUsageChargeType": false,
-            "singularName": "SKU",
-            "pluralName": "SKUs",
-            "suffix": "per SKU",
-            "inputLabel": "Enter number of SKUs",
-            "summaryLabel": "Number of SKUs"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60b69dee758b470013a5134f",
-      "id": "rhmccp-12371e55-d3c9-40f2-a8a6-77eab699bd33",
-      "type": "Purchase",
-      "productId": "19152d8bc5bf72c62bc3f2b3853eab7c",
-      "productName": "Red Hat JBoss Enterprise Application Platform",
-      "name": "Red Hat Runtimes Standard",
-      "description": "Red Hat JBoss Enterprise Application Platform  is part of the suite of products found in Red Hat Runtimes Standard.",
-      "category": "Product",
-      "created": 1622580718705,
-      "updated": 1622636732604,
-      "version": 1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MW00275",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                },
-                {
-                  "currency": "CAD",
-                  "price": 0
-                }
-              ],
-              "id": "f02dd172-604b-4ae3-97de-685b90e1292e"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60b7769c2162380014d43271",
-          "created": 1622636188489,
-          "updated": 1622636225588,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02RHZX",
-            "zuoraRatePlanChargeId": "2c92a0fc79b19c410179ccafa0453d8a",
-            "zuoraRatePlanId": "2c92a00d79b1a9e80179ccaf9c6103e2"
-          },
-          "name": "SKU",
-          "uom": {
-            "identifier": "SKU",
-            "multiplier": 1,
-            "created": 1586264544132,
-            "updated": 1586264544132,
-            "supportUsageChargeType": false,
-            "singularName": "SKU",
-            "pluralName": "SKUs",
-            "suffix": "per SKU",
-            "inputLabel": "Enter number of SKUs",
-            "summaryLabel": "Number of SKUs"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60b69ea02162380014d4326e",
-      "id": "rhmccp-42cfb8aa-e73c-4a4e-b9f4-a933965aac9d",
-      "type": "Purchase",
-      "productId": "19152d8bc5bf72c62bc3f2b3853eab7c",
-      "productName": "Red Hat JBoss Enterprise Application Platform",
-      "name": "Red Hat Runtimes Premium",
-      "description": "Red Hat JBoss Enterprise Application Platform  is part of the suite of products found in Red Hat Runtimes Premium.",
-      "category": "Product",
-      "created": 1622580896700,
-      "updated": 1622636771611,
-      "version": 1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MM00276",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 43200
-                },
-                {
-                  "currency": "CAD",
-                  "price": 56160
-                }
-              ],
-              "id": "72e6b27c-4123-4f70-9bd8-4ee3e16e20c3"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60b7777a65afc000126b3475",
-          "created": 1622636410095,
-          "updated": 1622636410095,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02RGZX",
-            "zuoraRatePlanChargeId": "2c92a0fe79b19c570179ccb038425d63",
-            "zuoraRatePlanId": "2c92a00c79b19c6e0179ccb035315b39"
-          },
-          "name": "SKU",
-          "uom": {
-            "identifier": "SKU",
-            "multiplier": 1,
-            "created": 1586264544132,
-            "updated": 1586264544132,
-            "supportUsageChargeType": false,
-            "singularName": "SKU",
-            "pluralName": "SKUs",
-            "suffix": "per SKU",
-            "inputLabel": "Enter number of SKUs",
-            "summaryLabel": "Number of SKUs"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "60b69f262c9f9500139fba9c",
       "id": "rhmccp-68468734-e6ae-4835-8e44-2f196974b91c",
       "type": "Purchase",
@@ -6450,6 +5850,237 @@
             "ibmPartNumber": "D02RFZX",
             "zuoraRatePlanChargeId": "2c92a010797959b701797ab155a8356e",
             "zuoraRatePlanId": "2c92a0fd7979675f01797ab151dd66b1"
+          },
+          "name": "SKU",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60b77942758b470013a51354",
+      "id": "rhmccp-12371e55-d3c9-40f2-a8a6-77eab699bd33",
+      "type": "Purchase",
+      "productId": "19152d8bc5bf72c62bc3f2b3853eab7c",
+      "productName": "Red Hat JBoss Enterprise Application Platform",
+      "name": "Red Hat Runtimes Standard",
+      "description": "Red Hat JBoss Enterprise Application Platform  is part of the suite of products found in Red Hat Runtimes Standard.",
+      "category": "Product",
+      "created": 1622636866086,
+      "updated": 1631718409257,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MW00275",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 12000
+                },
+                {
+                  "currency": "CAD",
+                  "price": 14857.8
+                }
+              ],
+              "id": "448e5bcf-d421-4ea2-94bf-910460a4d9d6"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60b7769c2162380014d43271",
+          "created": 1622636188489,
+          "updated": 1631717958434,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02RHZX",
+            "zuoraRatePlanChargeId": "2c92a0fc79b19c410179ccafa0453d8a",
+            "zuoraRatePlanId": "2c92a00d79b1a9e80179ccaf9c6103e2"
+          },
+          "name": "SKU",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60b7794265afc000126b3476",
+      "id": "rhmccp-42cfb8aa-e73c-4a4e-b9f4-a933965aac9d",
+      "type": "Purchase",
+      "productId": "19152d8bc5bf72c62bc3f2b3853eab7c",
+      "productName": "Red Hat JBoss Enterprise Application Platform",
+      "name": "Red Hat Runtimes Premium",
+      "description": "Red Hat JBoss Enterprise Application Platform  is part of the suite of products found in Red Hat Runtimes Premium.",
+      "category": "Product",
+      "created": 1622636866347,
+      "updated": 1631718685315,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MM00276",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 43200
+                },
+                {
+                  "currency": "CAD",
+                  "price": 53488.08
+                }
+              ],
+              "id": "72e6b27c-4123-4f70-9bd8-4ee3e16e20c3"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60b7777a65afc000126b3475",
+          "created": 1622636410095,
+          "updated": 1622636410095,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02RGZX",
+            "zuoraRatePlanChargeId": "2c92a0fe79b19c570179ccb038425d63",
+            "zuoraRatePlanId": "2c92a00c79b19c6e0179ccb035315b39"
+          },
+          "name": "SKU",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60b779422162380014d43272",
+      "id": "rhmccp-b66ee27d-e0b1-4a58-ba7d-4276da1984f0",
+      "type": "Purchase",
+      "productId": "19152d8bc5bf72c62bc3f2b3853eab7c",
+      "productName": "Red Hat JBoss Enterprise Application Platform",
+      "name": "Red Hat Runtimes Essentials",
+      "description": "Red Hat JBoss Enterprise Application Platform  is part of the suite of products found in Red Hat Runtimes Essentials.",
+      "category": "Product",
+      "created": 1622636866492,
+      "updated": 1631718362004,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MW00277",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1650
+                },
+                {
+                  "currency": "CAD",
+                  "price": 2042.95
+                }
+              ],
+              "id": "d8afe2b5-b834-4505-b2b0-6af994204825"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60b6a1a7758b470013a51350",
+          "created": 1622581671334,
+          "updated": 1631718098544,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02RFZX",
+            "zuoraRatePlanChargeId": "2c92a00779b19c770179ccaf0fc22ea6",
+            "zuoraRatePlanId": "2c92a0fc79b19c410179ccaf0c3a3bf0"
           },
           "name": "SKU",
           "uom": {
@@ -6933,237 +6564,6 @@
       "revisions": []
     },
     {
-      "_id": "60b78e6c65afc000126b347a",
-      "id": "rhmccp-5e020bb6-65a9-4a1b-860b-79ecf6ed0023",
-      "type": "Purchase",
-      "productId": "b385d403494972cac9f606672fb4cc0f",
-      "productName": "Red Hat AMQ",
-      "name": "Red Hat Integration Essential",
-      "description": "Red Hat AMQ Streams is part of the suite of products found in Red Hat Integration Essential.",
-      "category": "Product",
-      "created": 1622642284328,
-      "updated": 1622647173229,
-      "version": 1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MW00424",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 5940
-                },
-                {
-                  "currency": "CAD",
-                  "price": 7722
-                }
-              ],
-              "id": "debf8c69-f773-4c22-bf58-8a25a9487382"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60b793192c9f9500139fba9f",
-          "created": 1622643481582,
-          "updated": 1622643481582,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02R9ZX",
-            "zuoraRatePlanChargeId": "2c92a00779b19c650179cd4ef00c5545",
-            "zuoraRatePlanId": "2c92a00e79b19c400179cd4eed4a3725"
-          },
-          "name": "SKU",
-          "uom": {
-            "identifier": "SKU",
-            "multiplier": 1,
-            "created": 1586264544132,
-            "updated": 1586264544132,
-            "supportUsageChargeType": false,
-            "singularName": "SKU",
-            "pluralName": "SKUs",
-            "suffix": "per SKU",
-            "inputLabel": "Enter number of SKUs",
-            "summaryLabel": "Number of SKUs"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60b78f8465afc000126b347b",
-      "id": "rhmccp-e4d59a4a-50eb-4ee9-ae5a-11856fc7ef97",
-      "type": "Purchase",
-      "productId": "b385d403494972cac9f606672fb4cc0f",
-      "productName": "Red Hat AMQ",
-      "name": "Red Hat Integration Standard",
-      "description": "Red Hat AMQ Streams is part of the suite of products found in Red Hat Integration Standard.",
-      "category": "Product",
-      "created": 1622642564729,
-      "updated": 1622647352326,
-      "version": 1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MW00425",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 43200
-                },
-                {
-                  "currency": "CAD",
-                  "price": 56160
-                }
-              ],
-              "id": "7e953560-e2d1-4303-8d8a-10da1ce65589"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60b794ba758b470013a5135a",
-          "created": 1622643898085,
-          "updated": 1622643898085,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02RBZX",
-            "zuoraRatePlanChargeId": "2c92a0fe79b19c570179cd51ab777db6",
-            "zuoraRatePlanId": "2c92a00779b19c770179cd51a85f33f6"
-          },
-          "name": "SKU",
-          "uom": {
-            "identifier": "SKU",
-            "multiplier": 1,
-            "created": 1586264544132,
-            "updated": 1586264544132,
-            "supportUsageChargeType": false,
-            "singularName": "SKU",
-            "pluralName": "SKUs",
-            "suffix": "per SKU",
-            "inputLabel": "Enter number of SKUs",
-            "summaryLabel": "Number of SKUs"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60b7902e12845500132efa2e",
-      "id": "rhmccp-a0b2f44f-3730-4f09-86d3-9a98d9a9c81b",
-      "type": "Purchase",
-      "productId": "b385d403494972cac9f606672fb4cc0f",
-      "productName": "Red Hat AMQ",
-      "name": "Red Hat Integration Premium",
-      "description": "Red Hat AMQ Streams is part of the suite of products found in Red Hat Integration Premium.",
-      "category": "Product",
-      "created": 1622642734899,
-      "updated": 1622647427823,
-      "version": 1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MW00426",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 155520
-                },
-                {
-                  "currency": "CAD",
-                  "price": 202176
-                }
-              ],
-              "id": "98385283-f4a3-4d8a-8d8c-e6d0ac2ef09c"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60b79b2a2c9f9500139fbaa3",
-          "created": 1622645546990,
-          "updated": 1622645546990,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02RAZX",
-            "zuoraRatePlanChargeId": "2c92a00e79b19c400179cd52d2a0585d",
-            "zuoraRatePlanId": "2c92a00879b1a9d70179cd52cfb747e1"
-          },
-          "name": "SKU",
-          "uom": {
-            "identifier": "SKU",
-            "multiplier": 1,
-            "created": 1586264544132,
-            "updated": 1586264544132,
-            "supportUsageChargeType": false,
-            "singularName": "SKU",
-            "pluralName": "SKUs",
-            "suffix": "per SKU",
-            "inputLabel": "Enter number of SKUs",
-            "summaryLabel": "Number of SKUs"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "60b79188758b470013a51357",
       "id": "rhmccp-11f15e12-0ca7-4e78-a605-524f58877347",
       "type": "Purchase",
@@ -7395,6 +6795,237 @@
       "revisions": []
     },
     {
+      "_id": "60b7a2ec12845500132efa30",
+      "id": "rhmccp-e4d59a4a-50eb-4ee9-ae5a-11856fc7ef97",
+      "type": "Purchase",
+      "productId": "b385d403494972cac9f606672fb4cc0f",
+      "productName": "Red Hat AMQ",
+      "name": "Red Hat Integration Standard",
+      "description": "Red Hat AMQ Streams is part of the suite of products found in Red Hat Integration Standard.",
+      "category": "Product",
+      "created": 1622647532484,
+      "updated": 1631739020131,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MW00425",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 43200
+                },
+                {
+                  "currency": "CAD",
+                  "price": 53488.08
+                }
+              ],
+              "id": "7e953560-e2d1-4303-8d8a-10da1ce65589"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60b794ba758b470013a5135a",
+          "created": 1622643898085,
+          "updated": 1622643898085,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02RBZX",
+            "zuoraRatePlanChargeId": "2c92a0fe79b19c570179cd51ab777db6",
+            "zuoraRatePlanId": "2c92a00779b19c770179cd51a85f33f6"
+          },
+          "name": "SKU",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60b7a2ec12845500132efa31",
+      "id": "rhmccp-a0b2f44f-3730-4f09-86d3-9a98d9a9c81b",
+      "type": "Purchase",
+      "productId": "b385d403494972cac9f606672fb4cc0f",
+      "productName": "Red Hat AMQ",
+      "name": "Red Hat Integration Premium",
+      "description": "Red Hat AMQ Streams is part of the suite of products found in Red Hat Integration Premium.",
+      "category": "Product",
+      "created": 1622647532617,
+      "updated": 1631739060669,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MW00426",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 155520
+                },
+                {
+                  "currency": "CAD",
+                  "price": 192557.09
+                }
+              ],
+              "id": "98385283-f4a3-4d8a-8d8c-e6d0ac2ef09c"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60b79b2a2c9f9500139fbaa3",
+          "created": 1622645546990,
+          "updated": 1622645546990,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02RAZX",
+            "zuoraRatePlanChargeId": "2c92a00e79b19c400179cd52d2a0585d",
+            "zuoraRatePlanId": "2c92a00879b1a9d70179cd52cfb747e1"
+          },
+          "name": "SKU",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60b7a2ed65afc000126b347c",
+      "id": "rhmccp-5e020bb6-65a9-4a1b-860b-79ecf6ed0023",
+      "type": "Purchase",
+      "productId": "b385d403494972cac9f606672fb4cc0f",
+      "productName": "Red Hat AMQ",
+      "name": "Red Hat Integration Essential",
+      "description": "Red Hat AMQ Streams is part of the suite of products found in Red Hat Integration Essential.",
+      "category": "Product",
+      "created": 1622647533324,
+      "updated": 1631738967092,
+      "version": 2,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MW00424",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 5940
+                },
+                {
+                  "currency": "CAD",
+                  "price": 7354.61
+                }
+              ],
+              "id": "debf8c69-f773-4c22-bf58-8a25a9487382"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60b793192c9f9500139fba9f",
+          "created": 1622643481582,
+          "updated": 1622643481582,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02R9ZX",
+            "zuoraRatePlanChargeId": "2c92a00779b19c650179cd4ef00c5545",
+            "zuoraRatePlanId": "2c92a00e79b19c400179cd4eed4a3725"
+          },
+          "name": "SKU",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "60b7a8ab2c9f9500139fbaa5",
       "id": "rhmccp-d22d1c93-87d4-4a27-a4b0-b01f95e962bc",
       "type": "Purchase",
@@ -7469,6 +7100,158 @@
       "revisions": []
     },
     {
+      "_id": "60b8d9aa758b470013a51366",
+      "id": "rhmccp-67e8a7d6-bf70-4c94-8979-e15ffa04be84",
+      "type": "Purchase",
+      "productId": "5289e94712da9ed171e232d6b1e5d061",
+      "productName": "Operatr for Apache Kafka",
+      "name": "kPow Monthly ",
+      "description": "kPow Monthly: Purchase an annual license for kPow, paid in monthly installments. Includes all features, enterprise integrations, support, and unlimited users.",
+      "created": 1622727082657,
+      "updated": 1631719515328,
+      "version": 3,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D042EZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 105
+                },
+                {
+                  "currency": "CAD",
+                  "price": 130.01
+                }
+              ],
+              "id": "8ecd5eab-e6e6-46f6-9b35-5f64760bb7d9"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "6141e2aac373e3001411d2e6",
+          "created": 1631707818921,
+          "updated": 1631707818921,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D042EZX",
+            "zuoraRatePlanChargeId": "2c92a00e7bde3608017bea0fe4276201",
+            "zuoraRatePlanId": "2c92a0107bde3653017bea0fe09b1adb"
+          },
+          "name": "kPow Monthly",
+          "uom": {
+            "identifier": "Cluster",
+            "multiplier": 1,
+            "created": 1590610778092,
+            "updated": 1590610778092,
+            "supportUsageChargeType": false,
+            "singularName": "Cluster",
+            "pluralName": "Clusters",
+            "suffix": "per cluster",
+            "inputLabel": "Enter number of clusters",
+            "summaryLabel": "Number of clusters"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60b8d9aa2c9f9500139fbaa9",
+      "id": "rhmccp-96b3ad67-aa7c-4fb9-8a4f-798e8586d572",
+      "type": "Purchase",
+      "productId": "5289e94712da9ed171e232d6b1e5d061",
+      "productName": "Operatr for Apache Kafka",
+      "name": "kPow Annual ",
+      "description": "kPow Annual:  Purchase an annual license for kPow, paid in one installment. Includes all features, enterprise integrations, support, and unlimited users.\n",
+      "created": 1622727082682,
+      "updated": 1631719544620,
+      "version": 3,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D042DZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1260
+                },
+                {
+                  "currency": "CAD",
+                  "price": 1560.07
+                }
+              ],
+              "id": "2b7a9c72-a179-4b12-97a1-f646ae190861"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "6141e5c2c373e3001411d2e7",
+          "created": 1631708610468,
+          "updated": 1631708610468,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D042DZX",
+            "zuoraRatePlanChargeId": "2c92a0117bde42f2017bea1056b354e4",
+            "zuoraRatePlanId": "2c92a00d7bde42d7017bea10528943ad"
+          },
+          "name": "kPow Annual",
+          "uom": {
+            "identifier": "Cluster",
+            "multiplier": 1,
+            "created": 1590610778092,
+            "updated": 1590610778092,
+            "supportUsageChargeType": false,
+            "singularName": "Cluster",
+            "pluralName": "Clusters",
+            "suffix": "per cluster",
+            "inputLabel": "Enter number of clusters",
+            "summaryLabel": "Number of clusters"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "60ba666260be23002afa901e",
       "id": "rhmccp-9cf93470-b1e6-454a-bebd-3302208de924",
       "type": "Purchase",
@@ -7515,6 +7298,7 @@
           "created": 1597248996049,
           "updated": 1599230260365,
           "usageReportingType": "Cumulative",
+          "usageReportingId": "crdb.cockroachlabs.com:CrdbCluster:VirtualProcessorUnit",
           "metadata": {
             "chargeSyncRequired": false,
             "ibmPartNumber": "D043SZX",
@@ -7763,7 +7547,7 @@
       "trialGracePeriod": 15,
       "category": "Product",
       "created": 1623694089751,
-      "updated": 1625069790761,
+      "updated": 1632320285412,
       "version": 1,
       "editionCharges": [
         {
@@ -7814,83 +7598,6 @@
       "allowedSubscriptionTerms": null,
       "cooldownPeriod": null,
       "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60ca20cd744002001396e08f",
-      "id": "rhmccp-f5f978ad-5a64-4fc7-8bde-bd26eacadcc0",
-      "type": "Purchase",
-      "productId": "df9d590d17f70ec486b8b72ce69434c4",
-      "productName": "IBM Cloud Pak for Business Automation",
-      "name": "Monthly Subscription",
-      "description": "Flexible, comprehensive platform which specializes in business automation capabilities. ",
-      "category": "Product",
-      "created": 1623859405267,
-      "updated": 1623867613980,
-      "version": 2,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D20RNLL",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 902
-                },
-                {
-                  "currency": "CAD",
-                  "price": 1172.6
-                }
-              ],
-              "id": "5f547ea5-528c-4bf9-bfc7-8198af4bb091"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60b7c3c1758b470013a51363",
-          "created": 1622655937478,
-          "updated": 1622737642517,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D20RNLL",
-            "zuoraRatePlanChargeId": "2c92a00f7a1306f2017a158eed272cb0",
-            "zuoraRatePlanId": "2c92a0087a1306c9017a158eea226e6e"
-          },
-          "name": "Virtual; Processor Core",
-          "uom": {
-            "identifier": "VirtualProcessorCore",
-            "multiplier": 1,
-            "created": 1586264545764,
-            "updated": 1586264545764,
-            "supportUsageChargeType": false,
-            "singularName": "Virtual Processor Core",
-            "pluralName": "Virtual Processor Cores",
-            "suffix": "per virtual processor core",
-            "inputLabel": "Enter number of virtual processor cores",
-            "summaryLabel": "Number of virtual processor cores"
-          }
-        }
-      ],
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -7961,7 +7668,153 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
+    },
+    {
+      "_id": "60d2507b4ba21600134a99f1",
+      "id": "rhmccp-058cb482-76da-401d-968e-f574e57c80a8",
+      "type": "Purchase",
+      "productId": "01079925b41556f29374a230f88625c1",
+      "productName": "OpenVino",
+      "name": "OpenVINO Pro for Enterprise",
+      "description": "",
+      "category": "Product",
+      "created": 1624395899916,
+      "updated": 1626307154554,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 177
+                }
+              ],
+              "id": "15973f94-c2c2-4344-8e6c-018adc4c983b"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60d254d14ba21600134a99f2",
+          "created": 1624397009317,
+          "updated": 1626307142430,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D076EZX",
+            "zuoraRatePlanChargeId": "2c92a0107aa2d409017aa775d1f8436e",
+            "zuoraRatePlanId": "2c92a0117aa2e0a1017aa775ce0d6d5a"
+          },
+          "vendorChargeId": "D076EZX",
+          "name": "OpenVino Pro for Enterprise",
+          "uom": {
+            "identifier": "Node",
+            "multiplier": 1,
+            "created": 1590600597374,
+            "updated": 1590600597374,
+            "supportUsageChargeType": false,
+            "singularName": "Node",
+            "pluralName": "Nodes",
+            "suffix": "per node",
+            "inputLabel": "Enter number of nodes",
+            "summaryLabel": "Number of nodes"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60d3710e10f805001350ccf9",
+      "id": "rhmccp-cd03fdae-39fb-4167-88fb-e564606f602c",
+      "type": "Purchase",
+      "productId": "9ad46745f3d49d9754defdf20e931e20",
+      "productName": "Fujitsu Enterprise Postgres",
+      "name": "Operator/License Bundle for amd64",
+      "description": "",
+      "category": "Product",
+      "created": 1624469774552,
+      "updated": 1625844666783,
+      "version": 3,
+      "termUnit": "Month",
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 2900
+                }
+              ],
+              "id": "553819e6-2c9f-4fe4-b1a8-9324d00ba620"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "606f8596249e560013d613de",
+          "created": 1617921430886,
+          "updated": 1624460050416,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D06RSZX",
+            "zuoraRatePlanChargeId": "2c92a00d7a37875a017a395d85412e8a",
+            "zuoraRatePlanId": "2c92a0077a377aa1017a395d816a6471"
+          },
+          "vendorChargeId": "D06RSZX",
+          "name": "FUJITSU Enterprise Postgres Operator/License Bundle amd64",
+          "uom": {
+            "identifier": "Core",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1607619029376,
+            "updated": 1607619029376,
+            "singularName": "Core",
+            "pluralName": "Cores",
+            "suffix": "per core",
+            "inputLabel": "Enter number of cores",
+            "summaryLabel": "Number of cores"
+          }
+        }
+      ],
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
     }
   ],
-  "count": 434
+  "count": 449
 }
