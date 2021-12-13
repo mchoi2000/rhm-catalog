@@ -1,67 +1,6 @@
 {
   "editions": [
     {
-      "_id": "5fdd25b0e8785c00147b6ff7",
-      "id": "rhmccp-343e17f4-b96e-47fc-8f72-0f1e5eea6853",
-      "type": "FreeEdition",
-      "productId": "e15d880da0fd399f491e2d69a99094a2",
-      "productName": "Debt to the Penny",
-      "name": "Debt to the Penny",
-      "description": "Total debt of the U.S. government reported daily, April 1993 to present",
-      "category": "Product",
-      "created": 1608328624491,
-      "updated": 1608328624491,
-      "version": 1,
-      "editionCharges": [
-        {
-          "created": 1608328624492,
-          "id": "5fdd25b0e8785c00147b6ff6",
-          "vendorChargeId": "RHMFree1gD46eRpXBZGDDZF4TUoni",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ]
-            }
-          ],
-          "metadata": {
-            "chargeSyncRequired": true
-          },
-          "updated": 1608328624492,
-          "name": "Free Edition",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Month",
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "5fde1d68e8785c00147b6ff9",
       "id": "rhmccp-4cb10a72-40ed-47d3-80bf-f42cc4047b29",
       "type": "FreeEdition",
@@ -6518,7 +6457,74 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
+    },
+    {
+      "_id": "602abebeb4788d0013b4e40d",
+      "id": "rhmccp-6d238126-ecb1-4629-9f64-af1429c662cc",
+      "type": "FreeTrial",
+      "productId": "59ba9b88c1072d406bd25df073182695",
+      "productName": "KubePlus",
+      "name": "Free",
+      "description": "Free trial for KubePlus SaaS multi-tenancy manager. Great for Enterprises PoC or functional evaluation. ",
+      "trialTerm": 30,
+      "trialGracePeriod": 30,
+      "category": "Product",
+      "created": 1613414078522,
+      "updated": 1634342031583,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1613414078523,
+          "id": "602abebeb4788d0013b4e40c",
+          "vendorChargeId": "RHMTrialc9heyjBcWsWLWEL7ey8avc",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1613414078523,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
     }
   ],
-  "count": 449
+  "count": 483
 }

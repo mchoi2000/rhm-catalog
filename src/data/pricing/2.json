@@ -418,7 +418,7 @@
       "description": "StorageOS Developer Edition is free forever.  A great way to start with StorageOS for non-production workloads.  ",
       "category": "Product",
       "created": 1598625755731,
-      "updated": 1614358616268,
+      "updated": 1634135151652,
       "version": 1,
       "editionCharges": [
         {
@@ -487,7 +487,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1598636717905,
-      "updated": 1621447102933,
+      "updated": 1633550769431,
       "version": 1,
       "editionCharges": [
         {
@@ -1424,7 +1424,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1599568799783,
-      "updated": 1628774383306,
+      "updated": 1635449032416,
       "version": 1,
       "editionCharges": [
         {
@@ -2545,7 +2545,7 @@
       "description": "Free for life edition of Robin Cloud Native Storage. ",
       "category": "Product",
       "created": 1602073710612,
-      "updated": 1628629282080,
+      "updated": 1635527170289,
       "version": 1,
       "editionCharges": [
         {
@@ -2747,7 +2747,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1603110863450,
-      "updated": 1607972695267,
+      "updated": 1633617855011,
       "version": 1,
       "editionCharges": [
         {
@@ -2797,6 +2797,7 @@
       "allowedBillingFrequencies": null,
       "allowedSubscriptionTerms": null,
       "cooldownPeriod": null,
+      "group": null,
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -3264,77 +3265,6 @@
       "trialGracePeriod": null,
       "cooldownPeriod": null,
       "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "5fa19497d49d630013e981e0",
-      "id": "rhmccp-7bcdf5f6-3ac1-4e1d-96ec-907540589217",
-      "type": "Purchase",
-      "productId": "4e6f9bc755d5c6f201eee3ac97a91416",
-      "productName": "Cyber Armor",
-      "name": "Worker Node Annual",
-      "description": "Establish visibility and security control plane in which only explicitly authorized workloads can run, access data, and use network resources.",
-      "category": "Product",
-      "created": 1604424855656,
-      "updated": 1605553507053,
-      "version": 3,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 1000
-                }
-              ],
-              "id": "61c450d3-a16d-403c-b67a-0a79dcd8573d"
-            }
-          ],
-          "id": "5f4025f4dccf870014ec9e3e",
-          "created": 1598039540478,
-          "updated": 1599568942626,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D044MZX",
-            "zuoraRatePlanChargeId": "2c92a0ff746881ce01746dd349fd726d",
-            "zuoraRatePlanId": "2c92a0fe746871b501746dd3479c58a3"
-          },
-          "vendorChargeId": "D044MZX",
-          "name": "Worker Node",
-          "uom": {
-            "identifier": "Node",
-            "multiplier": 1,
-            "created": 1590600597374,
-            "updated": 1590600597374,
-            "supportUsageChargeType": false,
-            "singularName": "Node",
-            "pluralName": "Nodes",
-            "suffix": "per node",
-            "inputLabel": "Enter number of nodes",
-            "summaryLabel": "Number of nodes"
-          }
-        }
-      ],
-      "trialTerm": null,
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -3908,26 +3838,26 @@
       "revisions": []
     },
     {
-      "_id": "5fb2cd84755c9b00130a6d92",
-      "id": "rhmccp-adde7d9d-45a4-4a28-bb48-839982e91789",
+      "_id": "5fb2cd84c4515b00144a3fe3",
+      "id": "rhmccp-7bcdf5f6-3ac1-4e1d-96ec-907540589217",
       "type": "Purchase",
       "productId": "4e6f9bc755d5c6f201eee3ac97a91416",
       "productName": "Cyber Armor",
-      "name": "Worker Node Monthly",
+      "name": "Worker Node Annual",
       "description": "Establish visibility and security control plane in which only explicitly authorized workloads can run, access data, and use network resources.",
       "category": "Product",
-      "created": 1605553540825,
-      "updated": 1624552214727,
+      "created": 1605553540881,
+      "updated": 1635449025874,
       "version": 4,
       "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
       "editionCharges": [
         {
           "sequence": 1,
           "type": "Recurring",
           "priceModel": "Standard",
-          "priceFrequency": "Monthly",
+          "priceFrequency": "Annual",
           "required": true,
           "minimumQuantity": 1,
           "maximumQuantity": 0,
@@ -3939,23 +3869,23 @@
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 100
+                  "price": 1000
                 }
               ],
-              "id": "5fa51eee-9ad1-466f-a4db-cf6693bf6591"
+              "id": "61c450d3-a16d-403c-b67a-0a79dcd8573d"
             }
           ],
-          "id": "5f402a9252333300130c08fd",
-          "created": 1598040722189,
-          "updated": 1599568998444,
+          "id": "5f4025f4dccf870014ec9e3e",
+          "created": 1598039540478,
+          "updated": 1599568942626,
           "usageReportingType": "Cumulative",
           "metadata": {
             "chargeSyncRequired": false,
-            "ibmPartNumber": "D044NZX",
-            "zuoraRatePlanChargeId": "2c92a0fe746871b501746dd2da6d546f",
-            "zuoraRatePlanId": "2c92a0ff746881ce01746dd2d75a6fa8"
+            "ibmPartNumber": "D044MZX",
+            "zuoraRatePlanChargeId": "2c92a0ff746881ce01746dd349fd726d",
+            "zuoraRatePlanId": "2c92a0fe746871b501746dd3479c58a3"
           },
-          "vendorChargeId": "D044NZX",
+          "vendorChargeId": "D044MZX",
           "name": "Worker Node",
           "uom": {
             "identifier": "Node",
@@ -7050,7 +6980,68 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
+    },
+    {
+      "_id": "5fdd25b0e8785c00147b6ff7",
+      "id": "rhmccp-343e17f4-b96e-47fc-8f72-0f1e5eea6853",
+      "type": "FreeEdition",
+      "productId": "e15d880da0fd399f491e2d69a99094a2",
+      "productName": "Debt to the Penny",
+      "name": "Debt to the Penny",
+      "description": "Total debt of the U.S. government reported daily, April 1993 to present",
+      "category": "Product",
+      "created": 1608328624491,
+      "updated": 1608328624491,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1608328624492,
+          "id": "5fdd25b0e8785c00147b6ff6",
+          "vendorChargeId": "RHMFree1gD46eRpXBZGDDZF4TUoni",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1608328624492,
+          "name": "Free Edition",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Month",
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
     }
   ],
-  "count": 449
+  "count": 483
 }

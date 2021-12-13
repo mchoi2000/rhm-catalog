@@ -1,9 +1,81 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 227,
-      "cursor": "5fd9225c1e80250013ddd5f6",
+      "totalCount": 235,
+      "cursor": "5fd9223853d1f50014ebbf44",
       "products": [
+        {
+          "id": "e99fd56348448b80c410b79818b15a65",
+          "publishedContent": {
+            "title": "Global Significant Earthquake Database - National Hazards",
+            "formats": ["KMZ"],
+            "topics": ["CLIMATE", "SCIENCE"],
+            "industries": ["INSURANCE", "PUBLIC_SAFETY"],
+            "assetUpdatedInfo": {
+              "frequency": "NA",
+              "source": {
+                "name": "NOAA NCEI",
+                "url": "https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Hazards/iso/xml/G012153.xml&view=getDataView"
+              }
+            }
+          },
+          "productPageName": [
+            "global-significant-earthquake-database-national-hazards"
+          ],
+          "created": "2020-12-15T16:32:51.903Z",
+          "updated": "2021-05-05T14:47:02.772Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-e1595e6d-bf9c-4d03-ae10-a96c30976734",
+              "publishedEditionContent": {
+                "packageName": "",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "The Significant Earthquake Database public dataset is a global listing of over 5,700 earthquakes "
+                    },
+                    {
+                      "value": "NOAA's National Center for Environmental Information (NCEI)"
+                    },
+                    {
+                      "value": "Significant earthquake caused deaths, caused moderate damage, magnitude 7.5 or greater"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
         {
           "id": "e1dab7426c40b61dd0c53c35c26b2a85",
           "publishedContent": {
@@ -7006,76 +7078,6 @@
                     },
                     {
                       "value": "The companies' headquarters location only is included in this dataset"
-                    }
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "id": "2ff7df3980120a0c8366509f16900df8",
-          "publishedContent": {
-            "title": "US Public Schools",
-            "formats": ["CSV"],
-            "topics": ["CITY", "HISTORICAL"],
-            "industries": ["EDUCATION"],
-            "assetUpdatedInfo": {
-              "frequency": "MONTHLY",
-              "source": {
-                "name": "HIFLD",
-                "url": "https://hifld-geoplatform.opendata.arcgis.com/datasets/public-schools"
-              }
-            }
-          },
-          "productPageName": ["us-public-schools"],
-          "created": "2020-12-15T20:53:48.301Z",
-          "updated": "2020-12-23T20:41:32.496Z",
-          "company": {
-            "name": "Public Datasets"
-          },
-          "primaryCategory": {
-            "categoryPageName": "datasets",
-            "content": {
-              "name": "datasets"
-            }
-          },
-          "categories": [
-            {
-              "categoryPageName": "datasets",
-              "content": {
-                "name": "datasets"
-              }
-            }
-          ],
-          "editions": [
-            {
-              "id": "rhmccp-1fb42ffb-fdeb-4cc7-912d-8a0941e91f2a",
-              "publishedEditionContent": {
-                "packageName": "",
-                "operatorList": null,
-                "cases": null,
-                "openShiftVersion": null,
-                "packageType": "DOWNLOAD",
-                "planType": "FREE",
-                "partNumbers": null,
-                "chargeTypes": null,
-                "repositoryUrl": null,
-                "audience": null,
-                "supportedCountries": ["US"],
-                "certification": {
-                  "operatorCapabilities": 0
-                },
-                "localizedContent": {
-                  "planDetails": [
-                    {
-                      "value": "Composed of all Public elementary and secondary education facilities."
-                    },
-                    {
-                      "value": "This includes all Kindergarten through 12th grade schools as tracked by the Common Core of Data."
-                    },
-                    {
-                      "value": "For the 2017-2018 school year."
                     }
                   ]
                 }

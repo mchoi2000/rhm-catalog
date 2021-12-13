@@ -8,7 +8,7 @@ import Software from './content/SoftwarePage';
 import Datasets from './content/DatasetPage';
 
 const App = () => {
-  const dataUpdated = '2021-10-1';
+  const dataUpdated = '2021-12-13';
 
   return (
     <>

@@ -1,8 +1,8 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 227,
-      "cursor": "5fd8e53325f01800132ebd9c",
+      "totalCount": 235,
+      "cursor": "5fd8e4af25f01800132ebd9a",
       "products": [
         {
           "id": "eacba11ebdb7766a7b1901d918a999a0",
@@ -213,7 +213,7 @@
           },
           "productPageName": ["crunchy-postgresql-for-kubernetes"],
           "created": "2020-01-27T21:58:06.082Z",
-          "updated": "2021-06-18T16:11:39.955Z",
+          "updated": "2021-12-06T18:46:02.428Z",
           "company": {
             "name": "Crunchy Data Solutions, Inc"
           },
@@ -350,7 +350,7 @@
           },
           "productPageName": ["sysdig-monitor"],
           "created": "2020-01-28T13:20:42.920Z",
-          "updated": "2021-05-24T21:11:48.847Z",
+          "updated": "2021-11-02T12:00:16.787Z",
           "company": {
             "name": "Sysdig Inc"
           },
@@ -459,7 +459,7 @@
         {
           "id": "3264ea70f26e1b4d9d09ef41170999e9",
           "publishedContent": {
-            "title": "StorageOS",
+            "title": "Ondat",
             "formats": null,
             "topics": null,
             "industries": null,
@@ -467,7 +467,7 @@
           },
           "productPageName": ["storageos"],
           "created": "2020-01-28T13:21:35.549Z",
-          "updated": "2021-03-23T14:48:49.542Z",
+          "updated": "2021-10-20T17:48:42.169Z",
           "company": {
             "name": "StorageOS"
           },
@@ -502,7 +502,7 @@
                 "partNumbers": ["placeholder"],
                 "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 4
@@ -534,7 +534,7 @@
                 "partNumbers": ["placeholder"],
                 "chargeTypes": null,
                 "repositoryUrl": null,
-                "audience": null,
+                "audience": [],
                 "supportedCountries": ["US"],
                 "certification": {
                   "operatorCapabilities": 4
@@ -748,7 +748,7 @@
             "starburst-presto-enterprise"
           ],
           "created": "2020-01-28T15:53:37.423Z",
-          "updated": "2021-09-13T14:08:53.504Z",
+          "updated": "2021-10-19T20:45:33.242Z",
           "company": {
             "name": "Starburst Data, Inc"
           },
@@ -832,176 +832,6 @@
                     },
                     {
                       "value": "High availability"
-                    }
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "id": "a732c30d7773b3e4f5139b46276f1ca7",
-          "publishedContent": {
-            "title": "Turbonomic",
-            "formats": null,
-            "topics": null,
-            "industries": null,
-            "assetUpdatedInfo": null
-          },
-          "productPageName": ["turbonomic-platform"],
-          "created": "2020-01-28T20:25:58.986Z",
-          "updated": "2021-05-13T18:09:20.111Z",
-          "company": {
-            "name": "Turbonomic Inc."
-          },
-          "primaryCategory": {
-            "categoryPageName": "ai-machine-learning",
-            "content": {
-              "name": "AI/Machine Learning"
-            }
-          },
-          "categories": [
-            {
-              "categoryPageName": "ai-machine-learning",
-              "content": {
-                "name": "AI/Machine Learning"
-              }
-            },
-            {
-              "categoryPageName": "monitoring",
-              "content": {
-                "name": "Monitoring"
-              }
-            }
-          ],
-          "editions": [
-            {
-              "id": "rhmccp-8e959e70-8597-4117-ac97-2a9fa9413b49",
-              "publishedEditionContent": {
-                "packageName": "kubeturbo-certified-rhmp",
-                "operatorList": [],
-                "cases": null,
-                "openShiftVersion": "",
-                "packageType": "OPERATOR",
-                "planType": "TRIAL",
-                "partNumbers": ["OM_TP_XoapV2RcC2Jd1eaiN7NC7"],
-                "chargeTypes": null,
-                "repositoryUrl": "https://hub.docker.com/r/turbonomic/t8c-operator",
-                "audience": [],
-                "supportedCountries": ["US"],
-                "certification": {
-                  "operatorCapabilities": 1
-                },
-                "localizedContent": {
-                  "planDetails": [
-                    {
-                      "value": "Manage an unlimited number of workloads."
-                    },
-                    {
-                      "value": "Automatically manage application resources to meet application response-time objectives."
-                    },
-                    {
-                      "value": "Automatically optimize container platforms, including Kubernetes and PCF."
-                    },
-                    {
-                      "value": "Integrate with self-service and workflow systems for initial workload placement."
-                    },
-                    {
-                      "value": "Optimize performance and cost across public cloud compute and storage."
-                    },
-                    {
-                      "value": "Optimize performance and efficiency in on-prem compute, storage, and network."
-                    },
-                    {
-                      "value": "Integrate with and take actions for Database Servers (for example, Oracle, MS SQL Server)."
-                    },
-                    {
-                      "value": "Define and adhere to compliance policies (HA, affinity, anti-affinity, licensing, custom groups)."
-                    },
-                    {
-                      "value": "Model environment changes for capacity planning and migration."
-                    }
-                  ]
-                }
-              }
-            },
-            {
-              "id": "rhmccp-d8dbd637-3518-4d85-925c-89fb75044739",
-              "publishedEditionContent": {
-                "packageName": "kubeturbo-certified-rhmp",
-                "operatorList": [],
-                "cases": null,
-                "openShiftVersion": "",
-                "packageType": "OPERATOR",
-                "planType": "PURCHASE",
-                "partNumbers": ["D02CGZX"],
-                "chargeTypes": ["Recurring"],
-                "repositoryUrl": "https://hub.docker.com/r/turbonomic/t8c-operator",
-                "audience": [],
-                "supportedCountries": ["US"],
-                "certification": {
-                  "operatorCapabilities": 1
-                },
-                "localizedContent": {
-                  "planDetails": [
-                    {
-                      "value": "Manage an unlimited number of workloads."
-                    },
-                    {
-                      "value": "Automatically manage application resources to meet application response-time objectives."
-                    },
-                    {
-                      "value": "Automatically optimize container platforms, including Kubernetes and PCF."
-                    },
-                    {
-                      "value": "Integrate with self-service and workflow systems for initial workload placement."
-                    },
-                    {
-                      "value": "Optimize performance and cost across public cloud compute and storage."
-                    },
-                    {
-                      "value": "Optimize performance and efficiency in on-prem compute, storage, and network."
-                    },
-                    {
-                      "value": "Integrate with and take actions for Database Servers (for example, Oracle, MS SQL Server)."
-                    },
-                    {
-                      "value": "Define and adhere to compliance policies (HA, affinity, anti-affinity, licensing, custom groups)."
-                    },
-                    {
-                      "value": "Model environment changes for capacity planning and migration."
-                    }
-                  ]
-                }
-              }
-            },
-            {
-              "id": "rhmccp-4282ec88-9c4b-4b01-af23-d22d0a4b564b",
-              "publishedEditionContent": {
-                "packageName": "kubeturbo-certified-rhmp",
-                "operatorList": [],
-                "cases": null,
-                "openShiftVersion": "4.5",
-                "packageType": "OPERATOR",
-                "planType": "PURCHASE",
-                "partNumbers": null,
-                "chargeTypes": ["Recurring"],
-                "repositoryUrl": null,
-                "audience": ["Private"],
-                "supportedCountries": ["US"],
-                "certification": {
-                  "operatorCapabilities": 1
-                },
-                "localizedContent": {
-                  "planDetails": [
-                    {
-                      "value": "Manage an unlimited number of workloads."
-                    },
-                    {
-                      "value": "Automatically manage application resources to meet application response-time objectives."
-                    },
-                    {
-                      "value": "Automatically optimize container platforms, including Kubernetes and PCF."
                     }
                   ]
                 }
@@ -1604,7 +1434,7 @@
           },
           "productPageName": ["aqua-security"],
           "created": "2020-02-12T13:34:41.614Z",
-          "updated": "2021-09-30T17:31:35.276Z",
+          "updated": "2021-12-10T19:14:08.403Z",
           "company": {
             "name": "Aqua Security Software Ltd"
           },
@@ -1836,6 +1666,10 @@
                   ]
                 }
               }
+            },
+            {
+              "id": "rhmccp-07d7794a-086b-4a5b-b2ee-37651c64b192",
+              "publishedEditionContent": null
             }
           ]
         },
@@ -1958,7 +1792,7 @@
           },
           "productPageName": ["robin-storage", "robin-cloud-native-storage"],
           "created": "2020-02-14T12:29:05.968Z",
-          "updated": "2021-06-08T16:54:17.875Z",
+          "updated": "2021-10-29T17:06:35.501Z",
           "company": {
             "name": "Robin.io"
           },
@@ -2142,7 +1976,7 @@
           },
           "productPageName": ["federatorai"],
           "created": "2020-02-14T13:41:48.018Z",
-          "updated": "2021-08-04T02:48:56.676Z",
+          "updated": "2021-11-29T01:25:18.213Z",
           "company": {
             "name": "ProphetStor Data Services, Inc"
           },
@@ -2193,13 +2027,10 @@
                 "localizedContent": {
                   "planDetails": [
                     {
-                      "value": "Free 30-day Trial"
+                      "value": "Up to 10 managed objects (cluster nodes + namespaces + deploymentConfigs/statefulSets/deployments)"
                     },
                     {
-                      "value": "No restriction on the number of CPU cores"
-                    },
-                    {
-                      "value": "Federator.ai trial version"
+                      "value": "Full feature set included"
                     }
                   ]
                 }
@@ -2215,7 +2046,7 @@
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": ["D02DWZX"],
-                "chargeTypes": null,
+                "chargeTypes": ["Recurring"],
                 "repositoryUrl": "https://quay.io/prophetstor/",
                 "audience": [],
                 "supportedCountries": ["US"],
@@ -2228,10 +2059,13 @@
                       "value": "Paid Version"
                     },
                     {
-                      "value": "Subscription based on number of CPU cores in OpenShift cluster"
+                      "value": "Subscription based on number of managed objects"
                     },
                     {
-                      "value": "No restriction on the memory and storage used in OpenShift cluster"
+                      "value": "Managed objects include cluster nodes, namespaces, and deploymentConfigs/statefulSets/deployments"
+                    },
+                    {
+                      "value": "Technical support included"
                     }
                   ]
                 }
@@ -2358,7 +2192,7 @@
           },
           "productPageName": ["red-hat-container-storage"],
           "created": "2020-02-21T13:46:16.571Z",
-          "updated": "2021-08-12T13:55:03.927Z",
+          "updated": "2021-12-08T14:51:38.858Z",
           "company": {
             "name": "Red Hat, Inc (Container Storage)"
           },
@@ -2913,7 +2747,7 @@
           },
           "productPageName": ["ibm-cloudpak-for-automation"],
           "created": "2020-03-05T22:24:15.183Z",
-          "updated": "2021-09-24T17:32:53.676Z",
+          "updated": "2021-10-04T13:54:00.242Z",
           "company": {
             "name": "IBM"
           },
@@ -2971,6 +2805,9 @@
                     },
                     {
                       "value": "Requires an existing Openshift cluster and experience with Openshift Command Line Interface"
+                    },
+                    {
+                      "value": "To access the free Guided Trial, visit additional resources on the overview tab to register"
                     }
                   ]
                 }
@@ -3011,6 +2848,108 @@
             {
               "id": "rhmccp-2608d52c-6e15-49bd-9300-5b63d4af8d44",
               "publishedEditionContent": null
+            }
+          ]
+        },
+        {
+          "id": "73c5cee8cd2026cd33c957cf5ee4cd14",
+          "publishedContent": {
+            "title": "IBM Cloud Pak for Security",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["ibm-cloudpak-for-security"],
+          "created": "2020-03-05T22:32:37.712Z",
+          "updated": "2021-12-09T18:40:39.658Z",
+          "company": {
+            "name": "IBM"
+          },
+          "primaryCategory": {
+            "categoryPageName": "security",
+            "content": {
+              "name": "Security"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "security",
+              "content": {
+                "name": "Security"
+              }
+            },
+            {
+              "categoryPageName": "platform",
+              "content": {
+                "name": "Platform"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-74a95667-b21f-4a66-b42e-a66cc6dd328e",
+              "publishedEditionContent": {
+                "packageName": "ibm-cp-security-operator",
+                "operatorList": [],
+                "cases": ["ibm-cp-security"],
+                "openShiftVersion": "4.8",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 2
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "No cost for IBM Cloud Pak For Security usage for the duration of the trial."
+                    },
+                    {
+                      "value": "Includes access to IBM Security QRadar XDR Connect and QRadar SOAR capabilities."
+                    },
+                    {
+                      "value": "Requires an existing Openshift cluster and experience with Openshift Command Line Interface."
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-ebd6882a-5f22-40cd-8561-24884cb4db1f",
+              "publishedEditionContent": {
+                "packageName": "ibm-cp-security-operator",
+                "operatorList": [],
+                "cases": ["ibm-cp-security"],
+                "openShiftVersion": "4.8",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 2
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Pay monthly, license and support included."
+                    },
+                    {
+                      "value": "Includes access to all IBM Cloud Pak for Security capabilities."
+                    },
+                    {
+                      "value": "Limited, restricted license of Red Hat OpenShift Container Platform included."
+                    }
+                  ]
+                }
+              }
             }
           ]
         },
@@ -3566,7 +3505,7 @@
           },
           "productPageName": ["joget-dx"],
           "created": "2020-03-11T13:19:37.440Z",
-          "updated": "2021-03-16T15:08:48.889Z",
+          "updated": "2021-11-16T16:43:08.386Z",
           "company": {
             "name": "Joget, Inc"
           },
@@ -3710,7 +3649,7 @@
           },
           "productPageName": ["ibm-cloud-pak-for-integration"],
           "created": "2020-03-13T11:57:35.722Z",
-          "updated": "2021-07-01T13:16:50.256Z",
+          "updated": "2021-12-07T02:14:28.629Z",
           "company": {
             "name": "IBM"
           },
@@ -4409,7 +4348,7 @@
           },
           "productPageName": ["atomic-workload-protection"],
           "created": "2020-03-18T18:33:07.478Z",
-          "updated": "2021-04-20T17:58:13.078Z",
+          "updated": "2021-11-03T18:24:35.039Z",
           "company": {
             "name": "Atomic Corporate Industries"
           },
@@ -4985,7 +4924,7 @@
           },
           "productPageName": ["red-hat-integration"],
           "created": "2020-03-20T00:10:37.033Z",
-          "updated": "2021-09-14T22:04:46.788Z",
+          "updated": "2021-10-26T12:34:26.403Z",
           "company": {
             "name": "Red Hat, Inc (Integration)"
           },
@@ -5233,7 +5172,7 @@
           },
           "productPageName": ["redis-labs-enterprise"],
           "created": "2020-03-20T00:25:37.921Z",
-          "updated": "2021-09-27T13:58:14.324Z",
+          "updated": "2021-10-28T18:13:55.891Z",
           "company": {
             "name": "Redis Lab, Inc"
           },
@@ -5277,7 +5216,7 @@
                 "chargeTypes": null,
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": ["US"],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 4
                 },
@@ -5309,7 +5248,7 @@
                 "chargeTypes": ["Recurring"],
                 "repositoryUrl": null,
                 "audience": [],
-                "supportedCountries": ["US"],
+                "supportedCountries": ["CA", "US"],
                 "certification": {
                   "operatorCapabilities": 4
                 },
@@ -5330,7 +5269,35 @@
             },
             {
               "id": "rhmccp-af8e811e-c9f8-40f7-9da1-d3fe2c11d0ed",
-              "publishedEditionContent": null
+              "publishedEditionContent": {
+                "packageName": "redis-enterprise-operator-cert-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 4
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Uses Instance and SKU chargemetrics"
+                    },
+                    {
+                      "value": "Used with private offers"
+                    },
+                    {
+                      "value": "Provides generic chargemetric for use in private offers"
+                    }
+                  ]
+                }
+              }
             }
           ]
         },
@@ -5633,7 +5600,7 @@
           },
           "productPageName": ["kong-enterprise-rhm"],
           "created": "2020-03-22T19:45:05.445Z",
-          "updated": "2021-05-25T17:12:48.470Z",
+          "updated": "2021-11-05T15:10:31.747Z",
           "company": {
             "name": "Kong, Inc"
           },
@@ -5751,6 +5718,10 @@
                   ]
                 }
               }
+            },
+            {
+              "id": "rhmccp-16e02a66-1eff-4deb-aecc-1f493c4f2e60",
+              "publishedEditionContent": null
             }
           ]
         },
@@ -6087,7 +6058,7 @@
           },
           "productPageName": ["zabbix"],
           "created": "2020-03-31T11:26:27.211Z",
-          "updated": "2021-07-28T17:13:14.299Z",
+          "updated": "2021-10-08T17:25:54.235Z",
           "company": {
             "name": "Zabbix SIA"
           },
@@ -6734,7 +6705,7 @@
           },
           "productPageName": ["couchbase-server"],
           "created": "2020-04-03T12:32:16.016Z",
-          "updated": "2021-09-29T16:02:09.365Z",
+          "updated": "2021-10-13T20:44:17.079Z",
           "company": {
             "name": "Couchbase Inc"
           },
@@ -6907,7 +6878,7 @@
                 "packageType": "SAAS",
                 "planType": "PURCHASE",
                 "partNumbers": null,
-                "chargeTypes": null,
+                "chargeTypes": ["Recurring", "Usage"],
                 "repositoryUrl": null,
                 "audience": ["Private"],
                 "supportedCountries": ["CA", "US"],
@@ -7716,7 +7687,7 @@
         {
           "id": "a3edff6f54d41a7d6013d13813c54e47",
           "publishedContent": {
-            "title": "Percona Kubernetes Operator for Percona Server for MongoDB",
+            "title": "Percona Distribution for MongoDB Operator",
             "formats": null,
             "topics": null,
             "industries": null,
@@ -7724,7 +7695,7 @@
           },
           "productPageName": ["percona-server-for-mongodb"],
           "created": "2020-07-03T18:27:38.225Z",
-          "updated": "2021-09-24T19:35:40.700Z",
+          "updated": "2021-10-22T21:42:53.484Z",
           "company": {
             "name": "Percona LLC"
           },
@@ -8238,7 +8209,7 @@
           },
           "productPageName": ["cyber-armor"],
           "created": "2020-07-13T13:28:13.490Z",
-          "updated": "2021-06-24T16:23:53.933Z",
+          "updated": "2021-10-28T19:24:15.045Z",
           "company": {
             "name": "Cyber Armor"
           },
@@ -8272,7 +8243,7 @@
             {
               "id": "rhmccp-1bd16895-2ad0-4f04-9623-c9339746b78d",
               "publishedEditionContent": {
-                "packageName": "armo-operator-certified-rhmp",
+                "packageName": "cyberarmor-operator-certified-rhmp",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": "",
@@ -8307,7 +8278,7 @@
             {
               "id": "rhmccp-adde7d9d-45a4-4a28-bb48-839982e91789",
               "publishedEditionContent": {
-                "packageName": "armo-operator-certified-rhmp",
+                "packageName": "cyberarmor-operator-certified-rhmp",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": "",
@@ -8342,7 +8313,7 @@
             {
               "id": "rhmccp-7bcdf5f6-3ac1-4e1d-96ec-907540589217",
               "publishedEditionContent": {
-                "packageName": "armo-operator-certified-rhmp",
+                "packageName": "cyberarmor-operator-certified-rhmp",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": "",
@@ -8390,7 +8361,7 @@
             "operatr-for-apache-kafka"
           ],
           "created": "2020-07-13T14:31:12.848Z",
-          "updated": "2021-09-15T16:03:31.823Z",
+          "updated": "2021-10-06T04:10:43.458Z",
           "company": {
             "name": "Operatr IO, Inc."
           },
@@ -8676,7 +8647,7 @@
           },
           "productPageName": ["mongodb-enterprise-advanced-from-ibm"],
           "created": "2020-07-20T16:03:15.747Z",
-          "updated": "2021-08-23T16:52:25.312Z",
+          "updated": "2021-10-06T20:06:37.755Z",
           "company": {
             "name": "IBM"
           },
@@ -8701,7 +8672,7 @@
                 "packageName": "mongodb-enterprise-advanced-ibm-rhmp",
                 "operatorList": [],
                 "cases": [""],
-                "openShiftVersion": "4.3+",
+                "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": ["placeholder"],
@@ -8736,7 +8707,7 @@
                 "packageName": "mongodb-enterprise-advanced-ibm-rhmp",
                 "operatorList": [],
                 "cases": [""],
-                "openShiftVersion": "4.3+",
+                "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "PURCHASE",
                 "partNumbers": ["placeholder"],
@@ -8771,7 +8742,7 @@
                 "packageName": "mongodb-enterprise-advanced-ibm-rhmp",
                 "operatorList": [],
                 "cases": null,
-                "openShiftVersion": "4.3+",
+                "openShiftVersion": "4.6+",
                 "packageType": "OPERATOR",
                 "planType": "TRIAL",
                 "partNumbers": ["placeholder"],
@@ -8976,7 +8947,7 @@
           },
           "productPageName": ["kasten-k10"],
           "created": "2020-08-05T01:31:25.899Z",
-          "updated": "2021-06-09T16:38:42.396Z",
+          "updated": "2021-11-15T15:37:42.328Z",
           "company": {
             "name": "Kasten, Inc."
           },
@@ -9032,6 +9003,10 @@
                   ]
                 }
               }
+            },
+            {
+              "id": "rhmccp-8ea3509e-51b1-462f-9562-21e2dd77655e",
+              "publishedEditionContent": null
             }
           ]
         },
@@ -9224,9 +9199,9 @@
           },
           "productPageName": ["red-hat-advanced-cluster-management"],
           "created": "2020-08-18T18:54:20.063Z",
-          "updated": "2021-06-10T12:36:07.696Z",
+          "updated": "2021-12-07T19:57:04.762Z",
           "company": {
-            "name": "Red Hat"
+            "name": "Red Hat OpenShift Dedicated"
           },
           "primaryCategory": {
             "categoryPageName": "platform",
@@ -10668,7 +10643,7 @@
           },
           "productPageName": ["fujitsu-enterprise-postgres"],
           "created": "2020-10-13T14:03:20.022Z",
-          "updated": "2021-09-24T21:58:33.246Z",
+          "updated": "2021-12-01T04:34:41.477Z",
           "company": {
             "name": "Fujitsu Limited"
           },
@@ -10706,7 +10681,7 @@
             {
               "id": "rhmccp-cd03fdae-39fb-4167-88fb-e564606f602c",
               "publishedEditionContent": {
-                "packageName": "fep-ansible-operator",
+                "packageName": "fujitsu-enterprise-operator",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": null,
@@ -10718,7 +10693,7 @@
                 "audience": [],
                 "supportedCountries": ["US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 5
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -10726,7 +10701,7 @@
                       "value": "Available for amd64"
                     },
                     {
-                      "value": "Premium Support. Unlimited Ticket Requets"
+                      "value": "Premium Support. Unlimited Ticket Requests"
                     },
                     {
                       "value": "Includes FUJITSU Enterprise Postgres Database Licenses"
@@ -10738,7 +10713,7 @@
             {
               "id": "rhmccp-ff204772-0dd6-4174-9c64-14964a914d8b",
               "publishedEditionContent": {
-                "packageName": "fep-ansible-operator",
+                "packageName": "fujitsu-enterprise-operator",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": null,
@@ -10750,12 +10725,12 @@
                 "audience": [],
                 "supportedCountries": ["US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 5
                 },
                 "localizedContent": {
                   "planDetails": [
                     {
-                      "value": "Available on both amd64 and s390x "
+                      "value": "Available for amd64"
                     },
                     {
                       "value": "Premium Support. Unlimited Ticket Requests"
@@ -10770,7 +10745,7 @@
             {
               "id": "rhmccp-9858d9c4-3564-4f71-a0ff-053f1039d17a",
               "publishedEditionContent": {
-                "packageName": "fep-ansible-operator",
+                "packageName": "fujitsu-enterprise-operator",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": null,
@@ -10782,7 +10757,7 @@
                 "audience": [],
                 "supportedCountries": ["US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 5
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -10802,7 +10777,7 @@
             {
               "id": "rhmccp-aec9d555-1235-4877-a54c-54c035a180fd",
               "publishedEditionContent": {
-                "packageName": "fep-ansible-operator",
+                "packageName": "fujitsu-enterprise-operator",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": null,
@@ -10814,7 +10789,7 @@
                 "audience": [],
                 "supportedCountries": ["US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 5
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -10833,7 +10808,35 @@
             },
             {
               "id": "rhmccp-e94fc9a2-6f2f-4ab9-ae92-ddcbadee262f",
-              "publishedEditionContent": null
+              "publishedEditionContent": {
+                "packageName": "fujitsu-enterprise-operator",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 5
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Available for s390x"
+                    },
+                    {
+                      "value": "Premium Support. Unlimited Ticket Requests"
+                    },
+                    {
+                      "value": "Valid FUJITSU Enterprise Postgres licenses required"
+                    }
+                  ]
+                }
+              }
             }
           ]
         },
@@ -11357,6 +11360,118 @@
                     },
                     {
                       "value": "Get auto RCA (root cause analysis) and Closed loop automation along with VNF degradation prediction."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "1ae0e28e10678d4a4ba3c372f87bf3ff",
+          "publishedContent": {
+            "title": "Coralogix",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["coralogix"],
+          "created": "2020-11-23T16:51:07.958Z",
+          "updated": "2021-12-07T17:43:24.655Z",
+          "company": {
+            "name": "Coralogix Inc"
+          },
+          "primaryCategory": {
+            "categoryPageName": "logging-and-tracing",
+            "content": {
+              "name": "Logging & Tracing"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "logging-and-tracing",
+              "content": {
+                "name": "Logging & Tracing"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            },
+            {
+              "categoryPageName": "monitoring",
+              "content": {
+                "name": "Monitoring"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-8ebd7b59-a9b2-48d7-854b-5b3614e180ef",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "10GB ingested per day"
+                    },
+                    {
+                      "value": "24/7 unlimited support"
+                    },
+                    {
+                      "value": "0.60 per gb for monitoring"
+                    },
+                    {
+                      "value": "searched data at 1.80gb"
+                    },
+                    {
+                      "value": "compliance data at .22gb"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-a07256d8-be7b-44da-95e8-f69f2797c46d",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": " 14 day access to all features"
+                    },
+                    {
+                      "value": "Stateful Streaming Analytics for Observability Data"
+                    },
+                    {
+                      "value": "24/7 unlimited support"
                     }
                   ]
                 }
@@ -12352,78 +12467,6 @@
                     },
                     {
                       "value": "Storm event, weather and public safety"
-                    }
-                  ]
-                }
-              }
-            }
-          ]
-        },
-        {
-          "id": "e99fd56348448b80c410b79818b15a65",
-          "publishedContent": {
-            "title": "Global Significant Earthquake Database - National Hazards",
-            "formats": ["KMZ"],
-            "topics": ["CLIMATE", "SCIENCE"],
-            "industries": ["INSURANCE", "PUBLIC_SAFETY"],
-            "assetUpdatedInfo": {
-              "frequency": "NA",
-              "source": {
-                "name": "NOAA NCEI",
-                "url": "https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Hazards/iso/xml/G012153.xml&view=getDataView"
-              }
-            }
-          },
-          "productPageName": [
-            "global-significant-earthquake-database-national-hazards"
-          ],
-          "created": "2020-12-15T16:32:51.903Z",
-          "updated": "2021-05-05T14:47:02.772Z",
-          "company": {
-            "name": "Public Datasets"
-          },
-          "primaryCategory": {
-            "categoryPageName": "datasets",
-            "content": {
-              "name": "datasets"
-            }
-          },
-          "categories": [
-            {
-              "categoryPageName": "datasets",
-              "content": {
-                "name": "datasets"
-              }
-            }
-          ],
-          "editions": [
-            {
-              "id": "rhmccp-e1595e6d-bf9c-4d03-ae10-a96c30976734",
-              "publishedEditionContent": {
-                "packageName": "",
-                "operatorList": [],
-                "cases": null,
-                "openShiftVersion": null,
-                "packageType": "DOWNLOAD",
-                "planType": "FREE",
-                "partNumbers": null,
-                "chargeTypes": null,
-                "repositoryUrl": null,
-                "audience": [],
-                "supportedCountries": ["US"],
-                "certification": {
-                  "operatorCapabilities": 0
-                },
-                "localizedContent": {
-                  "planDetails": [
-                    {
-                      "value": "The Significant Earthquake Database public dataset is a global listing of over 5,700 earthquakes "
-                    },
-                    {
-                      "value": "NOAA's National Center for Environmental Information (NCEI)"
-                    },
-                    {
-                      "value": "Significant earthquake caused deaths, caused moderate damage, magnitude 7.5 or greater"
                     }
                   ]
                 }

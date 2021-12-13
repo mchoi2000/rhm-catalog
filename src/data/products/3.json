@@ -1,9 +1,79 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 227,
+      "totalCount": 235,
       "cursor": null,
       "products": [
+        {
+          "id": "2ff7df3980120a0c8366509f16900df8",
+          "publishedContent": {
+            "title": "US Public Schools",
+            "formats": ["CSV"],
+            "topics": ["CITY", "HISTORICAL"],
+            "industries": ["EDUCATION"],
+            "assetUpdatedInfo": {
+              "frequency": "MONTHLY",
+              "source": {
+                "name": "HIFLD",
+                "url": "https://hifld-geoplatform.opendata.arcgis.com/datasets/public-schools"
+              }
+            }
+          },
+          "productPageName": ["us-public-schools"],
+          "created": "2020-12-15T20:53:48.301Z",
+          "updated": "2020-12-23T20:41:32.496Z",
+          "company": {
+            "name": "Public Datasets"
+          },
+          "primaryCategory": {
+            "categoryPageName": "datasets",
+            "content": {
+              "name": "datasets"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "datasets",
+              "content": {
+                "name": "datasets"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-1fb42ffb-fdeb-4cc7-912d-8a0941e91f2a",
+              "publishedEditionContent": {
+                "packageName": "",
+                "operatorList": null,
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "DOWNLOAD",
+                "planType": "FREE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": null,
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Composed of all Public elementary and secondary education facilities."
+                    },
+                    {
+                      "value": "This includes all Kindergarten through 12th grade schools as tracked by the Common Core of Data."
+                    },
+                    {
+                      "value": "For the 2017-2018 school year."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
         {
           "id": "642fc1e8da34c82de8860f4c9d535d34",
           "publishedContent": {
@@ -1002,7 +1072,7 @@
           },
           "productPageName": ["kubeplus"],
           "created": "2021-01-25T21:17:07.992Z",
-          "updated": "2021-09-27T17:41:12.385Z",
+          "updated": "2021-10-15T23:54:37.748Z",
           "company": {
             "name": "Devcentric Inc."
           },
@@ -1194,7 +1264,7 @@
           },
           "productPageName": ["red-hat-openshift-dedicated"],
           "created": "2021-02-16T19:49:10.204Z",
-          "updated": "2021-07-22T14:51:33.515Z",
+          "updated": "2021-11-08T18:28:11.038Z",
           "company": {
             "name": "Red Hat OpenShift Dedicated"
           },
@@ -1216,7 +1286,7 @@
             {
               "id": "rhmccp-ab121da6-4904-482e-9df8-8a5e618ff871",
               "publishedEditionContent": {
-                "packageName": "SaaS-cJmwAgcVvd76bUSq8cuBvT-rhmp",
+                "packageName": "placeholder-rhmp",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": "4.5+",
@@ -1238,6 +1308,36 @@
                     },
                     {
                       "value": "Premium support"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-0a52b613-6aa0-4f47-bc16-4facc8bd37e9",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Trial length of 60 days"
+                    },
+                    {
+                      "value": "Backed by Red Hat’s award-winning site reliability engineering (SRE) team"
+                    },
+                    {
+                      "value": "Self-supported"
                     }
                   ]
                 }
@@ -1471,7 +1571,7 @@
           },
           "productPageName": ["spectrum-protect-plus"],
           "created": "2021-02-24T17:54:36.277Z",
-          "updated": "2021-09-16T21:59:37.776Z",
+          "updated": "2021-10-14T14:27:02.586Z",
           "company": {
             "name": "IBM - Spectrum Protect"
           },
@@ -1742,6 +1842,158 @@
           ]
         },
         {
+          "id": "c2539b8f28a18386e3a7d576f194ca73",
+          "publishedContent": {
+            "title": "GOTO SDK",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["todaq"],
+          "created": "2021-03-22T17:38:17.604Z",
+          "updated": "2021-12-10T19:36:23.332Z",
+          "company": {
+            "name": "TODAQ Financial"
+          },
+          "primaryCategory": {
+            "categoryPageName": "security",
+            "content": {
+              "name": "Security"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "security",
+              "content": {
+                "name": "Security"
+              }
+            },
+            {
+              "categoryPageName": "integration-and-delivery",
+              "content": {
+                "name": "Integration & Delivery"
+              }
+            },
+            {
+              "categoryPageName": "logging-and-tracing",
+              "content": {
+                "name": "Logging & Tracing"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-cc7e86e7-cd3e-44cf-aca3-c538044462bf",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Access and use of server side SDK"
+                    },
+                    {
+                      "value": "GOTO authenticator app & instructions for linking into other apps and mobile points"
+                    },
+                    {
+                      "value": "First 25 user profiles are free (or authenticator links for testing)."
+                    },
+                    {
+                      "value": "First 250 verifications are free."
+                    },
+                    {
+                      "value": "Invitation into the TODA Open Source Ecosystem Early Access Programme"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-d3f7b874-8421-4c85-afa0-4952907d12c2",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Access and use of server side SDK with full ticket request and technical support"
+                    },
+                    {
+                      "value": "GOTO authenticator app & support, options to create a white-label app & configure new ID types"
+                    },
+                    {
+                      "value": "First 25 user profiles are free."
+                    },
+                    {
+                      "value": "Business and technical help sessions to cover implementation design & execution."
+                    },
+                    {
+                      "value": "Monthly Developer license fee waived at 10K users."
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-f76d59c0-c144-44f2-af91-355a55f8d9fd",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring", "Usage"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Access and use of server side SDK with full ticket request and technical support"
+                    },
+                    {
+                      "value": "GOTO authenticator app & support, options to create a white-label app & configure new ID types"
+                    },
+                    {
+                      "value": "First 250 monthly verifications are free"
+                    },
+                    {
+                      "value": "Business and technical help sessions to cover implementation design & execution."
+                    },
+                    {
+                      "value": "Monthly Developer license fee waived at 120K verifications"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "d70cb8a483554049b636c6be8490c3f8",
           "publishedContent": {
             "title": "Operator Service for Jenkins",
@@ -1752,7 +2004,7 @@
           },
           "productPageName": ["operator-service-for-jenkins"],
           "created": "2021-03-24T18:02:05.794Z",
-          "updated": "2021-09-17T13:58:37.812Z",
+          "updated": "2021-10-20T13:17:23.598Z",
           "company": {
             "name": "VIRTUS LAB SP z o o"
           },
@@ -1856,6 +2108,168 @@
           ]
         },
         {
+          "id": "cb5c0dbbb62d42aa7ed2a17f04fa685d",
+          "publishedContent": {
+            "title": "Multi-Cloud Application Network as a Service",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["nethopper-multi-cloud-application-saas"],
+          "created": "2021-04-20T21:08:52.538Z",
+          "updated": "2021-10-11T15:27:07.702Z",
+          "company": {
+            "name": "Nethopper LLC"
+          },
+          "primaryCategory": {
+            "categoryPageName": "networking",
+            "content": {
+              "name": "Networking"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "networking",
+              "content": {
+                "name": "Networking"
+              }
+            },
+            {
+              "categoryPageName": "monitoring",
+              "content": {
+                "name": "Monitoring"
+              }
+            },
+            {
+              "categoryPageName": "security",
+              "content": {
+                "name": "Security"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-c96de350-8363-46fa-ac18-72eedfa1d0f3",
+              "publishedEditionContent": {
+                "packageName": "nethopper-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.8+",
+                "packageType": "SAAS_WITH_OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "1 Application Network"
+                    },
+                    {
+                      "value": "Upto 5 Clouds"
+                    },
+                    {
+                      "value": "Upto 5 Objects under management"
+                    },
+                    {
+                      "value": "Community Support"
+                    },
+                    {
+                      "value": "Global Load Balancing"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-2f3fb279-dfc0-41d0-a48a-d395d76ce57e",
+              "publishedEditionContent": {
+                "packageName": "nethopper-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.8+",
+                "packageType": "SAAS_WITH_OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Unlimited Application Networks"
+                    },
+                    {
+                      "value": "Unlimited Clouds"
+                    },
+                    {
+                      "value": "Unlimited Objects"
+                    },
+                    {
+                      "value": "Enterprise Support"
+                    },
+                    {
+                      "value": "Global Load Balancing"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-d4f9ce0e-687d-4754-9191-a3502a3cb237",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-dd348f59-601d-4905-9c6c-ceaf2e07080f",
+              "publishedEditionContent": {
+                "packageName": "nethopper-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.6+",
+                "packageType": "SAAS_WITH_OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "1 Application Network"
+                    },
+                    {
+                      "value": "Up to 3 Clouds"
+                    },
+                    {
+                      "value": "Upto 3 Kubernetes Objects and management"
+                    },
+                    {
+                      "value": "Community Support"
+                    },
+                    {
+                      "value": "Global Load Balancing"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "01079925b41556f29374a230f88625c1",
           "publishedContent": {
             "title": "OpenVINO Pro for Enterprise ",
@@ -1866,7 +2280,7 @@
           },
           "productPageName": ["openvino"],
           "created": "2021-06-04T17:14:07.681Z",
-          "updated": "2021-08-24T21:06:09.740Z",
+          "updated": "2021-10-22T21:42:23.395Z",
           "company": {
             "name": "Intel Corporation"
           },
@@ -1972,7 +2386,7 @@
           },
           "productPageName": ["minio-hybrid-cloud-object-storage"],
           "created": "2021-06-08T20:47:22.843Z",
-          "updated": "2021-07-30T14:51:37.277Z",
+          "updated": "2021-11-05T14:54:34.502Z",
           "company": {
             "name": "MinIO Inc"
           },
@@ -2026,7 +2440,7 @@
                       "value": "24/7/365 direct to engineer, level 4 support. No escalations required. "
                     },
                     {
-                      "value": "Less than or equal to 48 hours SLA"
+                      "value": "Less than or equal to 48 hours SLA (local business hours)"
                     },
                     {
                       "value": "1 year long term support of older versions of software"
@@ -2089,6 +2503,742 @@
           ]
         },
         {
+          "id": "441ee333ebba8cbaf583a52466575149",
+          "publishedContent": {
+            "title": "AnonTech ViziVault",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["anontech-vizivault"],
+          "created": "2021-06-14T18:11:58.155Z",
+          "updated": "2021-12-09T04:13:29.237Z",
+          "company": {
+            "name": "Anon Technology Inc."
+          },
+          "primaryCategory": {
+            "categoryPageName": "security",
+            "content": {
+              "name": "Security"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "security",
+              "content": {
+                "name": "Security"
+              }
+            },
+            {
+              "categoryPageName": "database",
+              "content": {
+                "name": "Database"
+              }
+            },
+            {
+              "categoryPageName": "storage",
+              "content": {
+                "name": "Storage"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-32086373-4263-4b2a-8672-1905ce9f31a8",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Trial Time: 30 days"
+                    },
+                    {
+                      "value": "Ram: 4 GB"
+                    },
+                    {
+                      "value": "Storage: 2 GB"
+                    },
+                    {
+                      "value": "VCPU Cores: 2"
+                    },
+                    {
+                      "value": "Backups: 0"
+                    },
+                    {
+                      "value": "Shared resources only"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-d89cdc67-0f10-461d-9284-013975199bc0",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Storage: 20 GB"
+                    },
+                    {
+                      "value": "Ram: 4 GB"
+                    },
+                    {
+                      "value": "VCPU Cores: 2"
+                    },
+                    {
+                      "value": "Backups: 2"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-c552f17e-06e9-4e2f-9c00-1c31113a387a",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Storage: 80 gb"
+                    },
+                    {
+                      "value": "Ram: 16 gb"
+                    },
+                    {
+                      "value": "VCPU Cores: 8"
+                    },
+                    {
+                      "value": "Backups: 2"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-87843178-a84b-4baf-9f5d-05ea15758bdf",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Storage: 160 gb"
+                    },
+                    {
+                      "value": "Ram: 32 gb"
+                    },
+                    {
+                      "value": "VCPU Cores: 16"
+                    },
+                    {
+                      "value": "Backups: 2"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-6d90ac05-e344-4ca3-a171-f99a23ed4e18",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Storage: 40gb"
+                    },
+                    {
+                      "value": "Ram: 8gb"
+                    },
+                    {
+                      "value": "VCPU Cores: 4"
+                    },
+                    {
+                      "value": "Backups: 2"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "c8a149a199600ad8a9931f14ea95cd82",
+          "publishedContent": {
+            "title": "CircleCI CI CD",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["circleci"],
+          "created": "2021-07-09T18:42:12.688Z",
+          "updated": "2021-10-13T17:33:33.707Z",
+          "company": {
+            "name": "Circle Internet Services Inc"
+          },
+          "primaryCategory": {
+            "categoryPageName": "integration-and-delivery",
+            "content": {
+              "name": "Integration & Delivery"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "integration-and-delivery",
+              "content": {
+                "name": "Integration & Delivery"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-a8d6a13e-5253-4748-9294-bea766c591a1",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Usage Credits Refill"
+                    },
+                    {
+                      "value": "$600 per 1 million credits"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-93bbd0f7-73fb-4274-a8a2-511b8c5530fc",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-cf9e3d53-96ea-4fde-b58b-6ac10a0e2f2a",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "12M credits\t\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "value": "Auto-refill"
+                    },
+                    {
+                      "value": "Standard Support"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-27abd1d6-748b-4c55-bd1c-5c13798fde41",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "24M credits"
+                    },
+                    {
+                      "value": "Auto-refill"
+                    },
+                    {
+                      "value": "Gold Support"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "64fba2daf3aa2129d02e8ff477c4d90f",
+          "publishedContent": {
+            "title": "Intel oneAPI AI Analytics Toolkit",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["ai-analytics-toolkit"],
+          "created": "2021-07-16T22:51:28.419Z",
+          "updated": "2021-10-06T15:40:06.249Z",
+          "company": {
+            "name": "Intel Corporation"
+          },
+          "primaryCategory": {
+            "categoryPageName": "ai-machine-learning",
+            "content": {
+              "name": "AI/Machine Learning"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-496ed6ec-0052-4a35-9f69-8952e9d64df2",
+              "publishedEditionContent": {
+                "packageName": "aikit-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.7+",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Access to all product features and functionalities"
+                    },
+                    {
+                      "value": "Access to Intel’s direct enterprise services during the free trial"
+                    },
+                    {
+                      "value": "Free trial for up to 90 days with no lock-in or commitment"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-fce01f94-a958-41af-80ff-2b5a98863d9f",
+              "publishedEditionContent": {
+                "packageName": "aikit-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.7+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Software lifecycle support for up to 3 years"
+                    },
+                    {
+                      "value": "No lock-in period - monthly subscriptions"
+                    },
+                    {
+                      "value": "Best suited for exploratory and development phases of the project"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-9532f469-628a-458a-ab05-d59168ebe564",
+              "publishedEditionContent": {
+                "packageName": "aikit-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.7+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Software lifecycle support for up to 3 years"
+                    },
+                    {
+                      "value": "No lock-in period - monthly subscriptions"
+                    },
+                    {
+                      "value": "Proactive Life Cycle Services from Intel and 24x7 Enterprise Technical Services"
+                    },
+                    {
+                      "value": "Best suited for projects in deployment phases"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "ce8c9ea86ddeba490cf8dac3b757af97",
+          "publishedContent": {
+            "title": "Tackle Cloud Marketplace Platform",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["tackle-cloud-marketplace-platform"],
+          "created": "2021-07-20T13:37:15.769Z",
+          "updated": "2021-11-01T20:47:51.763Z",
+          "company": {
+            "name": "Tackle io"
+          },
+          "primaryCategory": {
+            "categoryPageName": "integration-and-delivery",
+            "content": {
+              "name": "Integration & Delivery"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "integration-and-delivery",
+              "content": {
+                "name": "Integration & Delivery"
+              }
+            },
+            {
+              "categoryPageName": "developer-tools",
+              "content": {
+                "name": "Developer Tools"
+              }
+            },
+            {
+              "categoryPageName": "platform",
+              "content": {
+                "name": "Platform"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-31e3418e-3503-46a2-8855-1616774ecee6",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Smart Onboarding"
+                    },
+                    {
+                      "value": "Listing Management"
+                    },
+                    {
+                      "value": "Order Notification"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-f3dfb1c6-7f06-4b9e-9d58-40e0d1303fe3",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Smart Onboarding"
+                    },
+                    {
+                      "value": "Listing Management"
+                    },
+                    {
+                      "value": "Order Notification"
+                    },
+                    {
+                      "value": "Marketplace Data Feeds"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-2263b3ed-ccc2-48d5-aed8-3c521b5e01ea",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Smart Onboarding"
+                    },
+                    {
+                      "value": "Listing Management"
+                    },
+                    {
+                      "value": "Order Notification"
+                    },
+                    {
+                      "value": "Marketplace Data Feeds"
+                    },
+                    {
+                      "value": "Tackle Offers"
+                    },
+                    {
+                      "value": "Easy Metering with Transaction APIs"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-9a27e0ab-e619-4503-9314-ac8aba0d8c89",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Smart Onboarding"
+                    },
+                    {
+                      "value": "Listing Management"
+                    },
+                    {
+                      "value": "Order Notification"
+                    },
+                    {
+                      "value": "Marketplace Data Feeds"
+                    },
+                    {
+                      "value": "Tackle Offers"
+                    },
+                    {
+                      "value": "Easy Metering with Transaction APIs"
+                    },
+                    {
+                      "value": "Marketplace Insights"
+                    },
+                    {
+                      "value": "Slack Connector"
+                    },
+                    {
+                      "value": "Multi-Listing"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-4f502433-a923-4cea-9213-2731689e9a69",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Smart Onboarding"
+                    },
+                    {
+                      "value": "Listing Management"
+                    },
+                    {
+                      "value": "Order Notification"
+                    },
+                    {
+                      "value": "Marketplace Data Feeds"
+                    },
+                    {
+                      "value": "Tackle Offers"
+                    },
+                    {
+                      "value": "Easy Metering with Transaction APIs"
+                    },
+                    {
+                      "value": "Marketplace Insights"
+                    },
+                    {
+                      "value": "Slack Connector"
+                    },
+                    {
+                      "value": "Multi-Listing"
+                    },
+                    {
+                      "value": "Multi-Marketplace"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "bd81edaece0c7daf835069f35fb1700a",
           "publishedContent": {
             "title": "IBM Model Builder for Vision",
@@ -2099,7 +3249,7 @@
           },
           "productPageName": ["ibm-services-software-model-builder"],
           "created": "2021-07-20T14:08:08.139Z",
-          "updated": "2021-09-08T13:03:06.527Z",
+          "updated": "2021-11-10T20:24:24.653Z",
           "company": {
             "name": "IBM"
           },
@@ -2187,6 +3337,10 @@
                   ]
                 }
               }
+            },
+            {
+              "id": "rhmccp-f0a7bd1b-9a68-4e37-855c-de1283b39b92",
+              "publishedEditionContent": null
             }
           ]
         },
@@ -2283,7 +3437,7 @@
           },
           "productPageName": ["ibm-observability-by-instana"],
           "created": "2021-08-04T13:59:18.367Z",
-          "updated": "2021-09-29T15:28:56.583Z",
+          "updated": "2021-10-27T13:15:36.716Z",
           "company": {
             "name": "IBM Observability by Instana"
           },
@@ -2529,6 +3683,171 @@
           ]
         },
         {
+          "id": "fb675d75ab1e2fe9e265dbcd9e038d50",
+          "publishedContent": {
+            "title": "1-Click No Ransom Ransomware Solution",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": [
+            "stash-1-click-ransomless-ransomware-protection-recovery-solution"
+          ],
+          "created": "2021-08-31T14:04:34.895Z",
+          "updated": "2021-11-30T21:41:35.325Z",
+          "company": {
+            "name": "Stash Global Inc."
+          },
+          "primaryCategory": {
+            "categoryPageName": "security",
+            "content": {
+              "name": "Security"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "security",
+              "content": {
+                "name": "Security"
+              }
+            },
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "platform",
+              "content": {
+                "name": "Platform"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-0c91fcd5-6c39-46a7-b36b-c5686c3348f0",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["CA", "US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Unlimited Data Protected Datacentrically"
+                    },
+                    {
+                      "value": "Granular Control of Data Access with Digital Rights Management (DRM)"
+                    },
+                    {
+                      "value": "Thieves Have No Access to Exfiltrated File Content, Preventing Public Exposure and Ransom Payment"
+                    },
+                    {
+                      "value": "Light Lift, Low Friction Activation and 'Done for You' Deployment "
+                    },
+                    {
+                      "value": "Bolster Effectiveness of Entire Security Stack and/or Replace Legacy and Low Value Tools"
+                    },
+                    {
+                      "value": "Works in Public, Private, and Hybrid Cloud Environments and Off-Cloud On-Prem Servers"
+                    },
+                    {
+                      "value": "Admin Dashboard Controlled not User Controlled"
+                    },
+                    {
+                      "value": "Zero Trust, Agnostic, Self-Healing "
+                    },
+                    {
+                      "value": "Performs With Highest Efficacy within any Infrastructure, Network, Platform Configuration"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-0098464f-cdb8-49e5-beeb-108bfac23179",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Amount of data protected STASH infrastructure is 100 GBs"
+                    },
+                    {
+                      "value": "Amount of data protected clients infrastructure is unlimited"
+                    },
+                    {
+                      "value": "Additional GBs of data protection available"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-8e80b972-7ebe-49b3-a638-50d8e1b3998c",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["CA", "US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Up to 10 GBs of Data Secured Datacentrically (at the data byte level)"
+                    },
+                    {
+                      "value": "Restore Compromised Data in Real Time"
+                    },
+                    {
+                      "value": "Steamlined 'Done for You' Deployment"
+                    },
+                    {
+                      "value": "Admin Dashboard Controlled not User Controlled"
+                    },
+                    {
+                      "value": "Amount of free trial data protected is up to 10 GB"
+                    },
+                    {
+                      "value": "Additional TBs Available"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "1523cdf2e4658e803e7973eff8953357",
           "publishedContent": {
             "title": "IBM Open Labs  Education",
@@ -2539,7 +3858,7 @@
           },
           "productPageName": ["ibm-cloud-for-education"],
           "created": "2021-09-08T18:07:03.990Z",
-          "updated": "2021-09-28T17:33:01.364Z",
+          "updated": "2021-10-21T16:31:41.989Z",
           "company": {
             "name": "IBM"
           },

@@ -1,73 +1,6 @@
 {
   "editions": [
     {
-      "_id": "602abebeb4788d0013b4e40d",
-      "id": "rhmccp-6d238126-ecb1-4629-9f64-af1429c662cc",
-      "type": "FreeTrial",
-      "productId": "59ba9b88c1072d406bd25df073182695",
-      "productName": "KubePlus",
-      "name": "Free",
-      "description": "Free trial for KubePlus SaaS multi-tenancy manager. Great for Enterprises PoC or functional evaluation. ",
-      "trialTerm": 30,
-      "trialGracePeriod": 30,
-      "category": "Product",
-      "created": 1613414078522,
-      "updated": 1632850477854,
-      "version": 1,
-      "editionCharges": [
-        {
-          "created": 1613414078523,
-          "id": "602abebeb4788d0013b4e40c",
-          "vendorChargeId": "RHMTrialc9heyjBcWsWLWEL7ey8avc",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ]
-            }
-          ],
-          "metadata": {
-            "chargeSyncRequired": true
-          },
-          "updated": 1613414078523,
-          "name": "Free Trial",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Day",
-      "allowedBillingFrequencies": null,
-      "allowedSubscriptionTerms": null,
-      "cooldownPeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "602be95547d0de0013debac9",
       "id": "rhmccp-0b6065dc-01d5-4457-9938-aa568682f4f5",
       "type": "Purchase",
@@ -1293,83 +1226,6 @@
       "revisions": []
     },
     {
-      "_id": "605bc02e70242e00130f4ffe",
-      "id": "rhmccp-9d2b1229-803e-49a0-a902-a219d9c5d467",
-      "type": "Purchase",
-      "productId": "94dbbd740bd14f3e92b2f669544717f5",
-      "productName": "Spectrum Protect Plus",
-      "name": "Monthly License",
-      "description": "Gain the flexibility of a monthly license for IBM Spectrum Protect Plus’ backup and recovery for VMs, databases and SaaS applications like Microsoft Office 365.",
-      "category": "Product",
-      "created": 1616625710169,
-      "updated": 1631048112529,
-      "version": 1,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1, 3, 6, 12, 24, 36, 48, 60],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 12,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D1X29LL",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 60
-                },
-                {
-                  "currency": "CAD",
-                  "price": 74.289
-                }
-              ],
-              "id": "21dc9b66-d7ec-4889-94d9-ea792d6f1123"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "610b05d3217d020013c49cd3",
-          "created": 1628112339873,
-          "updated": 1629406930903,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D1X29LL",
-            "zuoraRatePlanChargeId": "2c92a0fd7bbaa819017bc20b19277477",
-            "zuoraRatePlanId": "2c92a0117bbaa830017bc20b162a6d21"
-          },
-          "name": "Terabyte",
-          "uom": {
-            "identifier": "Terabyte",
-            "multiplier": 1,
-            "created": 1586264544930,
-            "updated": 1586264544930,
-            "supportUsageChargeType": false,
-            "singularName": "Terabyte",
-            "pluralName": "Terabytes",
-            "suffix": "per TB",
-            "inputLabel": "Enter number of terabytes",
-            "summaryLabel": "Number of terabytes"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "606339df70242e00130f5009",
       "id": "rhmccp-2411cf19-8790-4402-ac9d-2f1b9eefead5",
       "type": "FreeTrial",
@@ -1501,208 +1357,6 @@
             "suffix": "per virtual processor core",
             "inputLabel": "Enter number of virtual processor cores",
             "summaryLabel": "Number of virtual processor cores"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60706efc2be9d10014bc4f09",
-      "id": "rhmccp-7a7109dc-f702-465f-a846-f25df613a6a0",
-      "type": "Purchase",
-      "productId": "13e122ce06ac87807c6d2745fd461fe4",
-      "productName": "MongoDB Enterprise Advanced from IBM",
-      "name": "MongoDB Enterprise",
-      "description": "MongoDB Enterprise Server and Ops Manager, available as an Operator. Includes 256 GB of memory.",
-      "created": 1617981180205,
-      "updated": 1621447092122,
-      "version": 8,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 0,
-          "maximumQuantity": 0,
-          "defaultQuantity": 0,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D1ZYTLL",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 15480
-                },
-                {
-                  "currency": "CAD",
-                  "price": 20124
-                }
-              ],
-              "id": "761fa37e-afda-4f0a-bf47-79583edd2751"
-            }
-          ],
-          "id": "5f32c2ee37144a00155da374",
-          "created": 1597162222085,
-          "updated": 1611345600677,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D1ZYTLL",
-            "zuoraRatePlanChargeId": "2c92a0ff74357c740174359f9ed636ab",
-            "zuoraRatePlanId": "2c92a00c74356b800174359f9c7143d1"
-          },
-          "name": "Virtual Server",
-          "uom": {
-            "identifier": "VirtualServer",
-            "multiplier": 1,
-            "created": 1586264547356,
-            "updated": 1586264547356,
-            "supportUsageChargeType": false,
-            "singularName": "Virtual Server",
-            "pluralName": "Virtual Servers",
-            "suffix": "per virtual server",
-            "inputLabel": "Enter number of virtual servers",
-            "summaryLabel": "Number of virtual servers"
-          }
-        },
-        {
-          "sequence": 2,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 0,
-          "maximumQuantity": 0,
-          "defaultQuantity": 0,
-          "increment": 0,
-          "useInStartingPriceCalculation": false,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 102480
-                },
-                {
-                  "currency": "CAD",
-                  "price": 133224
-                }
-              ],
-              "id": "bf71f796-50cd-4f59-ad02-c20c4e3a4c5b"
-            }
-          ],
-          "id": "5f3c0f921f403000134779b5",
-          "created": 1597771666029,
-          "updated": 1598451816121,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D1ZZ1LL",
-            "zuoraRatePlanChargeId": "2c92a01074356b7d0174359fa2eb7cdf",
-            "zuoraRatePlanId": "2c92a00d74357c140174359fa0be18a0"
-          },
-          "vendorChargeId": "D1ZZ1LL",
-          "name": "Gigabyte",
-          "uom": {
-            "identifier": "GigabyteII",
-            "multiplier": 256,
-            "created": 1597163990334,
-            "updated": 1597163990334,
-            "supportUsageChargeType": false,
-            "singularName": "Gigabytes",
-            "pluralName": "Gigabytes",
-            "suffix": "per 256GB",
-            "inputLabel": "Enter number of gigabytes",
-            "summaryLabel": "Number of gigabytes"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60706efcfbfc2a0013fcb2fd",
-      "id": "rhmccp-427b41b4-6fcc-4fa9-a65e-ded56511dc93",
-      "type": "Purchase",
-      "productId": "13e122ce06ac87807c6d2745fd461fe4",
-      "productName": "MongoDB Enterprise Advanced from IBM",
-      "name": "MongoDB Non-production",
-      "description": "MongoDB Enterprise Server and Ops Manager, available as an Operator for use in non-production.",
-      "created": 1617981180284,
-      "updated": 1621446903697,
-      "version": 8,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D1ZZ9LL",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 7716
-                },
-                {
-                  "currency": "CAD",
-                  "price": 10030.8
-                }
-              ],
-              "id": "a44ee435-23de-4432-8793-32978ee576b2"
-            }
-          ],
-          "id": "5f36e30d1f403000134779b3",
-          "created": 1597432589590,
-          "updated": 1604067191049,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D1ZZ9LL",
-            "zuoraRatePlanChargeId": "2c92a0fd74357c51017435a06ec10557",
-            "zuoraRatePlanId": "2c92a0fe74356be0017435a06c0f75c4"
-          },
-          "name": "Virtual Server (Non-production)",
-          "uom": {
-            "identifier": "VirtualServer",
-            "multiplier": 1,
-            "created": 1586264547356,
-            "updated": 1586264547356,
-            "supportUsageChargeType": false,
-            "singularName": "Virtual Server",
-            "pluralName": "Virtual Servers",
-            "suffix": "per virtual server",
-            "inputLabel": "Enter number of virtual servers",
-            "summaryLabel": "Number of virtual servers"
           }
         }
       ],
@@ -2830,151 +2484,6 @@
       "revisions": []
     },
     {
-      "_id": "60887287280ce100131d6fd9",
-      "id": "rhmccp-fc3ec082-3f21-4ad0-889f-6cff5d21ef61",
-      "type": "Purchase",
-      "productId": "d825fc375f9629cde852d260f223cc52",
-      "productName": "Robin Cloud Native Storage",
-      "name": "Robin Enterprise Pay As You Go",
-      "description": "High performance storage and application-aware data management for OpenShift, charged on per hour basis.",
-      "category": "Product",
-      "created": 1619554951228,
-      "updated": 1623171124050,
-      "version": 3,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Usage",
-          "priceModel": "Standard",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 1,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D049VZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0.42
-                }
-              ],
-              "id": "bbb97f02-8931-40ed-a274-429d39d9cdd7"
-            }
-          ],
-          "usageReportingId": "robinclusters.robin.io:RobinCluster:node_hour2",
-          "id": "5fc92d9b5e2c140016ea5127",
-          "created": 1607019931038,
-          "updated": 1619554483647,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D049VZX",
-            "zuoraRatePlanChargeId": "2c92a01177f8dce00177f8e2ce210990",
-            "zuoraRatePlanId": "2c92a0fe77f8d0790177f8e2b5a40cc7"
-          },
-          "name": "Node Hour",
-          "uom": {
-            "identifier": "NodeHour_Usage",
-            "supportUsageChargeType": true,
-            "multiplier": 1,
-            "created": 1601318706387,
-            "updated": 1601318706387,
-            "singularName": "Node Hour",
-            "pluralName": "Node Hours",
-            "suffix": "per node hour",
-            "inputLabel": "Enter number of node hours",
-            "summaryLabel": "Node Hours"
-          }
-        }
-      ],
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60887287280ce100131d6fda",
-      "id": "rhmccp-6eb566db-dad3-4c31-ad8e-8abe9a3c705a",
-      "type": "Purchase",
-      "productId": "d825fc375f9629cde852d260f223cc52",
-      "productName": "Robin Storage",
-      "name": "Robin Enterprise for OpenShift",
-      "description": "High performance storage and application-aware data management for OpenShift, charged on monthly basis.",
-      "created": 1619554951431,
-      "updated": 1623171173364,
-      "version": 5,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D02C9ZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 300
-                }
-              ],
-              "id": "0dd3b78d-3a72-4812-b2f3-0b79397e234d"
-            }
-          ],
-          "usageReportingId": "robinclusters.robin.io:RobinCluster:node_hour2",
-          "chargeDescription": "",
-          "id": "6088719e280ce100131d6fd7",
-          "created": 1619554718739,
-          "updated": 1619554718739,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02C9ZX",
-            "zuoraRatePlanChargeId": "2c92a00e791221b5017914feb3275c18",
-            "zuoraRatePlanId": "2c92a00e791221ac017914feb0233ae2"
-          },
-          "name": "Node",
-          "uom": {
-            "identifier": "Node",
-            "multiplier": 1,
-            "created": 1590600597374,
-            "updated": 1590600597374,
-            "supportUsageChargeType": false,
-            "singularName": "Node",
-            "pluralName": "Nodes",
-            "suffix": "per node",
-            "inputLabel": "Enter number of nodes",
-            "summaryLabel": "Number of nodes"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "group": "robinclusters.robin.io",
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "60887d27280ce100131d6fdf",
       "id": "rhmccp-9f85feca-6dcf-4df9-9838-0c07104fe350",
       "type": "Purchase",
@@ -3930,89 +3439,16 @@
       "revisions": []
     },
     {
-      "_id": "609d69d47c22eb0013149235",
-      "id": "rhmccp-4282ec88-9c4b-4b01-af23-d22d0a4b564b",
-      "type": "Purchase",
-      "productId": "a732c30d7773b3e4f5139b46276f1ca7",
-      "productName": "Turbonomic Platform",
-      "name": "Turbonomic Premier Private",
-      "description": "Turbonomic Premier edition provides the full functionality of Turbonomic and manages an unlimited number of application workloads anywhere.",
-      "category": "Product",
-      "created": 1620928980353,
-      "updated": 1620929305122,
-      "version": 4,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D02CGZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 225
-                }
-              ],
-              "id": "33a6c283-30c5-4af4-ae3d-15ea2fc40124"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "609d5eea7c22eb0013149231",
-          "created": 1620926186787,
-          "updated": 1620926186787,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02CGZX",
-            "zuoraRatePlanChargeId": "2c92a011795f78c5017966c9bebb7893",
-            "zuoraRatePlanId": "2c92a0fc795f6baf017966c9bc08474b"
-          },
-          "name": "Virtual Machine",
-          "uom": {
-            "identifier": "Virtualmachine",
-            "supportUsageChargeType": false,
-            "multiplier": 1,
-            "created": 1620924542453,
-            "updated": 1620924542453,
-            "singularName": "Virtual Machine",
-            "pluralName": "Virtual Machines",
-            "suffix": "per virtual machine",
-            "inputLabel": "Enter the number of virtual machines",
-            "summaryLabel": "Number of virtual machines"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "609d69d47c22eb0013149236",
+      "_id": "609d6b457c22eb0013149237",
       "id": "rhmccp-d8dbd637-3518-4d85-925c-89fb75044739",
       "type": "Purchase",
       "productId": "a732c30d7773b3e4f5139b46276f1ca7",
       "productName": "Turbonomic Platform",
       "name": "Turbonomic Premier",
       "description": "Turbonomic Premier edition provides the full functionality of Turbonomic and manages an unlimited number of application workloads anywhere.",
-      "created": 1620928980431,
-      "updated": 1620929267963,
-      "version": 5,
+      "created": 1620929349417,
+      "updated": 1635518625055,
+      "version": 6,
       "termUnit": "Month",
       "allowedBillingFrequencies": ["Annual"],
       "allowedSubscriptionTerms": [12],
@@ -4069,6 +3505,79 @@
       "cooldownPeriod": null,
       "group": null,
       "trialGracePeriod": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "609d6b457c22eb0013149238",
+      "id": "rhmccp-4282ec88-9c4b-4b01-af23-d22d0a4b564b",
+      "type": "Purchase",
+      "productId": "a732c30d7773b3e4f5139b46276f1ca7",
+      "productName": "Turbonomic Platform",
+      "name": "Turbonomic Premier Private",
+      "description": "Turbonomic Premier edition provides the full functionality of Turbonomic and manages an unlimited number of application workloads anywhere.",
+      "category": "Product",
+      "created": 1620929349565,
+      "updated": 1635518753366,
+      "version": 5,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D02CGZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 225
+                }
+              ],
+              "id": "4aeed056-d45f-487a-9fbd-d40ea4240d05"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "609d5eea7c22eb0013149231",
+          "created": 1620926186787,
+          "updated": 1621262870517,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02CGZX",
+            "zuoraRatePlanChargeId": "2c92a011795f78c5017966c9bebb7893",
+            "zuoraRatePlanId": "2c92a0fc795f6baf017966c9bc08474b"
+          },
+          "name": "Virtual Machine",
+          "uom": {
+            "identifier": "Virtualmachine",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1620924542453,
+            "updated": 1620924542453,
+            "singularName": "Virtual Machine",
+            "pluralName": "Virtual Machines",
+            "suffix": "per virtual machine",
+            "inputLabel": "Enter the number of virtual machines",
+            "summaryLabel": "Number of virtual machines"
+          }
+        }
+      ],
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -4454,6 +3963,331 @@
           }
         }
       ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60a3fdda53dbfc00132b3a5c",
+      "id": "rhmccp-2f3fb279-dfc0-41d0-a48a-d395d76ce57e",
+      "type": "Purchase",
+      "productId": "cb5c0dbbb62d42aa7ed2a17f04fa685d",
+      "productName": "Nethopper Multi-Cloud Application SaaS",
+      "name": "Enterprise",
+      "description": "Great for power users.  No practical limit to the number of clouds and services, with Enterprise support.",
+      "category": "Product",
+      "created": 1621360090729,
+      "updated": 1633700778190,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 9999,
+          "defaultQuantity": 0,
+          "increment": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 199
+                }
+              ],
+              "id": "a10aab2b-2e17-4b4c-a2b1-98ee34f740a2"
+            }
+          ],
+          "chargeDescription": "This price will be charged for every cloud that is attached to an application network",
+          "id": "60a405f87cc485001388a193",
+          "created": 1621362168865,
+          "updated": 1628698422507,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D06JTZX",
+            "zuoraRatePlanChargeId": "2c92a0fd7c4e7a8a017c602789f76e47",
+            "zuoraRatePlanId": "2c92a0107c4e732f017c602786181e0b"
+          },
+          "vendorChargeId": "D06JTZX",
+          "name": "Per Cloud Charge",
+          "uom": {
+            "identifier": "Cluster",
+            "multiplier": 1,
+            "created": 1590610778092,
+            "updated": 1590610778092,
+            "supportUsageChargeType": false,
+            "singularName": "Cluster",
+            "pluralName": "Clusters",
+            "suffix": "per cluster",
+            "inputLabel": "Enter number of clusters",
+            "summaryLabel": "Number of clusters"
+          }
+        },
+        {
+          "sequence": 2,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 9999,
+          "defaultQuantity": 0,
+          "increment": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 49
+                }
+              ],
+              "id": "fbf1cfce-bba6-45f5-a498-6d07e9664ee8"
+            }
+          ],
+          "chargeDescription": "This price will be charged for every managed object (e..g deployment) and every cloud each object is distributed to ",
+          "id": "610d961c217d020013c49cd5",
+          "created": 1628280348560,
+          "updated": 1628698465761,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D06JUZX",
+            "zuoraRatePlanChargeId": "2c92a0ff7c4e7ab7017c602790692eee",
+            "zuoraRatePlanId": "2c92a00d7c4e7a8c017c60278cf32e16"
+          },
+          "vendorChargeId": "D06JUZX",
+          "name": "Per Object Charge",
+          "uom": {
+            "identifier": "Object",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1628626365446,
+            "updated": 1628626365446,
+            "singularName": "Object",
+            "pluralName": "Objects",
+            "suffix": "per object",
+            "inputLabel": "Enter number of objects",
+            "summaryLabel": "Number of objects"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60a551e8be05000013e9f513",
+      "id": "rhmccp-7a7109dc-f702-465f-a846-f25df613a6a0",
+      "type": "Purchase",
+      "productId": "13e122ce06ac87807c6d2745fd461fe4",
+      "productName": "MongoDB Enterprise Advanced from IBM",
+      "name": "MongoDB Enterprise",
+      "description": "MongoDB Enterprise Server and Ops Manager, available as an Operator. Includes 256 GB of memory.",
+      "created": 1621447144676,
+      "updated": 1633550643774,
+      "version": 9,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D1ZYTLL",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 15480
+                },
+                {
+                  "currency": "CAD",
+                  "price": 19166.56
+                }
+              ],
+              "id": "761fa37e-afda-4f0a-bf47-79583edd2751"
+            }
+          ],
+          "id": "5f32c2ee37144a00155da374",
+          "created": 1597162222085,
+          "updated": 1611345600677,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D1ZYTLL",
+            "zuoraRatePlanChargeId": "2c92a0ff74357c740174359f9ed636ab",
+            "zuoraRatePlanId": "2c92a00c74356b800174359f9c7143d1"
+          },
+          "name": "Virtual Server",
+          "uom": {
+            "identifier": "VirtualServer",
+            "multiplier": 1,
+            "created": 1586264547356,
+            "updated": 1586264547356,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual Server",
+            "pluralName": "Virtual Servers",
+            "suffix": "per virtual server",
+            "inputLabel": "Enter number of virtual servers",
+            "summaryLabel": "Number of virtual servers"
+          }
+        },
+        {
+          "sequence": 2,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 0,
+          "maximumQuantity": 0,
+          "defaultQuantity": 0,
+          "increment": 0,
+          "useInStartingPriceCalculation": false,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 102480
+                },
+                {
+                  "currency": "CAD",
+                  "price": 126885.61
+                }
+              ],
+              "id": "bf71f796-50cd-4f59-ad02-c20c4e3a4c5b"
+            }
+          ],
+          "id": "5f3c0f921f403000134779b5",
+          "created": 1597771666029,
+          "updated": 1598451816121,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D1ZZ1LL",
+            "zuoraRatePlanChargeId": "2c92a01074356b7d0174359fa2eb7cdf",
+            "zuoraRatePlanId": "2c92a00d74357c140174359fa0be18a0"
+          },
+          "vendorChargeId": "D1ZZ1LL",
+          "name": "Gigabyte",
+          "uom": {
+            "identifier": "GigabyteII",
+            "multiplier": 256,
+            "created": 1597163990334,
+            "updated": 1597163990334,
+            "supportUsageChargeType": false,
+            "singularName": "Gigabytes",
+            "pluralName": "Gigabytes",
+            "suffix": "per 256GB",
+            "inputLabel": "Enter number of gigabytes",
+            "summaryLabel": "Number of gigabytes"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60a551e955f9ba00138c1cd7",
+      "id": "rhmccp-427b41b4-6fcc-4fa9-a65e-ded56511dc93",
+      "type": "Purchase",
+      "productId": "13e122ce06ac87807c6d2745fd461fe4",
+      "productName": "MongoDB Enterprise Advanced from IBM",
+      "name": "MongoDB Non-production",
+      "description": "MongoDB Enterprise Server and Ops Manager, available as an Operator for use in non-production.",
+      "created": 1621447145067,
+      "updated": 1633550677691,
+      "version": 9,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D1ZZ9LL",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 7716
+                },
+                {
+                  "currency": "CAD",
+                  "price": 9553.57
+                }
+              ],
+              "id": "a44ee435-23de-4432-8793-32978ee576b2"
+            }
+          ],
+          "id": "5f36e30d1f403000134779b3",
+          "created": 1597432589590,
+          "updated": 1604067191049,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D1ZZ9LL",
+            "zuoraRatePlanChargeId": "2c92a0fd74357c51017435a06ec10557",
+            "zuoraRatePlanId": "2c92a0fe74356be0017435a06c0f75c4"
+          },
+          "name": "Virtual Server (Non-production)",
+          "uom": {
+            "identifier": "VirtualServer",
+            "multiplier": 1,
+            "created": 1586264547356,
+            "updated": 1586264547356,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual Server",
+            "pluralName": "Virtual Servers",
+            "suffix": "per virtual server",
+            "inputLabel": "Enter number of virtual servers",
+            "summaryLabel": "Number of virtual servers"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -5453,7 +5287,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1622519814569,
-      "updated": 1625844699798,
+      "updated": 1635442440813,
       "version": 1,
       "editionCharges": [
         {
@@ -5504,137 +5338,6 @@
       "allowedSubscriptionTerms": null,
       "cooldownPeriod": null,
       "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60b669be2c9f9500139fba9a",
-      "id": "rhmccp-ab121da6-4904-482e-9df8-8a5e618ff871",
-      "type": "Purchase",
-      "productId": "2455c863f679ac4486c9c85bf3d12cdf",
-      "productName": "Red Hat OpenShift Dedicated",
-      "name": "On-Demand",
-      "description": "Create fully managed Red Hat OpenShift Dedicated clusters, with monthly billing based on hourly usage, using your existing cloud account with AWS or GCP.",
-      "category": "Product",
-      "created": 1622567358954,
-      "updated": 1626965364389,
-      "version": 6,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly"],
-      "allowedSubscriptionTerms": [1],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Usage",
-          "priceModel": "Standard",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 1,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MW01484/SVCMW01484A",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0.03
-                },
-                {
-                  "currency": "CAD",
-                  "price": 0.04
-                }
-              ],
-              "id": "e74444d3-38f6-4af8-8f30-726455cbc353"
-            }
-          ],
-          "usageReportingId": "redhat.com:openshift_dedicated:cluster_hour",
-          "chargeDescription": "",
-          "id": "604a70f702a5620016c762d0",
-          "created": 1615491319574,
-          "updated": 1626964676125,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D05KWZX",
-            "zuoraRatePlanChargeId": "2c92a0fc78ee4d080178f110c8cd3b6c",
-            "zuoraRatePlanId": "2c92a0fd78ee5a490178f110c1e26eca"
-          },
-          "increment": 1,
-          "name": "Red Hat OpenShift Dedicated on Customer Cloud Subscription (On-Demand, 1 cluster, 1 hour)",
-          "uom": {
-            "identifier": "ClusterHour_usage",
-            "supportUsageChargeType": true,
-            "multiplier": 1,
-            "created": 1616598762204,
-            "updated": 1616598762204,
-            "singularName": "Cluster Hour",
-            "pluralName": "Cluster Hours",
-            "suffix": "per cluster hour",
-            "inputLabel": "Enter the number of cluster hours",
-            "summaryLabel": "Number of cluster hours"
-          }
-        },
-        {
-          "sequence": 2,
-          "type": "Usage",
-          "priceModel": "Standard",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 1,
-          "defaultQuantity": 1,
-          "increment": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MW01484/SVCMW01484B",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0.171
-                },
-                {
-                  "currency": "CAD",
-                  "price": 0.21
-                }
-              ],
-              "id": "a037a0a1-be76-4563-9115-edcdb1d84ef8"
-            }
-          ],
-          "usageReportingId": "redhat.com:openshift_dedicated:4cpu_hour",
-          "chargeDescription": "",
-          "id": "604a98e3383a6c00139dcb7f",
-          "created": 1615501539793,
-          "updated": 1626797289281,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D05KVZX",
-            "zuoraRatePlanChargeId": "2c92a00c78ee4d3b0178f110ceba45e7",
-            "zuoraRatePlanId": "2c92a00878ee5a550178f110cbd653f1"
-          },
-          "name": "Red Hat OpenShift Dedicated Worker Node on Customer Cloud Subscription (On-Demand, 4 vCPU, 1 hour)",
-          "uom": {
-            "identifier": "4_vCPU_hour",
-            "supportUsageChargeType": true,
-            "multiplier": 1,
-            "created": 1617736688734,
-            "updated": 1617736688734,
-            "singularName": "4 vCPU Hour",
-            "pluralName": "4 vCPU Hours",
-            "suffix": "per 4 vCPU hour",
-            "inputLabel": "Enter the number of per 4 vCPU hours",
-            "summaryLabel": "4 vCPU hour"
-          }
-        }
-      ],
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -7394,6 +7097,151 @@
       "revisions": []
     },
     {
+      "_id": "60bfa08486a17c00135b6e9b",
+      "id": "rhmccp-fc3ec082-3f21-4ad0-889f-6cff5d21ef61",
+      "type": "Purchase",
+      "productId": "d825fc375f9629cde852d260f223cc52",
+      "productName": "Robin Cloud Native Storage",
+      "name": "Robin Enterprise Pay As You Go",
+      "description": "High performance storage and application-aware data management for OpenShift, charged on per hour basis.",
+      "category": "Product",
+      "created": 1623171204986,
+      "updated": 1635527105459,
+      "version": 4,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Usage",
+          "priceModel": "Standard",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 1,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D049VZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0.42
+                }
+              ],
+              "id": "bbb97f02-8931-40ed-a274-429d39d9cdd7"
+            }
+          ],
+          "usageReportingId": "robinclusters.robin.io:RobinCluster:node_hour2",
+          "id": "5fc92d9b5e2c140016ea5127",
+          "created": 1607019931038,
+          "updated": 1619554483647,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D049VZX",
+            "zuoraRatePlanChargeId": "2c92a01177f8dce00177f8e2ce210990",
+            "zuoraRatePlanId": "2c92a0fe77f8d0790177f8e2b5a40cc7"
+          },
+          "name": "Node Hour",
+          "uom": {
+            "identifier": "NodeHour_Usage",
+            "supportUsageChargeType": true,
+            "multiplier": 1,
+            "created": 1601318706387,
+            "updated": 1601318706387,
+            "singularName": "Node Hour",
+            "pluralName": "Node Hours",
+            "suffix": "per node hour",
+            "inputLabel": "Enter number of node hours",
+            "summaryLabel": "Node Hours"
+          }
+        }
+      ],
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60bfa08508b4950014782743",
+      "id": "rhmccp-6eb566db-dad3-4c31-ad8e-8abe9a3c705a",
+      "type": "Purchase",
+      "productId": "d825fc375f9629cde852d260f223cc52",
+      "productName": "Robin Storage",
+      "name": "Robin Enterprise for OpenShift",
+      "description": "High performance storage and application-aware data management for OpenShift, charged on monthly basis.",
+      "created": 1623171205100,
+      "updated": 1635527068782,
+      "version": 6,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D02C9ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 275
+                }
+              ],
+              "id": "c92568c0-3043-47fb-8c72-47acdef37632"
+            }
+          ],
+          "usageReportingId": "robinclusters.robin.io:RobinCluster:node_hour2",
+          "chargeDescription": "",
+          "id": "6088719e280ce100131d6fd7",
+          "created": 1619554718739,
+          "updated": 1635526789163,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02C9ZX",
+            "zuoraRatePlanChargeId": "2c92a00e791221b5017914feb3275c18",
+            "zuoraRatePlanId": "2c92a00e791221ac017914feb0233ae2"
+          },
+          "name": "Node",
+          "uom": {
+            "identifier": "Node",
+            "multiplier": 1,
+            "created": 1590600597374,
+            "updated": 1590600597374,
+            "supportUsageChargeType": false,
+            "singularName": "Node",
+            "pluralName": "Nodes",
+            "suffix": "per node",
+            "inputLabel": "Enter number of nodes",
+            "summaryLabel": "Number of nodes"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": "robinclusters.robin.io",
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "60c2054d3764240013ada183",
       "id": "rhmccp-462185ef-0377-4345-bb12-3e12481d91d2",
       "type": "Purchase",
@@ -7480,7 +7328,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1623452978786,
-      "updated": 1629145568256,
+      "updated": 1635444803099,
       "version": 1,
       "editionCharges": [
         {
@@ -7547,7 +7395,7 @@
       "trialGracePeriod": 15,
       "category": "Product",
       "created": 1623694089751,
-      "updated": 1632320285412,
+      "updated": 1633355573511,
       "version": 1,
       "editionCharges": [
         {
@@ -7743,28 +7591,31 @@
       "revisions": []
     },
     {
-      "_id": "60d3710e10f805001350ccf9",
-      "id": "rhmccp-cd03fdae-39fb-4167-88fb-e564606f602c",
-      "type": "Purchase",
-      "productId": "9ad46745f3d49d9754defdf20e931e20",
-      "productName": "Fujitsu Enterprise Postgres",
-      "name": "Operator/License Bundle for amd64",
-      "description": "",
+      "_id": "60d643ef8bf1ea001368ed46",
+      "id": "rhmccp-a0979d17-1009-4a8a-8140-83f6d704fe0a",
+      "type": "FreeTrial",
+      "productId": "01079925b41556f29374a230f88625c1",
+      "productName": "OpenVino",
+      "name": " Free Trial - OpenVINO Pro",
+      "description": "free trial of the fully serviced version of OpenVINO with Enterprise Lifecycle services",
+      "trialTerm": 90,
+      "trialGracePeriod": 10,
       "category": "Product",
-      "created": 1624469774552,
-      "updated": 1625844666783,
-      "version": 3,
-      "termUnit": "Month",
+      "created": 1624654831816,
+      "updated": 1627478519203,
+      "version": 1,
       "editionCharges": [
         {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
+          "created": 1624654831816,
+          "id": "60d643ef8bf1ea001368ed45",
+          "vendorChargeId": "RHMTrialdLhsC2P5A4SWg84G7yMfKo",
           "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
           "useInStartingPriceCalculation": true,
           "tiers": [
             {
@@ -7772,49 +7623,192 @@
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 2900
+                  "price": 0
                 }
-              ],
-              "id": "553819e6-2c9f-4fe4-b1a8-9324d00ba620"
+              ]
             }
           ],
-          "chargeDescription": "",
-          "id": "606f8596249e560013d613de",
-          "created": 1617921430886,
-          "updated": 1624460050416,
-          "usageReportingType": "Cumulative",
           "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D06RSZX",
-            "zuoraRatePlanChargeId": "2c92a00d7a37875a017a395d85412e8a",
-            "zuoraRatePlanId": "2c92a0077a377aa1017a395d816a6471"
+            "chargeSyncRequired": true
           },
-          "vendorChargeId": "D06RSZX",
-          "name": "FUJITSU Enterprise Postgres Operator/License Bundle amd64",
+          "updated": 1624654831816,
+          "name": "Free Trial",
+          "description": "",
           "uom": {
-            "identifier": "Core",
-            "supportUsageChargeType": false,
+            "identifier": "Each",
             "multiplier": 1,
-            "created": 1607619029376,
-            "updated": 1607619029376,
-            "singularName": "Core",
-            "pluralName": "Cores",
-            "suffix": "per core",
-            "inputLabel": "Enter number of cores",
-            "summaryLabel": "Number of cores"
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
           }
         }
       ],
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
+      "termUnit": "Day",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60df1c235d94490029fdb09f",
+      "id": "rhmccp-685832c4-fd6d-4945-850a-97cb654ee789",
+      "type": "Purchase",
+      "productId": "3a3b137d4961a822413fdc55d7747ac9",
+      "productName": "LINBIT",
+      "name": "Plus Support",
+      "description": "DRBD integration with Red Hat Cluster Suite, DRBD, Pacemakers, and Heartbeat hot fixes. Dual-Primary DRBD deployment support.",
+      "created": 1625234467557,
+      "updated": 1625234471078,
+      "version": 2.1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D02N7ZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 299
+                },
+                {
+                  "currency": "CAD",
+                  "price": 388.7
+                }
+              ],
+              "id": "fde1e3e1-542a-45c3-ae00-fbe7bbd40298"
+            }
+          ],
+          "id": "5ed678ece3f8c4001bd15c5c",
+          "created": 1591113964222,
+          "updated": 1591968670786,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02N7ZX",
+            "zuoraRatePlanChargeId": "2c92a0077468714801746d7d656615c2",
+            "zuoraRatePlanId": "2c92a00d7468817901746d7d632457e7"
+          },
+          "name": "Terabyte",
+          "uom": {
+            "identifier": "Terabyte",
+            "multiplier": 1,
+            "created": 1586264544930,
+            "updated": 1586264544930,
+            "supportUsageChargeType": false,
+            "singularName": "Terabyte",
+            "pluralName": "Terabytes",
+            "suffix": "per TB",
+            "inputLabel": "Enter number of terabytes",
+            "summaryLabel": "Number of terabytes"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60ecb7b2217d020013c49cbc",
+      "id": "rhmccp-6560f6ea-902a-4ed3-a8c9-5efb2bfa541e",
+      "type": "Purchase",
+      "productId": "0fcac3e12ebd82e550bb1a8fdb534689",
+      "productName": "MinIO Hybrid Cloud Object Storage",
+      "name": "Standard Plan",
+      "description": "Designed for customers with SLA requirements of 48 hours or less, the Standard plan includes direct-to-engineer access, use of the panic button & 1yr LTS.",
+      "category": "Product",
+      "created": 1626126258402,
+      "updated": 1636051904293,
+      "version": 3,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly", "Annual"],
+      "allowedSubscriptionTerms": [1, 12, 24, 36, 48, 60],
       "cooldownPeriod": null,
       "group": null,
       "trialGracePeriod": null,
       "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 100,
+          "maximumQuantity": 0,
+          "defaultQuantity": 100,
+          "increment": 1,
+          "useInStartingPriceCalculation": false,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 10
+                },
+                {
+                  "currency": "CAD",
+                  "price": 12.38
+                }
+              ],
+              "id": "7800a494-1660-4a41-ba19-b8b632a7dcca"
+            }
+          ],
+          "chargeDescription": "MinIO Hybrid Cloud Object Storage - Standard Subscription Plan",
+          "id": "60c2c9073b92010013cc9ba5",
+          "created": 1623378183115,
+          "updated": 1636051895170,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D06YXZX",
+            "zuoraRatePlanChargeId": "2c92a0117a5b60c0017a5e80dc053218",
+            "zuoraRatePlanId": "2c92a00c7a5b53fd017a5e80d8073bfb"
+          },
+          "vendorChargeId": "D06YXZX",
+          "name": "Standard Plan",
+          "uom": {
+            "identifier": "Terabyte",
+            "multiplier": 1,
+            "created": 1586264544930,
+            "updated": 1586264544930,
+            "supportUsageChargeType": false,
+            "singularName": "Terabyte",
+            "pluralName": "Terabytes",
+            "suffix": "per TB",
+            "inputLabel": "Enter number of terabytes",
+            "summaryLabel": "Number of terabytes"
+          }
+        }
+      ],
       "status": "Published",
       "drafts": [],
       "revisions": []
     }
   ],
-  "count": 449
+  "count": 483
 }
