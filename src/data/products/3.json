@@ -1647,7 +1647,7 @@
           },
           "productPageName": ["node-red-operator"],
           "created": "2021-03-03T21:14:21.493Z",
-          "updated": "2021-07-14T19:37:00.682Z",
+          "updated": "2021-12-13T20:36:37.875Z",
           "company": {
             "name": "IBM"
           },
@@ -1675,7 +1675,7 @@
             {
               "id": "rhmccp-b0a4dc50-01e3-4ca4-bf8f-a626f4ee0107",
               "publishedEditionContent": {
-                "packageName": "node-red-operator-certified-rhmp",
+                "packageName": "node-red-operator-rhm-certified-rhmp",
                 "operatorList": [],
                 "cases": null,
                 "openShiftVersion": "4.4+",
