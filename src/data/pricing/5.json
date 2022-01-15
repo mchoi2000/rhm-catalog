@@ -1,6 +1,84 @@
 {
   "editions": [
     {
+      "_id": "60ecb7b2217d020013c49cbc",
+      "id": "rhmccp-6560f6ea-902a-4ed3-a8c9-5efb2bfa541e",
+      "type": "Purchase",
+      "productId": "0fcac3e12ebd82e550bb1a8fdb534689",
+      "productName": "MinIO Hybrid Cloud Object Storage",
+      "name": "Standard Plan",
+      "description": "Designed for customers with SLA requirements of 48 hours or less, the Standard plan includes direct-to-engineer access, use of the panic button & 1yr LTS.",
+      "category": "Product",
+      "created": 1626126258402,
+      "updated": 1636051904293,
+      "version": 3,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly", "Annual"],
+      "allowedSubscriptionTerms": [1, 12, 24, 36, 48, 60],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 100,
+          "maximumQuantity": 0,
+          "defaultQuantity": 100,
+          "increment": 1,
+          "useInStartingPriceCalculation": false,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 10
+                },
+                {
+                  "currency": "CAD",
+                  "price": 12.38
+                }
+              ],
+              "id": "7800a494-1660-4a41-ba19-b8b632a7dcca"
+            }
+          ],
+          "chargeDescription": "MinIO Hybrid Cloud Object Storage - Standard Subscription Plan",
+          "id": "60c2c9073b92010013cc9ba5",
+          "created": 1623378183115,
+          "updated": 1636051895170,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D06YXZX",
+            "zuoraRatePlanChargeId": "2c92a0117a5b60c0017a5e80dc053218",
+            "zuoraRatePlanId": "2c92a00c7a5b53fd017a5e80d8073bfb"
+          },
+          "vendorChargeId": "D06YXZX",
+          "name": "Standard Plan",
+          "uom": {
+            "identifier": "Terabyte",
+            "multiplier": 1,
+            "created": 1586264544930,
+            "updated": 1586264544930,
+            "supportUsageChargeType": false,
+            "singularName": "Terabyte",
+            "pluralName": "Terabytes",
+            "suffix": "per TB",
+            "inputLabel": "Enter number of terabytes",
+            "summaryLabel": "Number of terabytes"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "60ecb7b2b3af080013588da7",
       "id": "rhmccp-d3211707-be25-455e-b207-e510b5ac85b5",
       "type": "Purchase",
@@ -2069,6 +2147,79 @@
             "suffix": "per credit",
             "inputLabel": "Enter number of credits",
             "summaryLabel": "Number of credits"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "613f79b4c656d800148ae080",
+      "id": "rhmccp-958270aa-8245-4ab8-9ab0-90ef2aea47f4",
+      "type": "Purchase",
+      "productId": "d797d83fdb45af0b579cef0ebab88172",
+      "productName": "Eamli",
+      "name": "eamli Monthly",
+      "description": "AI-powered simulations to test decisions and see the outcomes they have on your big-picture objectives",
+      "category": "Product",
+      "created": 1631549876357,
+      "updated": 1639754069198,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 1,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 14000
+                }
+              ],
+              "id": "30dfd85b-7883-46a0-9ba2-bc7c07c8226f"
+            }
+          ],
+          "chargeDescription": "Per instance per Month",
+          "id": "613f7aa698dd0600142cdd7e",
+          "created": 1631550118056,
+          "updated": 1639754047733,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D08GDZX",
+            "zuoraRatePlanChargeId": "8a129bb27dc32410017dc8f574483c44",
+            "zuoraRatePlanId": "8a1298657dc3240a017dc8f5714904b1"
+          },
+          "vendorChargeId": "D08GDZX",
+          "name": "eamli Monthly",
+          "uom": {
+            "identifier": "Instance",
+            "multiplier": 1,
+            "created": 1586264541070,
+            "updated": 1586264541070,
+            "supportUsageChargeType": false,
+            "singularName": "Instance",
+            "pluralName": "Instances",
+            "suffix": "per instance",
+            "inputLabel": "Enter number of instances",
+            "summaryLabel": "Number of instances"
           }
         }
       ],
@@ -4484,7 +4635,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1633034936235,
-      "updated": 1633452123449,
+      "updated": 1641331601191,
       "version": 1,
       "editionCharges": [
         {
@@ -4535,226 +4686,6 @@
       "allowedSubscriptionTerms": null,
       "cooldownPeriod": null,
       "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "615785ce6cdfa50013879aec",
-      "id": "rhmccp-a8d6a13e-5253-4748-9294-bea766c591a1",
-      "type": "Purchase",
-      "productId": "c8a149a199600ad8a9931f14ea95cd82",
-      "productName": "CircleCI",
-      "name": "Circle CI Refill",
-      "description": "Usage Credits Refill @ $600 per 1 million credits",
-      "category": "Product",
-      "created": 1633125838761,
-      "updated": 1633452117350,
-      "version": 3,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 0,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "increment": 0,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D08IUZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 50
-                }
-              ],
-              "id": "03220019-7b6c-4212-a899-71e1581ed029"
-            }
-          ],
-          "chargeDescription": "$600 per 1 million credits",
-          "id": "615783c18a74af00142acb31",
-          "created": 1633125313706,
-          "updated": 1633451666986,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D08IUZX",
-            "zuoraRatePlanChargeId": "2c92a0ff7c3af444017c3de25ddd014a",
-            "zuoraRatePlanId": "2c92a00f7c3af43a017c3de2593d1ce3"
-          },
-          "name": "Refills",
-          "uom": {
-            "identifier": "Credits_Millon",
-            "supportUsageChargeType": false,
-            "multiplier": 1000000,
-            "created": 1633115976101,
-            "updated": 1633115976101,
-            "singularName": "Credit",
-            "pluralName": "Credits",
-            "suffix": "per million credits",
-            "inputLabel": "Enter number of credits",
-            "summaryLabel": "Number of credits"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "615785ce6cdfa50013879aed",
-      "id": "rhmccp-cf9e3d53-96ea-4fde-b58b-6ac10a0e2f2a",
-      "type": "Purchase",
-      "productId": "c8a149a199600ad8a9931f14ea95cd82",
-      "productName": "CircleCI",
-      "name": "Circle CI Custom Plan",
-      "description": "Access to all premium resource classes, unlimited concurrency, optional 24x7 Premium Support available\n\nCloud: 12M credits, auto-refill, Standard Support",
-      "category": "Product",
-      "created": 1633125838798,
-      "updated": 1633452028081,
-      "version": 3,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 0,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 1,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D08ITZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 600
-                }
-              ],
-              "id": "b8d97e4a-14ee-41a9-9bf8-40b50abf691d"
-            }
-          ],
-          "chargeDescription": "Cloud: 12M credits, auto-refill, Standard Support",
-          "id": "615679d9ceb8d000135f3b46",
-          "created": 1633057241543,
-          "updated": 1633451497773,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D08ITZX",
-            "zuoraRatePlanChargeId": "2c92a00e7c34cf5a017c39e17fd24a0d",
-            "zuoraRatePlanId": "2c92a0117c34d7a8017c39e17cc63e7b"
-          },
-          "name": "Custom Plan",
-          "uom": {
-            "identifier": "SKU",
-            "multiplier": 1,
-            "created": 1586264544132,
-            "updated": 1586264544132,
-            "supportUsageChargeType": false,
-            "singularName": "SKU",
-            "pluralName": "SKUs",
-            "suffix": "per SKU",
-            "inputLabel": "Enter number of SKUs",
-            "summaryLabel": "Number of SKUs"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "615785ce6cdfa50013879aee",
-      "id": "rhmccp-27abd1d6-748b-4c55-bd1c-5c13798fde41",
-      "type": "Purchase",
-      "productId": "c8a149a199600ad8a9931f14ea95cd82",
-      "productName": "CircleCI",
-      "name": "Cirlce CI Scale Plan",
-      "description": "Access to hybrid Runners, all premium resource classes, unlimited concurrency, optional 24x7 Premium Support available",
-      "category": "Product",
-      "created": 1633125838944,
-      "updated": 1633452061935,
-      "version": 3,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 2,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 1,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D08IVZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 3200
-                }
-              ],
-              "id": "33c9d891-a82e-4e20-bd2e-21c3fc67d36e"
-            }
-          ],
-          "chargeDescription": "Scale: 24M credits, auto-refill, Gold Support",
-          "id": "61567abcceb8d000135f3b48",
-          "created": 1633057468160,
-          "updated": 1633451617327,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D08IVZX",
-            "zuoraRatePlanChargeId": "2c92a0ff7c34d7a0017c39e22e317119",
-            "zuoraRatePlanId": "2c92a0117c34d7a8017c39e22b1d4516"
-          },
-          "name": "Scale Plan",
-          "uom": {
-            "identifier": "SKU",
-            "multiplier": 1,
-            "created": 1586264544132,
-            "updated": 1586264544132,
-            "supportUsageChargeType": false,
-            "singularName": "SKU",
-            "pluralName": "SKUs",
-            "suffix": "per SKU",
-            "inputLabel": "Enter number of SKUs",
-            "summaryLabel": "Number of SKUs"
-          }
-        }
-      ],
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -5052,79 +4983,6 @@
       "revisions": []
     },
     {
-      "_id": "615b66e7e7b1e20013d20ccf",
-      "id": "rhmccp-ff204772-0dd6-4174-9c64-14964a914d8b",
-      "type": "Purchase",
-      "productId": "9ad46745f3d49d9754defdf20e931e20",
-      "productName": "Fujitsu Enterprise Postgres",
-      "name": "Operator for amd64",
-      "description": "Enterprise platform for provisioning and managing your Fujitsu Enterprise Postgres database on OpenShift Container Platform",
-      "category": "Product",
-      "created": 1633380071908,
-      "updated": 1635442199485,
-      "version": 5,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "cooldownPeriod": null,
-      "group": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 0,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": false,
-          "vendorChargeId": "D06RRZX",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 1300
-                }
-              ],
-              "id": "b5e1f57a-602c-4910-929c-64d1b48d9f82"
-            }
-          ],
-          "chargeDescription": "",
-          "id": "60d3544010f805001350ccf8",
-          "created": 1624462400514,
-          "updated": 1624462400514,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D06RRZX",
-            "zuoraRatePlanChargeId": "2c92a0ff7a37877c017a39ac4ab14fcf",
-            "zuoraRatePlanId": "2c92a0107a377abf017a39ac46f539a4"
-          },
-          "name": "FUJITSU Enterprise Postgres Operator",
-          "uom": {
-            "identifier": "Core",
-            "supportUsageChargeType": false,
-            "multiplier": 1,
-            "created": 1607619029376,
-            "updated": 1607619029376,
-            "singularName": "Core",
-            "pluralName": "Cores",
-            "suffix": "per core",
-            "inputLabel": "Enter number of cores",
-            "summaryLabel": "Number of cores"
-          }
-        }
-      ],
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "615b66e785bd540013f5e184",
       "id": "rhmccp-9858d9c4-3564-4f71-a0ff-053f1039d17a",
       "type": "Purchase",
@@ -5190,6 +5048,226 @@
             "suffix": "per IFL",
             "inputLabel": "Enter number of IFLs",
             "summaryLabel": "Number of IFLs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "615c80d58860a50013dc3f97",
+      "id": "rhmccp-27abd1d6-748b-4c55-bd1c-5c13798fde41",
+      "type": "Purchase",
+      "productId": "c8a149a199600ad8a9931f14ea95cd82",
+      "productName": "CircleCI",
+      "name": "CircleCI Scale Plan",
+      "description": "Access to hybrid Runners, all premium resource classes, unlimited concurrency, optional 24x7 Premium Support available",
+      "category": "Product",
+      "created": 1633452245823,
+      "updated": 1641331576588,
+      "version": 4,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 2,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 1,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D08IVZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 3200
+                }
+              ],
+              "id": "33c9d891-a82e-4e20-bd2e-21c3fc67d36e"
+            }
+          ],
+          "chargeDescription": "Scale: 24M credits, auto-refill, Gold Support",
+          "id": "61567abcceb8d000135f3b48",
+          "created": 1633057468160,
+          "updated": 1633451617327,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D08IVZX",
+            "zuoraRatePlanChargeId": "2c92a0ff7c34d7a0017c39e22e317119",
+            "zuoraRatePlanId": "2c92a0117c34d7a8017c39e22b1d4516"
+          },
+          "name": "Scale Plan",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "615c80e95bced600140fbbe7",
+      "id": "rhmccp-cf9e3d53-96ea-4fde-b58b-6ac10a0e2f2a",
+      "type": "Purchase",
+      "productId": "c8a149a199600ad8a9931f14ea95cd82",
+      "productName": "CircleCI",
+      "name": "CircleCI Custom Plan",
+      "description": "Access to all premium resource classes, unlimited concurrency, optional 24x7 Premium Support available\n\nCloud: 12M credits, auto-refill, Standard Support",
+      "category": "Product",
+      "created": 1633452265549,
+      "updated": 1641331558020,
+      "version": 4,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 1,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D08ITZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 600
+                }
+              ],
+              "id": "b8d97e4a-14ee-41a9-9bf8-40b50abf691d"
+            }
+          ],
+          "chargeDescription": "Cloud: 12M credits, auto-refill, Standard Support",
+          "id": "615679d9ceb8d000135f3b46",
+          "created": 1633057241543,
+          "updated": 1633451497773,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D08ITZX",
+            "zuoraRatePlanChargeId": "2c92a00e7c34cf5a017c39e17fd24a0d",
+            "zuoraRatePlanId": "2c92a0117c34d7a8017c39e17cc63e7b"
+          },
+          "name": "Custom Plan",
+          "uom": {
+            "identifier": "SKU",
+            "multiplier": 1,
+            "created": 1586264544132,
+            "updated": 1586264544132,
+            "supportUsageChargeType": false,
+            "singularName": "SKU",
+            "pluralName": "SKUs",
+            "suffix": "per SKU",
+            "inputLabel": "Enter number of SKUs",
+            "summaryLabel": "Number of SKUs"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "615c80ea9c661f0013b8df74",
+      "id": "rhmccp-a8d6a13e-5253-4748-9294-bea766c591a1",
+      "type": "Purchase",
+      "productId": "c8a149a199600ad8a9931f14ea95cd82",
+      "productName": "CircleCI",
+      "name": "CircleCI Refill",
+      "description": "Usage Credits Refill @ $600 per 1 million credits",
+      "category": "Product",
+      "created": 1633452266176,
+      "updated": 1641331594999,
+      "version": 4,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "increment": 0,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D08IUZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 50
+                }
+              ],
+              "id": "03220019-7b6c-4212-a899-71e1581ed029"
+            }
+          ],
+          "chargeDescription": "$600 per 1 million credits",
+          "id": "615783c18a74af00142acb31",
+          "created": 1633125313706,
+          "updated": 1633451666986,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D08IUZX",
+            "zuoraRatePlanChargeId": "2c92a0ff7c3af444017c3de25ddd014a",
+            "zuoraRatePlanId": "2c92a00f7c3af43a017c3de2593d1ce3"
+          },
+          "name": "Refills",
+          "uom": {
+            "identifier": "Credits_Millon",
+            "supportUsageChargeType": false,
+            "multiplier": 1000000,
+            "created": 1633115976101,
+            "updated": 1633115976101,
+            "singularName": "Credit",
+            "pluralName": "Credits",
+            "suffix": "per million credits",
+            "inputLabel": "Enter number of credits",
+            "summaryLabel": "Number of credits"
           }
         }
       ],
@@ -7490,6 +7568,79 @@
       "revisions": []
     },
     {
+      "_id": "618150abf0a49f0013606363",
+      "id": "rhmccp-446bfbfd-c804-401e-9a30-7e58bc2095b6",
+      "type": "Purchase",
+      "productId": "d797d83fdb45af0b579cef0ebab88172",
+      "productName": "Eamli",
+      "name": "eamli Annual",
+      "description": "AI-powered simulations to test decisions and see the outcomes they have on your big-picture objectives",
+      "category": "Product",
+      "created": 1635864747706,
+      "updated": 1639754201156,
+      "version": 1,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 0,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 135000
+                }
+              ],
+              "id": "a08bae19-a3f9-4092-aa82-d21bd1541a6b"
+            }
+          ],
+          "chargeDescription": "Per instance per Year",
+          "id": "618151166b0e6a0013d06edd",
+          "created": 1635864854171,
+          "updated": 1639754181201,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D08GCZX",
+            "zuoraRatePlanChargeId": "8a129bfb7dc3240b017dc8f7778834c6",
+            "zuoraRatePlanId": "8a129bb27dc32410017dc8f773174c2f"
+          },
+          "vendorChargeId": "D08GCZX",
+          "name": "eamli Annual",
+          "uom": {
+            "identifier": "Instance",
+            "multiplier": 1,
+            "created": 1586264541070,
+            "updated": 1586264541070,
+            "supportUsageChargeType": false,
+            "singularName": "Instance",
+            "pluralName": "Instances",
+            "suffix": "per instance",
+            "inputLabel": "Enter number of instances",
+            "summaryLabel": "Number of instances"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
       "_id": "618547a7b81f5d0013219f1f",
       "id": "rhmccp-a07256d8-be7b-44da-95e8-f69f2797c46d",
       "type": "FreeTrial",
@@ -8962,7 +9113,458 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
+    },
+    {
+      "_id": "61c39b262c3e0a0013a81261",
+      "id": "rhmccp-60efa9d5-66a5-4424-9b0c-b49c6638f484",
+      "type": "FreeTrial",
+      "productId": "0f528fbcf3e8d60ca2a499a3333458f8",
+      "productName": "SafeDeploy",
+      "name": "SafeDeploy Host Service",
+      "description": "SafeDeploy captures the execution stream of your application. You need to add the service per server / per application in order to start SafeDeploy",
+      "trialTerm": 30,
+      "trialGracePeriod": 10,
+      "category": "Product",
+      "created": 1640209190020,
+      "updated": 1640210618499,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1640209190020,
+          "id": "61c39b262c3e0a0013a81260",
+          "vendorChargeId": "RHMTrialo2hk83MSRruXfzcVs4LKMS",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1640209190020,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "61d70ca02c3e0a0013a8126e",
+      "id": "rhmccp-13dca72a-8070-415f-97b7-d86e27febbd2",
+      "type": "FreeTrial",
+      "productId": "a155eecb1e96a5292d681711fd99832b",
+      "productName": "Pachyderm",
+      "name": "Pachyderm Enterprise Trial",
+      "description": "Register to get a free 30 day trial to Pachyderm Enterprise.",
+      "trialTerm": 30,
+      "trialGracePeriod": 10,
+      "category": "Product",
+      "created": 1641483424642,
+      "updated": 1641491216766,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1641483424643,
+          "id": "61d70ca02c3e0a0013a8126d",
+          "vendorChargeId": "pachyderm-enterprise-trial",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1641483424643,
+          "name": "Free Trial",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Day",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "61dc43284db9fb001303cf9b",
+      "id": "rhmccp-ff204772-0dd6-4174-9c64-14964a914d8b",
+      "type": "Purchase",
+      "productId": "9ad46745f3d49d9754defdf20e931e20",
+      "productName": "Fujitsu Enterprise Postgres",
+      "name": "Operator for amd64",
+      "description": "Enterprise platform for provisioning and managing your Fujitsu Enterprise Postgres database on OpenShift Container Platform",
+      "category": "Product",
+      "created": 1641825064427,
+      "updated": 1641825281794,
+      "version": 6,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": "fep.fujitsu.io",
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": false,
+          "vendorChargeId": "D06RRZX",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1300
+                }
+              ],
+              "id": "f4827844-6749-466d-8e13-add3b8dffc2a"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60d3544010f805001350ccf8",
+          "created": 1624462400514,
+          "updated": 1641825269317,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D06RRZX",
+            "zuoraRatePlanChargeId": "2c92a0ff7a37877c017a39ac4ab14fcf",
+            "zuoraRatePlanId": "2c92a0107a377abf017a39ac46f539a4"
+          },
+          "usageReportingId": "fep.fujitsu.io:FEPCluster:Core",
+          "name": "FUJITSU Enterprise Postgres Operator",
+          "uom": {
+            "identifier": "Core",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1607619029376,
+            "updated": 1607619029376,
+            "singularName": "Core",
+            "pluralName": "Cores",
+            "suffix": "per core",
+            "inputLabel": "Enter number of cores",
+            "summaryLabel": "Number of cores"
+          }
+        }
+      ],
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "61dde3485b8a930013826259",
+      "id": "rhmccp-bdb52b7f-d558-4ef1-98e0-6f28cf3b5aea",
+      "type": "FreeEdition",
+      "productId": "3164f7305abe1c8c4aca255f938ae778",
+      "productName": "Percona Distribution for PostgreSQL Operator",
+      "name": "Percona MongoDB Operator Trial",
+      "description": "Percona Distribution for PostgreSQL Operator is a free Open Source software to deploy and manage PostgreSQL clusters on Kubernetes and OpenShift",
+      "category": "Product",
+      "created": 1641931592567,
+      "updated": 1641931592567,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1641931592567,
+          "id": "61dde3485b8a930013826258",
+          "vendorChargeId": "RHMFree2vHrDQS9YfuUPubMy9NhPJ",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1641931592567,
+          "name": "Free Edition",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Month",
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "61e09c1505a1e200141add2d",
+      "id": "rhmccp-3d4705c6-8907-4d8a-9e7c-fd8780c0d913",
+      "type": "Purchase",
+      "productId": "d36516a56c75e63f0779cb9489ab5ab2",
+      "productName": "Densify RHM",
+      "name": "Densify  ",
+      "description": "Densify has no versions, and handles on-premise, cloud, and container infrastructures, as well as access to a Cloud Advisor, an on-call expert.",
+      "created": 1642109973118,
+      "updated": 1642186537331,
+      "version": 5,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12, 24, 36, 48, 60],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "TierPricing",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 6000,
+          "defaultQuantity": 1,
+          "increment": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "D04CHZX ",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 6.58
+                },
+                {
+                  "currency": "CAD",
+                  "price": 8.19
+                }
+              ],
+              "id": "92a51254-70a6-4548-b59f-d22067539284",
+              "endingUnit": 350
+            },
+            {
+              "id": "500b16d5-f860-48b3-8361-17f3f2cd14b9",
+              "startingUnit": 351,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 5.99
+                },
+                {
+                  "currency": "CAD",
+                  "price": 7.45
+                }
+              ],
+              "endingUnit": 500
+            },
+            {
+              "id": "188a3296-bc46-4231-8a64-dc5ee08cd30a",
+              "startingUnit": 501,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 5.45
+                },
+                {
+                  "currency": "CAD",
+                  "price": 6.78
+                }
+              ],
+              "endingUnit": 1000
+            },
+            {
+              "id": "880d8d95-19d8-4b9d-a236-9d3164637b26",
+              "startingUnit": 1001,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 4.96
+                },
+                {
+                  "currency": "CAD",
+                  "price": 6.17
+                }
+              ],
+              "endingUnit": 2000
+            },
+            {
+              "id": "91ceee05-4970-4450-b4d1-65e553b8d277",
+              "startingUnit": 2001,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 4.51
+                },
+                {
+                  "currency": "CAD",
+                  "price": 5.61
+                }
+              ],
+              "endingUnit": 3000
+            },
+            {
+              "id": "034c593f-73ef-4660-a0ff-a499f4784d60",
+              "startingUnit": 3001,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 4.1
+                },
+                {
+                  "currency": "CAD",
+                  "price": 5.1
+                }
+              ],
+              "endingUnit": 4000
+            },
+            {
+              "id": "ea680095-704d-4fee-b7c2-af311d42cdd5",
+              "startingUnit": 4001,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 3.74
+                },
+                {
+                  "currency": "CAD",
+                  "price": 4.65
+                }
+              ],
+              "endingUnit": 5000
+            },
+            {
+              "id": "5a23c706-a9e3-4a34-be97-c58125217453",
+              "startingUnit": 5001,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 3.4
+                },
+                {
+                  "currency": "CAD",
+                  "price": 4.23
+                }
+              ]
+            }
+          ],
+          "chargeDescription": "Quantity for Container instances is based on a count of Node Cores. That is, one license is consumed for each Node Core, as well as additional license counts for the infrastructure that Containers are running on (e.g., EC2 instances, ASGs or VMs/hosts for on-prem).  For any environment over 6000 node cores, please contact Densify directly.",
+          "id": "61df25a0d1c50f001300efab",
+          "created": 1642014112706,
+          "updated": 1642185561775,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D04CHZX",
+            "zuoraRatePlanChargeId": "8a128ba87e51e6e5017e54b107d85409",
+            "zuoraRatePlanId": "8a129d3a7e51fb6d017e54b1047976db"
+          },
+          "name": "Node Cores",
+          "uom": {
+            "identifier": "node_core",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1642020921483,
+            "updated": 1642020921483,
+            "singularName": "Node Core",
+            "pluralName": "Node Cores",
+            "suffix": "per node core",
+            "inputLabel": "Enter number of node cores",
+            "summaryLabel": "Number of node cores"
+          }
+        }
+      ],
+      "trialGracePeriod": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
     }
   ],
-  "count": 483
+  "count": 490
 }

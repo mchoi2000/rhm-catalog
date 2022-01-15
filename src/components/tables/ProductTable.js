@@ -138,16 +138,20 @@ class ProductList extends React.Component {
         });
       }
 
-      if (startingAtPrice != null) {
-        starting = `$${numberWithCommas(startingAtPrice)}`;
+      if (startingAtPrice !== null) {
         const cached = startingAtPricesSaved[productName];
         // console.log(productName, cached);
 
-        if (startingAtPrice != cached) {
+        if (startingAtPrice !== cached) {
           console.error(
-            `${productName} starting at price ${startingAtPrice} doesn't match with cached value ${cached}.`
+            `${productName} starting-at calculated price ${startingAtPrice} doesn't match with the cached value ${cached}.`
           );
+          startingAtPrice = cached; // use cached value for display
         }
+
+        starting =
+          startingAtPrice !== undefined &&
+          `$${numberWithCommas(startingAtPrice)}`;
       }
 
       let edition = editionType.sort().join(', ');

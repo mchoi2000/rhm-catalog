@@ -1,73 +1,6 @@
 {
   "editions": [
     {
-      "_id": "5fde1d68e8785c00147b6ff9",
-      "id": "rhmccp-4cb10a72-40ed-47d3-80bf-f42cc4047b29",
-      "type": "FreeEdition",
-      "productId": "f654804c423826dd1cff178ebaa39e6d",
-      "productName": "Savings Bond Redemption Tables",
-      "name": "Savings Bond Redemption Tables",
-      "description": "Redemption values and interest earned for Series EE, E, and I savings bonds, and Savings Notes issued from 1941 to present.",
-      "category": "Product",
-      "created": 1608392040641,
-      "updated": 1608758263283,
-      "version": 1,
-      "editionCharges": [
-        {
-          "created": 1608392040641,
-          "id": "5fde1d68e8785c00147b6ff8",
-          "vendorChargeId": "RHMFreei8kJdoFk6zmCHm5robb1hW",
-          "defaultQuantity": 1,
-          "maximumQuantity": 1,
-          "minimumQuantity": 1,
-          "priceModel": "Standard",
-          "type": "Recurring",
-          "sequence": 1,
-          "required": true,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 0
-                }
-              ]
-            }
-          ],
-          "metadata": {
-            "chargeSyncRequired": true
-          },
-          "updated": 1608392040641,
-          "name": "Free Edition",
-          "description": "",
-          "uom": {
-            "identifier": "Each",
-            "multiplier": 1,
-            "created": 1586264548996,
-            "updated": 1586264548996,
-            "supportUsageChargeType": false,
-            "singularName": "Each",
-            "pluralName": "Each",
-            "suffix": "",
-            "inputLabel": "",
-            "summaryLabel": ""
-          }
-        }
-      ],
-      "termUnit": "Month",
-      "allowedBillingFrequencies": null,
-      "allowedSubscriptionTerms": null,
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "trialTerm": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "5fde1eed09db360013f7b19a",
       "id": "rhmccp-2c2de6ba-a828-43e8-bc59-b74d9c544618",
       "type": "FreeEdition",
@@ -6524,7 +6457,79 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
+    },
+    {
+      "_id": "602be95547d0de0013debac9",
+      "id": "rhmccp-0b6065dc-01d5-4457-9938-aa568682f4f5",
+      "type": "Purchase",
+      "productId": "9a107f289a17dcd0dcbd861614ed59bc",
+      "productName": "Snyk Container RHM",
+      "name": "Snyk Pro Edition",
+      "description": "For medium to enterprise size organizations. Sold in increments of 50 contributing developer licenses.",
+      "created": 1613490517933,
+      "updated": 1615486474904,
+      "version": 3,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Monthly", "Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 50,
+          "maximumQuantity": 0,
+          "defaultQuantity": 50,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 39.98
+                }
+              ],
+              "id": "e9e1e2b3-2847-434f-ae77-b23a2db47a17"
+            }
+          ],
+          "id": "5f6366b7c71a520013581893",
+          "created": 1600349879028,
+          "updated": 1613488274405,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D049SZX",
+            "zuoraRatePlanChargeId": "2c92a0fe77992b8b0177ab73e0e30ddf",
+            "zuoraRatePlanId": "2c92a0ff779933100177ab73de5c41aa"
+          },
+          "increment": 50,
+          "vendorChargeId": "D049SZX",
+          "name": "Developers",
+          "uom": {
+            "identifier": "Developer",
+            "supportUsageChargeType": false,
+            "multiplier": 1,
+            "created": 1601316699152,
+            "updated": 1601316699152,
+            "singularName": "Developer",
+            "pluralName": "Developers",
+            "suffix": "per developer",
+            "inputLabel": "Enter number of developers",
+            "summaryLabel": "Developers"
+          }
+        }
+      ],
+      "trialGracePeriod": null,
+      "cooldownPeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
     }
   ],
-  "count": 483
+  "count": 490
 }

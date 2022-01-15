@@ -1,7 +1,7 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 235,
+      "totalCount": 238,
       "cursor": null,
       "products": [
         {
@@ -1571,7 +1571,7 @@
           },
           "productPageName": ["spectrum-protect-plus"],
           "created": "2021-02-24T17:54:36.277Z",
-          "updated": "2021-10-14T14:27:02.586Z",
+          "updated": "2022-01-14T22:01:56.448Z",
           "company": {
             "name": "IBM - Spectrum Protect"
           },
@@ -1852,7 +1852,7 @@
           },
           "productPageName": ["todaq"],
           "created": "2021-03-22T17:38:17.604Z",
-          "updated": "2021-12-10T19:36:23.332Z",
+          "updated": "2022-01-12T19:39:27.069Z",
           "company": {
             "name": "TODAQ Financial"
           },
@@ -2270,6 +2270,111 @@
           ]
         },
         {
+          "id": "a155eecb1e96a5292d681711fd99832b",
+          "publishedContent": {
+            "title": "Pachyderm",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["pachyderm"],
+          "created": "2021-05-12T18:06:11.683Z",
+          "updated": "2022-01-06T17:47:16.793Z",
+          "company": {
+            "name": "Pachyderm Inc."
+          },
+          "primaryCategory": {
+            "categoryPageName": "ai-machine-learning",
+            "content": {
+              "name": "AI/Machine Learning"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-8418cfb5-8be0-48dc-bed6-6c81d259741d",
+              "publishedEditionContent": {
+                "packageName": "pachyderm-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.6+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Dashboard/UI"
+                    },
+                    {
+                      "value": "Auth & Access Controls"
+                    },
+                    {
+                      "value": "Detailed Stats"
+                    },
+                    {
+                      "value": "JupyterHub Integration"
+                    },
+                    {
+                      "value": "Prometheus Metrics"
+                    },
+                    {
+                      "value": "Support & Solutions Architecture"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-13dca72a-8070-415f-97b7-d86e27febbd2",
+              "publishedEditionContent": {
+                "packageName": "pachyderm-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.6+",
+                "packageType": "OPERATOR",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Everything an enterprise needs to build production-grade automated AI/ML pipelines."
+                    },
+                    {
+                      "value": "Streamlined ML/AI operations you can stand by."
+                    },
+                    {
+                      "value": "Accelerated time to market for data-driven applications at any scale."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "01079925b41556f29374a230f88625c1",
           "publishedContent": {
             "title": "OpenVINO Pro for Enterprise ",
@@ -2386,7 +2491,7 @@
           },
           "productPageName": ["minio-hybrid-cloud-object-storage"],
           "created": "2021-06-08T20:47:22.843Z",
-          "updated": "2021-11-05T14:54:34.502Z",
+          "updated": "2021-12-18T17:18:32.432Z",
           "company": {
             "name": "MinIO Inc"
           },
@@ -2513,7 +2618,7 @@
           },
           "productPageName": ["anontech-vizivault"],
           "created": "2021-06-14T18:11:58.155Z",
-          "updated": "2021-12-09T04:13:29.237Z",
+          "updated": "2022-01-13T02:30:14.494Z",
           "company": {
             "name": "Anon Technology Inc."
           },
@@ -2728,6 +2833,112 @@
           ]
         },
         {
+          "id": "0f528fbcf3e8d60ca2a499a3333458f8",
+          "publishedContent": {
+            "title": "SafeDeploy MonaX",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["safedeploy"],
+          "created": "2021-06-17T23:12:27.435Z",
+          "updated": "2022-01-03T16:23:17.845Z",
+          "company": {
+            "name": "Safedeploy Inc."
+          },
+          "primaryCategory": {
+            "categoryPageName": "application-runtime",
+            "content": {
+              "name": "Application Runtime"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "application-runtime",
+              "content": {
+                "name": "Application Runtime"
+              }
+            },
+            {
+              "categoryPageName": "logging-and-tracing",
+              "content": {
+                "name": "Logging & Tracing"
+              }
+            },
+            {
+              "categoryPageName": "monitoring",
+              "content": {
+                "name": "Monitoring"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-e7bfc137-a949-4ab3-984e-ef0c03f9bbbd",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Usage", "Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 0
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Tech support incl. "
+                    },
+                    {
+                      "value": "Discount by more than 5 users"
+                    },
+                    {
+                      "value": "24h access"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-60efa9d5-66a5-4424-9b0c-b49c6638f484",
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Pay per cpu/h"
+                    },
+                    {
+                      "value": "Discount available for microservice architecture"
+                    },
+                    {
+                      "value": "Need to be set up by SafeDeploy"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
           "id": "c8a149a199600ad8a9931f14ea95cd82",
           "publishedContent": {
             "title": "CircleCI CI CD",
@@ -2738,7 +2949,7 @@
           },
           "productPageName": ["circleci"],
           "created": "2021-07-09T18:42:12.688Z",
-          "updated": "2021-10-13T17:33:33.707Z",
+          "updated": "2022-01-10T18:24:21.241Z",
           "company": {
             "name": "Circle Internet Services Inc"
           },
@@ -2792,7 +3003,33 @@
             },
             {
               "id": "rhmccp-93bbd0f7-73fb-4274-a8a2-511b8c5530fc",
-              "publishedEditionContent": null
+              "publishedEditionContent": {
+                "packageName": "placeholder-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": null,
+                "packageType": "SAAS",
+                "planType": "TRIAL",
+                "partNumbers": null,
+                "chargeTypes": null,
+                "repositoryUrl": null,
+                "audience": ["Private"],
+                "supportedCountries": ["US"],
+                "certification": null,
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "30 Day Free Trial"
+                    },
+                    {
+                      "value": "Unlimited credits"
+                    },
+                    {
+                      "value": "Support"
+                    }
+                  ]
+                }
+              }
             },
             {
               "id": "rhmccp-cf9e3d53-96ea-4fde-b58b-6ac10a0e2f2a",
@@ -3004,7 +3241,7 @@
           },
           "productPageName": ["tackle-cloud-marketplace-platform"],
           "created": "2021-07-20T13:37:15.769Z",
-          "updated": "2021-11-01T20:47:51.763Z",
+          "updated": "2022-01-10T18:23:29.367Z",
           "company": {
             "name": "Tackle io"
           },
@@ -3601,6 +3838,126 @@
                     },
                     {
                       "value": "Analytics, Custom Metrics, Log Monitoring Support, Synthetic Support, Enterprise Security"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "d797d83fdb45af0b579cef0ebab88172",
+          "publishedContent": {
+            "title": "eamli",
+            "formats": null,
+            "topics": null,
+            "industries": null,
+            "assetUpdatedInfo": null
+          },
+          "productPageName": ["eamli"],
+          "created": "2021-08-05T13:07:14.553Z",
+          "updated": "2021-12-17T15:17:30.266Z",
+          "company": {
+            "name": "Whitespace Ventures Limited"
+          },
+          "primaryCategory": {
+            "categoryPageName": "ai-machine-learning",
+            "content": {
+              "name": "AI/Machine Learning"
+            }
+          },
+          "categories": [
+            {
+              "categoryPageName": "ai-machine-learning",
+              "content": {
+                "name": "AI/Machine Learning"
+              }
+            },
+            {
+              "categoryPageName": "big-data",
+              "content": {
+                "name": "Big Data"
+              }
+            }
+          ],
+          "editions": [
+            {
+              "id": "rhmccp-958270aa-8245-4ab8-9ab0-90ef2aea47f4",
+              "publishedEditionContent": {
+                "packageName": "eamli-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.6.0.8.0+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Monthly Subscription"
+                    },
+                    {
+                      "value": "One cloud-based platform"
+                    },
+                    {
+                      "value": "Multi-criteria decision-analysis"
+                    },
+                    {
+                      "value": "Monte Carlo simulations"
+                    },
+                    {
+                      "value": "Near real-time simulation modelling"
+                    },
+                    {
+                      "value": "Source existing data from multiple sources"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "rhmccp-446bfbfd-c804-401e-9a30-7e58bc2095b6",
+              "publishedEditionContent": {
+                "packageName": "eamli-operator-rhmp",
+                "operatorList": [],
+                "cases": null,
+                "openShiftVersion": "4.6.0.8.0+",
+                "packageType": "OPERATOR",
+                "planType": "PURCHASE",
+                "partNumbers": null,
+                "chargeTypes": ["Recurring"],
+                "repositoryUrl": null,
+                "audience": [],
+                "supportedCountries": ["US"],
+                "certification": {
+                  "operatorCapabilities": 1
+                },
+                "localizedContent": {
+                  "planDetails": [
+                    {
+                      "value": "Annual Subscription"
+                    },
+                    {
+                      "value": "One cloud-based platform"
+                    },
+                    {
+                      "value": "Multi-criteria decision-analysis"
+                    },
+                    {
+                      "value": "Monte Carlo simulations"
+                    },
+                    {
+                      "value": "Near real-time simulation modelling"
+                    },
+                    {
+                      "value": "Source existing data from multiple sources"
                     }
                   ]
                 }

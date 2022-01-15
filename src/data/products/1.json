@@ -1,7 +1,7 @@
 {
   "data": {
     "allProducts": {
-      "totalCount": 235,
+      "totalCount": 238,
       "cursor": "5fd8e4af25f01800132ebd9a",
       "products": [
         {
@@ -748,7 +748,7 @@
             "starburst-presto-enterprise"
           ],
           "created": "2020-01-28T15:53:37.423Z",
-          "updated": "2021-10-19T20:45:33.242Z",
+          "updated": "2021-12-15T20:31:45.000Z",
           "company": {
             "name": "Starburst Data, Inc"
           },
@@ -1566,7 +1566,7 @@
           },
           "productPageName": ["insightedge"],
           "created": "2020-02-12T13:54:14.946Z",
-          "updated": "2021-07-28T19:40:53.713Z",
+          "updated": "2021-12-21T00:35:36.321Z",
           "company": {
             "name": "GigaSpaces Technologies, Inc"
           },
@@ -1976,7 +1976,7 @@
           },
           "productPageName": ["federatorai"],
           "created": "2020-02-14T13:41:48.018Z",
-          "updated": "2021-11-29T01:25:18.213Z",
+          "updated": "2021-12-14T01:14:52.908Z",
           "company": {
             "name": "ProphetStor Data Services, Inc"
           },
@@ -2184,15 +2184,18 @@
         {
           "id": "7262c13e26a102808d5f6b2909b30f65",
           "publishedContent": {
-            "title": "Red Hat OpenShift Container Storage",
+            "title": "Red Hat OpenShift Data Foundation",
             "formats": null,
             "topics": null,
             "industries": null,
             "assetUpdatedInfo": null
           },
-          "productPageName": ["red-hat-container-storage"],
+          "productPageName": [
+            "red-hat-openshift-data-foundation",
+            "red-hat-container-storage"
+          ],
           "created": "2020-02-21T13:46:16.571Z",
-          "updated": "2021-12-08T14:51:38.858Z",
+          "updated": "2021-12-16T18:14:52.673Z",
           "company": {
             "name": "Red Hat, Inc (Container Storage)"
           },
@@ -2232,7 +2235,7 @@
                 "audience": [],
                 "supportedCountries": ["CA", "US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 4
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -2264,7 +2267,7 @@
                 "audience": [],
                 "supportedCountries": ["CA", "US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 4
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -2296,7 +2299,7 @@
                 "audience": [],
                 "supportedCountries": ["CA", "US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 4
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -2328,7 +2331,7 @@
                 "audience": [],
                 "supportedCountries": ["CA", "US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 4
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -2360,7 +2363,7 @@
                 "audience": [],
                 "supportedCountries": ["CA", "US"],
                 "certification": {
-                  "operatorCapabilities": 3
+                  "operatorCapabilities": 4
                 },
                 "localizedContent": {
                   "planDetails": [
@@ -2747,7 +2750,7 @@
           },
           "productPageName": ["ibm-cloudpak-for-automation"],
           "created": "2020-03-05T22:24:15.183Z",
-          "updated": "2021-10-04T13:54:00.242Z",
+          "updated": "2022-01-05T19:23:12.532Z",
           "company": {
             "name": "IBM"
           },
@@ -7695,7 +7698,7 @@
           },
           "productPageName": ["percona-server-for-mongodb"],
           "created": "2020-07-03T18:27:38.225Z",
-          "updated": "2021-10-22T21:42:53.484Z",
+          "updated": "2021-12-28T08:54:53.485Z",
           "company": {
             "name": "Percona LLC"
           },
@@ -8493,6 +8496,14 @@
                   ]
                 }
               }
+            },
+            {
+              "id": "rhmccp-466780e7-821b-4d62-8a75-891e18698a46",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-7bc77634-6e40-45ef-8d37-c8596c86552e",
+              "publishedEditionContent": null
             }
           ]
         },
@@ -8865,7 +8876,7 @@
             "percona-kubernetes-operator-for-percona-server-for-xtradb-cluster"
           ],
           "created": "2020-07-24T13:52:21.039Z",
-          "updated": "2021-06-23T14:29:07.256Z",
+          "updated": "2022-01-05T09:41:55.918Z",
           "company": {
             "name": "Percona LLC"
           },
@@ -8947,7 +8958,7 @@
           },
           "productPageName": ["kasten-k10"],
           "created": "2020-08-05T01:31:25.899Z",
-          "updated": "2021-11-15T15:37:42.328Z",
+          "updated": "2022-01-07T19:24:08.778Z",
           "company": {
             "name": "Kasten, Inc."
           },
@@ -9006,6 +9017,14 @@
             },
             {
               "id": "rhmccp-8ea3509e-51b1-462f-9562-21e2dd77655e",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-076bd0a2-e2a1-46e9-aa54-ca711dba499f",
+              "publishedEditionContent": null
+            },
+            {
+              "id": "rhmccp-d28e1c7b-f161-49d0-81d1-6ea72f09d895",
               "publishedEditionContent": null
             }
           ]
@@ -9199,7 +9218,7 @@
           },
           "productPageName": ["red-hat-advanced-cluster-management"],
           "created": "2020-08-18T18:54:20.063Z",
-          "updated": "2021-12-07T19:57:04.762Z",
+          "updated": "2022-01-11T20:39:27.597Z",
           "company": {
             "name": "Red Hat OpenShift Dedicated"
           },
@@ -10643,7 +10662,7 @@
           },
           "productPageName": ["fujitsu-enterprise-postgres"],
           "created": "2020-10-13T14:03:20.022Z",
-          "updated": "2021-12-01T04:34:41.477Z",
+          "updated": "2022-01-10T14:35:03.381Z",
           "company": {
             "name": "Fujitsu Limited"
           },

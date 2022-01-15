@@ -1,78 +1,6 @@
 {
   "editions": [
     {
-      "_id": "602be95547d0de0013debac9",
-      "id": "rhmccp-0b6065dc-01d5-4457-9938-aa568682f4f5",
-      "type": "Purchase",
-      "productId": "9a107f289a17dcd0dcbd861614ed59bc",
-      "productName": "Snyk Container RHM",
-      "name": "Snyk Pro Edition",
-      "description": "For medium to enterprise size organizations. Sold in increments of 50 contributing developer licenses.",
-      "created": 1613490517933,
-      "updated": 1615486474904,
-      "version": 3,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly", "Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 50,
-          "maximumQuantity": 0,
-          "defaultQuantity": 50,
-          "useInStartingPriceCalculation": true,
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 39.98
-                }
-              ],
-              "id": "e9e1e2b3-2847-434f-ae77-b23a2db47a17"
-            }
-          ],
-          "id": "5f6366b7c71a520013581893",
-          "created": 1600349879028,
-          "updated": 1613488274405,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D049SZX",
-            "zuoraRatePlanChargeId": "2c92a0fe77992b8b0177ab73e0e30ddf",
-            "zuoraRatePlanId": "2c92a0ff779933100177ab73de5c41aa"
-          },
-          "increment": 50,
-          "vendorChargeId": "D049SZX",
-          "name": "Developers",
-          "uom": {
-            "identifier": "Developer",
-            "supportUsageChargeType": false,
-            "multiplier": 1,
-            "created": 1601316699152,
-            "updated": 1601316699152,
-            "singularName": "Developer",
-            "pluralName": "Developers",
-            "suffix": "per developer",
-            "inputLabel": "Enter number of developers",
-            "summaryLabel": "Developers"
-          }
-        }
-      ],
-      "trialGracePeriod": null,
-      "cooldownPeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
       "_id": "602bf8fdd1bd660013780078",
       "id": "rhmccp-d63ed222-88ba-4f76-92f6-1fee6dd63751",
       "type": "FreeTrial",
@@ -291,7 +219,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1614011460566,
-      "updated": 1631898185132,
+      "updated": 1639748087858,
       "version": 1,
       "editionCharges": [
         {
@@ -4975,19 +4903,23 @@
       "revisions": []
     },
     {
-      "_id": "60afc2deccbe9a001372d47b",
-      "id": "rhmccp-177d6309-c458-4c82-aa33-bf15f74edd7a",
+      "_id": "60b006b72c9f9500139fba95",
+      "id": "rhmccp-8418cfb5-8be0-48dc-bed6-6c81d259741d",
       "type": "Purchase",
-      "productId": "7262c13e26a102808d5f6b2909b30f65",
-      "productName": "Red Hat Container Storage",
-      "name": "Premium Support for Public Clouds",
-      "description": "Red Hat OpenShift Container Storage with a premium support subscription for one year, for 4 virtual CPUs on a public cloud.",
-      "created": 1622131422156,
-      "updated": 1626119213273,
-      "version": 6,
+      "productId": "a155eecb1e96a5292d681711fd99832b",
+      "productName": "Pachyderm",
+      "name": "Pachyderm Enterprise",
+      "description": "Pachyderm Enterprise is the data foundation for machine learning, designed for large-scale collaboration in highly secure environments. ",
+      "category": "Product",
+      "created": 1622148791989,
+      "updated": 1639592354061,
+      "version": 1,
       "termUnit": "Month",
       "allowedBillingFrequencies": ["Annual"],
       "allowedSubscriptionTerms": [12],
+      "cooldownPeriod": null,
+      "group": null,
+      "trialGracePeriod": null,
       "trialTerm": null,
       "editionCharges": [
         {
@@ -5000,277 +4932,93 @@
           "maximumQuantity": 0,
           "defaultQuantity": 1,
           "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MCT4051",
           "tiers": [
             {
               "startingUnit": 1,
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 2500
-                },
-                {
-                  "currency": "CAD",
-                  "price": 3250
+                  "price": 12500
                 }
               ],
-              "id": "6f37fe59-f8f4-4e81-bcb5-6ecb869f1484"
+              "id": "a240df7f-603c-4241-aba8-61556b1f3d95"
             }
           ],
-          "id": "5f333ac237144a00155da37c",
-          "created": 1597192898310,
-          "updated": 1626118262346,
+          "chargeDescription": "",
+          "id": "6112d518b3af080013588dd9",
+          "created": 1628624152184,
+          "updated": 1639592337967,
           "usageReportingType": "Cumulative",
           "metadata": {
             "chargeSyncRequired": false,
-            "ibmPartNumber": "D02MUZX",
-            "zuoraRatePlanChargeId": "2c92a01173d13c600173e02b338b4a19",
-            "zuoraRatePlanId": "2c92a01173d13c600173e02b31254a14"
+            "ibmPartNumber": "D0897ZX",
+            "zuoraRatePlanChargeId": "8a1295927dbd0b56017dbf51db2552b9",
+            "zuoraRatePlanId": "8a1288027dbcf51a017dbf51d8147c5f"
           },
-          "name": "Virtual Processor Core",
+          "vendorChargeId": "D0897ZX",
+          "name": "Authorized User",
           "uom": {
-            "identifier": "VirtualProcessorCore",
+            "identifier": "AuthorizedUser",
             "multiplier": 1,
-            "created": 1586264545764,
-            "updated": 1586264545764,
+            "created": 1586264534840,
+            "updated": 1586264534840,
             "supportUsageChargeType": false,
-            "singularName": "Virtual Processor Core",
-            "pluralName": "Virtual Processor Cores",
-            "suffix": "per virtual processor core",
-            "inputLabel": "Enter number of virtual processor cores",
-            "summaryLabel": "Number of virtual processor cores"
+            "singularName": "Authorized User",
+            "pluralName": "Authorized Users",
+            "suffix": "per authorized user",
+            "inputLabel": "Enter number of authorized users",
+            "summaryLabel": "Number of authorized users"
           }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60afc2de2162380014d4326a",
-      "id": "rhmccp-87682c77-0c6c-419d-a0e2-9e5fb7832891",
-      "type": "Purchase",
-      "productId": "7262c13e26a102808d5f6b2909b30f65",
-      "productName": "Red Hat Container Storage",
-      "name": "Standard Support for Private Clouds",
-      "description": "This provides Red Hat OpenShift Container Storage with Standard support subscription for one year for 2 physical CPU cores or 4 virtual cores.",
-      "created": 1622131422540,
-      "updated": 1626119146249,
-      "version": 6,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
+        },
         {
-          "sequence": 1,
+          "sequence": 2,
           "type": "Recurring",
           "priceModel": "Standard",
           "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MCT4052",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 1800
-                },
-                {
-                  "currency": "CAD",
-                  "price": 2340
-                }
-              ],
-              "id": "42168ff5-5e2f-433f-9b17-c39af2d2fbe1"
-            }
-          ],
-          "id": "5f33275637144a00155da37b",
-          "created": 1597187926704,
-          "updated": 1626117962547,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02MXZX",
-            "zuoraRatePlanChargeId": "2c92a00d73d13c720173e02ade5f4cec",
-            "zuoraRatePlanId": "2c92a0ff73d13cc90173e02adbde4418"
-          },
-          "name": "Virtual Processor Core",
-          "uom": {
-            "identifier": "VirtualProcessorCore",
-            "multiplier": 1,
-            "created": 1586264545764,
-            "updated": 1586264545764,
-            "supportUsageChargeType": false,
-            "singularName": "Virtual Processor Core",
-            "pluralName": "Virtual Processor Cores",
-            "suffix": "per virtual processor core",
-            "inputLabel": "Enter number of virtual processor cores",
-            "summaryLabel": "Number of virtual processor cores"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60afc2dfccbe9a001372d47c",
-      "id": "rhmccp-6d7f0c2b-c762-4b6d-befb-b657da4ee2d5",
-      "type": "Purchase",
-      "productId": "7262c13e26a102808d5f6b2909b30f65",
-      "productName": "Red Hat Container Storage",
-      "name": "Premium Support for Private Clouds",
-      "description": "This provides Red Hat OpenShift Container Storage with a premium support subscription for one year, for 2 physical CPU cores or 4 virtual cores.",
-      "created": 1622131423258,
-      "updated": 1626119101096,
-      "version": 6,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Annual",
-          "required": true,
-          "minimumQuantity": 1,
-          "maximumQuantity": 0,
-          "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MCT4051",
-          "tiers": [
-            {
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 2500
-                },
-                {
-                  "currency": "CAD",
-                  "price": 3250
-                }
-              ],
-              "id": "8944b2a4-42c2-4b01-b6ca-408d1ee5751a"
-            }
-          ],
-          "id": "5f3326cc9f98f60013de027d",
-          "created": 1597187788247,
-          "updated": 1626118913800,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D02MWZX",
-            "zuoraRatePlanChargeId": "2c92a01173d13c650173e02a7e872e9b",
-            "zuoraRatePlanId": "2c92a0fc73d12ef00173e02a7bfe679e"
-          },
-          "name": "Virtual Processor Core",
-          "uom": {
-            "identifier": "VirtualProcessorCore",
-            "multiplier": 1,
-            "created": 1586264545764,
-            "updated": 1586264545764,
-            "supportUsageChargeType": false,
-            "singularName": "Virtual Processor Core",
-            "pluralName": "Virtual Processor Cores",
-            "suffix": "per virtual processor core",
-            "inputLabel": "Enter number of virtual processor cores",
-            "summaryLabel": "Number of virtual processor cores"
-          }
-        }
-      ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "60afc2dfccbe9a001372d47d",
-      "id": "rhmccp-70f7e3a2-f6d3-41cb-a813-a5536db3e848",
-      "type": "Purchase",
-      "productId": "7262c13e26a102808d5f6b2909b30f65",
-      "productName": "Red Hat Container Storage",
-      "name": "Standard Support for Public Clouds",
-      "description": "Red Hat OpenShift Container Storage with a standard support subscription for one year, for 4 virtual CPUs on a public cloud.",
-      "created": 1622131423575,
-      "updated": 1626119273616,
-      "version": 6,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "Standard",
-          "priceFrequency": "Monthly",
           "required": true,
           "minimumQuantity": 1,
           "maximumQuantity": 1,
           "defaultQuantity": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "MCT4052",
+          "useInStartingPriceCalculation": false,
           "tiers": [
             {
               "startingUnit": 1,
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 1800
-                },
-                {
-                  "currency": "CAD",
-                  "price": 2340
+                  "price": 125000
                 }
               ],
-              "id": "5f94b4e6-1c23-48da-99e3-d7ef4cfdbaf2"
+              "id": "bcfc6803-3e23-44d4-9746-5d395e30dff9"
             }
           ],
           "chargeDescription": "",
-          "id": "60ec9abbb3af080013588da2",
-          "created": 1626118843424,
-          "updated": 1626118843424,
+          "id": "6124095345562f00135693fe",
+          "created": 1629751635454,
+          "updated": 1639592312086,
           "usageReportingType": "Cumulative",
           "metadata": {
             "chargeSyncRequired": false,
-            "ibmPartNumber": "D02MVZX",
-            "zuoraRatePlanChargeId": "2c92a00e7a9936e0017a9c42fbff76a8",
-            "zuoraRatePlanId": "2c92a0087a994532017a9c42f83e77f4"
+            "ibmPartNumber": "D0898ZX",
+            "zuoraRatePlanChargeId": "8a12813e7dbcf517017dbf51e0976ecc",
+            "zuoraRatePlanId": "8a128b5f7dbcf516017dbf51dd880b5b"
           },
-          "name": "Virtual Processor Core",
+          "vendorChargeId": "D0898ZX",
+          "name": "Enterprise Platform Access Fee",
           "uom": {
-            "identifier": "VirtualProcessorCore",
+            "identifier": "Each",
             "multiplier": 1,
-            "created": 1586264545764,
-            "updated": 1586264545764,
+            "created": 1586264548996,
+            "updated": 1586264548996,
             "supportUsageChargeType": false,
-            "singularName": "Virtual Processor Core",
-            "pluralName": "Virtual Processor Cores",
-            "suffix": "per virtual processor core",
-            "inputLabel": "Enter number of virtual processor cores",
-            "summaryLabel": "Number of virtual processor cores"
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
           }
         }
       ],
-      "cooldownPeriod": null,
-      "trialGracePeriod": null,
-      "group": null,
       "status": "Published",
       "drafts": [],
       "revisions": []
@@ -5287,7 +5035,7 @@
       "trialGracePeriod": 10,
       "category": "Product",
       "created": 1622519814569,
-      "updated": 1635442440813,
+      "updated": 1641825288498,
       "version": 1,
       "editionCharges": [
         {
@@ -7039,7 +6787,7 @@
       "description": "The Kasten K10 Starter Edition is a fully-featured license for Kubernetes application backup and mobility. More details at: https://www.kasten.io/product/",
       "category": "Product",
       "created": 1623087163023,
-      "updated": 1624883066650,
+      "updated": 1641837772641,
       "version": 1,
       "editionCharges": [
         {
@@ -7732,35 +7480,86 @@
       "revisions": []
     },
     {
-      "_id": "60ecb7b2217d020013c49cbc",
-      "id": "rhmccp-6560f6ea-902a-4ed3-a8c9-5efb2bfa541e",
+      "_id": "60e7451bb2cc6300136dd4d0",
+      "id": "rhmccp-e7bfc137-a949-4ab3-984e-ef0c03f9bbbd",
       "type": "Purchase",
-      "productId": "0fcac3e12ebd82e550bb1a8fdb534689",
-      "productName": "MinIO Hybrid Cloud Object Storage",
-      "name": "Standard Plan",
-      "description": "Designed for customers with SLA requirements of 48 hours or less, the Standard plan includes direct-to-engineer access, use of the panic button & 1yr LTS.",
+      "productId": "0f528fbcf3e8d60ca2a499a3333458f8",
+      "productName": "SafeDeploy",
+      "name": "SafeDeply",
+      "description": "You will need users added to your account enabling you to access the UI of the software ",
       "category": "Product",
-      "created": 1626126258402,
-      "updated": 1636051904293,
-      "version": 3,
+      "created": 1625769243196,
+      "updated": 1640208969416,
+      "version": 1,
       "termUnit": "Month",
-      "allowedBillingFrequencies": ["Monthly", "Annual"],
-      "allowedSubscriptionTerms": [1, 12, 24, 36, 48, 60],
+      "allowedBillingFrequencies": ["Monthly"],
+      "allowedSubscriptionTerms": [1],
       "cooldownPeriod": null,
       "group": null,
       "trialGracePeriod": null,
       "trialTerm": null,
       "editionCharges": [
         {
-          "sequence": 0,
+          "sequence": 1,
+          "type": "Usage",
+          "priceModel": "Standard",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 1,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0.1
+                },
+                {
+                  "currency": "CAD",
+                  "price": 0.12444
+                }
+              ],
+              "id": "47074d90-e888-4d33-98da-62a0eef2f189"
+            }
+          ],
+          "usageReportingId": "ibm.com:123",
+          "chargeDescription": "",
+          "id": "60e7476cb2cc6300136dd4d1",
+          "created": 1625769836092,
+          "updated": 1640204151541,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D091WZX",
+            "zuoraRatePlanChargeId": "8a1297377de2a189017de412a81c3a8c",
+            "zuoraRatePlanId": "8a1288027de2907e017de412a3b946a7"
+          },
+          "vendorChargeId": "D091WZX",
+          "name": "Virtual CPU per hour",
+          "uom": {
+            "identifier": "vCPU_hour",
+            "supportUsageChargeType": true,
+            "multiplier": 1,
+            "created": 1617736540381,
+            "updated": 1617736540381,
+            "singularName": "vCPU Hour",
+            "pluralName": "vCPU Hours",
+            "suffix": "per vCPU hour",
+            "inputLabel": "Enter the number of vCPU hours",
+            "summaryLabel": "vCPUs per hour"
+          }
+        },
+        {
+          "sequence": 2,
           "type": "Recurring",
           "priceModel": "Standard",
           "priceFrequency": "Monthly",
           "required": true,
-          "minimumQuantity": 100,
+          "minimumQuantity": 1,
           "maximumQuantity": 0,
-          "defaultQuantity": 100,
-          "increment": 1,
+          "defaultQuantity": 1,
           "useInStartingPriceCalculation": false,
           "tiers": [
             {
@@ -7768,47 +7567,348 @@
               "pricing": [
                 {
                   "currency": "USD",
-                  "price": 10
+                  "price": 11
                 },
                 {
                   "currency": "CAD",
-                  "price": 12.38
+                  "price": 13.68785
                 }
               ],
-              "id": "7800a494-1660-4a41-ba19-b8b632a7dcca"
+              "id": "ee902f9f-4bfc-4afd-a7ae-b246254ec12d"
             }
           ],
-          "chargeDescription": "MinIO Hybrid Cloud Object Storage - Standard Subscription Plan",
-          "id": "60c2c9073b92010013cc9ba5",
-          "created": 1623378183115,
-          "updated": 1636051895170,
+          "chargeDescription": "",
+          "id": "60e74830b3af080013588d9f",
+          "created": 1625770032939,
+          "updated": 1640204165417,
           "usageReportingType": "Cumulative",
           "metadata": {
             "chargeSyncRequired": false,
-            "ibmPartNumber": "D06YXZX",
-            "zuoraRatePlanChargeId": "2c92a0117a5b60c0017a5e80dc053218",
-            "zuoraRatePlanId": "2c92a00c7a5b53fd017a5e80d8073bfb"
+            "ibmPartNumber": "D091XZX",
+            "zuoraRatePlanChargeId": "8a1295927de2a187017de412ae3a001f",
+            "zuoraRatePlanId": "8a1297307de2a18f017de412aadf28e1"
           },
-          "vendorChargeId": "D06YXZX",
-          "name": "Standard Plan",
+          "vendorChargeId": "D091XZX",
+          "name": "Authorized User",
           "uom": {
-            "identifier": "Terabyte",
+            "identifier": "AuthorizedUser",
             "multiplier": 1,
-            "created": 1586264544930,
-            "updated": 1586264544930,
+            "created": 1586264534840,
+            "updated": 1586264534840,
             "supportUsageChargeType": false,
-            "singularName": "Terabyte",
-            "pluralName": "Terabytes",
-            "suffix": "per TB",
-            "inputLabel": "Enter number of terabytes",
-            "summaryLabel": "Number of terabytes"
+            "singularName": "Authorized User",
+            "pluralName": "Authorized Users",
+            "suffix": "per authorized user",
+            "inputLabel": "Enter number of authorized users",
+            "summaryLabel": "Number of authorized users"
           }
         }
       ],
       "status": "Published",
       "drafts": [],
       "revisions": []
+    },
+    {
+      "_id": "60ec9c84b3af080013588da5",
+      "id": "rhmccp-87682c77-0c6c-419d-a0e2-9e5fb7832891",
+      "type": "Purchase",
+      "productId": "7262c13e26a102808d5f6b2909b30f65",
+      "productName": "Red Hat Container Storage",
+      "name": "Standard Support for Private Clouds",
+      "description": "This provides Red Hat OpenShift Data Foundation with Standard support subscription for one year for 2 physical CPU cores or 4 virtual cores.",
+      "created": 1626119300329,
+      "updated": 1639677781810,
+      "version": 7,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MCT4052",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1800
+                },
+                {
+                  "currency": "CAD",
+                  "price": 2239.83
+                }
+              ],
+              "id": "42168ff5-5e2f-433f-9b17-c39af2d2fbe1"
+            }
+          ],
+          "id": "5f33275637144a00155da37b",
+          "created": 1597187926704,
+          "updated": 1626117962547,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02MXZX",
+            "zuoraRatePlanChargeId": "2c92a00d73d13c720173e02ade5f4cec",
+            "zuoraRatePlanId": "2c92a0ff73d13cc90173e02adbde4418"
+          },
+          "name": "Virtual Processor Core",
+          "uom": {
+            "identifier": "VirtualProcessorCore",
+            "multiplier": 1,
+            "created": 1586264545764,
+            "updated": 1586264545764,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual Processor Core",
+            "pluralName": "Virtual Processor Cores",
+            "suffix": "per virtual processor core",
+            "inputLabel": "Enter number of virtual processor cores",
+            "summaryLabel": "Number of virtual processor cores"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60ec9c84b3af080013588da6",
+      "id": "rhmccp-6d7f0c2b-c762-4b6d-befb-b657da4ee2d5",
+      "type": "Purchase",
+      "productId": "7262c13e26a102808d5f6b2909b30f65",
+      "productName": "Red Hat Container Storage",
+      "name": "Premium Support for Private Clouds",
+      "description": "This provides Red Hat OpenShift Data Foundation with a premium support subscription for one year, for 2 physical CPU cores or 4 virtual cores.",
+      "created": 1626119300378,
+      "updated": 1639677750111,
+      "version": 7,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MCT4051",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 2500
+                },
+                {
+                  "currency": "CAD",
+                  "price": 3110.88
+                }
+              ],
+              "id": "8944b2a4-42c2-4b01-b6ca-408d1ee5751a"
+            }
+          ],
+          "id": "5f3326cc9f98f60013de027d",
+          "created": 1597187788247,
+          "updated": 1626118913800,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02MWZX",
+            "zuoraRatePlanChargeId": "2c92a01173d13c650173e02a7e872e9b",
+            "zuoraRatePlanId": "2c92a0fc73d12ef00173e02a7bfe679e"
+          },
+          "name": "Virtual Processor Core",
+          "uom": {
+            "identifier": "VirtualProcessorCore",
+            "multiplier": 1,
+            "created": 1586264545764,
+            "updated": 1586264545764,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual Processor Core",
+            "pluralName": "Virtual Processor Cores",
+            "suffix": "per virtual processor core",
+            "inputLabel": "Enter number of virtual processor cores",
+            "summaryLabel": "Number of virtual processor cores"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60ec9c863edf0a00138489ce",
+      "id": "rhmccp-70f7e3a2-f6d3-41cb-a813-a5536db3e848",
+      "type": "Purchase",
+      "productId": "7262c13e26a102808d5f6b2909b30f65",
+      "productName": "Red Hat Container Storage",
+      "name": "Standard Support for Public Clouds",
+      "description": "Red Hat OpenShift Data Foundation with a standard support subscription for one year, for 4 virtual CPUs on a public cloud.",
+      "created": 1626119302937,
+      "updated": 1639677834863,
+      "version": 7,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Monthly",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 1,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MCT4052",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 1800
+                },
+                {
+                  "currency": "CAD",
+                  "price": 2239.83
+                }
+              ],
+              "id": "5f94b4e6-1c23-48da-99e3-d7ef4cfdbaf2"
+            }
+          ],
+          "chargeDescription": "",
+          "id": "60ec9abbb3af080013588da2",
+          "created": 1626118843424,
+          "updated": 1626118843424,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02MVZX",
+            "zuoraRatePlanChargeId": "2c92a00e7a9936e0017a9c42fbff76a8",
+            "zuoraRatePlanId": "2c92a0087a994532017a9c42f83e77f4"
+          },
+          "name": "Virtual Processor Core",
+          "uom": {
+            "identifier": "VirtualProcessorCore",
+            "multiplier": 1,
+            "created": 1586264545764,
+            "updated": 1586264545764,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual Processor Core",
+            "pluralName": "Virtual Processor Cores",
+            "suffix": "per virtual processor core",
+            "inputLabel": "Enter number of virtual processor cores",
+            "summaryLabel": "Number of virtual processor cores"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
+    },
+    {
+      "_id": "60ec9c873edf0a00138489cf",
+      "id": "rhmccp-177d6309-c458-4c82-aa33-bf15f74edd7a",
+      "type": "Purchase",
+      "productId": "7262c13e26a102808d5f6b2909b30f65",
+      "productName": "Red Hat Container Storage",
+      "name": "Premium Support for Public Clouds",
+      "description": "Red Hat OpenShift Data Foundation with a premium support subscription for one year, for 4 virtual CPUs on a public cloud.",
+      "created": 1626119303022,
+      "updated": 1639677809373,
+      "version": 7,
+      "termUnit": "Month",
+      "allowedBillingFrequencies": ["Annual"],
+      "allowedSubscriptionTerms": [12],
+      "trialTerm": null,
+      "editionCharges": [
+        {
+          "sequence": 1,
+          "type": "Recurring",
+          "priceModel": "Standard",
+          "priceFrequency": "Annual",
+          "required": true,
+          "minimumQuantity": 1,
+          "maximumQuantity": 0,
+          "defaultQuantity": 1,
+          "useInStartingPriceCalculation": true,
+          "vendorChargeId": "MCT4051",
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 2500
+                },
+                {
+                  "currency": "CAD",
+                  "price": 3110.88
+                }
+              ],
+              "id": "6f37fe59-f8f4-4e81-bcb5-6ecb869f1484"
+            }
+          ],
+          "id": "5f333ac237144a00155da37c",
+          "created": 1597192898310,
+          "updated": 1626118262346,
+          "usageReportingType": "Cumulative",
+          "metadata": {
+            "chargeSyncRequired": false,
+            "ibmPartNumber": "D02MUZX",
+            "zuoraRatePlanChargeId": "2c92a01173d13c600173e02b338b4a19",
+            "zuoraRatePlanId": "2c92a01173d13c600173e02b31254a14"
+          },
+          "name": "Virtual Processor Core",
+          "uom": {
+            "identifier": "VirtualProcessorCore",
+            "multiplier": 1,
+            "created": 1586264545764,
+            "updated": 1586264545764,
+            "supportUsageChargeType": false,
+            "singularName": "Virtual Processor Core",
+            "pluralName": "Virtual Processor Cores",
+            "suffix": "per virtual processor core",
+            "inputLabel": "Enter number of virtual processor cores",
+            "summaryLabel": "Number of virtual processor cores"
+          }
+        }
+      ],
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
     }
   ],
-  "count": 483
+  "count": 490
 }

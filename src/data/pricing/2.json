@@ -1357,7 +1357,7 @@
       "trialGracePeriod": 30,
       "category": "Product",
       "created": 1599565531538,
-      "updated": 1626734946504,
+      "updated": 1642186543668,
       "version": 1,
       "editionCharges": [
         {
@@ -3142,127 +3142,6 @@
       "termUnit": "Day",
       "allowedBillingFrequencies": null,
       "allowedSubscriptionTerms": null,
-      "cooldownPeriod": null,
-      "group": null,
-      "status": "Published",
-      "drafts": [],
-      "revisions": []
-    },
-    {
-      "_id": "5f9c4a54e4ab310013e4f868",
-      "id": "rhmccp-3d4705c6-8907-4d8a-9e7c-fd8780c0d913",
-      "type": "Purchase",
-      "productId": "d36516a56c75e63f0779cb9489ab5ab2",
-      "productName": "Densify RHM",
-      "name": "Densify for SaaS",
-      "description": "Densify has no versions, and handles on-premise, cloud, and container infrastructures, as well as access to a Cloud Advisor, an on-call expert.",
-      "created": 1604078164759,
-      "updated": 1619190475877,
-      "version": 3,
-      "termUnit": "Month",
-      "allowedBillingFrequencies": ["Annual"],
-      "allowedSubscriptionTerms": [12, 24, 36, 48, 60],
-      "trialTerm": null,
-      "editionCharges": [
-        {
-          "sequence": 1,
-          "type": "Recurring",
-          "priceModel": "TierPricing",
-          "priceFrequency": "Monthly",
-          "required": true,
-          "minimumQuantity": 500,
-          "maximumQuantity": 999999,
-          "defaultQuantity": 500,
-          "increment": 1,
-          "useInStartingPriceCalculation": true,
-          "vendorChargeId": "D04CHZX",
-          "tiers": [
-            {
-              "id": "f6bfe57b-69e9-4366-b723-99a2573d107e",
-              "startingUnit": 1,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 3
-                },
-                {
-                  "currency": "CAD",
-                  "price": 3.9
-                }
-              ],
-              "endingUnit": 999
-            },
-            {
-              "startingUnit": 1000,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 2.88
-                },
-                {
-                  "currency": "CAD",
-                  "price": 3.74
-                }
-              ],
-              "id": "be2339ab-3104-43a0-afce-75ecb46c4e44",
-              "endingUnit": 2499
-            },
-            {
-              "id": "31e7d6a3-3727-4a37-9532-1c06976bd65c",
-              "startingUnit": 2500,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 2.63
-                },
-                {
-                  "currency": "CAD",
-                  "price": 3.42
-                }
-              ],
-              "endingUnit": 4999
-            },
-            {
-              "id": "6fb7f786-fb65-437d-96e9-85ca5ad29fe0",
-              "startingUnit": 5000,
-              "pricing": [
-                {
-                  "currency": "USD",
-                  "price": 2.38
-                },
-                {
-                  "currency": "CAD",
-                  "price": 3.09
-                }
-              ]
-            }
-          ],
-          "id": "5f88bade9dd59b001458dd5b",
-          "created": 1602796254075,
-          "updated": 1619128113345,
-          "usageReportingType": "Cumulative",
-          "metadata": {
-            "chargeSyncRequired": false,
-            "ibmPartNumber": "D04CHZX",
-            "zuoraRatePlanChargeId": "2c92a0ff7579c37001757a81fc697482",
-            "zuoraRatePlanId": "2c92a0077579b3ec01757a81f9da7ec1"
-          },
-          "name": "Container Manifest",
-          "uom": {
-            "identifier": "ContainerManifest",
-            "supportUsageChargeType": false,
-            "multiplier": 1,
-            "created": 1600959265322,
-            "updated": 1600959265322,
-            "singularName": "Container Manifest",
-            "pluralName": "Container Manifests",
-            "suffix": "per container manifest",
-            "inputLabel": "Enter number of container manifests",
-            "summaryLabel": "Container Manifests"
-          }
-        }
-      ],
-      "trialGracePeriod": null,
       "cooldownPeriod": null,
       "group": null,
       "status": "Published",
@@ -7041,7 +6920,74 @@
       "status": "Published",
       "drafts": [],
       "revisions": []
+    },
+    {
+      "_id": "5fde1d68e8785c00147b6ff9",
+      "id": "rhmccp-4cb10a72-40ed-47d3-80bf-f42cc4047b29",
+      "type": "FreeEdition",
+      "productId": "f654804c423826dd1cff178ebaa39e6d",
+      "productName": "Savings Bond Redemption Tables",
+      "name": "Savings Bond Redemption Tables",
+      "description": "Redemption values and interest earned for Series EE, E, and I savings bonds, and Savings Notes issued from 1941 to present.",
+      "category": "Product",
+      "created": 1608392040641,
+      "updated": 1608758263283,
+      "version": 1,
+      "editionCharges": [
+        {
+          "created": 1608392040641,
+          "id": "5fde1d68e8785c00147b6ff8",
+          "vendorChargeId": "RHMFreei8kJdoFk6zmCHm5robb1hW",
+          "defaultQuantity": 1,
+          "maximumQuantity": 1,
+          "minimumQuantity": 1,
+          "priceModel": "Standard",
+          "type": "Recurring",
+          "sequence": 1,
+          "required": true,
+          "useInStartingPriceCalculation": true,
+          "tiers": [
+            {
+              "startingUnit": 1,
+              "pricing": [
+                {
+                  "currency": "USD",
+                  "price": 0
+                }
+              ]
+            }
+          ],
+          "metadata": {
+            "chargeSyncRequired": true
+          },
+          "updated": 1608392040641,
+          "name": "Free Edition",
+          "description": "",
+          "uom": {
+            "identifier": "Each",
+            "multiplier": 1,
+            "created": 1586264548996,
+            "updated": 1586264548996,
+            "supportUsageChargeType": false,
+            "singularName": "Each",
+            "pluralName": "Each",
+            "suffix": "",
+            "inputLabel": "",
+            "summaryLabel": ""
+          }
+        }
+      ],
+      "termUnit": "Month",
+      "allowedBillingFrequencies": null,
+      "allowedSubscriptionTerms": null,
+      "cooldownPeriod": null,
+      "trialGracePeriod": null,
+      "trialTerm": null,
+      "group": null,
+      "status": "Published",
+      "drafts": [],
+      "revisions": []
     }
   ],
-  "count": 483
+  "count": 490
 }
