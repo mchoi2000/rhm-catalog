@@ -3,6 +3,7 @@ def devProj    = "pipeline-$GUID-dev"
 def testProj   = "pipeline-$GUID-test"
 def prodProj   = "pipeline-$GUID-prod"
 def svc_name   = "rhm-catalog"
+def clusterCredsID = env.CLUSTER_CREDENTIALS ?: "cluster-creds"
 
 pipeline {
   agent any
