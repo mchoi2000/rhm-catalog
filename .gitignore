@@ -1,5 +1,3 @@
 .DS_Store
 build/
 node_modules/
-src/components/tables/ArrowTable.js
-src/content/ArrowPage/
